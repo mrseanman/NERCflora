@@ -1,0 +1,13 @@
+,Name,Number,Value,Modifier,Notes,Subspecies
+0,2C DNA content (pg),5.26,10.95,,,
+1,2C DNA content (pg),5.26,14.35,,,
+2,2C DNA content (pg),5.26,25.85,,,
+3,2C DNA content (pg),5.26,8.10,,,
+4,Flower colour,5.58,white,"purple, blue",,
+5,Petal no,5.59,3,,,
+6,Petal (sepal) size (cm),5.6,0.625,0.5-0.75,,
+7,Stigma number,5.61,1,,,
+8,Stamen number,5.62,6,,,
+9,Sepal number,5.63,3,,,
+10,Carpel/Style number,5.64,1,,,
+11,Inflorescence type,5.65,cyme,,"terminal, paired",
