@@ -1,0 +1,40 @@
+Hi,
+
+Catherine, thanks for the information.
+
+Sean, here's a list of things to look out for:
+- First, work out how many species have actual information on mating system included in the database.
+- For most species, you're only likely to get a qualitative description. There's three broad categories to look out for: (i) outcrossing; (ii) mixed mating; (iii) selfing. Also look out for information on clonal growth.
+- Some more extensively–studied plants might have quantitative descriptions of selfing rate.
+- Pay attention if there's information on sampling location (e.g., if there's information on mating system, is that given as a general statement or is it based on data from a particular location? So we can work out how applicable such information is to UK floras.)
+- Information on compatibility system would be important.
+
+I think that's everything. Have I overlooked anything?
+
+You'll likely have to look at research papers to fill in the gaps. Catherine, do you think it's also worth looking at floras for this information (e.g. Stace)?
+----------------------------------------------------------
+Hi both,
+
+I was looking to see if the UK plant Atlas data was downloadable and found that
+one of the sources for their data is:
+
+"PLANTATT - Attributes of British and Irish plants. (.zip 1455KB) This dataset
+was compiled and published in 2004, and last updated in November 2008. Download
+includes an Excel spreadsheet of the attributes, and a PDF explaining the
+background and nomenclature. Note that the PDF version is the booklet as
+published, whereas the Excel spreadsheet incorporates subsequent corrections.”
+
+The link from the Plant Atlas is broken but the dataset is available here:
+
+https://github.com/ropensci/traits/tree/master/inst/PLANTATT_19_Nov_08
+
+It has clonal spread data, rarity data  and lots on the distribution.
+
+The raw data for the distribution maps of the UK Atlas can be requested: 
+https://database.bsbi.org/
+But I don’t know if we need this level of spatial analysis - the data does not
+include the text descriptions which may be best scraped.
+
+Cheers,
+
+Catherine
