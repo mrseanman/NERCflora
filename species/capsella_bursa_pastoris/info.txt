@@ -1,7 +1,0 @@
-http://ecoflora.org.uk/search_ecochars.php?plant_no=680680010
-	Fertilization: cross or automatic self
-
-13 papers with abstracts in http://elmer.rbge.org.uk/geneticflora/gflora.php
-searching for 'fertiliz(s)ation', 'selfing', 'crossing'
-  High selfing x4
-  rare ouutcrossing x1

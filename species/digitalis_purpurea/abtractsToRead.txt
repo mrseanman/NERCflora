@@ -1,8 +1,0 @@
-2
-Inbreeding depression and outbreeding depression in Digitalis purpurea: optimal outcrossing distance in a tetraploid
-Grindeland, JM
-2008
---------------------------------
-An optimal crossing distance exists within plant populations if inbreeding and outbreeding depression operate simultaneously. In a population of tetraploid Digitalis purpurea, maternal plants were pollinated with donors at four distances: 0 (self-pollination), 1, 6 and 30 m. Lifetime fitness of F1 progeny was investigated in greenhouse experiments, and significant inbreeding and outbreeding depression were detected at five vs. three life history traits. Inbreeding depression increased at later life stages, whereas outbreeding depression was relatively constant. The existence of within-population outbreeding depression suggests substantial genetic structuring at moderate distances in D. purpurea, and corroborates recent findings of significant outbreeding depression in F1 progeny in polyploids. The moderate inbreeding depression found in this predominately outcrossing population supports the notion that effects of inbreeding are less severe in polyploids than in diploids.
-
-
