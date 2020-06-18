@@ -1,9 +1,0 @@
-in raw/
-  ids is a list of species and their id as in their web address from the ecoflora.
-  Not all these species will have a table of data.
-  Each species with a table of data will have that table in the 'data' folder.
-  idsWithData is a subset of of ids for which the species has a table of data.
-  idsNoSynonyms is a subset of idsWithData for which each id appears once.
-
-outside raw/
-  ids.csv is without synonyms and crosses

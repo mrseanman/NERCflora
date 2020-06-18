@@ -1,0 +1,43 @@
+Data:
+  - I have scraped the ecological characteristics tables for all available species
+  in the ecoFlora.
+  - I have solved all synonyms in the ecoFlora: total 3974 entries ->
+  3219 species inc. cross breeds.
+  - I have collated the geneticFlora in to a functioning csv.
+
+ecoFlora
+  - Of those 3219 species, 1007 have an entry on 'Fertilization'
+  - 694 have an entry on 'Incompatibility systems'
+  - 629 have both
+
+  -> Fertilization:
+      157 species mention 'obligatory cross'
+      21 species mention 'obligatory cross' and something else
+      74 species mention 'apomictic'
+      229 species mention 'normally cross'
+      234 species mention 'normally self'
+      6 are both 'normally cross' and 'normally self'
+      125 have more than one entry
+  -> Clonality
+      1625 have an entry on 'Clonality: normal state'
+      102 have an entry on 'Clonality: less frequent state'
+  -> Inbreeding (%)
+      29 have an entry on inbreeding. Most are highly inbreeding
+
+geneticFlora
+  - 402 abstracts corr. to 261 different species mention any of the following:
+  'fertil', 'selfing', 'self fert', 'outcross'.
+
+
+Intersections
+  #unique species
+  #ecoFlora = 3219
+  #genFlora = 1189
+  #plantAt  = 1888
+
+  ecoFlora /\ genFlora = 798
+  ecoFlora /\ plantAt = 1768
+  plantAt /\ genFlora = 773
+  plantAt /\ genFlora /\ ecoFlora = 746
+
+  

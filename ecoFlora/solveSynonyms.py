@@ -14,7 +14,7 @@ def getTitle(url):
 def main():
     #the url before the id
     urlStub = 'http://ecoflora.org.uk/search_species2.php?plant_no='
-    idLoc = '/home/sean/NERCflora/ecoFlora/idsWithData.csv'
+    idLoc = '/home/sean/NERCflora/ecoFlora/ids/ids.csv'
     df_ids = pd.read_csv(idLoc)
     ids = df_ids.id.unique()
     speciess = []
@@ -28,6 +28,11 @@ def main():
 
     d = {'id':ids, 'species':speciess}
     df = pd.DataFrame(d)
-    df.to_csv('ids_noSynonyms.csv')
+    df['species']=df['species'].str.lower()
+    df['species']=df['species'].str.strip()
+    df['species']=df['species'].str.replace(' ','_')
+    df['species']=df['species'].str.replace('-','_')
+    df['species']=df['species'].str.replace('.','')
+    df.to_csv('idsNoSyn.csv')
 
 main()

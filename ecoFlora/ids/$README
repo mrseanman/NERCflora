@@ -1,0 +1,8 @@
+ids is a folder containing a list of species from the ecoflora and their id
+as found in their web address within the ecoflora.
+
+ids.csv is everything
+idsWithData.csv subset of above is everything that has a data table in the
+  ecoflora and thus an entry inside the data/ folder
+idsNoSyn.csv subset of above has synonyms removed
+idsNoSynNoCross subset of above has cross breeds removed
