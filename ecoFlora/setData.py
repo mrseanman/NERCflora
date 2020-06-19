@@ -40,5 +40,6 @@ def numVals(values):
 
 
 df = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
+dfIdNoSyn = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/idsNoSyn.csv')
 vFilter = np.vectorize(filterIn)
 vNumVals = np.vectorize(numVals)

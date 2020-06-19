@@ -6,17 +6,20 @@ Data:
   - I have collated the geneticFlora in to a functioning csv.
 
 ecoFlora
-  - Of those 3219 species, 1007 have an entry on 'Fertilization'
+  - Of those 3219 species, 1006 have an entry on 'Fertilization'
   - 694 have an entry on 'Incompatibility systems'
   - 629 have both
 
   -> Fertilization:
-      157 species mention 'obligatory cross'
-      21 species mention 'obligatory cross' and something else
-      74 species mention 'apomictic'
-      229 species mention 'normally cross'
-      234 species mention 'normally self'
-      6 are both 'normally cross' and 'normally self'
+      133 only mention 'obligatory cross'
+      1 only mention 'insects'
+
+      191 only mention 'normally cross'
+      203 only mention 'normally self'
+      130 only mention 'cross and self'
+
+      52 only mention 'apomictic'
+
       125 have more than one entry
   -> Clonality
       1625 have an entry on 'Clonality: normal state'
@@ -35,9 +38,7 @@ Intersections
   #genFlora = 1189
   #plantAt  = 1888
 
-  ecoFlora /\ genFlora = 798
+  ecoFlora /\ genFlora = 792
   ecoFlora /\ plantAt = 1768
   plantAt /\ genFlora = 773
   plantAt /\ genFlora /\ ecoFlora = 746
-
-  

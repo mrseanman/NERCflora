@@ -20,7 +20,7 @@ def setAllDf():
         dfDatas.update( {species:getDfFromCSV(species)} )
 
     return dfDatas
-'''
+
 def scanAllDfs(dfs, key):
     #Finds all df in dfs for which there is a row where df['Name'] == key
     #Returns list of dictionary
@@ -35,8 +35,6 @@ def scanAllDfs(dfs, key):
             speciesValsDict.update({species:values})
 
     return speciesValsDict
-'''
-
 
 def fertScore(fertVals):
     #1 is outcrossing 0 is selfing
@@ -83,11 +81,22 @@ def seriesFromAttr(dfDatas, attr):
         series.append(values)
     return pd.Series(series)
 
+
+def appendNan(df, species):
+    newDf = df
+    maxIndex = max(df.index.tolist())
+    newRowDat = {}
+    for key in newDf.keys():
+        newRowDat.update({key:np.nan})
+
+    newRow = pd.DataFrame(data = newRowDat, index=[maxIndex+1])
+    newRow['species'] = species
+    newDf = newDf.append(newRow)
+    return newDf
+
 def main():
     dfDatas = setAllDf()
     dfFlat = flatten(dfDatas)
-
-    breakpoint()
 
 
     #initialises a df with species as a column
@@ -134,4 +143,10 @@ def main():
     #pp.pprint(speciesValsDict)
     #pp.pprint(float(len(speciesValsDict))/float(len(dfDatas)))
 
-main()
+
+
+df = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
+dfIds = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/ids.csv')
+dfIdNoSyn = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/idsNoSyn.csv')
+dfIdsWithDataNoSyn = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/idsWithDataNoSyn.csv')
+specWithoutData = [x for x in dfIdNoSyn.species.unique() if not(x in df.species.unique())]

@@ -383,7 +383,7 @@ id,species
 1480230020,borago_pygmaea
 2091,botrychium_lunaria
 920003282,brachiaria_platyphylla
-7193,brachyglottis_'sunshine'=b_compacta_x_b_laxifolia
+7193,brachyglottis_sunshine=b_compacta_x_b_laxifolia
 920007194,brachyglottis_monroi
 920007195,brachyglottis_repanda
 1930450050,brachypodium_distachyon
@@ -801,7 +801,7 @@ id,species
 350030030,corylus_maxima
 1930840010,corynephorus_canescens
 920007237,cosmos_bipinnatus
-920003380,cotoneaster_'hybridus_pendulus'=c_salicifolius_x_c_dammeri
+920003380,cotoneaster_hybridus_pendulus=c_salicifolius_x_c_dammeri
 920002925,cotoneaster_adpressus
 920002926,cotoneaster_affinis
 920007238,cotoneaster_amoenus
@@ -1291,7 +1291,7 @@ id,species
 1390040030,fraxinus_excelsior
 920007364,freesia_x_hybrida
 1830230010,fritillaria_meleagris
-920007365,fuchsia_'corallina'=f_cordifolia_x_f_globosa
+920007365,fuchsia_corallina=f_cordifolia_x_f_globosa
 1230010010,fuchsia_magellanica
 660120140,fumaria_bastardii
 660120090,fumaria_capreolata
@@ -2305,7 +2305,7 @@ id,species
 19001003,polystichum_setiferum
 1870010010,pontederia_cordata
 310020020,populus__x_canescens=palba_x_tremula
-7874,populus_'balsam_spire'=p_trichocarpa_x_p_balsamifera
+7874,populus_balsam_spire=p_trichocarpa_x_p_balsamifera
 310020010,populus_alba
 8178,populus_balsamifera
 310020129,populus_candicans
@@ -2314,7 +2314,7 @@ id,species
 310020040,populus_tremula
 2548,populus_trichocarpa
 31002007,populus_x_berolinensis=p_nigra_x_p_laurifolia
-9207496,populus_x_canadensis_'serotina'_x_populus_x_jackii
+9207496,populus_x_canadensis_serotina_x_populus_x_jackii
 31002009,populus_x_canadensis=p_nigra_x_p_deltoides
 3524,populus_x_generosa=p_trichocarpa_x_p_deltoides
 3523,populus_x_jackii=p_balsamifera_x_p_deltoides
@@ -2397,7 +2397,7 @@ id,species
 1930210120,puccinellia_rupestris
 1690330020,pulicaria_dysenterica
 1690330030,pulicaria_vulgaris
-7516,pulmonaria_'mawson's_blue'
+7516,pulmonaria_mawsons_blue
 1480150110,pulmonaria_longifolia
 1480150020,pulmonaria_officinalis
 1480150030,pulmonaria_rubra
@@ -2488,7 +2488,7 @@ id,species
 680380040,rorippa_sylvestris
 920002656,rorippa_x_armoracioides=r_sylvestris_x_r_austriaca
 920002655,rorippa_x_hungarica=r_amphibia_x_r_austriaca
-9204594,rosa_'hollandica'_nom_nud
+9204594,rosa_hollandica_nom_nud
 800100258,rosa_caesia
 800100410,rosa_agrestis
 800100020,rosa_arvensis
@@ -2950,7 +2950,7 @@ id,species
 1640030010,symphoricarpos_albus
 920003575,symphoricarpos_orbiculatus
 920007604,symphoricarpos_x_chenaultii=s_microphyllus_x_s_orbiculatus
-920007605,symphytum_'hidcote_blue'=s_officinale_x_s_asperum_x_s_grandiflorum
+920007605,symphytum_hidcote_blue=s_officinale_x_s_asperum_x_s_grandiflorum
 1480180020,symphytum_asperum
 1480180130,symphytum_bulbosum
 920007607,symphytum_caucasicum
