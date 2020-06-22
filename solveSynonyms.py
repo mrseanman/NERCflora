@@ -15,7 +15,7 @@ def solveSyn(speciesSeries, dfEcoIds, dfEcoNoSyn):
 
 dfEcoIds = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/ids.csv')
 dfEcoNoSyn = pd.read_csv('/home/sean/NERCflora/ecoFlora/ids/idsNoSyn.csv')
-dfPlantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeDataWithSynonyms.csv', sep='|')
+#dfPlantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeDataWithSynonyms.csv', sep='|')
 #dfGenFlora = pd.read_csv('/home/sean/NERCflora/geneticFlora/data.csv', sep='|')
 
 #dfPlantAtSynSolv = dfPlantAt
@@ -25,4 +25,3 @@ dfPlantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeDataWithSyn
 
 #dfPlantAtSynSolv.to_csv('plantAtDataSynSolv.csv', index=False, sep='|')
 #dfGenFloraSynSolv.to_csv('genFloraDataSynSolv.csv', index=False, sep='|')
-Source

@@ -33,6 +33,7 @@ searchStrings=[
 'self fert',
 'outcross'
 ]
+#relating to ecoFlora['Fertilization']
 allFert = [
 'apomictic',
 'cross and self',
@@ -48,8 +49,9 @@ allFert = [
 'insects'
 ]
 
-print("\nThe available dfs are:\necoFlora\nplantAt\ngenFlora\n")
-#ecoFlora ids with data
+print("\nThe available dfs are:\n-------\necoFlora\ngenFlora\nplantAtSource\nplantAtScrape\nsexChrom\n")
 ecoFlora = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
 genFlora = pd.read_csv('/home/sean/NERCflora/geneticFlora/data.csv', sep='|')
-plantAtSource = pd.read_csv('/home/sean/NERCflora/plantAtlas/dataSynSolv.csv', sep='|')
+plantAtSource = pd.read_csv('/home/sean/NERCflora/plantAtlas/sourceData.csv', sep='|')
+plantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeData.csv', sep='|')
+sexChrom = pd.read_csv('/home/sean/NERCflora/sexChrom/data.csv', sep='|')
