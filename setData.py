@@ -3,7 +3,6 @@ import numpy as np
 import pprint as pp
 import statistics as stat
 
-
 def filterIn(values, test):
 #returns truth value if test or any x in test is in value
 #useful when numpy vectorized and used to filter dfs
@@ -28,7 +27,6 @@ def filterUnique(values, test):
         return False
 vFilterUniq = np.vectorize(filterUnique)
 
-print("\nThe available dfs are:\necoFlora\nplantAt\ngenFlora\n")
 searchStrings=[
 'fertil',
 'selfing',
@@ -50,8 +48,8 @@ allFert = [
 'insects'
 ]
 
-
+print("\nThe available dfs are:\necoFlora\nplantAt\ngenFlora\n")
 #ecoFlora ids with data
 ecoFlora = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
-genFlora = pd.read_csv('/home/sean/NERCflora/geneticFlora/dataSynSolv.csv', sep='|')
-plantAt = pd.read_csv('/home/sean/NERCflora/plantAtlas/dataSynSolv.csv', sep='|')
+genFlora = pd.read_csv('/home/sean/NERCflora/geneticFlora/data.csv', sep='|')
+plantAtSource = pd.read_csv('/home/sean/NERCflora/plantAtlas/dataSynSolv.csv', sep='|')
