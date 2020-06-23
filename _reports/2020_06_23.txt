@@ -1,0 +1,33 @@
+I have applied added traits that would qualify a species as being strictly outcrossing.
+  These are:
+    being dioecous
+    being dichogamous
+    being self self incompatible
+
+  This increased the number of 'Obligatory outcrossing' species from 136 to 360.
+
+There is no 'obligatory self' species. Only 'apomictic'
+The only data in ecoFlora that I could find that would make a species obligatory
+self was the column on 'Cleistogamy'.
+  There were 62 species that were either  'pseudo-cleistogamous'    ,
+                                          'entirely cleistogamous'  or
+                                          'usually cleistogamous'
+
+
+The total number of species that have no info on fertilization or cleistogamy and
+cant be determined as obligatory cross by other means is 2175.
+
+----
+
+I filtered the poacae in the ecoFlora using theplantlist.org
+of the 275 grass in the ecoFlora, 79 had info on Fertilization.
+  of those 79 there were:
+    22 normally cross
+    13 normally self
+    8 normally cross, viviparous
+    7 obligatory cross
+    ...
+
+
+meaning of pseudo-cleistogamous?
+apomictic?
