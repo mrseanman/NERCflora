@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1713
+#Characterization of expressed sequence tag-derived simple sequence repeat markers for 17 Linum species
+#Fu YB, Peterson GW
+#2010
+--------------------------------
+One major challenge in genetic and evolutionary studies of wild flax species is the lack of informative molecular markers. A set of 100 informative expressed sequence tag-derived simple sequence repeat (EST-SSR) primer pairs developed in cultivated flax (Linum usitatissimum L.) were characterized on 35 Linum accessions representing 17 Linum species for their transferability to other Linum species. Ninety-nine primer pairs displayed scorable polymorphisms across 35 Linum samples and generated 627 bands likely from 121 loci. About 50% of the detected bands occurred only in three or fewer samples. A total of 393 bands, likely from 116 loci, were detected by 97 primer pairs in Linum bienne Mill. samples, but only up to 60 bands, likely from up to 39 loci, were revealed by 6 to 37 primer pairs in the samples of the other 15 Linum species. The L. bienne samples displayed 23.7% more EST-SSR variation than the L. usitatissimum samples. These characterized EST-SSR markers should be useful for future genetic diversity and evolutionary studies of Linum species, particularly for the progenitor of cultivated flax.
+
+
+1714
+#Genetic diversity of cultivated flax (Linum usitatissimum L.) and its wild progenitor pale flax (Linum bienne Mill.) as revealed by ISSR markers
+#Uysal H, Fu Y-B, Kurt O, Peterson GW, Diederichsen A, Kusters P
+#2010
+--------------------------------
+Little is known about the genetic diversity of pale flax (Linum bienne Mill.), the wild progenitor of cultivated flax (L. usitatissimum L.), and ex situ germplasm of pale flax was scarce. Effort was made to collect 34 pale flax accessions and five landrace accessions of cultivated flax in Turkey. The inter simple sequence repeat (ISSR) technique was applied to characterize this set of flax germplasm, along with one Turkish cultivar, one Russian cultivar, five winter and four dehiscent type accessions of cultivated flax. Twenty-four ISSR primer pairs detected a total of 311 DNA fragments, of which 298 bands were polymorphic across 493 flax samples (roughly 10 samples per accession). These polymorphic bands had frequencies ranging from 0.002 to 0.998 and averaging 0.38. Accession-specific ISSR variation (Fst values) ranged from 0.469 to 0.514 and averaged 0.493. There was 49.3% ISSR variation resided among these 50 accessions, 35.9% harbored among landrace, winter, dehiscent types of cultivated flax and pale flax, and 38.2% present among 34 pale flax accessions. Pale flax displayed more ISSR variation than landraces and dehiscent type, but less than winter type, of cultivated flax. Clustering 493 individual plants revealed that these assayed plants were largely grouped according to their plant types and that pale flax was genetically more close to the dehiscent type, followed by the winter type and landrace, of cultivated flax. Pale flax collected within the geographic range of 180 km displayed a significant spatial genetic autocorrelation. Genetic distances among the pale flax accessions were significantly associated with their geographic distances and elevation differences. These findings are significant for understanding flax domestication and its primary gene pool.
+
+
+------------- All Abstracts -------------------
+1713
+#Characterization of expressed sequence tag-derived simple sequence repeat markers for 17 Linum species
+#Fu YB, Peterson GW
+#2010
+--------------------------------
+One major challenge in genetic and evolutionary studies of wild flax species is the lack of informative molecular markers. A set of 100 informative expressed sequence tag-derived simple sequence repeat (EST-SSR) primer pairs developed in cultivated flax (Linum usitatissimum L.) were characterized on 35 Linum accessions representing 17 Linum species for their transferability to other Linum species. Ninety-nine primer pairs displayed scorable polymorphisms across 35 Linum samples and generated 627 bands likely from 121 loci. About 50% of the detected bands occurred only in three or fewer samples. A total of 393 bands, likely from 116 loci, were detected by 97 primer pairs in Linum bienne Mill. samples, but only up to 60 bands, likely from up to 39 loci, were revealed by 6 to 37 primer pairs in the samples of the other 15 Linum species. The L. bienne samples displayed 23.7% more EST-SSR variation than the L. usitatissimum samples. These characterized EST-SSR markers should be useful for future genetic diversity and evolutionary studies of Linum species, particularly for the progenitor of cultivated flax.
+
+
+1714
+#Genetic diversity of cultivated flax (Linum usitatissimum L.) and its wild progenitor pale flax (Linum bienne Mill.) as revealed by ISSR markers
+#Uysal H, Fu Y-B, Kurt O, Peterson GW, Diederichsen A, Kusters P
+#2010
+--------------------------------
+Little is known about the genetic diversity of pale flax (Linum bienne Mill.), the wild progenitor of cultivated flax (L. usitatissimum L.), and ex situ germplasm of pale flax was scarce. Effort was made to collect 34 pale flax accessions and five landrace accessions of cultivated flax in Turkey. The inter simple sequence repeat (ISSR) technique was applied to characterize this set of flax germplasm, along with one Turkish cultivar, one Russian cultivar, five winter and four dehiscent type accessions of cultivated flax. Twenty-four ISSR primer pairs detected a total of 311 DNA fragments, of which 298 bands were polymorphic across 493 flax samples (roughly 10 samples per accession). These polymorphic bands had frequencies ranging from 0.002 to 0.998 and averaging 0.38. Accession-specific ISSR variation (Fst values) ranged from 0.469 to 0.514 and averaged 0.493. There was 49.3% ISSR variation resided among these 50 accessions, 35.9% harbored among landrace, winter, dehiscent types of cultivated flax and pale flax, and 38.2% present among 34 pale flax accessions. Pale flax displayed more ISSR variation than landraces and dehiscent type, but less than winter type, of cultivated flax. Clustering 493 individual plants revealed that these assayed plants were largely grouped according to their plant types and that pale flax was genetically more close to the dehiscent type, followed by the winter type and landrace, of cultivated flax. Pale flax collected within the geographic range of 180 km displayed a significant spatial genetic autocorrelation. Genetic distances among the pale flax accessions were significantly associated with their geographic distances and elevation differences. These findings are significant for understanding flax domestication and its primary gene pool.
+
+

@@ -1,0 +1,52 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1718
+#Genetic diversity and ecological differentiation in the endangered fen orchid (Liparis loeselii)
+#Pillon, Y Qamaruz-Zaman, F Fay, MF Hendoux, F Piquot, Y
+#2007
+--------------------------------
+Liparis loeselii is a rare and endangered orchid occurring in Europe and north-east America. Genetic diversity and structure of this species in north-west France and the United Kingdom were investigated using amplified fragment length polymorphisms (AFLPs). Although clonality and autogamy are common in L. loeselii, we found moderate to important variability within populations. We observed a significant genetic differentiation between populations occurring in dune slacks and fens. This may be correlated with leaf shape as dune slack individuals are sometimes treated as the distinct variety L. loeselii var. ovata. Genetic differentiation between populations was generally low suggesting that gene flow can occur over long distances and possibly across the English Channel. These results show that populations from dune slacks and fens should be managed separately and that geographically distant populations may be equivalent.
+
+
+------------- All Abstracts -------------------
+1716
+#Patterns of variation in relation to the conservation of rare and declining plant species.
+#Kay, QON and John, RF
+#1997
+--------------------------------
+
+
+
+1717
+#Genetic fingerprinting of Liparis loeselii var. loeselii and var. ovata.
+#Qamaruz-Zaman F and Fay MF
+#1999
+--------------------------------
+
+
+
+1718
+#Genetic diversity and ecological differentiation in the endangered fen orchid (Liparis loeselii)
+#Pillon, Y Qamaruz-Zaman, F Fay, MF Hendoux, F Piquot, Y
+#2007
+--------------------------------
+Liparis loeselii is a rare and endangered orchid occurring in Europe and north-east America. Genetic diversity and structure of this species in north-west France and the United Kingdom were investigated using amplified fragment length polymorphisms (AFLPs). Although clonality and autogamy are common in L. loeselii, we found moderate to important variability within populations. We observed a significant genetic differentiation between populations occurring in dune slacks and fens. This may be correlated with leaf shape as dune slack individuals are sometimes treated as the distinct variety L. loeselii var. ovata. Genetic differentiation between populations was generally low suggesting that gene flow can occur over long distances and possibly across the English Channel. These results show that populations from dune slacks and fens should be managed separately and that geographically distant populations may be equivalent.
+
+
+1719
+#USABILITY OF RETROTRANSPOSONE-BASED MOLECULAR MARKER SYSTEM TO ASSESS GENETIC DIVERSITY OF LIPARIS LOESELII
+#Belogrudova, I., D. Grauda, G. Jakobsone, and I. Rashal
+#2012
+--------------------------------
+Usability of retrotransposone-based molecular marker system to assess genetic diversity of Liparis loeselii. Acta Biol. Univ. Daugavp., 12 (1): 40 - 43. For detection of genetic diversity of Liparis loeselii universal retrotransposone based primers (Kalendar et al. 2010) were examined. As L. loeselii has high level of phenols in leaves, which decreases the quality of extracted DNA, we used modified DNA extraction method by Frier E.A. (2005) which allows obtaining large amounts of high quality DNA. Eighteen specific Polymerase Chain Reaction primers were tested. Three of them showing the highest level of polymorphism were selected as useful for examination of genetic diversity in Latvian populations of L. loeselii.
+
+
+1720
+#Genetic structure and barcode identification of an endangered orchid species, Liparis loeselii, in Poland
+#Wiland-Szymanska, J, Buczkowska, K, Drapikowska, M, Maslak, M, Baczkiewicz, A, Czylok, A
+#2016
+--------------------------------
+The genetic diversity of five populations of Liparis loeselii from two regions of Poland, Podlachia and Silesia, was compared with respect to minisatellite markers. Moreover, the standard 2-loci barcode DNA regions, rbcL and matK genes, as well as an additional region trnL-F from chloroplast and ITS2 from nuclear genome were studied. The total genetic diversity at the species level amounted to H-T = 0.356. The analysis of molecular variance revealed that 58% of genetic variation was distributed within populations, 2% among populations, and 40% between regions from NE Poland (Podlachia), and S Poland (Silesia). Nei's genetic distances indicated that specimens from the Podlachia population were genetically isolated from Silesian ones. Two genetic barriers among the studied populations were found: one barrier separated the Podlachian population from all Silesian populations and another barrier divided Kuznica Warezynska population from other Silesian populations. Based on barcode sequences it was found that all the examined samples were identical with respect to all the studied DNA regions. Liparis loeselii trnL-F region sequences were detected for the first time and they can be useful as complementary barcodes for this species. The analysed sequences of L. loeselii are fully consistent with sequences of specimens originating from the UK, Canada, Czech Republic, Hungary, Sweden, Italy, and Russia.
+
+

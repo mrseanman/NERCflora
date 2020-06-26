@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1060
+#CHARACTERIZING SELECTION ON PHENOTYPIC PLASTICITY IN RESPONSE TO NATURAL ENVIRONMENTAL HETEROGENEITY
+#Baythavong BS, Stanton ML
+#2010
+--------------------------------
+Adaptive genetic differentiation and adaptive phenotypic plasticity can increase the fitness of plant lineages in heterogeneous environments. We examine the relative importance of genetic differentiation and plasticity in determining the fitness of the annual plant, Erodium cicutarium, in a serpentine grassland in California. Previous work demonstrated that the serpentine sites within this mosaic display stronger dispersal-scale heterogeneity than nonserpentine sites. We conducted a reciprocal transplant experiment among six sites to characterize selection on plasticity expressed by 180 full-sibling families in response to natural environmental heterogeneity across these sites. Multivariate axes of environmental variation were constructed using a principal components analysis of soil chemistry data collected at every experimental block. Simple linear regressions were used to characterize the intercept, and slope (linear and curvilinear) of reaction norms for each full-sibling family in response to each axis of environmental variation. Multiple linear regression analyses revealed significant selection on trait means and slopes of reaction norms. Multivariate analyses of variance demonstrated genetic differentiation between serpentine and nonserpentine lineages in the expression of plasticity in response to three of the five axes of environmental variation considered. In all but one case, serpentine genotypes expressed a stronger adaptive plastic response than nonserpentine genotypes.
+
+
+------------- All Abstracts -------------------
+1060
+#CHARACTERIZING SELECTION ON PHENOTYPIC PLASTICITY IN RESPONSE TO NATURAL ENVIRONMENTAL HETEROGENEITY
+#Baythavong BS, Stanton ML
+#2010
+--------------------------------
+Adaptive genetic differentiation and adaptive phenotypic plasticity can increase the fitness of plant lineages in heterogeneous environments. We examine the relative importance of genetic differentiation and plasticity in determining the fitness of the annual plant, Erodium cicutarium, in a serpentine grassland in California. Previous work demonstrated that the serpentine sites within this mosaic display stronger dispersal-scale heterogeneity than nonserpentine sites. We conducted a reciprocal transplant experiment among six sites to characterize selection on plasticity expressed by 180 full-sibling families in response to natural environmental heterogeneity across these sites. Multivariate axes of environmental variation were constructed using a principal components analysis of soil chemistry data collected at every experimental block. Simple linear regressions were used to characterize the intercept, and slope (linear and curvilinear) of reaction norms for each full-sibling family in response to each axis of environmental variation. Multiple linear regression analyses revealed significant selection on trait means and slopes of reaction norms. Multivariate analyses of variance demonstrated genetic differentiation between serpentine and nonserpentine lineages in the expression of plasticity in response to three of the five axes of environmental variation considered. In all but one case, serpentine genotypes expressed a stronger adaptive plastic response than nonserpentine genotypes.
+
+
+1061
+#Analyzing reaction norm variation in the field vs. greenhouse: Comparing studies of plasticity and its adaptive value in two species of Erodium
+#Jacobs, B. S., and A. M. Latimer
+#2012
+--------------------------------
+Despite a wide range of experiments characterizing patterns of selection on phenotypic plasticity in controlled environments there has been virtually no research assessing the extent to which these results reflect selection on plasticity expressed in natural populations. To test how well the patterns observed in controlled experiments match the patterns in field populations, we present two case studies in which we characterized the fitness consequences of plasticity both under controlled lath house conditions and in the field. We quantified selection on plasticity in response to soil nutrient variation in two annual plant species, Erodium cicutarium and Erodium brachycarpum. For both species, families collected from the same source populations were used in both field and lath house experiments. We ask whether the qualitative results obtained from field and controlled environment experiments are equivalent. In two cases we observed selection on the expression of plasticity by E. brachycarpum in the field while controlled environment experiments indicated that plasticity was selectively neutral. In three other cases we observed differences in the pattern of plasticity expressed in the controlled environment experiment relative to the field resulting in conflicting results regarding the form of trait expression favored by selection. Based on these results, we argue that the extent to which results from controlled environments can be accurately extrapolated to naturally occurring populations depends on whether treatments imposed in a controlled environment accurately mimic environmental variation in the field and induce plasticity in traits of interest. Ideally any controlled environment experiment characterizing plasticity would be paired with field survey data of environmental and phenotypic variation within naturally occurring populations.
+
+

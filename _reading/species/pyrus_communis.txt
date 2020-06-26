@@ -1,0 +1,62 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2905
+#Identification of seven haplotype-specific SFBs in European pear (Pyrus communis) and their use as molecular markers 
+#Zisovich, A Stern, RA Goldway, M
+#2009
+--------------------------------
+The European pear (Pyrus communis) carries the S-RNase-mediated
+ gametophytic self-incompatibility (GSI) system. The S-haplotype is
+ conferred by an S-locus, which contains the style-specific expressed
+ S-RNase, and the pollen-specific expressed F-box genes (SFB). Both the
+ S-RNase and the SFB genes are multi-allelic and each is characteristic
+ of one of the S-haplotypes. Therefore, they are ideal markers for
+ molecular S-genotyping. In this work, for the first time, seven
+ haplotype-specific SFBs were isolated from European pears. Particular
+ primers for each of these SFBs were generated, thus providing an
+ additional tool for S-genotyping of European pear cultivars.
+
+
+------------- All Abstracts -------------------
+2902
+#Diversity of wild Pyrus communis based on microsatellite analyses
+#Volk, GM, Richards, CM, Henk, AD, Reilley, AA, Bassil, NV, Postman, JD
+#2006
+--------------------------------
+Edible european pears (Pyrus communis L. ssp. communis) are derived from wild relatives native to the Caucasus Mountain region and eastern Europe. Microsatellite markers (13 loci) were used to determine the relationships among 145 wild and cultivated individuals of P. communis maintained in the National Plant Germplasm System (NPGS). A Bayesian clustering method grouped the individual pear genotypes into 12 clusters. Pyrus communis ssp. caucasica (Fed.) Browicz, native to the Caucasus Mountains of Russia, Crimea, and Armenia, can be genetically differentiated from P. communis ssp. pyraster L. native to eastern European countries. The domesticated pears cluster closely together and are most closely related to a group of genotypes that are intermediate to the R communis ssp. pyraster and the P. communis ssp. caucasica groups. Based on the high number of unique alleles and heterozygosity in each of the 12 clusters, we conclude that genetic diversity of wild P. communis is not fully represented at the NPGS. Additional diversity may be present in seed accessions stored in the NPGS and more pear diversity could be captured through supplementary collection trips to eastern Europe, the Caucasus Mountains, and the surrounding countries.
+
+
+2903
+#Isolation and characterization of polymorphic microsatellite markers from European pear (Pyrus communis L.)
+#Fernandez-Fernandez, F, Harvey, NG, James, CM
+#2006
+--------------------------------
+This study reports the development and characterization of 19 microsatellite primer pairs developed from genomic DNA of European pear (Pyrus communis) and their transferability to other Pyrus and Malus material. The primers were designed from two different genomic libraries enriched for di- and trinucleotide repeats. When tested in six P. communis cultivars and 15 other Pyrus species, 13 primers revealed single-locus polymorphism and six showed more complex patterns that suggest multiple loci. Two to 18 alleles were detected per locus and two primer pairs were sufficient to discriminate all accessions. Transferability of nine primer pairs to Malus was demonstrated through amplification of discrete products in two accessions.
+
+
+2904
+#Genetic diversity of wild Pyrus communis L.
+#Volk, G Richards, C Henk, A Reilley, A Bassil, N Postman, J
+#2006
+--------------------------------
+
+
+
+2905
+#Identification of seven haplotype-specific SFBs in European pear (Pyrus communis) and their use as molecular markers 
+#Zisovich, A Stern, RA Goldway, M
+#2009
+--------------------------------
+The European pear (Pyrus communis) carries the S-RNase-mediated
+ gametophytic self-incompatibility (GSI) system. The S-haplotype is
+ conferred by an S-locus, which contains the style-specific expressed
+ S-RNase, and the pollen-specific expressed F-box genes (SFB). Both the
+ S-RNase and the SFB genes are multi-allelic and each is characteristic
+ of one of the S-haplotypes. Therefore, they are ideal markers for
+ molecular S-genotyping. In this work, for the first time, seven
+ haplotype-specific SFBs were isolated from European pears. Particular
+ primers for each of these SFBs were generated, thus providing an
+ additional tool for S-genotyping of European pear cultivars.
+
+

@@ -1,0 +1,60 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+38
+#Genetic structure in the perennial grasses Lolium perenne and Agrostis curtisii.
+#Warren, JM, Raybould, AF, Ball, T, Gray, AJ and Hayward, MD
+#1998
+--------------------------------
+Genetic variation was studied in unimproved grassland populations of two contrasting outbreeding perennial grass species. A total of 27 populations of Lolium perenne (perennial ryegrass) and 30 populations of Agrostis curtisii (bristle- leaved bent), sampled from seven and five regions spread across southern Britain, were assessed at three and four isozyme loci, respectively. The extent of genetic structure within and among populations was estimated using unbiased F-statistics. In A. curtisii, a nonagricultural species, populations from adjacent regions were found to be more genetically similar than those separated by greater distance. The reverse situation was observed within L. perenne, a species of major agricultural importance. It is suggested that the absence from L. perenne of the pattern of genetic variation found in A. curtisii is consistent with the occurrence of large-scale human-mediated gene flow via 'improved' ryegrass cultivars. If this is the case, then the disruption of natural patterns of genetic variation by the introduction of nonlocal genotypes may occur without apparent major ecological consequences.
+
+
+40
+#Responses to elevated temperature and CO2 in the perennial grass Agrostis curtisii in relation to population origin.
+#Norton LR, Firbank LG, Gray AJ, Watkinson AR
+#1999
+--------------------------------
+1. Evolutionary responses to climate change will depend on the presence of heritable variation within species populations for traits that increase fitness under the changing conditions. Patterns of ecotypic differentiation in relation to latitude in some species suggest that such variation exists in relation to temperature responses. Response to elevated CO2, whether heritable or not, is not expected to be related to latitudinal or climatic differences within temperate regions. 2. To test these ideas, seeds were collected from 10 populations of the outbreeding perennial grass Agrostis curtisii across its range in Europe from south Wales to Portugal. Plants were grown under ambient and elevated temperature and CO2 conditions, in a factorial design, in solardomes; two half sibs from each population were planted in separate pots in each of the two replicate domes with each combination of treatments. One half sib was harvested at the end of the first summer, the second at the end of the second summer. 3. Survival was uniformly high and flowering uniformly low across treatments and populations. 4. Responses to temperature and CO2 treatments varied over time for almost all populations. Treatment effects were not significant on plants harvested in year 1, although there was a trend towards higher shoot biomass under the elevated temperature and CO2 treatment. Tn year 2 shoot biomass was significantly higher under the elevated temperature treatment across all populations and there was a strong trend towards decreased biomass under elevated CO2 5. There were no significant correlations of plant response to either CO2 or temperature with climate at origin. 6. These results warn of the dangers of extrapolating evolutionary plant responses to CO2 from short-term experiments.
+
+
+------------- All Abstracts -------------------
+38
+#Genetic structure in the perennial grasses Lolium perenne and Agrostis curtisii.
+#Warren, JM, Raybould, AF, Ball, T, Gray, AJ and Hayward, MD
+#1998
+--------------------------------
+Genetic variation was studied in unimproved grassland populations of two contrasting outbreeding perennial grass species. A total of 27 populations of Lolium perenne (perennial ryegrass) and 30 populations of Agrostis curtisii (bristle- leaved bent), sampled from seven and five regions spread across southern Britain, were assessed at three and four isozyme loci, respectively. The extent of genetic structure within and among populations was estimated using unbiased F-statistics. In A. curtisii, a nonagricultural species, populations from adjacent regions were found to be more genetically similar than those separated by greater distance. The reverse situation was observed within L. perenne, a species of major agricultural importance. It is suggested that the absence from L. perenne of the pattern of genetic variation found in A. curtisii is consistent with the occurrence of large-scale human-mediated gene flow via 'improved' ryegrass cultivars. If this is the case, then the disruption of natural patterns of genetic variation by the introduction of nonlocal genotypes may occur without apparent major ecological consequences.
+
+
+39
+#Demographic and genetic variation in a post-fire population of Agrostis curtisii.
+#Gray, AJ
+#1988
+--------------------------------
+
+
+
+40
+#Responses to elevated temperature and CO2 in the perennial grass Agrostis curtisii in relation to population origin.
+#Norton LR, Firbank LG, Gray AJ, Watkinson AR
+#1999
+--------------------------------
+1. Evolutionary responses to climate change will depend on the presence of heritable variation within species populations for traits that increase fitness under the changing conditions. Patterns of ecotypic differentiation in relation to latitude in some species suggest that such variation exists in relation to temperature responses. Response to elevated CO2, whether heritable or not, is not expected to be related to latitudinal or climatic differences within temperate regions. 2. To test these ideas, seeds were collected from 10 populations of the outbreeding perennial grass Agrostis curtisii across its range in Europe from south Wales to Portugal. Plants were grown under ambient and elevated temperature and CO2 conditions, in a factorial design, in solardomes; two half sibs from each population were planted in separate pots in each of the two replicate domes with each combination of treatments. One half sib was harvested at the end of the first summer, the second at the end of the second summer. 3. Survival was uniformly high and flowering uniformly low across treatments and populations. 4. Responses to temperature and CO2 treatments varied over time for almost all populations. Treatment effects were not significant on plants harvested in year 1, although there was a trend towards higher shoot biomass under the elevated temperature and CO2 treatment. Tn year 2 shoot biomass was significantly higher under the elevated temperature treatment across all populations and there was a strong trend towards decreased biomass under elevated CO2 5. There were no significant correlations of plant response to either CO2 or temperature with climate at origin. 6. These results warn of the dangers of extrapolating evolutionary plant responses to CO2 from short-term experiments.
+
+
+41
+#Demographic genetics of the perennial heathland plant Agrostis curtsii.
+#Gray, AJ, Stephens, D and Ambrosen, HE
+#1985
+--------------------------------
+
+
+
+42
+#Genecology, the genetic system and the conservation genetics of uncommon British plants.
+#Gray, AJ
+#1997
+--------------------------------
+
+
+

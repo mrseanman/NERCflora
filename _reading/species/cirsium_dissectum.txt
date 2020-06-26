@@ -1,0 +1,62 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+702
+#Genetic diversity and the reintroduction of meadow species.
+#Smulders, MJM, van der Schoot, J, Geerts, RHEM, Antonisse-de Jong, AG, Korevaar, H, van der Werf, A, Vosman, B
+#2000
+--------------------------------
+Restoration of formerly nutrient-poor and species-rich grasslands generally leads to an increase in species diversity. However, species without a persistent seed bank and with poor dispersal ability often do not re-establish spontaneously. Here, reintroduction is an option. If existing populations are comparable in their genetic composition, any population will do. This is not the case if populations have local adaptations. Unfortunately, whether populations are adapted locally is not easily determined, in contrast to assessing differentiation using neutral genetic markers. We used AFLP to study genetic diversity of Cirsium dissectum and Succisa pratensis within and among several Junco-Molinion plant communities in the Netherlands (up to 200 km apart) that were potential source populations, and followed the reintroduction using seeds from these populations. Also, vegetative growth phase characteristics of three populations of C. dissectum were analyzed under controlled conditions. Most of the genetic variation in these cross-fertilizing species was found within populations. Small but significant genetic differences in band frequencies were found among populations (F-st 0.100-0.135). The first generation of reintroduced plants contained less polymorphic bands than the source populations. The genetic differences caused by reintroduction using a limited number of seeds (founder effects) were significant in all except one case (F-st 0.012-0.101 between source and corresponding reintroduced population), but the magnitude was smaller than the source population differentiation. In assignment tests, reintroduced populations resembled their source population more than any other population, but all populations contained sizeable proportions of plants that were assigned to most similar plants from other populations, indicating that the populations are only marginally distinct. Calculations show that reintroduction from more than one source population introduces significantly more polymorphic bands into the new population, capitalizing on the existence of band frequency differences among populations.
+
+
+------------- All Abstracts -------------------
+702
+#Genetic diversity and the reintroduction of meadow species.
+#Smulders, MJM, van der Schoot, J, Geerts, RHEM, Antonisse-de Jong, AG, Korevaar, H, van der Werf, A, Vosman, B
+#2000
+--------------------------------
+Restoration of formerly nutrient-poor and species-rich grasslands generally leads to an increase in species diversity. However, species without a persistent seed bank and with poor dispersal ability often do not re-establish spontaneously. Here, reintroduction is an option. If existing populations are comparable in their genetic composition, any population will do. This is not the case if populations have local adaptations. Unfortunately, whether populations are adapted locally is not easily determined, in contrast to assessing differentiation using neutral genetic markers. We used AFLP to study genetic diversity of Cirsium dissectum and Succisa pratensis within and among several Junco-Molinion plant communities in the Netherlands (up to 200 km apart) that were potential source populations, and followed the reintroduction using seeds from these populations. Also, vegetative growth phase characteristics of three populations of C. dissectum were analyzed under controlled conditions. Most of the genetic variation in these cross-fertilizing species was found within populations. Small but significant genetic differences in band frequencies were found among populations (F-st 0.100-0.135). The first generation of reintroduced plants contained less polymorphic bands than the source populations. The genetic differences caused by reintroduction using a limited number of seeds (founder effects) were significant in all except one case (F-st 0.012-0.101 between source and corresponding reintroduced population), but the magnitude was smaller than the source population differentiation. In assignment tests, reintroduced populations resembled their source population more than any other population, but all populations contained sizeable proportions of plants that were assigned to most similar plants from other populations, indicating that the populations are only marginally distinct. Calculations show that reintroduction from more than one source population introduces significantly more polymorphic bands into the new population, capitalizing on the existence of band frequency differences among populations.
+
+
+703
+#Population size and habitat quality affect genetic diversity and fitness in the clonal herb Cirsium dissectum 
+#de Vere, N Jongejans, E Plowman, A Williams, E
+#2009
+--------------------------------
+Remaining populations of plant species in fragmented landscapes are
+ threatened by declining habitat quality and reduced genetic diversity,
+ but the interactions of these major factors are rarely studied together
+ for species conservation. In this study, the interactions between
+ population size, habitat quality, genetic diversity and fitness were
+ investigated in 22 populations of the clonal herb Cirsium dissectum
+ throughout the British Isles. Regression analysis was used to identify
+ significant factors, and a structural equation model was developed to
+ illustrate and integrate these interactions. It was found that smaller
+ populations (measured as the total number of plants) had lower genetic
+ diversity (proportion of polymorphic loci), and that reduced genetic
+ diversity (allelic richness) had a negative impact on the survival of
+ seedlings grown under standard conditions. Habitat quality also had a
+ large effect on C. dissectum. Unmanaged sites with tall vegetation, no
+ bare soil and higher nutrient levels had smaller populations of C.
+ dissectum, but flowering was promoted. Flowering was suppressed in
+ heavily grazed sites with short vegetation. Higher levels of bare soil
+ and phosphorus both had a positive relationship with genetic diversity,
+ but probably for distinctly different reasons: bare soil provides safe
+ sites for establishment, whilst phosphorus may promote flowering and
+ improve seed germination. In order to conserve C. dissectum, management
+ needs to maintain site heterogeneity so that C. dissectum can flower
+ and establishment gaps are still available for seedlings; when either
+ component is reduced, negative feedbacks through reduced genetic
+ diversity and individual fitness can be expected. This study therefore
+ highlights the importance of considering both conservation genetics and
+ habitat quality in the conservation of plant species.
+
+
+704
+#Patterns of variation in relation to the conservation of rare and declining plant species.
+#Kay, QON and John, RF
+#1997
+--------------------------------
+
+
+

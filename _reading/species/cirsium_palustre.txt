@@ -1,0 +1,23 @@
+------------- Description -------------------
+#plantat website
+A monocarpic perennial herb of mires, fens, marshes, damp grassland, rush-pastures, wet woodland, montane springs and flushes, and tall-herb vegetation on mountain ledges. It reproduces by seed, which may persist for many years, as, for example, during the dark phase of a coppice cycle. 0-760 m (Cross Fell, Cumberland), and 845 m on Great Dun Fell (Westmorland).
+
+
+------------- Matching Abstracts -------------------
+708
+#Genetic structure of Cirsium palustre (Asteraceae) and its role in host diversification of Tephritis conura (Diptera: Tephritidae)
+#Johannesen, J Tritsch, C Seitz, A Diegisser, T
+#2008
+--------------------------------
+Whether or not a host plant is incorporated into a phytophagous insect's diet depends on both the insect's ability to colonize the novel host and the host plant's susceptibility to the insect. The latter, again, will be influenced by the genetic structure of the host plant. Cirsium palustre (marsh thistle) is heavily infested by the tephritid fly Tephritis conura in northern Britain, whereas infestation is not only absent in southern England, but also absent on the European continent where T conura is common on other Cirsium. To understand why regional infestation patterns evolve, we studied how genetic structure and phylogeographic ancestry of C. palustre are related to the probability of infestation in Britain. The probability of infestation in Britain was related neither to phylogeographic lineage (two lineages were observed in Europe), nor to introgressive hybridization with the original host of T conura, C. heterophyllum. However, infested British C. palustre were strongly genetically deprived. British C. palustre showed continuous loss of genetic variability towards the northern range edge. The loss was explained best by genetic drift during geographic range expansion, rather than by genetic drift in isolated patches or mating system change from predominately outcrossing to selfing. The phylogeographic pattern of C. palustre strongly suggests Scotland as the geographic origin of a recent host-plant expansion of T conura. (C) 2008 The Linnean Society of London
+
+
+------------- All Abstracts -------------------
+708
+#Genetic structure of Cirsium palustre (Asteraceae) and its role in host diversification of Tephritis conura (Diptera: Tephritidae)
+#Johannesen, J Tritsch, C Seitz, A Diegisser, T
+#2008
+--------------------------------
+Whether or not a host plant is incorporated into a phytophagous insect's diet depends on both the insect's ability to colonize the novel host and the host plant's susceptibility to the insect. The latter, again, will be influenced by the genetic structure of the host plant. Cirsium palustre (marsh thistle) is heavily infested by the tephritid fly Tephritis conura in northern Britain, whereas infestation is not only absent in southern England, but also absent on the European continent where T conura is common on other Cirsium. To understand why regional infestation patterns evolve, we studied how genetic structure and phylogeographic ancestry of C. palustre are related to the probability of infestation in Britain. The probability of infestation in Britain was related neither to phylogeographic lineage (two lineages were observed in Europe), nor to introgressive hybridization with the original host of T conura, C. heterophyllum. However, infested British C. palustre were strongly genetically deprived. British C. palustre showed continuous loss of genetic variability towards the northern range edge. The loss was explained best by genetic drift during geographic range expansion, rather than by genetic drift in isolated patches or mating system change from predominately outcrossing to selfing. The phylogeographic pattern of C. palustre strongly suggests Scotland as the geographic origin of a recent host-plant expansion of T conura. (C) 2008 The Linnean Society of London
+
+

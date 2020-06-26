@@ -1,0 +1,110 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1953
+#Population Genetic Structure of the Mycoheterotroph Monotropa hypopitys L. (Ericaceae) and Differentiation between Red and Yellow Color Forms
+#Klooster MR, Culley TM
+#2010
+--------------------------------
+The mycoheterotroph Monotropa hypopitys L. has been used as a model organism for evolutionary ecology studies of nonphotosynthetic plant species. However, the species has perplexed plant biologists for centuries owing to confusion over taxonomic placement of two discrete color forms (red and yellow). The purpose of this study was to characterize the population genetic structure of M. hypopitys using 11 microsatellite markers and to determine levels of genetic differentiation between these two color forms. Results from this analysis demonstrated relatively low to moderate levels of genetic variation across populations in Ohio and Indiana (eastern United States), with levels of variation differing between color forms. Substantial genetic differentiation was detected among populations of the yellow color form and between the red and yellow color forms. Additionally, analyses showed genetic structuring of sympatric and allopatric populations of M. hypopitys by color form, a distinction that may support a taxonomic revision at the subspecific level. This study offers conclusive evidence of genetic divergence among populations and color forms of M. hypopitys, possibly arising from habitat fragmentation and limitations in gene flow associated with a mycoheterotrophic life history.
+
+
+1954
+#Phylogeographic analysis of North American populations of the parasitic herbaceous plant Monotropa hypopitys L. reveals a complex history of range expansion from multiple late glacial refugia
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Aim We carried out a phylogeographic study across the range of the herbaceous plant species Monotropa hypopitys L. in North America to determine whether its current disjunct distribution is due to recolonization from separate eastern and western refugia after the Last Glacial Maximum (LGM). Location North America: Pacific Northwest and north-eastern USA/south-eastern Canada. Methods Palaeodistribution modelling was carried out to determine suitable climatic regions for M. hypopitys at the LGM. We analysed between 155 and 176 individuals from 39 locations spanning the species' entire range in North America. Sequence data were obtained for the chloroplast rps2 gene (n = 168) and for the nuclear ITS region (n = 158). Individuals were also genotyped for eight microsatellite loci (n = 176). Interpolation of diversity values was used to visualize the range-wide distribution of genetic diversity for each of the three marker classes. Minimum spanning networks were constructed showing the relationships between the rps2 and ITS haplotypes, and the geographical distributions of these haplotypes were plotted. The numbers of genetic clusters based on the microsatellite data were estimated using Bayesian clustering approaches. Results The palaeodistribution modelling indicated suitable climate envelopes for M. hypopitys at the LGM in both the Pacific Northwest and south-eastern USA. High levels of genetic diversity and endemic haplotypes were found in Oregon, the Alexander Archipelago, Wisconsin, and in the south-eastern part of the species' distribution range. Main conclusions Our results suggest a complex recolonization history for M. hypopitys in North America, involving persistence in separate eastern and western refugia. A generally high degree of congruence between the different marker classes analysed indicated the presence of multiple refugia, with at least two refugia in each area. In the west, putative refugia were identified in Oregon and the Alexander Archipelago, whereas eastern refugia may have been located in the southern part of the species' current distribution, as well as in the 'Driftless Area'. These findings are in contrast to a previous study on the related species Orthilia secunda, which has a similar disjunct distribution to M. hypopitys, but which appears to have recolonized solely from western refugia.
+
+
+1955
+#High clonal diversity in threatened peripheral populations of the yellow bird's nest (Hypopitys monotropa; syn. Monotropa hypopitys)
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Background and Aims Peripheral populations of plant species are often characterized by low levels of genetic diversity as a result of genetic drift, restricted gene flow, inbreeding and asexual reproduction. These effects can be exacerbated where range-edge populations are fragmented. The main aim of the present study was to assess the levels of genetic diversity in remnant populations of Hypopitys monotropa (syn. Monotropa hypopitys; yellow bird's nest) at the edge of the species' European range in Northern Ireland, since these remnant populations are small and highly fragmented. Methods Every plant found through surveys of 21 extant populations was genotyped for eight microsatellite loci to estimate levels and patterns of genetic diversity and clonality. Key Results Levels of genetic diversity were relatively high in the populations studied, and the incidence of clonal reproduction was generally low, with a mean of only 14.45% of clonal individuals. Clones were small and highly spatially structured. Levels of inbreeding, however, were high. Conclusions The observed low levels of clonality suggest that the majority of genets in the populations of H. monotropa studied are fertile and that reproduction is predominantly sexual. As the species is highly self-compatible, it is likely that the high levels of inbreeding observed in the populations in the present study are the result of self-pollination, particularly given the small numbers of individuals in most of the patches. Given this extent of inbreeding, further genetic monitoring would be advisable to ensure that genetic diversity is maintained.
+
+
+1956
+#Comparative phylogeography of two related plant species with overlapping ranges in Europe, and the potential effects of climate change on their intraspecific genetic diversity
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Background: The aim of the present study was to use a combined phylogeographic and species distribution modelling approach to compare the glacial histories of two plant species with overlapping distributions, Orthilia secunda (one-sided wintergreen) and Monotropa hypopitys (yellow bird's nest). Phylogeographic analysis was carried out to determine the distribution of genetic variation across the range of each species and to test whether both correspond to the "classic" model of high diversity in the south, with decreasing diversity at higher latitudes, or whether the cold-adapted O. secunda might retain more genetic variation in northern populations. In addition, projected species distributions based on a future climate scenario were modelled to assess how changes in the species ranges might impact on total intraspecific diversity in both cases. Results: Palaeodistribution modelling and phylogeographic analysis using multiple genetic markers (chloroplast trnS-trnG region, nuclear ITS and microsatellites for O. secunda; chloroplast rps2, nuclear ITS and microsatellites for M. hypopitys) indicated that both species persisted throughout the Last Glacial Maximum in southern refugia. For both species, the majority of the genetic diversity was concentrated in these southerly populations, whereas those in recolonized areas generally exhibited lower levels of diversity, particularly in M. hypopitys. Species distribution modelling based on projected future climate indicated substantial changes in the ranges of both species, with a loss of southern and central populations, and a potential northward expansion for the temperate M. hypopitys. Conclusions: Both Orthilia secunda and Monotropa hypopitys appear to have persisted through the LGM in Europe in southern refugia. The boreal O. secunda, however, has retained a larger proportion of its genetic diversity in more northerly populations outside these refugial areas than the temperate M. hypopitys. Given that future species distribution modelling suggests northern range shifts and loss of suitable habitat in the southern parts of the species' current distributions, extinction of genetically diverse rear edge populations could have a significant effect in the rangewide intraspecific diversity of both species, but particularly in M. hypopitys.
+
+
+------------- All Abstracts -------------------
+1952
+#Characterization of microsatellite loci in the myco-heterotrophic plant Monotropa hypopitys (Ericaceae) and amplification in related taxa 
+#Klooster, MR Hoenle, AW Culley, TM
+#2009
+--------------------------------
+The myco-heterotroph Monotropa hypopitys is a perennial, circumboreally
+ distributed herb of significant importance in studies of
+ nonphotosynthetic plant biology. To address a deficiency in our
+ knowledge of myco-heterotroph population genetics, 11 microsatellite
+ markers were developed using a cost-effective, nonradioactive protocol.
+ Multiplex reactions revealed polymorphism in the red and yellow colour
+ forms of M. hypopitys with an average of 2.69 alleles per primer. Many
+ primers additionally amplified in the congener Monotropa uniflora and
+ five other closely related genera. This is the first report of
+ microsatellite primer development and amplification in the
+ Monotropoideae (Ericaceae).
+
+
+1953
+#Population Genetic Structure of the Mycoheterotroph Monotropa hypopitys L. (Ericaceae) and Differentiation between Red and Yellow Color Forms
+#Klooster MR, Culley TM
+#2010
+--------------------------------
+The mycoheterotroph Monotropa hypopitys L. has been used as a model organism for evolutionary ecology studies of nonphotosynthetic plant species. However, the species has perplexed plant biologists for centuries owing to confusion over taxonomic placement of two discrete color forms (red and yellow). The purpose of this study was to characterize the population genetic structure of M. hypopitys using 11 microsatellite markers and to determine levels of genetic differentiation between these two color forms. Results from this analysis demonstrated relatively low to moderate levels of genetic variation across populations in Ohio and Indiana (eastern United States), with levels of variation differing between color forms. Substantial genetic differentiation was detected among populations of the yellow color form and between the red and yellow color forms. Additionally, analyses showed genetic structuring of sympatric and allopatric populations of M. hypopitys by color form, a distinction that may support a taxonomic revision at the subspecific level. This study offers conclusive evidence of genetic divergence among populations and color forms of M. hypopitys, possibly arising from habitat fragmentation and limitations in gene flow associated with a mycoheterotrophic life history.
+
+
+1954
+#Phylogeographic analysis of North American populations of the parasitic herbaceous plant Monotropa hypopitys L. reveals a complex history of range expansion from multiple late glacial refugia
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Aim We carried out a phylogeographic study across the range of the herbaceous plant species Monotropa hypopitys L. in North America to determine whether its current disjunct distribution is due to recolonization from separate eastern and western refugia after the Last Glacial Maximum (LGM). Location North America: Pacific Northwest and north-eastern USA/south-eastern Canada. Methods Palaeodistribution modelling was carried out to determine suitable climatic regions for M. hypopitys at the LGM. We analysed between 155 and 176 individuals from 39 locations spanning the species' entire range in North America. Sequence data were obtained for the chloroplast rps2 gene (n = 168) and for the nuclear ITS region (n = 158). Individuals were also genotyped for eight microsatellite loci (n = 176). Interpolation of diversity values was used to visualize the range-wide distribution of genetic diversity for each of the three marker classes. Minimum spanning networks were constructed showing the relationships between the rps2 and ITS haplotypes, and the geographical distributions of these haplotypes were plotted. The numbers of genetic clusters based on the microsatellite data were estimated using Bayesian clustering approaches. Results The palaeodistribution modelling indicated suitable climate envelopes for M. hypopitys at the LGM in both the Pacific Northwest and south-eastern USA. High levels of genetic diversity and endemic haplotypes were found in Oregon, the Alexander Archipelago, Wisconsin, and in the south-eastern part of the species' distribution range. Main conclusions Our results suggest a complex recolonization history for M. hypopitys in North America, involving persistence in separate eastern and western refugia. A generally high degree of congruence between the different marker classes analysed indicated the presence of multiple refugia, with at least two refugia in each area. In the west, putative refugia were identified in Oregon and the Alexander Archipelago, whereas eastern refugia may have been located in the southern part of the species' current distribution, as well as in the 'Driftless Area'. These findings are in contrast to a previous study on the related species Orthilia secunda, which has a similar disjunct distribution to M. hypopitys, but which appears to have recolonized solely from western refugia.
+
+
+1955
+#High clonal diversity in threatened peripheral populations of the yellow bird's nest (Hypopitys monotropa; syn. Monotropa hypopitys)
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Background and Aims Peripheral populations of plant species are often characterized by low levels of genetic diversity as a result of genetic drift, restricted gene flow, inbreeding and asexual reproduction. These effects can be exacerbated where range-edge populations are fragmented. The main aim of the present study was to assess the levels of genetic diversity in remnant populations of Hypopitys monotropa (syn. Monotropa hypopitys; yellow bird's nest) at the edge of the species' European range in Northern Ireland, since these remnant populations are small and highly fragmented. Methods Every plant found through surveys of 21 extant populations was genotyped for eight microsatellite loci to estimate levels and patterns of genetic diversity and clonality. Key Results Levels of genetic diversity were relatively high in the populations studied, and the incidence of clonal reproduction was generally low, with a mean of only 14.45% of clonal individuals. Clones were small and highly spatially structured. Levels of inbreeding, however, were high. Conclusions The observed low levels of clonality suggest that the majority of genets in the populations of H. monotropa studied are fertile and that reproduction is predominantly sexual. As the species is highly self-compatible, it is likely that the high levels of inbreeding observed in the populations in the present study are the result of self-pollination, particularly given the small numbers of individuals in most of the patches. Given this extent of inbreeding, further genetic monitoring would be advisable to ensure that genetic diversity is maintained.
+
+
+1956
+#Comparative phylogeography of two related plant species with overlapping ranges in Europe, and the potential effects of climate change on their intraspecific genetic diversity
+#Beatty GE, Provan J
+#2011
+--------------------------------
+Background: The aim of the present study was to use a combined phylogeographic and species distribution modelling approach to compare the glacial histories of two plant species with overlapping distributions, Orthilia secunda (one-sided wintergreen) and Monotropa hypopitys (yellow bird's nest). Phylogeographic analysis was carried out to determine the distribution of genetic variation across the range of each species and to test whether both correspond to the "classic" model of high diversity in the south, with decreasing diversity at higher latitudes, or whether the cold-adapted O. secunda might retain more genetic variation in northern populations. In addition, projected species distributions based on a future climate scenario were modelled to assess how changes in the species ranges might impact on total intraspecific diversity in both cases. Results: Palaeodistribution modelling and phylogeographic analysis using multiple genetic markers (chloroplast trnS-trnG region, nuclear ITS and microsatellites for O. secunda; chloroplast rps2, nuclear ITS and microsatellites for M. hypopitys) indicated that both species persisted throughout the Last Glacial Maximum in southern refugia. For both species, the majority of the genetic diversity was concentrated in these southerly populations, whereas those in recolonized areas generally exhibited lower levels of diversity, particularly in M. hypopitys. Species distribution modelling based on projected future climate indicated substantial changes in the ranges of both species, with a loss of southern and central populations, and a potential northward expansion for the temperate M. hypopitys. Conclusions: Both Orthilia secunda and Monotropa hypopitys appear to have persisted through the LGM in Europe in southern refugia. The boreal O. secunda, however, has retained a larger proportion of its genetic diversity in more northerly populations outside these refugial areas than the temperate M. hypopitys. Given that future species distribution modelling suggests northern range shifts and loss of suitable habitat in the southern parts of the species' current distributions, extinction of genetically diverse rear edge populations could have a significant effect in the rangewide intraspecific diversity of both species, but particularly in M. hypopitys.
+
+
+1957
+#MOLECULAR TAXONOMIC ANALYSIS OF MONOTROPA HYPOPITYS AND ITS RELATIONSHIP WITH PYROLACEAE
+#Stoyanov, K., T. Raycheva, and I. Denev
+#2012
+--------------------------------
+The relations between Monotropa hypopitys and four members of Pyrolaceae collected in Bulgaria were investigated using five ISSR markers. The genetic differences given by each used primer were illustrated graphically. The selective ability of each primer was discussed according to the obtained results. The phylogenetic relationships were illustrated using a resulting dendrogram constructed with the data from all polymorphic variants. Monotropa was separated in a single clade only by one marker and displays highest genetic similarity with Orthilia secunda. Our results suggested that Monotropoideae may belong to Pyrolaceae, together with Pyroloideae. Both groups represent two mycoheterotropic lines dependent on the nutrition, which determines their distribution. Monotropa is the terminal result of the gradual passage from authotrophy to mycorrhizal parasitism. In spite of the fact that Monotropaceae is known as a paraphyletic family, it showed a close similarity to Orthilia. The data supported the presumption that Monotropa hypopitys has to be included in the boundaries of Pyrolaceae. The obtained results could serve as a starting point to reconsider the existing classification based on morphological observations.
+
+
+1958
+#On the brink: the highly reduced plastomes of nonphotosynthetic Ericaceae
+#Braukmann, TWA, Broe, MB, Stefanovic, S, Freudenstein, JV
+#2017
+--------------------------------
+Ericaceae (the heather family) is a large and diverse group of plants that forms elaborate symbiotic relationships with mycorrhizal fungi, and includes several nonphotosynthetic lineages. Using an extensive sample of fully mycoheterotrophic (MH) species, we explored inter-and intraspecific variation as well as selective constraints acting on the plastomes of these unusual plants. The plastomes of seven MH genera were analysed in a phylogenetic context with two geographically disparate individuals sequenced for Allotropa, Monotropa, and Pityopus. The plastomes of nonphotosynthetic Ericaceae are highly reduced in size (c. 33-41 kbp) and content, having lost all photosynthesis-related genes, and are reduced to encoding housekeeping genes as well as a protease subunit (clpP)-like and acetyl-CoA carboxylase subunit D (accD)-like open reading frames. Despite an increase in the rate of their nucleotide substitutions, the remaining protein-coding genes are typically under purifying selection in full MHs. We also identified ribosomal proteins under relaxed or neutral selection. These plastomes also exhibit striking structural rearrangements. Intraspecific variation within MH Ericaceae ranges from a few differences (Allotropa) to extensive population divergences (Monotropa, Hypopitys), which indicates that cryptic speciation may be occurring in several lineages. The pattern of gene loss within fully MH Ericaceae plastomes suggests an advanced state of degradation.
+
+
+1959
+#Polymorphism of the chloroplast gene rps2 in parasitic plant Monotropa hypopitys L. from the European Russian populations
+#Filyushin, MA, Kochieva, EZ, Skryabin, KG
+#2017
+--------------------------------
+The complete nucleotide sequence of the chloroplast rps2 gene is determined and the polymorphism of this gene in 26 Monotropa hypopitys accessions from the populations of the European part of Russia is analyzed. The studied accessions can be divided into two groups on the basis of the rps2 gene length. In the first group, the rps2 gene sequence length is 711 bp, and in the second group, it is 753 bp. Also, the groups differ from each other by 42 SNPs, which lead to 11 radical and 15 conservative amino acid substitutions in the amino acid sequence of the protein. They also differ in the position of regulatory elements in the 5'-untranslated region of the gene.
+
+

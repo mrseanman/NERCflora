@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2611
+#A set of novel DNA polymorphisms within candidate genes potentially involved in ecological divergence between Populus alba and P-tremula, two hybridizing European forest trees
+#Joseph, JA Lexer, C
+#2008
+--------------------------------
+We have identified 53 DNA (single nucleotide, microsatellite, and insertion-deletion) polymorphisms within 12 candidate genes potentially involved in ecological differences between Populus alba and P. tremula, two hybridizing European forest trees. The genes represent candidates for functional roles associated with abiotic or biotic stress response, cross-talk, phenology, and leaf development. Distributions within sequences, intraspecific levels of diversity, and genetic divergence (F-ST) between species are reported for each polymorphism, as are haplotype frequencies for each gene. The markers will be used for population genomic studies of the barrier to gene flow between these two ecologically divergent forest trees.
+
+
+------------- All Abstracts -------------------
+2611
+#A set of novel DNA polymorphisms within candidate genes potentially involved in ecological divergence between Populus alba and P-tremula, two hybridizing European forest trees
+#Joseph, JA Lexer, C
+#2008
+--------------------------------
+We have identified 53 DNA (single nucleotide, microsatellite, and insertion-deletion) polymorphisms within 12 candidate genes potentially involved in ecological differences between Populus alba and P. tremula, two hybridizing European forest trees. The genes represent candidates for functional roles associated with abiotic or biotic stress response, cross-talk, phenology, and leaf development. Distributions within sequences, intraspecific levels of diversity, and genetic divergence (F-ST) between species are reported for each polymorphism, as are haplotype frequencies for each gene. The markers will be used for population genomic studies of the barrier to gene flow between these two ecologically divergent forest trees.
+
+

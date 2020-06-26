@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+895
+#Reproductive isolation and hybridization in sympatric populations of three Dactylorhiza species (Orchidaceae) with different ploidy levels
+#De Hert, K., H. Jacquemyn, S. Van Glabeke, I. Roldan-Ruiz, K. Vandepitte, L. Leus, and O. Honnay
+#2012
+--------------------------------
+The potential for gene exchange between species with different ploidy levels has long been recognized, but only a few studies have tested this hypothesis in situ and most of them focused on not more than two co-occurring species. In this study, we examined hybridization patterns in two sites containing three species of the genus Dactylorhiza (diploid D. incarnata and D. fuchsii and their allotetraploid derivative D. praetermissa). To compare the strength of reproductive barriers between diploid species, and between diploid and tetraploid species, crossing experiments were combined with morphometric and molecular analyses using amplified fragment length polymorphism markers, whereas flow cytometric analyses were used to verify the hybrid origin of putative hybrids. In both sites, extensive hybridization was observed, indicating that gene flow between species is possible within the investigated populations. Bayesian assignment analyses indicated that the majority of hybrids were F-1 hybrids, but in some cases triple hybrids (hybrids with three species as parents) were observed, suggesting secondary gene flow. Crossing experiments showed that only crosses between pure species yielded a high percentage of viable seeds. When hybrids were involved as either pollen-receptor or pollen-donor, almost no viable seeds were formed, indicating strong post-zygotic reproductive isolation and high sterility. Strong post-mating reproductive barriers prevent local breakdown of species boundaries in Dactylorhiza despite frequent hybridization between parental species. However, the presence of triple hybrids indicates that in some cases hybridization may extend the F-1 generation.
+
+
+------------- All Abstracts -------------------
+893
+#The allotetraploid nature of Dactylorhiza praetermissa (Druce) Soó (Orchidaceae) confirmed.
+#Hedrén, M
+#1996
+--------------------------------
+
+
+
+894
+#The evolution of Dactylorhiza (Orchidaceae) allotetraploid complex: Insights from nrDNA sequences and cpDNA PCR-RFLP data
+#Devos, N, Raspe, O, Oh, SH, Tyteca, D, Jacquemart, AL
+#2006
+--------------------------------
+Sequence data from a portion of the external transcribed spacer (ETS)and from the internal transcribed spacers (ITS1 and ITS2) of 18S-26S nuclear ribosomal DNA were used together with chloroplast DNA PCR-RFLP data to unravel patterns of allotetraploid speciation within theWestern European Dactylorhiza polyploid complex. A maximum likelihood tree based on combined ETS and ITS sequences suggests that the Western European Dactylorhiza allotetraploids have evolved by hybridizationbetween four main diploid lineages. Cloned sequences and the topologyof the ITS plus ETS tree indicate that the allotetraploid species D.elata, D. brennensis, and D. sphagnicola have originated from the autotetraploid D. maculata together with the diploid D. incarnata,while D. majalis, D. traunsteineri, and D. angustata seem to haveevolved by hybridization between the D. fuchsii s.str and D. incarnata lineages. Finally, the diploid D. saccifera lineage seems to have beeninvolved together with the D. incarnata lineage in the formation of the allotetraploid D. praetermissa. The observed congruence between the chloroplast tree and the ITS/ETS tree suggests a directional evolution of the nrDNA after polyploidization in favor of the maternal genome.Considered together with morphological, biogeographical, and ecological evidence, the molecular analysis leads us to recognize four species within the investigated allotetraploid complex, namely D. majalis, D.praetermissa, D. elata, and D. sphagnicola.
+
+
+895
+#Reproductive isolation and hybridization in sympatric populations of three Dactylorhiza species (Orchidaceae) with different ploidy levels
+#De Hert, K., H. Jacquemyn, S. Van Glabeke, I. Roldan-Ruiz, K. Vandepitte, L. Leus, and O. Honnay
+#2012
+--------------------------------
+The potential for gene exchange between species with different ploidy levels has long been recognized, but only a few studies have tested this hypothesis in situ and most of them focused on not more than two co-occurring species. In this study, we examined hybridization patterns in two sites containing three species of the genus Dactylorhiza (diploid D. incarnata and D. fuchsii and their allotetraploid derivative D. praetermissa). To compare the strength of reproductive barriers between diploid species, and between diploid and tetraploid species, crossing experiments were combined with morphometric and molecular analyses using amplified fragment length polymorphism markers, whereas flow cytometric analyses were used to verify the hybrid origin of putative hybrids. In both sites, extensive hybridization was observed, indicating that gene flow between species is possible within the investigated populations. Bayesian assignment analyses indicated that the majority of hybrids were F-1 hybrids, but in some cases triple hybrids (hybrids with three species as parents) were observed, suggesting secondary gene flow. Crossing experiments showed that only crosses between pure species yielded a high percentage of viable seeds. When hybrids were involved as either pollen-receptor or pollen-donor, almost no viable seeds were formed, indicating strong post-zygotic reproductive isolation and high sterility. Strong post-mating reproductive barriers prevent local breakdown of species boundaries in Dactylorhiza despite frequent hybridization between parental species. However, the presence of triple hybrids indicates that in some cases hybridization may extend the F-1 generation.
+
+

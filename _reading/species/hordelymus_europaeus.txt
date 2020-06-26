@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1521
+#Variability and structure of natural populations of Elymus caninus (L.) L. and their possible relationship with Hordelymus europaeus (L.) Jess. ex Harz as revealed by AFLP analysis
+#Mizianty, M, Bieniek, W, Czech, A, Strzalka, W, Szklarczyk, M
+#2006
+--------------------------------
+The AFLP method was used to study the inter-population variability of eight populations of Elymus caninus (L.) L. as well as three populations of Hordelymus europaeus (L.) Jess. Ex Harz. In these studies a clear distinction was found between two phenotypes of E.caninus collected in the same locality. It also appeared that two populations of E. caninus representing the "pauciflorum" morphotype were clustered together, similarly as two populations of E. caninusexhibiting morphotype "caninus". Additionally, the populations of the"pauciflorum" type were clustered together with all samples of H.europaeus. Furthermore, the same approach was applied to analyze the intra-population variability of E. caninus. The populations ranged from nearly uniform to as diverse as the samples collected from different localities. In some populations of this species the presence of off-type plants was revealed. Our data indicate the predominantly self-pollinating character of E. caninus and the possible genetic relationship between of E. caninus and H. europaeus.
+
+
+------------- All Abstracts -------------------
+1521
+#Variability and structure of natural populations of Elymus caninus (L.) L. and their possible relationship with Hordelymus europaeus (L.) Jess. ex Harz as revealed by AFLP analysis
+#Mizianty, M, Bieniek, W, Czech, A, Strzalka, W, Szklarczyk, M
+#2006
+--------------------------------
+The AFLP method was used to study the inter-population variability of eight populations of Elymus caninus (L.) L. as well as three populations of Hordelymus europaeus (L.) Jess. Ex Harz. In these studies a clear distinction was found between two phenotypes of E.caninus collected in the same locality. It also appeared that two populations of E. caninus representing the "pauciflorum" morphotype were clustered together, similarly as two populations of E. caninusexhibiting morphotype "caninus". Additionally, the populations of the"pauciflorum" type were clustered together with all samples of H.europaeus. Furthermore, the same approach was applied to analyze the intra-population variability of E. caninus. The populations ranged from nearly uniform to as diverse as the samples collected from different localities. In some populations of this species the presence of off-type plants was revealed. Our data indicate the predominantly self-pollinating character of E. caninus and the possible genetic relationship between of E. caninus and H. europaeus.
+
+
+1522
+#Maternal origin, genome constitution and evolutionary relationships of polyploid Elymus species and Hordelymus europaeus
+#Ni Y, Asamoah-Odei N, Sun G
+#2011
+--------------------------------
+The trnS/psbC region of chloroplast DNA (cpDNA) was sequenced for 18 Elymus polyploid species, Hordelymus europaeus and their putative diploid ancestors. The objective was to determine the maternal origin and evolutionary relationships of these polyploid taxa. Phylogenetic analysis showed that Elymus and Pseudoroegneria species formed a highly supported monophyletic group (100 % bootstrap values), suggesting that Pseudoroegneria is the maternal genome donor to polyploid Elymus species studied here. The phylogenetic tree based on cpDNA sequence data indicates that E. submuticus contains a St-genome. Taking into consideration of our previously published RPB2 data, we can conclude that hexaploid E. submuticus contains at least one copy of St and Y genomes. Our Neighor-joining analysis of cpDNA data put Psathyrostachys juncea, Hordeum bogdanii and Hordelymus europaeus into one group, suggesting a close relationship among them.
+
+

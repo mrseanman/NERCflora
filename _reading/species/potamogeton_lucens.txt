@@ -1,0 +1,76 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2720
+#Isozyme evidence of the parental origin and possible fertility of the hybrid Potamogeton x fluitans Roth.
+#Fant, JB, Preston, CD and Barrett, JA
+#2001
+--------------------------------
+The hybrid Potamogeton x fluitans Roth is thought to have resulted from hybridization between P. lucens L. and P. natans L. This hybrid has only been recorded at a few locations in the British Isles. At most of these sites the number of individuals found have been quite low. The one exception to this being a population in the Moors River, Dorset and South Hampshire, England, where a substantially larger population exists. Using seven different enzyme systems, this study provided support for the putative parental origin of this hybrid. In addition, the population in the Moors River was shown to contain numerous multi-locus phenotypes suggesting that these individuals may be partially fertile and may backcross to one of its parental species, or alternatively undergo selfing or crossing to produce an F-2 generation.
+
+
+------------- All Abstracts -------------------
+2718
+#Isozyme evidence for hybridisation between Potamogeton natans and P.nodosus (Potamogetonaceae) in Britain
+#Hollingsworth, PM, Preston, CD and Gornall, RJ
+#1995
+--------------------------------
+A population of pondweeds From the River Stour in Dorset intermediate in morphology between Potamogeton natans L. and P. nodosus Poir. is shown by means of isozyme evidence to be the hybrid P. x schreberi G. Fisch. It is represented by a single multi-enzyme phenotype which, together with its sterility, suggests it reproduces vegetatively and may well constitute a single done. It is genetically distinct from the morphologically similar hybrid between P. lucens L. and P. natans (P. x fluitans Roth).
+
+
+2719
+#Genetic structure and morphological variation of British populations of the hybrid Potamogeton x salicifolius.
+#Fant, JB and Preston, CD
+#2004
+--------------------------------
+Potamogeton x salicifolius Wolfg. is one of the three most frequently recorded Potamogeton hybrids in the British Isles and Europe. It is thought to be the hybrid between P. lucens and P. perfoliatus. Its scattered distribution suggests that it has arisen several times in Britain. Most British populations of P. x salicifolius can be identified by their morphological characteristics, which are intermediate between those of the putative parents P. lucens and P. perfoliatus . However, the population at the Ouse Washes, Cambridgeshire, differs from other populations in its greater similarity to P . lucens . A genetic study of eight British populations, using six isozyme systems, revealed that most populations consist of a single multi-enzyme phenotype. This suggests that they were the result of a single hybridization event and are therefore maintained through vegetative reproduction. By contrast, the Ouse Washes population consists of three multi-enzyme phenotypes. This variation is likely to have resulted from multiple hybridization events, although we cannot exclude the possibility that the plants are partially fertile. The isozyme systems studied were unable to identify P. lucens and P. perfoliatus unambiguously, and consequently did not provide evidence for their putative parentage of P. x salicifolius. However, at a local level the banding patterns of the hybrids were generally consistent with the local multi-enzyme phenotypes of these putative parents.
+
+
+2720
+#Isozyme evidence of the parental origin and possible fertility of the hybrid Potamogeton x fluitans Roth.
+#Fant, JB, Preston, CD and Barrett, JA
+#2001
+--------------------------------
+The hybrid Potamogeton x fluitans Roth is thought to have resulted from hybridization between P. lucens L. and P. natans L. This hybrid has only been recorded at a few locations in the British Isles. At most of these sites the number of individuals found have been quite low. The one exception to this being a population in the Moors River, Dorset and South Hampshire, England, where a substantially larger population exists. Using seven different enzyme systems, this study provided support for the putative parental origin of this hybrid. In addition, the population in the Moors River was shown to contain numerous multi-locus phenotypes suggesting that these individuals may be partially fertile and may backcross to one of its parental species, or alternatively undergo selfing or crossing to produce an F-2 generation.
+
+
+2721
+#Isozyme polymorphism in the genus Potamogeton (Potamogetonaceae).
+#Hettiarachchi, P and Triest, L
+#1991
+--------------------------------
+
+
+
+2722
+#Chloroplast evidence for the multiple origins of the hybrid Potamogeton x fluitans
+#Fant, JB, Kamau, E and Preston, CD
+#2005
+--------------------------------
+Previous studies of Potamogeton x fluitans Roth. have supported the putative origin of this taxon as a result of hybridization between Potamogeton lucens L. and Potamogeton natans L. In the British Isles P. x fluitans is restricted to only a few sites, while both its parents are relatively common. Previous studies have shown that most of these hybrid populations are monomorphic, with the exception of the Moors River, in Hampshire and Dorset, where multiple genotypes have been identified. This is despite the fact that here the hybrid grows in the absence of one its parents, P. lucens. In this study, species-specific differences in the TrnL (UAA) chloroplast region, a maternally inherited marker, were used to identify the original seed-bearing parent of the hybrids within this river system. It was shown that both species have been maternal parents in the creation of this hybrid population.
+
+
+2723
+#Identification of Hybrids in Potamogeton: Incongruence between Plastid and ITS Regions Solved by a Novel Barcoding Marker PHYB
+#Yang, T, Zhang, TL, Guo, YH, Liu, X
+#2016
+--------------------------------
+Potamogeton is one of the most difficult groups to clarify in aquatic plants, which has an extensive range of interspecific morphological and ecological diversity. Internal transcribed spacer (ITS) is prevalent for phylogenetic analysis in plants. However, most researches demonstrate that ITS has a high percentage of homoplasy in phylogenetic datasets. In this study, eighteen materials were collected in Potamogeton from China and incongruence was shown between the rbcL and ITS phylogenies. To solve the discrepancy, we employed a novel barcode PHYB to improve resolution and accuracy of the phylogenetic relationships. The PHYB phylogeny successfully resolved the incongruence between the rbcL and ITS phylogenies. In addition, six hybrids were confirmed using PHYB, including P. compressus x P pusillus, P. octandrus x P. oxyphyllus, P. gramineus x P. lucens, P. distinctus x P. natans, P. distinctus x P. wrightii, and S. pectinata x S. amblyophylla. Whereas, only one hybrid was identified (P. compressus x P. pusillus) by ITS, indicating that ITS homoplasy was present in Potamogeton and ITS was completely homogenized to one parental lineage. Thus, ITS might have limited utility for phylogenetic relationships in Potamogeton. It is recommended that a three-locus combination of chloroplast DNA gene, ITS and PHYB is potential to effectively reveal more robust phylogenetic relationships and species identification.
+
+
+2724
+#Population genetic structure in six sympatric and widespread aquatic plants inhabiting diverse lake environments in China
+#Cao, QJ, Mei, FF, Wang, L
+#2017
+--------------------------------
+Many aquatic plant species are distributed over large areas and diverse environments with populations interconnected by abiotic and biotic mediators. Here, we examined differences and similarities in the population genetic structure of six sympatric and widespread aquatic plant species. We sampled the aquatic species from six Chinese lakes found on plateaus, plains, and different river systems and analyzed them using inter-simple sequence repeat (ISSR) markers. Samples originating from each lake tended to cluster together. Of the six species, only Nymphoides peltata and Myriophyllum spicatum could be divided into plateau and plain groups, once Taihu Lake individuals were excluded. Genetic similarities between populations connected by the Yangtze River were not consistently higher than unconnected populations. Populations from Taihu Lake and/or Weishanhu Lake were distant from other lake populations for all species except Potamogeton lucens. The Taihu and Weishanhu populations clustered for Ceratophyllum demersum and Typha latifolia. Hydrophilous C.demersum had the lowest gene flow (Nm=0.913), whereas the entomophilous Hydrocharisdubia (Nm=2.084) and N.peltata (Nm=2.204) had the highest gene flow. The genetic relationships among distant populations of aquatic plants reflect the comprehensive effects of environmental selection pressure and biotic and abiotic connectivity. Differences in environmental factors between plateau and plain lakes and long distance hydrochory have limited importance on aquatic plant genetic structures. Among multiple evolutionary forces, gene flow mediated by birds may play the most important role in the formation of genetic patterns in the six species examined. For example, the close genetic relationship between Taihu Lake and Weishanhu Lake populations, each in different river systems and with different climates, may be related to the migration routes of birds. Differences in gene flow among the six aquatic plants may be attributable to different bird-transport and the fruit traits of each species.
+
+
+2725
+#Spontaneous hybridization of Potamogeton praelongus and Potamogeton lucens confirmed in a germination test (Czech Republic)
+#Prausova, R
+#2018
+--------------------------------
+A hybrid of P. praelongus and P. lucens (P. x judandicus) was found in an outdoor germination test in 2013-2015, which confirmed existence of spontaneous hybridization of the pondweed species present in the ponds below Plesivec in the Kokorinsko Protected Landscape Area in the Czech Republic Seedlings of P. x jutlandicus were different from those of P. praelongus and the speed of their growth was higher. P. x jutlandicus has not been found in natural sites in the Czech Republic yet. The Czech locality is the third one of this rare hybrid worldwide and the first one with a molecular proof.
+
+

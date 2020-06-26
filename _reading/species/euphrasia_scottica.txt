@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1095
+#Genetics, taxonomy and conservation of British Euphrasia
+#French GC, Hollingsworth PM, Silverside AJ, Ennos RA
+#2008
+--------------------------------
+n Britain the genus Euphrasia comprises ca 20 diploid and tetraploid plant species, including several endemics. However, their conservation is impeded by taxonomic uncertainty. Analysis of cpDNA and AFLP variation was used to assess their taxonomic status and establish the extent of barriers to gene exchange among them. Differences in ploidy level constitute a very strong barrier to genetic exchange, although this is not absolute. The diploid endemics E. vigursii and E. rivularis form morphologically and genetically definable units which show some level of reproductive isolation. Within tetraploid Euphrasia, the species showed varying degrees of distinctness. Analysis of geographically paired samples from two widespread outcrossing taxa E. arctica and E. nemorosa provides evidence for extensive genetic exchange between them. However AFLP data indicate that this outbreeding species complex possesses a gene pool distinct from that of the widespread inbreeding tetraploids. The widespread and endemic inbreeding tetraploids contain examples of morphologically and genetically definable taxa, but also species whose distinctness is more equivocal. The conservation implications of this study are that species-based action plans are potentially suitable for conservation of the diploid endemics E. vigursii and E. rivularis. In contrast we contend that a species-based conservation framework, developed with reproductively isolated and genetically distinct groups in mind, requires modification for conservation of the complex and dynamic diversity found within the tetraploids. The adoption of ‘taxonomic’ action plans, designed to protect the evolutionary processes generating Euphrasia diversity, may provide a supplementary solution for conserving this type of variation.
+
+
+------------- All Abstracts -------------------
+1095
+#Genetics, taxonomy and conservation of British Euphrasia
+#French GC, Hollingsworth PM, Silverside AJ, Ennos RA
+#2008
+--------------------------------
+n Britain the genus Euphrasia comprises ca 20 diploid and tetraploid plant species, including several endemics. However, their conservation is impeded by taxonomic uncertainty. Analysis of cpDNA and AFLP variation was used to assess their taxonomic status and establish the extent of barriers to gene exchange among them. Differences in ploidy level constitute a very strong barrier to genetic exchange, although this is not absolute. The diploid endemics E. vigursii and E. rivularis form morphologically and genetically definable units which show some level of reproductive isolation. Within tetraploid Euphrasia, the species showed varying degrees of distinctness. Analysis of geographically paired samples from two widespread outcrossing taxa E. arctica and E. nemorosa provides evidence for extensive genetic exchange between them. However AFLP data indicate that this outbreeding species complex possesses a gene pool distinct from that of the widespread inbreeding tetraploids. The widespread and endemic inbreeding tetraploids contain examples of morphologically and genetically definable taxa, but also species whose distinctness is more equivocal. The conservation implications of this study are that species-based action plans are potentially suitable for conservation of the diploid endemics E. vigursii and E. rivularis. In contrast we contend that a species-based conservation framework, developed with reproductively isolated and genetically distinct groups in mind, requires modification for conservation of the complex and dynamic diversity found within the tetraploids. The adoption of ‘taxonomic’ action plans, designed to protect the evolutionary processes generating Euphrasia diversity, may provide a supplementary solution for conserving this type of variation.
+
+

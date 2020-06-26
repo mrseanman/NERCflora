@@ -1,0 +1,62 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+473
+#Genetic and clonal diversity in Korean populations of Calystegia soldanella (Convolvulaceae).
+#Kim, ST, Chung, MG
+#1995
+--------------------------------
+Calystegia soldanella (L.) Roem, et Schutt. is a herbaceous perennial vine with both sexual and asexual modes of reproduction. It grows only on the sand dunes and beaches of East Asia, Europe, and the Pacific. Allozyme study was conducted on leaves collected from 425 plants in 13 Korean populations. Tn addition, two populations of Ipomoea stolonifera (Cyrillo) Poiret., a beach dune plant species in the southeastern United States, were included in this study. The levels of genetic variability within populations of C. soldanella and I. stolonifera are lower than average values for species with similar life history and ecological traits. Mean percentage of polymorphic loci within populations (P-p), mean number of alleles per locus across populations (A(p)), mean effective number of alleles (Ae(p)), and mean population genetic diversity (He-p) were: 28.2%, 1.44, 1.19, and 0.100 for C. soldanella and 15%, 1.15, 1.12, and 0.066 for I. stolonifera. For C. soldanella, the mean number of multilocus genotypes per population (G = 20) and mean genotypic diversity index (D-G = 0.88) were relatively high. Analysis of fixation indices indicated considerable population substructuring within populations of C. soldanella, partly resulting from inbreeding (mean F-IS = 0.442) and/or artifacts of founder effect and clonal growth. About 85% of the total variation in C. soldanella is common to all populations. Significant differences in allele frequencies among populations were found in all but one locus (p < 0.05) and average genetic identity for all pairs of populations was 0.958. Indirect estimate of the number of migrant (Nm = 1.46, calculated from F-ST) indicates that the level of gene flow is moderate among Korean populations probably via seed dispersal by water. Based on available data, several factors such as wide geographic distribution, high levels of clonal diversity, moderate levels of gene flow, restricted ecological distribution, inbreeding, and founder effect may have played roles in shaping genetic structuring of C. soldanella.
+
+
+475
+#Nucleotide sequence variability of the Adh gene of the coastal plant Calystegia soldanella (Convolvulaceae) in Japan
+#Ohsako, T Matsuoka, G
+#2008
+--------------------------------
+Calystegia soldanella (Convolvulaceae) is a self-incompatible perennial herb distributed on sandy seashores throughout the temperate zone of the world. In Japan, the species occasionally grows on the sandy shores of Lake Biwa. To clarify the genetic differentiation among local populations, we investigated the nucleotide sequence variability of the Adh gene. In a 1625-bp sequence between exon 2 and the 3'noncoding region of the Adh gene, a total of 44 polymorphic sites were found among 91 individuals from 19 populations. The nucleotide diversity for the entire sample was 0.00212. Similar values were determined for geographical groups of populations. No genetic differentiation among the groups of populations was found. The complete lack of genetic differentiation between the sea coastal populations and the inland populations could not be attributed to gene flow. Although the inland populations are geographically isolated from the sea coastal populations, the time since separation might be insufficient to establish significant genetic differentiation.
+
+
+------------- All Abstracts -------------------
+473
+#Genetic and clonal diversity in Korean populations of Calystegia soldanella (Convolvulaceae).
+#Kim, ST, Chung, MG
+#1995
+--------------------------------
+Calystegia soldanella (L.) Roem, et Schutt. is a herbaceous perennial vine with both sexual and asexual modes of reproduction. It grows only on the sand dunes and beaches of East Asia, Europe, and the Pacific. Allozyme study was conducted on leaves collected from 425 plants in 13 Korean populations. Tn addition, two populations of Ipomoea stolonifera (Cyrillo) Poiret., a beach dune plant species in the southeastern United States, were included in this study. The levels of genetic variability within populations of C. soldanella and I. stolonifera are lower than average values for species with similar life history and ecological traits. Mean percentage of polymorphic loci within populations (P-p), mean number of alleles per locus across populations (A(p)), mean effective number of alleles (Ae(p)), and mean population genetic diversity (He-p) were: 28.2%, 1.44, 1.19, and 0.100 for C. soldanella and 15%, 1.15, 1.12, and 0.066 for I. stolonifera. For C. soldanella, the mean number of multilocus genotypes per population (G = 20) and mean genotypic diversity index (D-G = 0.88) were relatively high. Analysis of fixation indices indicated considerable population substructuring within populations of C. soldanella, partly resulting from inbreeding (mean F-IS = 0.442) and/or artifacts of founder effect and clonal growth. About 85% of the total variation in C. soldanella is common to all populations. Significant differences in allele frequencies among populations were found in all but one locus (p < 0.05) and average genetic identity for all pairs of populations was 0.958. Indirect estimate of the number of migrant (Nm = 1.46, calculated from F-ST) indicates that the level of gene flow is moderate among Korean populations probably via seed dispersal by water. Based on available data, several factors such as wide geographic distribution, high levels of clonal diversity, moderate levels of gene flow, restricted ecological distribution, inbreeding, and founder effect may have played roles in shaping genetic structuring of C. soldanella.
+
+
+474
+#Determinants of phylogeographic structure: a comparative study of seven coastal flowering plant species across their European range
+#Kadereit, JW and Westberg, E
+#2007
+--------------------------------
+
+
+
+475
+#Nucleotide sequence variability of the Adh gene of the coastal plant Calystegia soldanella (Convolvulaceae) in Japan
+#Ohsako, T Matsuoka, G
+#2008
+--------------------------------
+Calystegia soldanella (Convolvulaceae) is a self-incompatible perennial herb distributed on sandy seashores throughout the temperate zone of the world. In Japan, the species occasionally grows on the sandy shores of Lake Biwa. To clarify the genetic differentiation among local populations, we investigated the nucleotide sequence variability of the Adh gene. In a 1625-bp sequence between exon 2 and the 3'noncoding region of the Adh gene, a total of 44 polymorphic sites were found among 91 individuals from 19 populations. The nucleotide diversity for the entire sample was 0.00212. Similar values were determined for geographical groups of populations. No genetic differentiation among the groups of populations was found. The complete lack of genetic differentiation between the sea coastal populations and the inland populations could not be attributed to gene flow. Although the inland populations are geographically isolated from the sea coastal populations, the time since separation might be insufficient to establish significant genetic differentiation.
+
+
+476
+#Isolation and characterisation of microsatellite loci in Calystegia soldanella (Convolvulaceae), an endangered coastal plant isolated in Lake Biwa, Japan
+#Noda, A Nomura, N Mitsui, Y Setoguchi, H
+#2009
+--------------------------------
+Eight microsatellite loci of Calystegia soldanella useful for
+ comparisons of the genetic structure of isolated populations in the
+ ancient Lake Biwa and coastal populations in Japan were isolated and
+ characterised. The number of alleles ranged from 2 to 5. The expected
+ (H (E)) and observed (H (O)) heterozygosities were 0.097-0.583 and
+ 0.000-0.380, respectively, from 100 individuals from Lake Biwa and
+ coastal populations. Seven of the eight loci exhibited significantly
+ fewer heterozygotes than expected based on the Hardy-Weinberg
+ equilibrium (P < 0.05). These primers amplifying microsatellites in C.
+ soldanella may provide a population genetics tool useful in the
+ establishment of a conservation strategy.
+
+

@@ -1,0 +1,68 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+376
+#The effects of genetic and environmental factors on disease expression (stroma formation) and plant growth in Brachypodium sylvaticum infected by Epichloe sylvatica.
+#Meijer, G, Leuchtmann, A
+#2000
+--------------------------------
+Fungi in the genus Epichloe (Clavicipitaceae, Ascomycota) are endophytic and often mutualistic symbionts of many grasses in temperate areas. Species with a sexual cycle suppress host flowering and seed formation, whereas asexual fungi remain asymptomatic and transmit vertically by seed. Thus, the mode of reproduction may determine whether the symbiosis is mutualistic or parasitic. The level of sexual reproduction (disease expression) varies among different endophytes and on different grass hosts, but factors responsible for this variation, and evolutionary mechanisms leading to one or the other life strategy are not understood. As experimental system, we chose Brachypodium sylvaticum in which the endophyte E. sylvatica can express both reproduction modes. A field experiment was done in plots of a free air carbon dioxide enrichment (FACE) facility. Wt: investigated the effects of three environmental factors (elevated CO2 concentration, shading and fertilisation) and one genetic factor (plant and fungal genotype combination), on plant growth and disease expression. Variation in plant growth was mainly dependent on the genotype and was increased by fertilisation. Elevated CO2 and shading slightly stimulated plant growth, but only in fertilised plants. Disease expression was overwhelmingly dependent on the genotype. hence genetic: factors. Fertilisation slightly stimulated disease expression in some genotypes, while the effect of elevated CO2 was negligible, and by interaction with fertilisation inconsistent in the two years. Horizontal transmissions during the experiment, presumably mediated by ascospores, confounded the original infection status of the plants. Contagious infections occurred more frequently in the shade, and in endophyte-free host plants. The latter suggests that pre-existing infections render host plants less susceptible to superinfection by choke forming strains. Although our results clearly indicate that disease expression of E, sylvatica has a genetic basis, it is still unclear whether selection on the plants or the fungi is driving the evolution of this association.
+
+
+379
+#Evidence for human-mediated range expansion and gene flow in an invasive grass
+#Arredondo, TM, Marchini, GL, Cruzan, MB
+#2018
+--------------------------------
+Cities and adjacent regions represent foci of intense human activity and provide unique opportunities for studying human-mediated dispersal and gene flow. We examined the effect of landscape features on gene flow in the invasive grass Brachypodium sylvaticum across an urban-rural interface at the edge of its expanding range. We used genome-wide single-nucleotide polymorphism surveys of individuals from 22 locations. Resistance surfaces were created for each landscape feature, using ResistanceGA to optimize resistance parameters. Our STRUCTURE analysis identified three distinct clusters, and diversity analyses support the existence of at least three local introductions. Multiple regression on distance matrices showed no evidence that development, roads, canopy cover or agriculture had a significant influence on genetic distance in B. sylvaticum. Geographical distance was a mediocre predictor of genetic distance and reflected geographical clustering. The model of rivers acting as a conduit explained a large portion of variation in genetic distance, but the lack of evidence of directional gene flow eliminated hydrochory as a dispersal mechanism. These results and observations of the distribution of populations in disturbed sites indicate that the influence of rivers on patterns of dispersal of B. sylvaticum probably reflects seed dispersal due to human recreational activity.
+
+
+------------- All Abstracts -------------------
+374
+#Phylogenetic reconstruction of the genus Branchypodium P-Beauv. (Poaceae) from combined sequences of chloroplast ndhF gene and nuclear ITS.
+#Catalan, P, Olmstead, RG
+#2000
+--------------------------------
+A phylogenetic reconstruction of eight species of the genus Brachypodium P. Beauv. (Poaceae) has been obtained combining sequence data from the chloroplast ndhF gene and the nuclear ITS, and using five representatives of tribes Triticeae (Secale), Poeae (Lolium), Meliceae (Melica, Glyceria) and Oryzeae (Oryza) as outgroups. Similar numbers of informative substitutions for the ingroup species were provided by both the 3' region of the chloroplast ndhF gene and the nuclear ITS region. The Mediterranean annual Brachypodium distachyon appears to be the basal lineage, followed by the divergence of the New World non-rhizomatous B. mexicanum, which antedates the separation of a core of six European and Eurosiberian rhizomatous perennials (Brachypodium arbuscula, B. retusum, B. rupestre, B. phoenicoides, B. pinnatum, and B. sylvaticum). The evolutionary reconstruction based on sequences of the chloroplast and the nuclear genomes is congruent with topologies obtained from analysis of RAPD data.
+
+
+375
+#Performance of two contrasting morphs of Brachypodium sylvaticum transplanted into shaded and unshaded sites.
+#Davies, MS, Long, GL
+#1991
+--------------------------------
+
+
+
+376
+#The effects of genetic and environmental factors on disease expression (stroma formation) and plant growth in Brachypodium sylvaticum infected by Epichloe sylvatica.
+#Meijer, G, Leuchtmann, A
+#2000
+--------------------------------
+Fungi in the genus Epichloe (Clavicipitaceae, Ascomycota) are endophytic and often mutualistic symbionts of many grasses in temperate areas. Species with a sexual cycle suppress host flowering and seed formation, whereas asexual fungi remain asymptomatic and transmit vertically by seed. Thus, the mode of reproduction may determine whether the symbiosis is mutualistic or parasitic. The level of sexual reproduction (disease expression) varies among different endophytes and on different grass hosts, but factors responsible for this variation, and evolutionary mechanisms leading to one or the other life strategy are not understood. As experimental system, we chose Brachypodium sylvaticum in which the endophyte E. sylvatica can express both reproduction modes. A field experiment was done in plots of a free air carbon dioxide enrichment (FACE) facility. Wt: investigated the effects of three environmental factors (elevated CO2 concentration, shading and fertilisation) and one genetic factor (plant and fungal genotype combination), on plant growth and disease expression. Variation in plant growth was mainly dependent on the genotype and was increased by fertilisation. Elevated CO2 and shading slightly stimulated plant growth, but only in fertilised plants. Disease expression was overwhelmingly dependent on the genotype. hence genetic: factors. Fertilisation slightly stimulated disease expression in some genotypes, while the effect of elevated CO2 was negligible, and by interaction with fertilisation inconsistent in the two years. Horizontal transmissions during the experiment, presumably mediated by ascospores, confounded the original infection status of the plants. Contagious infections occurred more frequently in the shade, and in endophyte-free host plants. The latter suggests that pre-existing infections render host plants less susceptible to superinfection by choke forming strains. Although our results clearly indicate that disease expression of E, sylvatica has a genetic basis, it is still unclear whether selection on the plants or the fungi is driving the evolution of this association.
+
+
+377
+#Evidence for multiple sources of invasion and intraspecific hybridization in Brachypodium sylvaticum (Hudson) Beauv. in North America
+#Rosenthal, DM Ramakrishnan, AP Cruzan, MB
+#2008
+--------------------------------
+We compared the levels and distribution of genetic diversity in Eurasian and North American populations of Brachypodium sylvaticum (Huds.) Beauv. (false brome), a newly invasive perennial bunchgrass in western North America. Our goals were to identify source regions for invasive populations, determine the number of independent invasion events, and assess the possibility that postinvasion bottlenecks and hybridization have affected patterns of genetic diversity in the invaded range. We tested the hypothesis that this Eurasian grass was accidentally introduced into two areas in Oregon and one site in California by examining nuclear microsatellites and chloroplast haplotype variation in 23 introduced and 25 native populations. In the invaded range, there was significantly lower allelic richness (R-S), observed heterozygosity (H-O) and within-population gene diversity (H-S), although a formal test failed to detect a significant genetic bottleneck. Most of the genetic variation existed among populations in the native range but within populations in the invaded range. All of the allelic variation in the invaded range could be explained based on alleles found in western European populations. The distribution of identified genetic clusters in the North American populations and the unique alleles associated with them is consistent with two historical introductions in Oregon and a separate introduction to California. Further analyses of population structure indicate that intraspecific hybridization among genotypes from geographically distinct regions of western Europe occurred following colonization in Oregon. The California populations, however, are more likely to be derived from one or perhaps several genetically similar regions in the native range. The emergence and spread of novel recombinant genotypes may be facilitating the rapid spread of this invasive species in Oregon.
+
+
+378
+#Isolation and characterization of nine microsatellite markers for Brachypodium sylvaticum (Huds.) Beauv., a recently invasive grass species in Oregon
+#Ramakrishnan, AP Rosenthal, DM Musial, T Cruzan, MB
+#2008
+--------------------------------
+The patterns of genetic diversity caused by rapid range expansions following recent colonizations are best observed using highly polymorphic genetic markers. We characterized nine microsatellite markers for Brachypodium sylvaticum, a bunchgrass invasive in the Northwestern United States and native to Eurasia. Loci exhibited from two to 10 alleles, and generally had high F-IS values. These loci will help identify sources of new populations in the region, and they will be useful for studying patterns of genetic diversity during rapid range expansions.
+
+
+379
+#Evidence for human-mediated range expansion and gene flow in an invasive grass
+#Arredondo, TM, Marchini, GL, Cruzan, MB
+#2018
+--------------------------------
+Cities and adjacent regions represent foci of intense human activity and provide unique opportunities for studying human-mediated dispersal and gene flow. We examined the effect of landscape features on gene flow in the invasive grass Brachypodium sylvaticum across an urban-rural interface at the edge of its expanding range. We used genome-wide single-nucleotide polymorphism surveys of individuals from 22 locations. Resistance surfaces were created for each landscape feature, using ResistanceGA to optimize resistance parameters. Our STRUCTURE analysis identified three distinct clusters, and diversity analyses support the existence of at least three local introductions. Multiple regression on distance matrices showed no evidence that development, roads, canopy cover or agriculture had a significant influence on genetic distance in B. sylvaticum. Geographical distance was a mediocre predictor of genetic distance and reflected geographical clustering. The model of rivers acting as a conduit explained a large portion of variation in genetic distance, but the lack of evidence of directional gene flow eliminated hydrochory as a dispersal mechanism. These results and observations of the distribution of populations in disturbed sites indicate that the influence of rivers on patterns of dispersal of B. sylvaticum probably reflects seed dispersal due to human recreational activity.
+
+

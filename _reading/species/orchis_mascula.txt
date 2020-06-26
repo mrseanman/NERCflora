@@ -1,0 +1,179 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2042
+#Molecular characterization of a hybrid zone between Orchis mascula and O-pauciflora in Southern Italy.
+#Pellegrino, G, Caputo, P, Cozzolino, S, Menale, B, Musacchio, A
+#2000
+--------------------------------
+A small population (16 individuals) of Orchis x colemanii Cortesi, a natural hybrid between O. mascula (L.) L, and O. pauciflora Ten. was sampled from a locality near Sassano (National Park of Cilento, province of Salerno, Southern Italy) in order to assess its genetic structure. Filter hybridizations of O. x colemanii, O. mascula and O. pauciflora DNAs against a PCR-amplified ribosomal fragment indicated that all the hybrid individuals in study have the ribosomal repeats of both parents, even if not always combined in equal proportions, and that no specimen morphologically identified as O. mascula or O. pauciflora possessed detectable rDNA of the other species. The majority of the hybrid specimens (12 individuals) showed a preponderance of O. mascula rDNA, three had approximately equal proportions of parental repeats and one had a preponderance of O. pauciflora rDNA. As the parental species have different amounts of rDNA, as inferred from dot blot hybridization, it has been deduced that the 12 specimens may represent F-1 or successive, presumably non-recombinant progenies, while the last four specimens may represent either F-2 genotypes or backcrosses with O. pauciflora.
+
+
+2044
+#Hybridization and conservation of Mediterranean orchids: Should we protect the orchid hybrids or the orchid hybrid zones?
+#Cozzolino, S, Nardella, AM, Impagliazzo, S, Widmer, A, Lexer, C
+#2006
+--------------------------------
+Natural hybridization between plant species often occurs in disturbed habitats and it is generally considered a threat for rare and endangered species. A different situation occurs in Mediterranean food deceptive orchids, where hybridization is a common phenomenon, as a natural consequence of their unspecific pollination system. Here, we present molecular and ecological evidence from a hybrid zone between Orchis mascula and O. pauciflora in order to address the consequences of hybridization on local orchid evolution and to assess conservation priorities for hybrids and hybrid zones in orchid conservation programs. We find that, although hybrids among the two target taxa are formed relatively frequently, hybrid zones often consist of F1 individuals, whereas backcrosses and later generation hybrids appear to be either rare or absent, presumably as a consequence of postzygotic reproductive barriers acting in these food-deceptive orchids. Experimental evidence further indicates that hybrids are less fit than the parental species in attracting pollinators and that parental taxa exhibit higher or similar fitness in sympatry compared to allopatric populations. Since introgression is not frequent as indicated by molecular analyses, fitness and phenotypic trait differences observed among sympatric and allopatric populations of the parental taxa may be a consequence of pollinator-mediated selection. Our experimental data confirm that hybridization is a natural phenomenon in food-deceptive orchids and that it does not pose a threat to their survival. Furthermore, sympatric zones provide the stage for evolutionary processes in orchids, and this peculiarity should be taken into account when devising orchid conservation strategies.
+
+
+2045
+#Multigenerational analysis of spatial structure in the terrestrial, food-deceptive orchid Orchis mascula
+#Jacquemyn, H Wiegand, T Vandepitte, K Brys, R Roldan-Ruiz, I Honnay, O
+#2009
+--------------------------------
+1. In long-lived, terrestrial orchids, strong aggregation of adults and
+ recruits within populations and pronounced spatial association between
+ recruits and adults can be expected when seed dispersal is limited,
+ probabilities of seed germination decrease with increasing distance
+ from mother plants and/or not all mother plants contribute to future
+ generations. When individuals are distributed evenly across
+ life-history stages, these processes can also be expected to result in
+ a significant fine-scale spatial genetic structure in recruits that
+ will persist into the adult-stage class.
+ 2. We combined detailed spatial genetic and point pattern analyses
+ across different generations with parentage analyses to elucidate the
+ role of the diverse processes that might determine spatial structure in
+ Orchis mascula.
+ 3. Analyses of spatial point patterns showed a significant association
+ between adults and recruits and similar clustering patterns for both.
+ Weak, but highly significant spatial genetic structure was observed in
+ adults and recruits, but no significant differences were observed
+ across life stages, indicating that the spatial genetic structure
+ present in recruits persists into the adult stage.
+ 4. Parentage analyses highlighted relatively short seed dispersal
+ distances (median offspring-recruitment distance: 1.55 and 1.70 m) and
+ differential contribution of mother plants to future generations.
+ 5. Persistence of fine-scale spatial genetic structure from seedlings
+ into the adult stage class is consistent with the life history of O.
+ mascula, whereas relatively large dispersal distances of both pollen
+ and seeds compared to the fine-scale clustering of adults and seedlings
+ suggest overlapping seed shadows and mixing of genotypes within
+ populations as the major factors explaining the observed weak spatial
+ genetic structure.
+ 6. Nonetheless, comparison of the spatial association between recruits
+ and adults with the genetic analysis of offspring-parent distances
+ suggests that the tight clustering of recruits around adults was
+ probably caused by decreasing probabilities of seed germination with
+ increasing distance from mother plants.
+ 7. Synthesis. This study shows that the approach presented here, which
+ combines spatial genetic and spatial pattern analyses with parentage
+ analyses, may be broadly applied to other plant species to elucidate
+ the processes that determine spatial structure within their
+ populations.
+
+
+------------- All Abstracts -------------------
+2041
+#Genetic relatedness of insular segregates of mediterranean orchid species as inferred from ITS sequences analysis.
+#Cafasso, D, Pellegrino, G, Caputo, P, Scrugli, A, Cozzolino, S
+#2001
+--------------------------------
+A sequence analysis has been carried out on the ribosomal DNA Internal Transcribed Spacers (ITS) of Sardinian and Sicilian Orchis, Anacamptis and Neotinea endemics, aiming at the understanding of genetic relatedness of these geographically isolated entities. Resulting sequences were compared with those of strictly related species with broader distribution ranges. No sequence difference has been detected between O. mascula ssp. ichnusae (endemic of Sardinia) and O. mascula ssp. mascula accessions from north-eastern Italy and southern France. Orchis brancifortii (endemic of Sicily and Sardinia) displays the same genetic distance both with O. quadripunctata accessions from mainland Italy and with the eastern mediterranean O. anatolica. The accessions of A. longicornu from Sicily and Sardinia have identical sequences, which in turn clearly differ from those of A. morio ssp. morio and A. morio ssp. picta, thus suggesting an ancient separation event. No sequence difference occurs between N. commutata from Sicily and N. tridentata from southern Italy, in spite of the presence of some heterozygous positions in some accessions of N. commutata. These results seem to indicate that different levels of genetic distance may be observed in insular mediterranean orchids.
+
+
+2042
+#Molecular characterization of a hybrid zone between Orchis mascula and O-pauciflora in Southern Italy.
+#Pellegrino, G, Caputo, P, Cozzolino, S, Menale, B, Musacchio, A
+#2000
+--------------------------------
+A small population (16 individuals) of Orchis x colemanii Cortesi, a natural hybrid between O. mascula (L.) L, and O. pauciflora Ten. was sampled from a locality near Sassano (National Park of Cilento, province of Salerno, Southern Italy) in order to assess its genetic structure. Filter hybridizations of O. x colemanii, O. mascula and O. pauciflora DNAs against a PCR-amplified ribosomal fragment indicated that all the hybrid individuals in study have the ribosomal repeats of both parents, even if not always combined in equal proportions, and that no specimen morphologically identified as O. mascula or O. pauciflora possessed detectable rDNA of the other species. The majority of the hybrid specimens (12 individuals) showed a preponderance of O. mascula rDNA, three had approximately equal proportions of parental repeats and one had a preponderance of O. pauciflora rDNA. As the parental species have different amounts of rDNA, as inferred from dot blot hybridization, it has been deduced that the 12 specimens may represent F-1 or successive, presumably non-recombinant progenies, while the last four specimens may represent either F-2 genotypes or backcrosses with O. pauciflora.
+
+
+2043
+#The taxonomic position of the controversial taxon Orchis clandestina (Orchidaceae): Karyomorphological and molecular analyses.
+#Pellegrino, G, Cozzolino, S, D'Emerico, S, Grunanger, P
+#2000
+--------------------------------
+The controversial taxon Orchis clandestina Hautz., a micro- endemic entity of the Ligurian coast (province of Genoa), was investigated with the aim to define its taxonomic position. Morphological characters resulted to be intermediate between O. patens and the O. mascula - O. provincialis group. Both, karyomorphological (C-banding) and molecular (rDNA, ITS sequences) analyses, indicate a hybrid origin of O, clandestina and allowed us to recognize O. patens and O. provincialis as parental species, thus ruling out any contribution of O. mascula in the hybrid formation. In view of the present results we assign a hybrid status to 0. clandestina and synonymize it with Orchis x fallax (de Not.) Willk. & Lg.
+
+
+2044
+#Hybridization and conservation of Mediterranean orchids: Should we protect the orchid hybrids or the orchid hybrid zones?
+#Cozzolino, S, Nardella, AM, Impagliazzo, S, Widmer, A, Lexer, C
+#2006
+--------------------------------
+Natural hybridization between plant species often occurs in disturbed habitats and it is generally considered a threat for rare and endangered species. A different situation occurs in Mediterranean food deceptive orchids, where hybridization is a common phenomenon, as a natural consequence of their unspecific pollination system. Here, we present molecular and ecological evidence from a hybrid zone between Orchis mascula and O. pauciflora in order to address the consequences of hybridization on local orchid evolution and to assess conservation priorities for hybrids and hybrid zones in orchid conservation programs. We find that, although hybrids among the two target taxa are formed relatively frequently, hybrid zones often consist of F1 individuals, whereas backcrosses and later generation hybrids appear to be either rare or absent, presumably as a consequence of postzygotic reproductive barriers acting in these food-deceptive orchids. Experimental evidence further indicates that hybrids are less fit than the parental species in attracting pollinators and that parental taxa exhibit higher or similar fitness in sympatry compared to allopatric populations. Since introgression is not frequent as indicated by molecular analyses, fitness and phenotypic trait differences observed among sympatric and allopatric populations of the parental taxa may be a consequence of pollinator-mediated selection. Our experimental data confirm that hybridization is a natural phenomenon in food-deceptive orchids and that it does not pose a threat to their survival. Furthermore, sympatric zones provide the stage for evolutionary processes in orchids, and this peculiarity should be taken into account when devising orchid conservation strategies.
+
+
+2045
+#Multigenerational analysis of spatial structure in the terrestrial, food-deceptive orchid Orchis mascula
+#Jacquemyn, H Wiegand, T Vandepitte, K Brys, R Roldan-Ruiz, I Honnay, O
+#2009
+--------------------------------
+1. In long-lived, terrestrial orchids, strong aggregation of adults and
+ recruits within populations and pronounced spatial association between
+ recruits and adults can be expected when seed dispersal is limited,
+ probabilities of seed germination decrease with increasing distance
+ from mother plants and/or not all mother plants contribute to future
+ generations. When individuals are distributed evenly across
+ life-history stages, these processes can also be expected to result in
+ a significant fine-scale spatial genetic structure in recruits that
+ will persist into the adult-stage class.
+ 2. We combined detailed spatial genetic and point pattern analyses
+ across different generations with parentage analyses to elucidate the
+ role of the diverse processes that might determine spatial structure in
+ Orchis mascula.
+ 3. Analyses of spatial point patterns showed a significant association
+ between adults and recruits and similar clustering patterns for both.
+ Weak, but highly significant spatial genetic structure was observed in
+ adults and recruits, but no significant differences were observed
+ across life stages, indicating that the spatial genetic structure
+ present in recruits persists into the adult stage.
+ 4. Parentage analyses highlighted relatively short seed dispersal
+ distances (median offspring-recruitment distance: 1.55 and 1.70 m) and
+ differential contribution of mother plants to future generations.
+ 5. Persistence of fine-scale spatial genetic structure from seedlings
+ into the adult stage class is consistent with the life history of O.
+ mascula, whereas relatively large dispersal distances of both pollen
+ and seeds compared to the fine-scale clustering of adults and seedlings
+ suggest overlapping seed shadows and mixing of genotypes within
+ populations as the major factors explaining the observed weak spatial
+ genetic structure.
+ 6. Nonetheless, comparison of the spatial association between recruits
+ and adults with the genetic analysis of offspring-parent distances
+ suggests that the tight clustering of recruits around adults was
+ probably caused by decreasing probabilities of seed germination with
+ increasing distance from mother plants.
+ 7. Synthesis. This study shows that the approach presented here, which
+ combines spatial genetic and spatial pattern analyses with parentage
+ analyses, may be broadly applied to other plant species to elucidate
+ the processes that determine spatial structure within their
+ populations.
+
+
+2046
+#Effects of population size and forest management on genetic diversity and structure of the tuberous orchid Orchis mascula 
+#Jacquemyn, H Brys, R Adriaens, D Honnay, O Roldan-Ruiz, I
+#2009
+--------------------------------
+Due to societal changes and altered demands for firewood, the
+ traditional forest management of coppicing has been largely abandoned.
+ As a result, many forest herbs that are specifically adapted to regular
+ opening of the canopy, have suffered significant declines in abundance,
+ and the remaining populations of these species often tend to be small
+ and isolated. Reduced population sizes and pronounced spatial isolation
+ may cause loss of within-population genetic diversity and increased
+ between-population differentiation through random genetic drift and
+ inbreeding. In this study, we investigated genetic diversity and
+ genetic structure of 15 populations of the food-deceptive orchid Orchis
+ mascula using AFLP markers. Within-population genetic diversity
+ significantly increased with increasing population size, indicating
+ genetic impoverishment in small populations. Genetic differentiation,
+ on the other hand, was rather low (Phi(ST) = 0.083) and there was no
+ significant relationship between genetic and geographic distances,
+ suggesting substantial gene flow within the study area. However, strong
+ differences in levels of within-population diversity and
+ among-population differentiation were found for populations located in
+ forests that have been regularly coppiced and populations found in
+ forests that were neglected for more than 50 years and that were
+ totally overgrown by shrubs. Our data thus indicate that a lack of
+ coppicing leads to decreased genetic diversity and increased
+ differentiation in this orchid species, most likely as a result of
+ genetic drift following demographic bottlenecks. From a conservation
+ point of view, this study combined with previous results on the
+ demography of O. mascula in relation to forest management illustrates
+ the importance of coppicing in maintaining viable populations of forest
+ herbs in the long-term.
+
+

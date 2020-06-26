@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3168
+#Hybridization between the locally endangered Rosa spinosissima and Rosa mollis results in the pentaploid Rosa x sabinii in western Norway
+#Andersen, HL, Naess, SJ, Salvesen, PH
+#2016
+--------------------------------
+Rosa spinosissima is an endangered species in Norway, found only within a limited area on the southwestern coast. Presumed hybrid forms between R. spinosissima and rose species within R. sect. Caninae have been recorded from this area since the late 19th century. Here, analyses of such hybrid plants and selected populations of the tentative parent species were performed using AFLP markers, nuclear DNA content, pollen viability and seed germination rates, in addition to classic morphometric analysis. It is established that the hybrid rose represents a single hybrid taxon, viz Rosa x sabinii, formed by recurrent asymmetrical hybridization events between R. spinosissima and R. mollis, with the latter being the obligate ovule donor. The evidence presented does not indicate hybridization with other co-occurring rose species, or of introgression from R. mollis into R. spinosissima through backcrossing with R. x sabinii.
+
+
+------------- All Abstracts -------------------
+3166
+#Hybridization with invasive Rosa rugosa threatens the genetic integrity of native Rosa mollis.
+#Kellner, A., C. M. Ritz, and V. Wissemann
+#2012
+--------------------------------
+Hybridization between invasive and native species often has severe consequences on fitness and survival of the native relative. We investigated the extent of hybridization between the neophyte Rosa rugosa and native R.?mollis, an endangered species in Germany. Rosa mollis is found in only one large population in Germany close to the Baltic coast, which has been heavily invaded by R.?rugosa for at least 60 years. We analysed all individuals of R.?mollis from this mixed population using microsatellite markers and morphological characters and compared these data with those from allopatric populations of R.?mollis and R.?rugosa. In the mixed population we identified nine plants (45% of the population) as hybrids between R.?mollis (seed parent) and R.?rugosa (pollen parent) by the presence of microsatellite alleles private for R.?rugosa. These individuals were also morphologically intermediate between the parental species. Gene flow from R.?mollis into R.?rugosa was negligible. We detected a very low genetic diversity and a low number of seeds per hip in the mixed population of R.?mollis, pointing to genetic depletion and low fitness. In the light of these results and the difficulties in removing invasive R.?rugosa from European coastlines, we discuss possible conservation strategies for this endangered population.
+
+
+3167
+#Low genetic and morphological differentiation in the European species complex of Rosa sherardii, R-mollis and R-villosa (Rosa section Caninae subsection Vestitae)
+#Kellner, Alexandra, Ritz, Christiane M., Wissemann, Volker
+#2014
+--------------------------------
+The polyploid species complex of Rosa villosa sensu lato (Rosa section Caninae subsection Vestitae) consists of three morphologically similar polyploid species: R.sherardii, R.mollis and R.villosa. Whereas R.sherardii is distributed in central Europe, R.mollis and R.villosa represent a vicariant species pair occurring in northern Europe and in mountains of central and eastern Europe, respectively. In this study we analysed multiple data sets (morphology, cytology, microsatellites, AFLP and plastid DNA sequences) to re-evaluate the systematics of these species and to examine whether cytological differences are reflected in the taxonomy and geographical distributions. Furthermore, these data sets were used to evaluate hypotheses explaining the vicariant distribution of R.mollis and R.villosa. None of these data sets revealed a clear-cut differentiation between the species. Cytological and molecular data argued for a discrete taxonomic position of the predominantly pentaploid R.sherardii, but these data did not support a separation between the mostly tetraploid R.mollis and R.villosa. Population genetics revealed that samples of the latter species were assembled according to ploidy, but not to species affiliation or geographical distribution. Thus, we assume that the cytologically polymorphic original species had a continuous range prior to the last glaciation period and survived on nunataks or in non-glaciated coastal regions in northern Europe, but that it failed to recover its former range after the retreat of the ice sheets.
+
+
+3168
+#Hybridization between the locally endangered Rosa spinosissima and Rosa mollis results in the pentaploid Rosa x sabinii in western Norway
+#Andersen, HL, Naess, SJ, Salvesen, PH
+#2016
+--------------------------------
+Rosa spinosissima is an endangered species in Norway, found only within a limited area on the southwestern coast. Presumed hybrid forms between R. spinosissima and rose species within R. sect. Caninae have been recorded from this area since the late 19th century. Here, analyses of such hybrid plants and selected populations of the tentative parent species were performed using AFLP markers, nuclear DNA content, pollen viability and seed germination rates, in addition to classic morphometric analysis. It is established that the hybrid rose represents a single hybrid taxon, viz Rosa x sabinii, formed by recurrent asymmetrical hybridization events between R. spinosissima and R. mollis, with the latter being the obligate ovule donor. The evidence presented does not indicate hybridization with other co-occurring rose species, or of introgression from R. mollis into R. spinosissima through backcrossing with R. x sabinii.
+
+

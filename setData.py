@@ -17,12 +17,9 @@ def filtAinB(test, series):
             ins.append(False)
 
     return np.array(ins)
-
-
-
 def uniqAinB(test, series):
 #returns thruth value if test is the only value present in values
-#e.g. filterUnique(values='abc, abc', test='abc') returns True.
+#e.g. filterUnique(values='abc, abc', tex\\\\\\\\\\\\\\\\\\\\aaaaaaaaaaaaaaaawst='abc') returns True.
 #but 'abc, abc'=='abc' returns False
     insUnique = []
     for value in series:
@@ -33,11 +30,8 @@ def uniqAinB(test, series):
         else:
             insUnique.append(False)
     return np.array(insUnique)
-
-
 #expects ecoFlora df as input
 #returns truth value array whether outcrossing
-
 def outcrossing(df):
     boolsList = []
     #-------------------------------
@@ -78,19 +72,16 @@ def outcrossing(df):
 
     boolsArray = np.array(boolsList)
     return(np.any(boolsArray, axis=0))
-
 #np.nan is annoyingly useless as it doesnt accept str arguments
 def hasInfo(series):
     r = []
     for s in series:
         r.append(type(s)==str)
     return np.array(r)
-
 def NOTobligatorySelf(df):
     #Any thing that would impy it is not obligatory self
     #that might not imply outcrossing or mixed
     print('stub')
-
 def cleistogamous(df):
     cleists=[]
     for cleist in df['Cleistogamy']:
@@ -102,6 +93,8 @@ def cleistogamous(df):
         else:
             cleists.append(False)
     return np.array(cleists)
+
+
 
 searchStrings=[
 'fertil',
@@ -122,9 +115,73 @@ allFert = [
 'viviparous',
 'insects',
 'self sterile',
-'parthenocarpic',
-'insects'
+'parthenocarpic'
 ]
+
+def makeReading(species, good_abstracts, good_descriptions):
+    dfGenFlora = pd.read_csv('/home/sean/NERCflora/geneticFlora/data.csv', sep='|').fillna('')
+    dfPlantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeData.csv', sep='|').fillna('')
+    exampleSpecies = 'agrostis_curtisii'
+
+    searchStrings=[
+    'fertiliz',
+    'fertilis',
+    'selfing',
+    'outcrossing',
+    'dichog',
+    'dioec',
+    'diclin',
+    'incompatib',
+    'cleistog',
+    'cross',
+    'self'
+    ]
+
+    #to make the regex case insensitive
+    case_ins='(?i)'
+    #final regex searches for contains any of searchStrings case insensitive
+    searchRegEx=case_ins+'|'.join(searchStrings)
+    #dfGenFlora with abstracts matching the regex
+    good_abstracts = good_abstracts[good_abstracts['species']==species]
+    good_descriptions = good_descriptions[good_descriptions['species']==species]
+
+    #print(good_descriptions.shape)
+    #print(good_abstracts.shape)
+
+    writeDir = '/home/sean/NERCflora/_reading/species/' + species + '.txt'
+    file = open(writeDir, 'w')
+
+
+    file.write('------------- Description -------------------\n')
+    file.write('#plantat website\n')
+    descriptionList = list(good_descriptions['ecology'])
+    if len(descriptionList)>0:
+        file.write(descriptionList[0] + '\n\n\n')
+
+
+
+    #good_abstracts----------------------------------------------------------
+    file.write('------------- Matching Abstracts -------------------\n')
+    for index, row in good_abstracts.iterrows():
+        file.write(str(index)+'\n')
+        file.write('#'+row['title']+'\n')
+        file.write('#'+row['author']+'\n')
+        file.write('#'+str(row['year'])+'\n')
+        file.write('--------------------------------\n')
+        file.write(row['abstract']+'\n\n\n')
+
+
+    #all_abstracts-----------------------------------------------------------
+    file.write('------------- All Abstracts -------------------\n')
+    for index, row in dfGenFlora[dfGenFlora['species']==species].iterrows():
+        file.write(str(index)+'\n')
+        file.write('#'+row['title']+'\n')
+        file.write('#'+row['author']+'\n')
+        file.write('#'+str(row['year'])+'\n')
+        file.write('--------------------------------\n')
+        file.write(row['abstract']+'\n\n\n')
+
+    file.close()
 
 print("\nThe available dfs are:\n-------\necoFlora\ngenFlora\nplantAtSource\nplantAtScrape\nsexChrom\n")
 
@@ -136,3 +193,61 @@ plantAtScrape = pd.read_csv('/home/sean/NERCflora/plantAtlas/scrapeData.csv', se
 sexChrom = pd.read_csv('/home/sean/NERCflora/sexChrom/data.csv', sep='|')
 
 poacae = pd.read_csv('/home/sean/NERCflora/plantList/poaceae.csv')
+
+badEco = ecoFlora[ ~(   hasInfo(ecoFlora['Fertilization'])  |
+                        cleistogamous(ecoFlora)             |
+                        outcrossing(ecoFlora)               )]
+
+goodEco = ecoFlora[ (   hasInfo(ecoFlora['Fertilization'])  |
+                        cleistogamous(ecoFlora)             |
+                        outcrossing(ecoFlora)               )]
+
+
+
+searchStrings=[
+'fertiliz',
+'fertilis',
+'selfing',
+'outcrossing',
+'dichog',
+'dioec',
+'diclin',
+'incompatib',
+'cleistog',
+'cross',
+'self'
+]
+
+listOfFams = ['poaceae', 'brassicaceae', 'compositae', 'papaveraceae']
+poaceae = ecoFlora[ecoFlora['family']=='poaceae']
+brassicaceae = ecoFlora[ecoFlora['family']=='brassicaceae']
+compositae = ecoFlora[ecoFlora['family']=='compositae']
+papaveraceae = ecoFlora[ecoFlora['family']=='papaveraceae']
+
+usefulFields = [
+'Range: 1. european countries where native',
+'Chromosome number(s): 1. number',
+'Seed/ovule ratio',
+'Pollen/ovule ratio',
+'Inbreeding (%)',
+'Rarity Status',
+'Typical abundance where naturally occurring',
+'Heavy metal resistance',
+'Seed production: 1. maximum (/flower)',
+'Seed production: 2. typical range (/flower)',
+'Seed production: 3. typical range (/plant)',
+'Dispersal agent'
+]
+
+#to make the regex case insensitive
+case_ins='(?i)'
+#final regex searches for contains any of searchStrings case insensitive
+searchRegEx=case_ins+'|'.join(searchStrings)
+#dfGenFlora with abstracts matching the regex
+good_abstracts = genFlora[genFlora.fillna('')['abstract'].str.contains(searchRegEx)]
+good_descriptions = plantAtScrape[plantAtScrape.fillna('')['ecology'].str.contains(searchRegEx)]
+
+speciesWithInfo = set(good_descriptions.species.unique()).union(set(good_abstracts.species.unique()))
+readingSpecies = set(genFlora.species.unique()).union(set(plantAtScrape.species.unique()))
+readingSpecies = set(badEco.species.unique()).intersection(readingSpecies)
+readingSpecies = list(readingSpecies.intersection(speciesWithInfo))

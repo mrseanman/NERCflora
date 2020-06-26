@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+787
+#Genetic differentiation and polyploid formation within the Cryptogramma crispa complex (Polypodiales: Pteridaceae)
+#Metzgar, J, Stamey, M, Ickert-Bond, S
+#2016
+--------------------------------
+The tetraploid fern Cryptogramma crispa (L.) R.Br. ex Hook. is distributed across alpine and high latitude regions of Europe and western Asia and is sympatric with the recently described octoploid C. bithynica S. Jess., L. Lehm. & Bujnoch in north-central Turkey. Our analysis of a 6-region plastid DNA sequence dataset comprising 39 accessions of Cryptogramma R.Br., including 14 accessions of C. crispa and one accession of C. bithynica, revealed a deep genetic division between the accessions of C. crispa from western, northern, and central Europe and the accessions of C. crispa and C. bithynica from Turkey and the Caucasus Mountains. This legacy likely results from Pleistocene climate fluctuations and appears to represent incipient speciation between the eastern and western clades. These plastid DNA sequence data also demonstrate that the western clade of C. crispa, specifically the western Asian clade, is the maternal progenitor of C. bithynica. Our analysis of DNA sequence data from the biparentally inherited nuclear locus gapCp supports an autopolyploid origin of C. bithynica, with C. crispa as the sole progenitor.
+
+
+------------- All Abstracts -------------------
+787
+#Genetic differentiation and polyploid formation within the Cryptogramma crispa complex (Polypodiales: Pteridaceae)
+#Metzgar, J, Stamey, M, Ickert-Bond, S
+#2016
+--------------------------------
+The tetraploid fern Cryptogramma crispa (L.) R.Br. ex Hook. is distributed across alpine and high latitude regions of Europe and western Asia and is sympatric with the recently described octoploid C. bithynica S. Jess., L. Lehm. & Bujnoch in north-central Turkey. Our analysis of a 6-region plastid DNA sequence dataset comprising 39 accessions of Cryptogramma R.Br., including 14 accessions of C. crispa and one accession of C. bithynica, revealed a deep genetic division between the accessions of C. crispa from western, northern, and central Europe and the accessions of C. crispa and C. bithynica from Turkey and the Caucasus Mountains. This legacy likely results from Pleistocene climate fluctuations and appears to represent incipient speciation between the eastern and western clades. These plastid DNA sequence data also demonstrate that the western clade of C. crispa, specifically the western Asian clade, is the maternal progenitor of C. bithynica. Our analysis of DNA sequence data from the biparentally inherited nuclear locus gapCp supports an autopolyploid origin of C. bithynica, with C. crispa as the sole progenitor.
+
+

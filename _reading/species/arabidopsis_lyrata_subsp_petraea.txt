@@ -1,0 +1,124 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+194
+#Cross-species microsatellite markers for elucidating population genetic structure in Arabidopsis and Arabis (Brassicaeae).
+#Clauss, MJ, Cobban, H, Mitchell-Olds, T
+#2002
+--------------------------------
+Species closely related to model organisms present the opportunity to efficiently apply molecular and functional tools developed by a large research community to taxa with different ecological and evolutionary histories. We complied 42 microsatellite loci that amplify under common conditions in four closely related Arabidopsis: A. thaliana; A. halleri; A. lyrata ssp. lyrata; and A. lyrata ssp. petraea, as well as in one more distantly related crucifer, Arabis drummondii. Variation at these loci is amenable to a diversity of applications including population genetics, phylogeographical analyses, mapping of inter and intraspecific crosses, and recombination mapping. Our analysis of microsatellite variation illustrates significant differences in population genetic parameters among three Arabidopsis species. A population of A. thaliana, an inbreeding annual plant associated with disturbed habitats, was highly monomorphic (P=8% percent polymorphic loci) and only 0.2% heterozygous for 648 locus-by-individual combinations. A population of the self-incompatible perennial herb,A. halleri, was more genetically variable (P=71%) and had an excess of heterozygosity that may reflect a recent population bottleneck associated with human-mediated founder events. A population of the self-incompatible perennial herb,A. lyrata ssp. petraea, was even more genetically variable (P=86%) and appeared to be at mutation-drift equilibrium. Population structure estimated from neutrally evolving loci provides an empirical expectation against which hypotheses of adaptive evolution at functional loci can be tested.
+
+
+196
+#Evolution of microsatellites in Arabis petraea and Arabis lyrata, outcrossing relatives of Arabidopsis thaliana.
+#van Treuren, R, Kuittinen, H, Karkkainen, K, BaenaGonzalez, E, Savolainen, O
+#1997
+--------------------------------
+We examined microsatellite variation in two diploid, outcrossing relatives of Arabidopsis thaliana, Arabis petraea and Arabis lyrata. The primer sequences were derived from A. thaliana. About 50% (14 loci) of the A. thaliana primers could succesfully amplify microsatellites in the related species. Analysis of microsatellite structure in the related species showed that there had been large changes in the microsatellites: there were large differences in repeat numbers and many of the A. thaliana simple repeats were shorter in the related species. For the loci we compared, the related species had a much lower level of variability at the microsatellites than Japanese wild populations of A. thaliana. This is presumably related to the different microsatellite structures, because allozyme data showed that the outcrossing relatives were highly polymorphic compared to other outcrossing herbaceous species. Use of microsatellites in assessing variability or phylogenetic relationships between different species requires caution, because changes in microsatellite structure may alter evolutionary rates.
+
+
+197
+#Genetic basis of inbreeding depression in Arabis petraea.
+#Karkkainen, K, Kuittinen, H, van Treuren, R, Vogl, C, Oikarinen, S, Savolainen, O
+#1999
+--------------------------------
+Inbreeding depression may be caused by (partially) recessive or overdominant gene action. The relative evolutionary importance of these two modes has been debated; the former mode is emphasized in the "dominance hypothesis," the latter in the "overdominance hypothesis." We analyzed the genetic basis of inbreeding depression in the self-incompatible herb Arabis petraea (L.) Lam.: In the selfed progeny of twelve parental plants, we studied the proportion of chlorophyll-deficient seedlings, the genotypic distributions of marker genes, and associations of marker genotypes with viability and quantitative traits. Early components of fitness were examined by scoring seed size, germination time, and early growth rate and by observing the proportion of chlorophyll-deficient seedlings. Later components of fitness, flowering, and root and aboveground biomass were also measured. Marker genotypes of young seedlings were scored for 11 enzyme loci and three microsatellite markers. We found a high proportion (about 70%) of families with chlorophyll-deficient seedlings, indicating a high mutational load. We found six significant deviations from 1:2:1 ratio at marker loci of 60 tests in seedlings, with three of these significant at the experimentwide level. Deviations from the expected ratio were assumed to be due to linked viability loci. A graphical and a Bayesian method were used to distinguish between the overdominance and dominance hypotheses. Most of the deviant segregation ratios suggested overdominance instead of recessivity of the deleterious allele. Neither the early (seed size, germination time, or early growth trait) nor the late quantitative traits (flowering, and root and aboveground biomass) showed significant linkage to markers at the experimentwide level. Presence of significant associations between markers and early viability, but lack thereof for quantitative traits expressed late, suggests either that there may be relatively low inbreeding depression in later life stages or that individual quantitative trait loci may have smaller effects than loci contributing to early viability.
+
+
+199
+#Patterns of genetic diversity in outcrossing and selfing populations of Arabidopsis lyrata
+#Mable, BK Adam, A
+#2007
+--------------------------------
+Arabidopsis lyrata is normally considered an obligately outcrossing species with a strong self-incompatibility system, but a shift in mating system towards inbreeding has been found in some North American populations (subspecies A. lyrata ssp. lyrata). This study provides a survey of the Great Lakes region of Canada to determine the extent of this mating system variation and how outcrossing rates are related to current population density, geographical distribution, and genetic diversity. Based on variation at microsatellite markers (progeny arrays to estimate multilocus outcrossing rates and population samples to estimate diversity measures) and controlled greenhouse pollinations, populations can be divided into two groups: W group A, consisting of individuals capable of setting selfed seed (including autogamous fruit set in the absence of pollinators), showing depressed outcrossing rates (T-m = 0.2-0.6), heterozygosity (H-O = 0.02-0.06) and genetic diversity (H-E = 0.08-0.10); and (ii) group B, consisting of individuals that are predominantly self-incompatible (T-m > 0.8), require pollinators for seeds set, and showing higher levels of heterozygosity (H-O = 0.13-0.31) and diversity (H-E = 0.19-0.410). Current population density is not related to the shift in mating system but does vary with latitude. Restricted gene flow among populations was evident among all but two populations (F-ST = 0.11-0.8). Group A populations were more differentiated from one another (F-ST = 0.78) than they were from group B populations (F-ST = 0.59), with 41% of the variation partitioned within populations, 47% between populations, and 12% between groups. No significant relationship was found between genetic and geographical distance. Results are discussed in the context of possible postglacial expansion scenarios in relation to loss of self-incompatibility.
+
+
+200
+#Selection on flowering time and floral display in an alpine and a lowland population of Arabidopsis lyrata
+#Sandring, S Riihimaki, MA Savolainen, O Agren, J
+#2007
+--------------------------------
+To determine whether population differentiation in flowering time is consistent with differences in current selection, we quantified phenotypic selection acting through female reproductive success on flowering phenology and floral display in two Scandinavian populations of the outcrossing, perennial herb Arabidopsis lyrata in two years. One population was located in an alpine environment strongly affected by grazing, whereas the other was close to sea level and only moderately affected by herbivory. Multiple regression models indicated directional selection for early end of flowering in one year in the lowland population, and directional selection for early start of flowering in one year in the alpine population. As expected, there was selection for more inflorescences in the lowland population. However, in the alpine population, plants with many inflorescences were selectively grazed and the number of inflorescences produced was negatively related to female fitness in one year and not significantly related to female fitness in the second year. The results are consistent with the hypothesis that genetic differentiation in flowering phenology between the study populations is adaptive, and indicate that interactions with selective grazers may strongly influence selection on floral display in A. lyrata.
+
+
+------------- All Abstracts -------------------
+193
+#Self-incompatibility systems and parental performance of the British populations of Arabis petraea (L.) Lam.
+#Islam, MA and Ennos,RA
+#1999
+--------------------------------
+
+
+
+194
+#Cross-species microsatellite markers for elucidating population genetic structure in Arabidopsis and Arabis (Brassicaeae).
+#Clauss, MJ, Cobban, H, Mitchell-Olds, T
+#2002
+--------------------------------
+Species closely related to model organisms present the opportunity to efficiently apply molecular and functional tools developed by a large research community to taxa with different ecological and evolutionary histories. We complied 42 microsatellite loci that amplify under common conditions in four closely related Arabidopsis: A. thaliana; A. halleri; A. lyrata ssp. lyrata; and A. lyrata ssp. petraea, as well as in one more distantly related crucifer, Arabis drummondii. Variation at these loci is amenable to a diversity of applications including population genetics, phylogeographical analyses, mapping of inter and intraspecific crosses, and recombination mapping. Our analysis of microsatellite variation illustrates significant differences in population genetic parameters among three Arabidopsis species. A population of A. thaliana, an inbreeding annual plant associated with disturbed habitats, was highly monomorphic (P=8% percent polymorphic loci) and only 0.2% heterozygous for 648 locus-by-individual combinations. A population of the self-incompatible perennial herb,A. halleri, was more genetically variable (P=71%) and had an excess of heterozygosity that may reflect a recent population bottleneck associated with human-mediated founder events. A population of the self-incompatible perennial herb,A. lyrata ssp. petraea, was even more genetically variable (P=86%) and appeared to be at mutation-drift equilibrium. Population structure estimated from neutrally evolving loci provides an empirical expectation against which hypotheses of adaptive evolution at functional loci can be tested.
+
+
+195
+#Genetic variation in Arabis petraea, a disjunct species in northern Europe.
+#Jonsell, B, Kustas, K, Nordal, I
+#1995
+--------------------------------
+Variation at 7 isoenzyme loci was studied in 15 populations (6 from Iceland, 4 from W Norway 4 from central Sweden at the Bothnian Gulf, and 1 from Russian Karelia). Heterozygosity within populations was found to be remarkably high compared with taxa with similar reproductive systems and phytogeographical histories. Genetic distances calculated from isoenzyme data showed a close connection between the Norwegian and Swedish populations, indicating a western rather than an eastern immigration route for the isolated Swedish population. Leaf shape variation displayed a large scale geographical pattern with strong differences between regions and low variation within populations.
+
+
+196
+#Evolution of microsatellites in Arabis petraea and Arabis lyrata, outcrossing relatives of Arabidopsis thaliana.
+#van Treuren, R, Kuittinen, H, Karkkainen, K, BaenaGonzalez, E, Savolainen, O
+#1997
+--------------------------------
+We examined microsatellite variation in two diploid, outcrossing relatives of Arabidopsis thaliana, Arabis petraea and Arabis lyrata. The primer sequences were derived from A. thaliana. About 50% (14 loci) of the A. thaliana primers could succesfully amplify microsatellites in the related species. Analysis of microsatellite structure in the related species showed that there had been large changes in the microsatellites: there were large differences in repeat numbers and many of the A. thaliana simple repeats were shorter in the related species. For the loci we compared, the related species had a much lower level of variability at the microsatellites than Japanese wild populations of A. thaliana. This is presumably related to the different microsatellite structures, because allozyme data showed that the outcrossing relatives were highly polymorphic compared to other outcrossing herbaceous species. Use of microsatellites in assessing variability or phylogenetic relationships between different species requires caution, because changes in microsatellite structure may alter evolutionary rates.
+
+
+197
+#Genetic basis of inbreeding depression in Arabis petraea.
+#Karkkainen, K, Kuittinen, H, van Treuren, R, Vogl, C, Oikarinen, S, Savolainen, O
+#1999
+--------------------------------
+Inbreeding depression may be caused by (partially) recessive or overdominant gene action. The relative evolutionary importance of these two modes has been debated; the former mode is emphasized in the "dominance hypothesis," the latter in the "overdominance hypothesis." We analyzed the genetic basis of inbreeding depression in the self-incompatible herb Arabis petraea (L.) Lam.: In the selfed progeny of twelve parental plants, we studied the proportion of chlorophyll-deficient seedlings, the genotypic distributions of marker genes, and associations of marker genotypes with viability and quantitative traits. Early components of fitness were examined by scoring seed size, germination time, and early growth rate and by observing the proportion of chlorophyll-deficient seedlings. Later components of fitness, flowering, and root and aboveground biomass were also measured. Marker genotypes of young seedlings were scored for 11 enzyme loci and three microsatellite markers. We found a high proportion (about 70%) of families with chlorophyll-deficient seedlings, indicating a high mutational load. We found six significant deviations from 1:2:1 ratio at marker loci of 60 tests in seedlings, with three of these significant at the experimentwide level. Deviations from the expected ratio were assumed to be due to linked viability loci. A graphical and a Bayesian method were used to distinguish between the overdominance and dominance hypotheses. Most of the deviant segregation ratios suggested overdominance instead of recessivity of the deleterious allele. Neither the early (seed size, germination time, or early growth trait) nor the late quantitative traits (flowering, and root and aboveground biomass) showed significant linkage to markers at the experimentwide level. Presence of significant associations between markers and early viability, but lack thereof for quantitative traits expressed late, suggests either that there may be relatively low inbreeding depression in later life stages or that individual quantitative trait loci may have smaller effects than loci contributing to early viability.
+
+
+198
+#Landscape structure, clonal propagation, and genetic diversity in Scandinavian populations of Arabidopsis lyrata (Brassicaceae)
+#Gaudeul, M Stenoien, HK Agren, J
+#2007
+--------------------------------
+Colonization history, landscape structure, and environmental conditions may influence patterns of neutral genetic variation because of their effects on gene flow and reproductive mode. We compared variation at microsatellite loci within and among 26 Arabidopsis lyrata populations in two disjunct areas of its distribution in northern Europe (Norway and Sweden). The two areas probably share a common colonization history but differ in size (Norwegian range markedly larger than Swedish range), landscape structure (mountains vs. coast), and habitat conditions likely to affect patterns of gene flow and opportunities for sexual reproduction. Within-population genetic diversity was not related to latitude but was higher in Sweden than in Norway. Population differentiation was stronger among Norwegian than among Swedish populations (F-ST = 0.23 vs. F-ST = 0.18). The frequency of clonal propagation (proportion of identical multilocus genotypes) increased with decreasing population size, was higher in Norwegian than in Swedish populations, but was not related to altitude or substrate. Differences in genetic structure are discussed in relation to population characteristics and range size in the two areas. The results demonstrate that the possibility of clonal propagation should be considered when developing strategies for sampling and analyzing data in ecological and genetic studies of this emerging model species.
+
+
+199
+#Patterns of genetic diversity in outcrossing and selfing populations of Arabidopsis lyrata
+#Mable, BK Adam, A
+#2007
+--------------------------------
+Arabidopsis lyrata is normally considered an obligately outcrossing species with a strong self-incompatibility system, but a shift in mating system towards inbreeding has been found in some North American populations (subspecies A. lyrata ssp. lyrata). This study provides a survey of the Great Lakes region of Canada to determine the extent of this mating system variation and how outcrossing rates are related to current population density, geographical distribution, and genetic diversity. Based on variation at microsatellite markers (progeny arrays to estimate multilocus outcrossing rates and population samples to estimate diversity measures) and controlled greenhouse pollinations, populations can be divided into two groups: W group A, consisting of individuals capable of setting selfed seed (including autogamous fruit set in the absence of pollinators), showing depressed outcrossing rates (T-m = 0.2-0.6), heterozygosity (H-O = 0.02-0.06) and genetic diversity (H-E = 0.08-0.10); and (ii) group B, consisting of individuals that are predominantly self-incompatible (T-m > 0.8), require pollinators for seeds set, and showing higher levels of heterozygosity (H-O = 0.13-0.31) and diversity (H-E = 0.19-0.410). Current population density is not related to the shift in mating system but does vary with latitude. Restricted gene flow among populations was evident among all but two populations (F-ST = 0.11-0.8). Group A populations were more differentiated from one another (F-ST = 0.78) than they were from group B populations (F-ST = 0.59), with 41% of the variation partitioned within populations, 47% between populations, and 12% between groups. No significant relationship was found between genetic and geographical distance. Results are discussed in the context of possible postglacial expansion scenarios in relation to loss of self-incompatibility.
+
+
+200
+#Selection on flowering time and floral display in an alpine and a lowland population of Arabidopsis lyrata
+#Sandring, S Riihimaki, MA Savolainen, O Agren, J
+#2007
+--------------------------------
+To determine whether population differentiation in flowering time is consistent with differences in current selection, we quantified phenotypic selection acting through female reproductive success on flowering phenology and floral display in two Scandinavian populations of the outcrossing, perennial herb Arabidopsis lyrata in two years. One population was located in an alpine environment strongly affected by grazing, whereas the other was close to sea level and only moderately affected by herbivory. Multiple regression models indicated directional selection for early end of flowering in one year in the lowland population, and directional selection for early start of flowering in one year in the alpine population. As expected, there was selection for more inflorescences in the lowland population. However, in the alpine population, plants with many inflorescences were selectively grazed and the number of inflorescences produced was negatively related to female fitness in one year and not significantly related to female fitness in the second year. The results are consistent with the hypothesis that genetic differentiation in flowering phenology between the study populations is adaptive, and indicate that interactions with selective grazers may strongly influence selection on floral display in A. lyrata.
+
+
+201
+#Development of EST-derived microsatellite markers for Arabidopsis lyrata subspecies petraea (L.)
+#Woodhead, M Russell, J Squirrell, J Hollingsworth, PM Cardle, L Gibby, M Powell, W
+#2007
+--------------------------------
+A set of expressed sequence tag-simple sequence repeat (EST-SSR) loci has been developed for Arabidopsis lyrata ssp. petraea. From 768 root cDNA clones, 126 microsatellites, including di-, tri-, tetra- and pentanucleotide repeat motifs were identified and primers were designed to 24 EST-SSRs. Eleven loci were subsequently screened on 150 individuals sampled from five natural populations, which revealed three to nine alleles per locus (mean 5.36) and expected heterozygosity (H-E) estimates ranging from 0.046 to 0.698. Significant deviations from random mating were observed at 10 EST-SSR loci, likely due to inbreeding (global F-IS = 0.151) and population structure (global F-ST = 0.246).
+
+
+202
+#Phylogeographic implications for the North American boreal-arctic Arabidopsis lyrata complex
+#Schmickl R, Joergensen MH, Brysting AK, Koch MA
+#2008
+--------------------------------
+
+
+

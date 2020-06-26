@@ -1,0 +1,68 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+576
+#CHARACTERIZATION AND TRANSFERABILITY OF MICROSATELLITE MARKERS DEVELOPED FOR CARPINUS BETULUS (BETULACEAE)
+#Prinz, Kathleen, Finkeldey, Reiner
+#2015
+--------------------------------
+Premise of the study: Carpinus betulus (Betulaceae) is an octoploid, ecologically important, common tree species in European woodlands. We established 11 nuclear microsatellite loci allowing for detailed analyses of genetic diversity and structure. Methods and Results: A microsatellite-enriched library was used to develop primers for 11 microsatellite loci that revealed high allele numbers and genetic diversity in a preliminary study. Conclusions: All of the loci developed here are informative for C. betulus. In addition, the loci are transferable to several species within the genus, and almost all loci cross-amplified in species of different genera of the Betulaceae.
+
+
+578
+#Unique postglacial evolution of the hornbeam (Carpinus betulus L.) in the Carpathians and the Balkan Peninsula revealed by chloroplast DNA
+#Postolache, D, Popescu, F, Paule, L, Ballian, D, Zhelev, P, Farcas, S, Paule, J, Badea, O
+#2017
+--------------------------------
+The Balkan Peninsula is one of the largest and most important European glacial refugia. However, the evolutionary history and phylogeographic pattern of temperate tree species that survived in the Balkans glacial refugia and their contribution to the genetic structure of the current population in the Carpathian Mountains remains poorly understood. Using polymerase chain reaction - restriction fragment length polymorphism (PCR-RFLP), and extensive population sampling, we explored the phylogeographic pattern of Carpinus betulus in both the Balkan Peninsula and the Carpathian region. We aimed to determine the locations of potential glacial refugia, in order to delineate post glacial colonization routes, and also to test if northern cryptic refugia had persisted during the Last Glacial Maximum (LGM). Our results provide strong support for the existence of multiple refugia similar to the 'refugia-within-refugia' scenario, which would suggest that Carpinus betulus has experienced a complex evolutionary history. In agreement with pollen data, our findings corroborate with previous hypotheses suggesting that hornbeam has a distinct postglacial evolution in the southeast of Europe (Carpathians and Balkan Peninsula) compared with that in Western Europe. Three postglacial re-colonization routes, from three distinct effective glacial refugia: (1) the Dinaric Alps; (2) the Pirin and Rhodope Mountains and (3) the Strandzha Mountains, were detected within the Balkan Peninsula. The pattern of cpDNA haplotypes distribution across the Ukrainian Carpathians revealed a "suture zone  which is a consequence of contact due to postglacial re-colonization between hornbeam populations originating from all three effective glacial refugia. The peculiar haplotype geographical structure found in C. betulus and the identified multiple glacial refugia in the Balkans may have direct consequences in the management and conservation of hornbeam forest genetic resources. "
+
+
+------------- All Abstracts -------------------
+573
+#Chloroplast DNA phylogeography of the hornbeam in Europe: Evidence for a bottleneck at the outset of postglacial colonization.
+#Grivet, D and Petit, RJ
+#2003
+--------------------------------
+
+
+
+574
+#Range wide versus local patterns of genetic diversity in hornbeam (Carpinus betulus L.)
+#Coart, E, Van Glabeke, S, Petit, RJ, Van Bockstaele, E and Roldan-Ruiz, I
+#2005
+--------------------------------
+A study based on AFLP markers was conducted to characterise the present population genetic structure of Carpinus betulus in Europe and to formulate guidelines for the use of this species in plantations on a local scale in Flanders. High within-population diversity and little (but significant) genetic differentiation were detected at both Flemish and European scales. However, there was a pattern of isolation by distance only at the European scale. Within-population gene diversity, a new rarefaction-based measure of number of genotypes ('band richness') and percentage of polymorphic loci are lower north of major mountain chains, suggesting that the mountain ranges formed a second bottleneck for the hornbeam during postglacial recolonisation. In Flanders, despite lower gene diversity, there were more polymorphic loci than in other European populations, a pattern that might have been caused by the mixing of material through planting, e.g. in hedges. In view of these findings, it is advised to create a single Flemish seed zone and to use preferentially reproductive material from this seed zone for new plantations in Flanders.
+
+
+575
+#Transferability of Microsatellite Markers in the Betulaceae
+#Gurcan K, Mehlenbacher SA.
+#2010
+--------------------------------
+Microsatellite-containing sequences for the Betulaceae (Betula, Corylus, and Alnus) were retrieved front GenBank and used to develop twelve new microsatellite marker printer pairs that amplified and were polymorphic in european hazelnut (Corylus avellana). The printer pairs were characterized using 50 european hazelnut accessions. Nine of these microsatellites that segregated in a mapping population were assigned to linkage groups. The 12 new printer pairs will be useful in genetic studies in Corylus and Betula. To investigate transferability of microsatellite primer pairs in the family Betulaceae, we assessed the ability of 129 simple sequence repeat (SSR) printer pairs (75 from Corylus, 52 from Betula, and two from Alnus) to amplify DNA of 69 accessions representing diverse taxa Microsaellite primer pairs from Betula amplified 92% of Betula, 51% of Alnus, 41% of Corylus, 37% of Carpinus, 35% of Ostryopsis, and 34% of Ostrya accessions. In the 69 accessions, microsatellite primer pairs from Corylus amplified 81% of Corylus, 55% of Carpinus, 53% of Ostrya, 51% of Ostryopsis, 41% of Alnus, and 39% of Betula accessions. An additional 147 SSR primer pairs developed from Corylus, used to amplify a subset of 32 accessions, gave similar values: 92% in Corylus, 33% in Carpinus, 33% in Ostrya, 44% in Ostryopsis, 35% in Alnus, and 54% in Betula. The high transferability (>39%) of microsatellite primer pairs between Betula and Corylus will allow comparative studies of the two genera with the greatest economic importance.
+
+
+576
+#CHARACTERIZATION AND TRANSFERABILITY OF MICROSATELLITE MARKERS DEVELOPED FOR CARPINUS BETULUS (BETULACEAE)
+#Prinz, Kathleen, Finkeldey, Reiner
+#2015
+--------------------------------
+Premise of the study: Carpinus betulus (Betulaceae) is an octoploid, ecologically important, common tree species in European woodlands. We established 11 nuclear microsatellite loci allowing for detailed analyses of genetic diversity and structure. Methods and Results: A microsatellite-enriched library was used to develop primers for 11 microsatellite loci that revealed high allele numbers and genetic diversity in a preliminary study. Conclusions: All of the loci developed here are informative for C. betulus. In addition, the loci are transferable to several species within the genus, and almost all loci cross-amplified in species of different genera of the Betulaceae.
+
+
+577
+#Evidence of Low Chloroplast Genetic Diversity in Two Carpinus Species in the Northern Balkans
+#Carabus, MC, Curtu, AL, Postolache, D, Ciocirlan, E, Sofletea, N
+#2017
+--------------------------------
+Genetic diversity and differentiation in two Carpinus species (C. betulus and C. orientalis) occurring in Romania was investigated by using three chloroplast Simple Sequence Repeat markers (cpSSRs). A total of 96 and 32 individuals were sampled in eighteen C. betulus and six C. orientalis populations, respectively. A total of four chloroplast haplotypes were observed. Two haplotypes were specific for C. betulus and two for C. orientalis. Most of C. betulus populations were fixed for the predominant haplotype (H1), which was observed in 82% of the individuals. All C. orientalis populations were fixed for one haplotype or the other. Populations with haplotype (H3) are spread in southern Romania and the haplotype (H4) was observed at the northern limit of C. orientalis natural distribution range. Genetic differentiation among populations was moderate in C. betulus (G(ST) = 0.422), compared to the high value observed in C. orientalis (G(ST) = 1.000), which can be explained by the occurrence of a distinct haplotype in the peripheral population. R-ST values for both species suggest low levels of recurrent gene flow through seeds among populations. Our data on geographic distribution of chloroplast DNA haplotypes may be useful for the identification and conservation of distinct genetic resources of the two Carpinus species.
+
+
+578
+#Unique postglacial evolution of the hornbeam (Carpinus betulus L.) in the Carpathians and the Balkan Peninsula revealed by chloroplast DNA
+#Postolache, D, Popescu, F, Paule, L, Ballian, D, Zhelev, P, Farcas, S, Paule, J, Badea, O
+#2017
+--------------------------------
+The Balkan Peninsula is one of the largest and most important European glacial refugia. However, the evolutionary history and phylogeographic pattern of temperate tree species that survived in the Balkans glacial refugia and their contribution to the genetic structure of the current population in the Carpathian Mountains remains poorly understood. Using polymerase chain reaction - restriction fragment length polymorphism (PCR-RFLP), and extensive population sampling, we explored the phylogeographic pattern of Carpinus betulus in both the Balkan Peninsula and the Carpathian region. We aimed to determine the locations of potential glacial refugia, in order to delineate post glacial colonization routes, and also to test if northern cryptic refugia had persisted during the Last Glacial Maximum (LGM). Our results provide strong support for the existence of multiple refugia similar to the 'refugia-within-refugia' scenario, which would suggest that Carpinus betulus has experienced a complex evolutionary history. In agreement with pollen data, our findings corroborate with previous hypotheses suggesting that hornbeam has a distinct postglacial evolution in the southeast of Europe (Carpathians and Balkan Peninsula) compared with that in Western Europe. Three postglacial re-colonization routes, from three distinct effective glacial refugia: (1) the Dinaric Alps; (2) the Pirin and Rhodope Mountains and (3) the Strandzha Mountains, were detected within the Balkan Peninsula. The pattern of cpDNA haplotypes distribution across the Ukrainian Carpathians revealed a "suture zone  which is a consequence of contact due to postglacial re-colonization between hornbeam populations originating from all three effective glacial refugia. The peculiar haplotype geographical structure found in C. betulus and the identified multiple glacial refugia in the Balkans may have direct consequences in the management and conservation of hornbeam forest genetic resources. "
+
+

@@ -1,0 +1,60 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1698
+#Variability and structure of natural populations of Elymus caninus (L.) L. and their possible relationship with Hordelymus europaeus (L.) Jess. ex Harz as revealed by AFLP analysis
+#Mizianty, M, Bieniek, W, Czech, A, Strzalka, W, Szklarczyk, M
+#2006
+--------------------------------
+The AFLP method was used to study the inter-population variability of eight populations of Elymus caninus (L.) L. as well as three populations of Hordelymus europaeus (L.) Jess. Ex Harz. In these studies a clear distinction was found between two phenotypes of E.caninus collected in the same locality. It also appeared that two populations of E. caninus representing the "pauciflorum" morphotype were clustered together, similarly as two populations of E. caninusexhibiting morphotype "caninus". Additionally, the populations of the"pauciflorum" type were clustered together with all samples of H.europaeus. Furthermore, the same approach was applied to analyze the intra-population variability of E. caninus. The populations ranged from nearly uniform to as diverse as the samples collected from different localities. In some populations of this species the presence of off-type plants was revealed. Our data indicate the predominantly self-pollinating character of E. caninus and the possible genetic relationship between of E. caninus and H. europaeus.
+
+
+------------- All Abstracts -------------------
+1696
+#Molecular variation in Leymus species and populations.
+#Anamthawat-Jonsson, K, Bragason, BT, Bodvarsdottir, SK, Koebner, RMD
+#1999
+--------------------------------
+Icelandic populations of European lymegrass [Leymus arenarius (L.) Hochst.] were examined using amplified fragment length polymorphism (AFLP) and restriction fragment length polymorphism (RFLP) of the major ribosomal genes (18S-5.8S-26S rDNA), in comparison with Alaskan populations of its closely related species L. mollis (Trin.) Pilger. The AFLP profiles emerged as two distinct entities, clearly separating the two species, and based on species-specific bands it was simple to distinguish these two morphologically similar species. The rDNA-RFLPs also differentiated the species. Within species, the Icelandic L. arenarius was more homogeneous than the Alaskan L. mollis, and its variation was dispersed over geographically different populations, suggesting a common gene pool. The variation among the Alaskan L. mollis was more extensive and its interrupted pattern may be the result of gene introgression at subspecies level. Within a 40-year-old population of L. mollis established in Iceland from Alaskan material, the molecular profiles separated old and new genotypes. Both AFLP and rDNA revealed the new genotypes to be extremely similar. This rapid change in allele frequency is thought to be the result of adaptation to a new environment.
+
+
+1697
+#Genomic and genetic relationships among species of Leymus (Poaceae : Triticeae) inferred from 18S-26S ribosomal genes.
+#Anamthawat-Jonsson, K, Bodvarsdottir, SK
+#2001
+--------------------------------
+The 18S-26S ribosomal genes in three closely related species of Leymus (Poaceae: Triticeae) were examined using fluorescence in situ hybridization (FISH) and restriction fragment length polymorphism (RFLP). Both approaches revealed a close relationship between L. arenarius (8x = 56, northern European) and L. racemosus (4x = 28. central Eurasian), whereas L. mollis (4x = 28, northern American/Pacific) was distinct. Each species had three homologous pairs of major rDNA loci: a1, a2, and a3 for L. arenarius: mi. m2, and m3 for L. mollis: and r1, r2, and r3 for L. racemosus. Leymus arenarius had in addition three minor loci, a4, a5, and a6. The major loci of L arenarius and L, racemosus were identical, indicating that the former species could have originated from the latter; via interspecific hybridization and/or polyploidy. The rDNA-RFLPs further indicated relationships of these species to other species of Leymus (L. karellini, 8x = 56 and L. angustus, 12x = 84) and Psathyrostachys (P. fragilis, huashanica, P. juncea, and P, lanuginosa, which are all diploids). A phenogram constructed from 20 BamHI, EcoRI, and DraI rDNA fragments revealed closer relationship between the two genera, Leymus and Psathyrostachys, than that among species within a genus.
+
+
+1698
+#Variability and structure of natural populations of Elymus caninus (L.) L. and their possible relationship with Hordelymus europaeus (L.) Jess. ex Harz as revealed by AFLP analysis
+#Mizianty, M, Bieniek, W, Czech, A, Strzalka, W, Szklarczyk, M
+#2006
+--------------------------------
+The AFLP method was used to study the inter-population variability of eight populations of Elymus caninus (L.) L. as well as three populations of Hordelymus europaeus (L.) Jess. Ex Harz. In these studies a clear distinction was found between two phenotypes of E.caninus collected in the same locality. It also appeared that two populations of E. caninus representing the "pauciflorum" morphotype were clustered together, similarly as two populations of E. caninusexhibiting morphotype "caninus". Additionally, the populations of the"pauciflorum" type were clustered together with all samples of H.europaeus. Furthermore, the same approach was applied to analyze the intra-population variability of E. caninus. The populations ranged from nearly uniform to as diverse as the samples collected from different localities. In some populations of this species the presence of off-type plants was revealed. Our data indicate the predominantly self-pollinating character of E. caninus and the possible genetic relationship between of E. caninus and H. europaeus.
+
+
+1699
+#Development and characterization of chloroplast microsatellite markers in Pseudoroegneria and Leymus (Poaceae: Triticeae)
+#Liu Q, Li L, Zhang N, Liu J, Shi Y
+#2010
+--------------------------------
+
+
+
+1700
+#Genome origins in Leymus (Poaceae: Triticeae): evidence of maternal and paternal progenitors and implications for reticulate evolution
+#Zhou XC, Yang XM, Li XQ, Li LH
+#2010
+--------------------------------
+The polyploid Leymus species have the Ns nuclear genomes evolved from Psathyrostachys and the Xm nuclear genomes from unknown origins. Currently, little is known about the cytoplasmic genomes of Leymus, and the species of Psathyrostachys that transferred the Ns genome to Leymus remain elusive. To determine the origins of the plastid and nuclear genome for Leymus species, sequences of two chloroplast genes, rpoA and rbcL, and partial sequences of the nuclear gene DMC1 of 15 Leymus species were phylogenetically analyzed with those of 71 accessions belonging to 19 monogenomic genera in Triticeae. Both rpoA and rbcL sequences revealed that Psathyrostachys juncea, P. lanuginosa, and P. stoloniformis had close phylogenetic relationships with the Eurasian and one North American Leymus accessions, L. cinereus. Three American Leymus species, L. erianthus, L. triticoides, and L. innovatus had different maternal origins from Eurasian Leymus species. DMC1 sequences of Leymus were grouped into several phylogenetically distant clades indicating that either Ns or Xm originated from different lineages. These results suggest multiple contributions to the chloroplast as well as nuclear genomes in Leymus species. The comprehensive data indicate reticulate evolution in polyploid Leymus.
+
+
+1701
+#Development and characterization of chloroplast microsatellite markers in Pseudoroegneria and Leymus (Poaceae: Triticeae)
+#Liu Q, Li L, Zhang N, Liu J, Shi Y
+#2011
+--------------------------------
+No abstract available
+
+

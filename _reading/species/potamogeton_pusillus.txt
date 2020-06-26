@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2775
+#Genetic variation within and between populations of Potamogeton pusillus agg..
+#Kaplan, Z, Stepanek, J
+#2003
+--------------------------------
+Patterns of isozyme variation were examined in 17 populations of P. pusillus and P. berchtoldii, together with one population of P. trichoides taken for comparison. Both P. pusillus and P. berchtoldii displayed low levels of variation within populations associated with high levels of interpopulation differentiation. This pattern of partitioning of genetic variation within and between populations is attributed to the founder effect, frequent vegetative propagation by turions, dominant self-fertilization and limited seedling recruitment. The mechanism of pollen transfer was investigated in cultivation. Effective pollination takes place in air above the water surface (autogamy, geitonogamy, anemogamy), on the water surface (epihydrogamy) or below water surface (hydroautogamy). The species are self-compatible. The low level of infra- population variation together with rare occurrence of heterozygotes suggest that selfing is the most frequent mode of pollination, although the protogynous flowers may occasionally permit some cross-pollination. Unique enzyme markers were found for P. pusillus and P. berchtoldii, and also for the single population of P. trichoides. All multienzyme phenotypes were species-specific. Isozyme data support the separate position of P. pusillus and P. berchtoldii. UPGMA dendogram based on enzyme data of 133 plant samples revealed three distinct main enzymatic entities perfectly corresponding to the three morphologically defined species.
+
+
+------------- All Abstracts -------------------
+2775
+#Genetic variation within and between populations of Potamogeton pusillus agg..
+#Kaplan, Z, Stepanek, J
+#2003
+--------------------------------
+Patterns of isozyme variation were examined in 17 populations of P. pusillus and P. berchtoldii, together with one population of P. trichoides taken for comparison. Both P. pusillus and P. berchtoldii displayed low levels of variation within populations associated with high levels of interpopulation differentiation. This pattern of partitioning of genetic variation within and between populations is attributed to the founder effect, frequent vegetative propagation by turions, dominant self-fertilization and limited seedling recruitment. The mechanism of pollen transfer was investigated in cultivation. Effective pollination takes place in air above the water surface (autogamy, geitonogamy, anemogamy), on the water surface (epihydrogamy) or below water surface (hydroautogamy). The species are self-compatible. The low level of infra- population variation together with rare occurrence of heterozygotes suggest that selfing is the most frequent mode of pollination, although the protogynous flowers may occasionally permit some cross-pollination. Unique enzyme markers were found for P. pusillus and P. berchtoldii, and also for the single population of P. trichoides. All multienzyme phenotypes were species-specific. Isozyme data support the separate position of P. pusillus and P. berchtoldii. UPGMA dendogram based on enzyme data of 133 plant samples revealed three distinct main enzymatic entities perfectly corresponding to the three morphologically defined species.
+
+
+2776
+#Identification of Hybrids in Potamogeton: Incongruence between Plastid and ITS Regions Solved by a Novel Barcoding Marker PHYB
+#Yang, T, Zhang, TL, Guo, YH, Liu, X
+#2016
+--------------------------------
+Potamogeton is one of the most difficult groups to clarify in aquatic plants, which has an extensive range of interspecific morphological and ecological diversity. Internal transcribed spacer (ITS) is prevalent for phylogenetic analysis in plants. However, most researches demonstrate that ITS has a high percentage of homoplasy in phylogenetic datasets. In this study, eighteen materials were collected in Potamogeton from China and incongruence was shown between the rbcL and ITS phylogenies. To solve the discrepancy, we employed a novel barcode PHYB to improve resolution and accuracy of the phylogenetic relationships. The PHYB phylogeny successfully resolved the incongruence between the rbcL and ITS phylogenies. In addition, six hybrids were confirmed using PHYB, including P. compressus x P pusillus, P. octandrus x P. oxyphyllus, P. gramineus x P. lucens, P. distinctus x P. natans, P. distinctus x P. wrightii, and S. pectinata x S. amblyophylla. Whereas, only one hybrid was identified (P. compressus x P. pusillus) by ITS, indicating that ITS homoplasy was present in Potamogeton and ITS was completely homogenized to one parental lineage. Thus, ITS might have limited utility for phylogenetic relationships in Potamogeton. It is recommended that a three-locus combination of chloroplast DNA gene, ITS and PHYB is potential to effectively reveal more robust phylogenetic relationships and species identification.
+
+

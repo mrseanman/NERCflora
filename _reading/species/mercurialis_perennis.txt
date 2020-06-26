@@ -1,0 +1,205 @@
+------------- Description -------------------
+#plantat website
+A rhizomatous, dioecious perennial herb usually growing on damp but free-draining base-rich soils. In the lowlands it is largely restricted to shaded sites, including ancient woodland, older secondary woodland, hedgerows and shaded banks, but in the uplands it occurs on unshaded basic crags, scree, cliff ledges and in ravines, particularly on moist N.-facing slopes, and it also grows in the grikes of limestone pavements. 0-1005 m (Ben Lawers, Mid Perth).
+
+
+------------- Matching Abstracts -------------------
+1938
+#Chromosome and breeding system evolution of the genus Mercurialis (Euphorbiaceae): implications of ITS molecular phylogeny.
+#Krahenbuhl, M, Yuan, YM, Kupfer, P
+#2002
+--------------------------------
+The internal transcribed spacers (ITS1 and ITS2) of nuclear ribosomal DNA were amplified and sequenced from 19 samples representing all species of the genus Mercurialis and two outgroup species, Ricinus communis and Acalypha hispida. The length of ITS I in the ingroups ranged from 223 to 246 bp and ITS2 from 210 to 218 bp. Sequence divergence between pairs of species ranged from 1.15% to 25.88% among the ingroup species in the combined data of ITS1 and ITS2. Heuristic phylogenetic analyses using Fitch parsimony on the combined data of ITS1 and ITS2 with gaps treated as missing generated 45 equally parsimonious trees. The strict consensus tree was principally concordant with morphological classification. Within the genus, the ITS sequences recognised two main infrageneric clades: the M. perennis complex including three Eurasian stoloniferous species (M. leiocarpa, M. ovata and M. perennis) and the western Mediterranean group including eight both annual and perennial species. Of the western Mediterranean clade, the annual and perennial species grouped respectively into two different groups, and the annual life form is revealed as a synapomorphic character derived from perennial, whereas in the Eurasian clade ITS phylogeny suggested M. leiocarpa as basal clade sister to M. perennis and M. ovata. ITS phylogeny failed to resolve the relationships among the different cytotypes of M. ovata and M. perennis. ITS phylogeny also suggested rapid karyotypic evolution for the genus. The karyotypic divergence among the perennial species of western Mediterranean region did not corroborate the nucleotide sequence divergence among the species. Optimisation of chromosome numbers onto the ITS phylogeny suggested x = 8 to be the ancestral basic chromosome number of the genus. ITS phylogeny confirmed that the androdioecy of M. ambigua is derived from dioecy. The nucleotide heterozygosity and additivity in ITS sequences clearly confirm the interspecific hybridisation in the genus Mercurialis.
+
+
+1939
+#Canopy closure shapes clonal diversity and fine-scale genetic structure in the dioecious understorey perennial Mercurialis perennis 
+#Vandepitte, K Roldan-Ruiz, I Leus, L Jacquemyn, H Honnay, O
+#2009
+--------------------------------
+The degree of canopy closure can shape the dynamics of understorey
+ plant populations that rely on clonal and sexual recruitment.
+ Populations are expected to undergo declines in clonal diversity under
+ conditions where recruitment from seed is temporally and spatially
+ restricted. Localized seedling recruitment in clonal populations may
+ also affect spatial genetic structure due to the clumping of
+ genetically related genets.
+ Our major objective was to determine the effect of the degree of canopy
+ closure on clonal diversity and spatial genetic structure in the
+ rhizomatous, dioecious forest perennial Mercurialis perennis. As the
+ distribution of the male and female shoots has been shown to be
+ influenced by canopy openings, we paid special attention to the
+ mediating role of the varying sex ratio.
+ We used genome-wide AFLP markers to fingerprint six populations of M.
+ perennis along a light penetration gradient.
+ The proportion of male shoots in a population increased from 0.51 to
+ 0.81 and male genet diversity decreased from 0.72 to 0.21 with
+ increasing site illumination, in agreement with earlier reports of
+ superior male growth in canopy openings. The most illuminated
+ population, with the highest proportion of male shoots, was dominated
+ by a few outsized, largely aggregated male clones (largest clone
+ spreading over 10 m).
+ Overall clonal diversity (G/N: 0.31-0.74; mean: 0.52) and evenness
+ strongly declined in well-lit sites, suggesting reduced sexual
+ recruitment and the vast vegetative spread of a few locally
+ well-adapted male genets under canopy gaps.
+ Fine-scale genetic structure among genets was significant within all
+ populations, but its degree tended to increase with an increased
+ proportion of male shoots and reduced clonal diversity. Very localized
+ recruitment due to a low seed dispersal capacity combined with the
+ aggregated distribution of large gender-specific clones likely incurred
+ this pattern.
+ Synthesis. Forest management practices such as the cutting and removal
+ of trees and the establishment of paths decreased the degree of canopy
+ closure. Many understorey herb populations flourish in these canopy
+ gaps, reflected in a higher clonal diversity. We demonstrated, however,
+ that increased illumination negatively affects genotypic and genetic
+ diversity in the dioecious understorey herb M. perennis.
+
+
+1940
+#Reproductive consequences of mate quantity versus mate diversity in a wind-pollinated plant
+#Vandepitte, K Roldan-Ruiz, I Honnay, O
+#2009
+--------------------------------
+Since most pollen travels limited distances in wind-pollinated plants,
+ both the local quantity and diversity of mates may limit female
+ reproductive success. Yet little evidence exists on their relative
+ contribution, despite the importance of viable seed production to
+ population dynamics. To study how variation in female reproductive
+ success is affected by the quantity versus the diversity of surrounding
+ mates contributing pollen, we integrated pollination experiments, data
+ on natural seed set and seed viability, and AFLP genetic marker data in
+ the wind-pollinated dioecious clonal forest herb Mercurialis perennis.
+ Pollination experiments indicated weak quantitative pollen limitation
+ effects on seed set. Among-population crosses showed reduced seed
+ viability, suggesting outbreeding depression due to genetic divergence.
+ Pollination with pollen from a single source did not negatively affect
+ reproductive success. These findings were consistent with results of
+ the survey of natural female reproductive success. Seed set decreased
+ with the distance to males in a female plants' local neighborhood,
+ suggesting a shortage of pollen in isolated female plants, and
+ increased with the degree of local genetic diversity. Spatial isolation
+ to other populations and population size did not affect seed set. None
+ of these variables were related to seed viability.
+ We conclude that pollen movement in M. perennis is likely very limited.
+ Both male proximity and the local degree of genetic diversity
+ influenced female reproductive success.
+
+
+1941
+#Patterns of sex ratio variation and genetic diversity in the dioecious forest perennial Mercurialis perennis
+#Vandepitte K, Honnay O, De Meyer T, Jacquemyn H, Roldan-Ruiz I
+#2010
+--------------------------------
+In small populations of plant species with separate sexes, it can be expected that besides the local environment also stochastic events influence population sex ratios. Biased sex ratios may in turn negatively affect genetic diversity due to increased genetic drift and, in clonal plants, due to reduced sexual reproductive output. Empirical evidence for these processes is scarce, however. We investigated the pattern of sex ratio variation and the distribution of genetic variation of the dioecious clonal forest herb Mercurialis perennis using AFLP markers. Analysis of molecular variance indicated a pronounced genetic structure. Overall within-population genetic diversity was moderate and local sex ratios were slightly male biased. The proportion of male to female plants in large populations slightly increased with increasing light penetration to the herb layer. Small populations, on the contrary, displayed high variability in sex ratios, unrelated to the local light environment. Genotypic diversity decreased with more male-biased sex ratios. We conclude that stochastic events related to small population size and the local forest environment, related to canopy closure, affect the proportion of female plants and indirectly influence local genotypic diversity, likely through the degree of sexual reproduction. This is one of the first studies to report a clear association between gender proportions and genetic diversity of a dioecious plant species in a fairly large survey.
+
+
+1942
+#Characterization of Microsatellite Loci and Reliable Genotyping in a Polyploid Plant, Mercurialis perennis (Euphorbiaceae)
+#Pfeiffer T, Roschanski AM, Pannell JR, Korbecka G, Schnittler M
+#2011
+--------------------------------
+For many applications in population genetics, codominant simple sequence repeats (SSRs) may have substantial advantages over dominant anonymous markers such as amplified fragment length polymorphisms (AFLPs). In high polyploids, however, allele dosage of SSRs cannot easily be determined and alleles are not easily attributable to potentially diploidized loci. Here, we argue that SSRs may nonetheless be better than AFLPs for polyploid taxa if they are analyzed as effectively dominant markers because they are more reliable and more precise. We describe the transfer of SSRs developed for diploid Mercurialis huetii to the clonal dioecious M. perennis. Primers were tested on a set of 54 male and female plants from natural decaploid populations. Eight of 65 tested loci produced polymorphic fragments. Binary profiles from 4 different scoring routines were used to define multilocus lineages (MLLs). Allowing for fragment differences within 1 MLL, all analyses revealed the same 14 MLLs without conflicting with merigenet, sex, or plot assignment. For semiautomatic scoring, a combination of as few as 2 of the 4 most polymorphic loci resulted in unambiguous discrimination of clones. Our study demonstrates that microsatellite fingerprinting of polyploid plants is a cost efficient and reliable alternative to AFLPs, not least because fewer loci are required than for diploids.
+
+
+------------- All Abstracts -------------------
+1938
+#Chromosome and breeding system evolution of the genus Mercurialis (Euphorbiaceae): implications of ITS molecular phylogeny.
+#Krahenbuhl, M, Yuan, YM, Kupfer, P
+#2002
+--------------------------------
+The internal transcribed spacers (ITS1 and ITS2) of nuclear ribosomal DNA were amplified and sequenced from 19 samples representing all species of the genus Mercurialis and two outgroup species, Ricinus communis and Acalypha hispida. The length of ITS I in the ingroups ranged from 223 to 246 bp and ITS2 from 210 to 218 bp. Sequence divergence between pairs of species ranged from 1.15% to 25.88% among the ingroup species in the combined data of ITS1 and ITS2. Heuristic phylogenetic analyses using Fitch parsimony on the combined data of ITS1 and ITS2 with gaps treated as missing generated 45 equally parsimonious trees. The strict consensus tree was principally concordant with morphological classification. Within the genus, the ITS sequences recognised two main infrageneric clades: the M. perennis complex including three Eurasian stoloniferous species (M. leiocarpa, M. ovata and M. perennis) and the western Mediterranean group including eight both annual and perennial species. Of the western Mediterranean clade, the annual and perennial species grouped respectively into two different groups, and the annual life form is revealed as a synapomorphic character derived from perennial, whereas in the Eurasian clade ITS phylogeny suggested M. leiocarpa as basal clade sister to M. perennis and M. ovata. ITS phylogeny failed to resolve the relationships among the different cytotypes of M. ovata and M. perennis. ITS phylogeny also suggested rapid karyotypic evolution for the genus. The karyotypic divergence among the perennial species of western Mediterranean region did not corroborate the nucleotide sequence divergence among the species. Optimisation of chromosome numbers onto the ITS phylogeny suggested x = 8 to be the ancestral basic chromosome number of the genus. ITS phylogeny confirmed that the androdioecy of M. ambigua is derived from dioecy. The nucleotide heterozygosity and additivity in ITS sequences clearly confirm the interspecific hybridisation in the genus Mercurialis.
+
+
+1939
+#Canopy closure shapes clonal diversity and fine-scale genetic structure in the dioecious understorey perennial Mercurialis perennis 
+#Vandepitte, K Roldan-Ruiz, I Leus, L Jacquemyn, H Honnay, O
+#2009
+--------------------------------
+The degree of canopy closure can shape the dynamics of understorey
+ plant populations that rely on clonal and sexual recruitment.
+ Populations are expected to undergo declines in clonal diversity under
+ conditions where recruitment from seed is temporally and spatially
+ restricted. Localized seedling recruitment in clonal populations may
+ also affect spatial genetic structure due to the clumping of
+ genetically related genets.
+ Our major objective was to determine the effect of the degree of canopy
+ closure on clonal diversity and spatial genetic structure in the
+ rhizomatous, dioecious forest perennial Mercurialis perennis. As the
+ distribution of the male and female shoots has been shown to be
+ influenced by canopy openings, we paid special attention to the
+ mediating role of the varying sex ratio.
+ We used genome-wide AFLP markers to fingerprint six populations of M.
+ perennis along a light penetration gradient.
+ The proportion of male shoots in a population increased from 0.51 to
+ 0.81 and male genet diversity decreased from 0.72 to 0.21 with
+ increasing site illumination, in agreement with earlier reports of
+ superior male growth in canopy openings. The most illuminated
+ population, with the highest proportion of male shoots, was dominated
+ by a few outsized, largely aggregated male clones (largest clone
+ spreading over 10 m).
+ Overall clonal diversity (G/N: 0.31-0.74; mean: 0.52) and evenness
+ strongly declined in well-lit sites, suggesting reduced sexual
+ recruitment and the vast vegetative spread of a few locally
+ well-adapted male genets under canopy gaps.
+ Fine-scale genetic structure among genets was significant within all
+ populations, but its degree tended to increase with an increased
+ proportion of male shoots and reduced clonal diversity. Very localized
+ recruitment due to a low seed dispersal capacity combined with the
+ aggregated distribution of large gender-specific clones likely incurred
+ this pattern.
+ Synthesis. Forest management practices such as the cutting and removal
+ of trees and the establishment of paths decreased the degree of canopy
+ closure. Many understorey herb populations flourish in these canopy
+ gaps, reflected in a higher clonal diversity. We demonstrated, however,
+ that increased illumination negatively affects genotypic and genetic
+ diversity in the dioecious understorey herb M. perennis.
+
+
+1940
+#Reproductive consequences of mate quantity versus mate diversity in a wind-pollinated plant
+#Vandepitte, K Roldan-Ruiz, I Honnay, O
+#2009
+--------------------------------
+Since most pollen travels limited distances in wind-pollinated plants,
+ both the local quantity and diversity of mates may limit female
+ reproductive success. Yet little evidence exists on their relative
+ contribution, despite the importance of viable seed production to
+ population dynamics. To study how variation in female reproductive
+ success is affected by the quantity versus the diversity of surrounding
+ mates contributing pollen, we integrated pollination experiments, data
+ on natural seed set and seed viability, and AFLP genetic marker data in
+ the wind-pollinated dioecious clonal forest herb Mercurialis perennis.
+ Pollination experiments indicated weak quantitative pollen limitation
+ effects on seed set. Among-population crosses showed reduced seed
+ viability, suggesting outbreeding depression due to genetic divergence.
+ Pollination with pollen from a single source did not negatively affect
+ reproductive success. These findings were consistent with results of
+ the survey of natural female reproductive success. Seed set decreased
+ with the distance to males in a female plants' local neighborhood,
+ suggesting a shortage of pollen in isolated female plants, and
+ increased with the degree of local genetic diversity. Spatial isolation
+ to other populations and population size did not affect seed set. None
+ of these variables were related to seed viability.
+ We conclude that pollen movement in M. perennis is likely very limited.
+ Both male proximity and the local degree of genetic diversity
+ influenced female reproductive success.
+
+
+1941
+#Patterns of sex ratio variation and genetic diversity in the dioecious forest perennial Mercurialis perennis
+#Vandepitte K, Honnay O, De Meyer T, Jacquemyn H, Roldan-Ruiz I
+#2010
+--------------------------------
+In small populations of plant species with separate sexes, it can be expected that besides the local environment also stochastic events influence population sex ratios. Biased sex ratios may in turn negatively affect genetic diversity due to increased genetic drift and, in clonal plants, due to reduced sexual reproductive output. Empirical evidence for these processes is scarce, however. We investigated the pattern of sex ratio variation and the distribution of genetic variation of the dioecious clonal forest herb Mercurialis perennis using AFLP markers. Analysis of molecular variance indicated a pronounced genetic structure. Overall within-population genetic diversity was moderate and local sex ratios were slightly male biased. The proportion of male to female plants in large populations slightly increased with increasing light penetration to the herb layer. Small populations, on the contrary, displayed high variability in sex ratios, unrelated to the local light environment. Genotypic diversity decreased with more male-biased sex ratios. We conclude that stochastic events related to small population size and the local forest environment, related to canopy closure, affect the proportion of female plants and indirectly influence local genotypic diversity, likely through the degree of sexual reproduction. This is one of the first studies to report a clear association between gender proportions and genetic diversity of a dioecious plant species in a fairly large survey.
+
+
+1942
+#Characterization of Microsatellite Loci and Reliable Genotyping in a Polyploid Plant, Mercurialis perennis (Euphorbiaceae)
+#Pfeiffer T, Roschanski AM, Pannell JR, Korbecka G, Schnittler M
+#2011
+--------------------------------
+For many applications in population genetics, codominant simple sequence repeats (SSRs) may have substantial advantages over dominant anonymous markers such as amplified fragment length polymorphisms (AFLPs). In high polyploids, however, allele dosage of SSRs cannot easily be determined and alleles are not easily attributable to potentially diploidized loci. Here, we argue that SSRs may nonetheless be better than AFLPs for polyploid taxa if they are analyzed as effectively dominant markers because they are more reliable and more precise. We describe the transfer of SSRs developed for diploid Mercurialis huetii to the clonal dioecious M. perennis. Primers were tested on a set of 54 male and female plants from natural decaploid populations. Eight of 65 tested loci produced polymorphic fragments. Binary profiles from 4 different scoring routines were used to define multilocus lineages (MLLs). Allowing for fragment differences within 1 MLL, all analyses revealed the same 14 MLLs without conflicting with merigenet, sex, or plot assignment. For semiautomatic scoring, a combination of as few as 2 of the 4 most polymorphic loci resulted in unambiguous discrimination of clones. Our study demonstrates that microsatellite fingerprinting of polyploid plants is a cost efficient and reliable alternative to AFLPs, not least because fewer loci are required than for diploids.
+
+

@@ -1,0 +1,167 @@
+------------- Description -------------------
+#plantat website
+A perennial herb, usually found on dry, relatively infertile soils. Habitats include calcareous pastures on downs, hill-slopes and banks, and it is occasionally found on cliffs and rock outcrops and in disused chalk and limestone quarries. Generally lowland, reaching 640 m on Cross Fell (Cumberland).
+
+
+------------- Matching Abstracts -------------------
+3356
+#Genetic diversity and fitness in Scabiosa columbaria in the Swiss Jura in relation to population size.
+#Pluess, AR, Stocklin, J
+#2004
+--------------------------------
+Due to changes in land use, remnants of unfertilised, nutrient- poor calcareous grassland in the Swiss Jura are small in area and are highly fragmented. We selected 89 seed families from eleven populations of various sizes of Scabiosa columbaria for a study of molecular diversity, and used the same material in a greenhouse experiment to measure variation in fitness-related traits and the ability of populations to cope with competition. Using RAPD-PCR we detected 71 RAPD-phenotypes among 87 genotypes. Molecular diversity within populations was variable and relatively high, with an expected heterozygosity H-e ranging from 0.09 to 0.24. H-e, the Shannon index (SI) and the percentage of polymorphic bands were not correlated with population size, but the smallest populations had the lowest molecular diversity (He, SI). Population differentiation was moderate with 12% of the molecular diversity among populations. Measures of fitness in the greenhouse differed among seed families (P < 0.001), but not among populations. Mean above- ground biomass was largely reduced when plants had to compete with Bromus. Mean fitness of populations decreased when molecular diversity (He) was low, but only when plants had to compete with Bromus (P = 0.02). Accordingly, the relative competition ability of Scabiosa plants decreased when molecular diversity (He) was low (P = 0.01). Our results suggest an increased risk of local extinction of Scabiosa columbaria in the Swiss Jura caused by a decreased viability and reduced phenotypic plasticity due to genetic erosion in small populations.
+
+
+3357
+#The significance of genetic erosion in the process of extinction .4. Inbreeding depression and heterosis effects caused by selfing and outcrossing in Scabiosa columbaria.
+#Vantreuren, R, Bijlsma, R, Ouborg, NJ, Vandelden, W
+#1993
+--------------------------------
+The effects of self-fertilization, within-population crosses (WPC) and between-population crosses (BPC) on progeny fitness were investigated in the greenhouse for Scabiosa columbaria populations of varying size. Plants grown from field collected seeds were hand pollinated to produce selfed, WPC, and BPC progeny. The performance of these progenies was examined throughout the entire life cycle. The different pollination treatments did not significantly affect germination, seedling- to-adult survival, flowering percentage and the number of flower heads. But severe inbreeding depression was demonstrated for biomass production, root development, adult survival, and seed set. Additionally, multiplicative fitness functions were calculated to compare relative fitnesses for progeny. On average, WPC progeny showed a more than 4-fold, and BPC progeny an almost 10-fold, advantage over selfed progeny, indicating that S. columbaria is highly susceptible to inbreeding. No dear relationship was found between population size and level of inbreeding depression, suggesting that the genetic load has not yet been reduced substantially in the small populations.  significant positive correlation was found between plant dry weight and total fitness. In two out of six populations, the differences between the effects of the pollination treatments on dry weight increased significantly when seedlings were grown under competitive conditions. This result is interpreted as an enhancement of inbreeding depression under these conditions. It is argued that improvement of the genetic exchange between populations may lower the probability of population extinction.
+
+
+3359
+#Land use affects flowering time: seasonal and genetic differentiation in the grassland plant Scabiosa columbaria 
+#Reisch, C Poschlod, P
+#2009
+--------------------------------
+Management practices like mowing or grazing have a large impact on
+ grassland species. Due to its evolutionary significance, the
+ interaction between the flowering time of plants and land use is of
+ special interest. Asynchronous flowering restricts gene flow between
+ populations and promotes, as a consequence, their differentiation. We
+ selected 12 populations across southern central Europe to study the
+ impact of mowing and grazing on seasonal and genetic differentiation in
+ the grassland species Scabiosa columbaria. We conducted a common garden
+ experiment to analyse floral display between populations and applied
+ molecular markers to assess genetic diversity and genetic
+ differentiation between populations. We demonstrated explicitly that
+ flowering time and genetic differentiation are linked with the type of
+ land use. Populations from mown habitats flowered significantly earlier
+ than populations from grazed sites. Furthermore, genetic
+ differentiation was stronger between populations from sites of
+ different land use than between populations from far away geographic
+ regions. The results of this study indicate that populations of S.
+ columbaria are seasonally adapted to mowing and grazing. Land use is,
+ therefore, an important factor for evolution in grassland species,
+ which promotes the development of seasonal ecotypes and clearly affects
+ intraspecific variation.
+
+
+------------- All Abstracts -------------------
+3352
+#The significance of genetic erosion in the process of extinction .1. Genetic differentiation in Salvia pratensis and Scabiosa columbaria in relation to population size.
+#Vantreuren, R, Bijlsma, R, Vandelden, W, Ouborg, NJ
+#1991
+--------------------------------
+As part of a programme to determine the importance of the loss of genetic variation for the probability of population extinction, the amount of allozyme variation was determined in 14 populations of Salvia pratensis and in 12 populations of Scabiosa columbaria.  Significant correlations were found between population size and the proportion of polymorphic loci (Salvia:  r = 0.619; Scabiosa:  r = 0.713) and between population size and mean observed number of alleles per locus (Salvia:  r = 0.540; Scabiosa:  r = 0.819).  Genetic differentiation was substantially larger among small populations than among large populations:  in Salvia G(ST) was 0.181 and 0.115, respectively, and in Scabiosa 0.236 and 0.101, respectively.  The results are discussed in relation to genetic drift, inbreeding and restricted gene flow.
+
+
+3353
+#Fluctuating asymmetry in Scabiosa canescens and Scabiosa columbaria: Association with genetic variation and population size.
+#Waldmann, P
+#2002
+--------------------------------
+Developmental instability and fluctuating asymmetry (FA) have become important topics in evolutionary biology. For example, it has been suggested that FA could be a useful tool for identification of genetic and environmental stress factors. This study used plants from each of six populations of Scabiosa canescens and Scabiosa columbaria grown under greenhouse conditions. I tested whether there was a relationship between petal FA and allozyme heterozygosity, the heritabilities of eight traits, and population size. Flowers displayed no directional asymmetry or antisymmetry. The rare species S. canescens had significantly higher FA values than S. columbaria, but only the latter demonstrated interpopulation differentiation for the expression of FA levels. There was no evidence for an association between population-level FA and genetic variation when compared with the allozyme heterozygosity or with the heritabilities of the quantitative traits. A tendency for a negative association between FA and population size was found for both species, but it was not significant when adjusted for multiple comparison. Hence, flower FA should not be considered a reliable indicator of the amount of genetic variation in populations of S. canescens and S. columbaria.
+
+
+3354
+#Comparison of quantitative genetic variation and allozyme diversity within and between populations of Scabiosa canescens and S. columbaria.
+#Waldmann, P, Andersson, S
+#1998
+--------------------------------
+We quantified allozyme diversity and quantitative genetic variation within and between six populations of the locally rare Scabiosa canescens and the more common and widespread S. columbaria (Dipsacaceae). For the within-population component, we quantified allozyme diversity as the expected heterozygosity (He), followed by a sib analysis to estimate the heritability (h(2)) for eight vegetative and floral characters. There was no consistent association between h(2) and He, or between h(2) and current population size. Regarding the between-population component, we compared the overall level of population differentiation for the allozymes (FST), assumed to be selectively neutral, with the corresponding estimates for the quantitative traits (Q(ST)) to determine if the marker genes and the polygenic characters have been influenced by the same evolutionary force(s). Differences between estimates of FST and Q(ST) for S. canescens were too small to be declared as significant, indicating that neutral phenotypic evolution has led to the observed differentiation in this species. Our data indicate higher levels of phenotypic differentiation in S. columbaria with values of Q(ST) exceeding the allozymic FST for all traits. This finding indicates a great potential for S. columbaria to respond to local selection pressures, perhaps explaining why this species has a broader ecological amplitude than S. canescens.
+
+
+3355
+#Comparison of genetic (co)variance matrices within and between Scabiosa canescens and S. columbaria.
+#Waldmann, P, Andersson, S
+#2000
+--------------------------------
+In the current study, we used bootstrap analyses and the common principal component (CPC) method of Flury (1988) to estimate and compare the G-matrix of Scabiosa columbaria and S. canescens populations. We found three major patterns in the G- matrices: (i) the magnitude of the (co)variances was more variable among characters than among populations, (ii) different populations showed high (co)variance for different characters, and (iii) there was a tendency for S. canescens to have higher genetic (co)variances than S. columbaria. The hypothesis of equal G-matrices was rejected in all comparisons and there was no evidence that the matrices differed by a proportional constant in any of the analyses. The two 'species matrices' were found to be unrelated, both for raw data and data standardized over populations, and there was significant between-population variation in the G-matrix in both species. Populations of S. canescens showed conservation of structure (principal components) in their G-matrices, contrasting with the lack of common structure among the S. columbaria matrices. Given these observations and the results from previous studies, we propose that selection may be responsible for some of the variation between the G-matrices, at least in S. columbaria and at the between-species level.
+
+
+3356
+#Genetic diversity and fitness in Scabiosa columbaria in the Swiss Jura in relation to population size.
+#Pluess, AR, Stocklin, J
+#2004
+--------------------------------
+Due to changes in land use, remnants of unfertilised, nutrient- poor calcareous grassland in the Swiss Jura are small in area and are highly fragmented. We selected 89 seed families from eleven populations of various sizes of Scabiosa columbaria for a study of molecular diversity, and used the same material in a greenhouse experiment to measure variation in fitness-related traits and the ability of populations to cope with competition. Using RAPD-PCR we detected 71 RAPD-phenotypes among 87 genotypes. Molecular diversity within populations was variable and relatively high, with an expected heterozygosity H-e ranging from 0.09 to 0.24. H-e, the Shannon index (SI) and the percentage of polymorphic bands were not correlated with population size, but the smallest populations had the lowest molecular diversity (He, SI). Population differentiation was moderate with 12% of the molecular diversity among populations. Measures of fitness in the greenhouse differed among seed families (P < 0.001), but not among populations. Mean above- ground biomass was largely reduced when plants had to compete with Bromus. Mean fitness of populations decreased when molecular diversity (He) was low, but only when plants had to compete with Bromus (P = 0.02). Accordingly, the relative competition ability of Scabiosa plants decreased when molecular diversity (He) was low (P = 0.01). Our results suggest an increased risk of local extinction of Scabiosa columbaria in the Swiss Jura caused by a decreased viability and reduced phenotypic plasticity due to genetic erosion in small populations.
+
+
+3357
+#The significance of genetic erosion in the process of extinction .4. Inbreeding depression and heterosis effects caused by selfing and outcrossing in Scabiosa columbaria.
+#Vantreuren, R, Bijlsma, R, Ouborg, NJ, Vandelden, W
+#1993
+--------------------------------
+The effects of self-fertilization, within-population crosses (WPC) and between-population crosses (BPC) on progeny fitness were investigated in the greenhouse for Scabiosa columbaria populations of varying size. Plants grown from field collected seeds were hand pollinated to produce selfed, WPC, and BPC progeny. The performance of these progenies was examined throughout the entire life cycle. The different pollination treatments did not significantly affect germination, seedling- to-adult survival, flowering percentage and the number of flower heads. But severe inbreeding depression was demonstrated for biomass production, root development, adult survival, and seed set. Additionally, multiplicative fitness functions were calculated to compare relative fitnesses for progeny. On average, WPC progeny showed a more than 4-fold, and BPC progeny an almost 10-fold, advantage over selfed progeny, indicating that S. columbaria is highly susceptible to inbreeding. No dear relationship was found between population size and level of inbreeding depression, suggesting that the genetic load has not yet been reduced substantially in the small populations.  significant positive correlation was found between plant dry weight and total fitness. In two out of six populations, the differences between the effects of the pollination treatments on dry weight increased significantly when seedlings were grown under competitive conditions. This result is interpreted as an enhancement of inbreeding depression under these conditions. It is argued that improvement of the genetic exchange between populations may lower the probability of population extinction.
+
+
+3358
+#The significance of genetic erosion in the process of extinction .2. Morphological variation and fitness components in populations of varying size of Salvia pratensis L. and Scabiosa columbaria L..
+#Ouborg, NJ, Vantreuren, R, Vandamme, JMM
+#1991
+--------------------------------
+The amount of genetic variation within a population is, among other things, related to population size.  In small populations loss of genetic variation due to high levels of genetic drift and inbreeding may result in decline of individual fitness and increase the chance of population extinction.  This chain of processes is known as genetic erosion.  In this study we tested the genetic erosion hypothesis by investigating the relation between morphological variation and population size in two perennial, outbreeding plant species, Salvia pratensis and Scabiosa columbaria.  To relate phenotypic variation to genetic variation the experiments were performed under common environmental conditions.  For both species a positive correlation was observed between the amount of phenotypic variation and population size (Salvia r = 0.915; Scabiosa r = 0.703).  Part of this variation is likely to have a genetic base, although maternal effects were present in the seedling and juvenile life stages.  Differences between populations could in both species be attributed to parameters related to fitness, i.e. growth rate in Salvia and reproductive effort in Scabiosa.  Discriminant functions reflecting these parameters did not however discriminate between large and small populations. Results are discussed in relation to the common environment approach and to electrophoretic results obtained earlier (Van Treuren et al. 1991).
+
+
+3359
+#Land use affects flowering time: seasonal and genetic differentiation in the grassland plant Scabiosa columbaria 
+#Reisch, C Poschlod, P
+#2009
+--------------------------------
+Management practices like mowing or grazing have a large impact on
+ grassland species. Due to its evolutionary significance, the
+ interaction between the flowering time of plants and land use is of
+ special interest. Asynchronous flowering restricts gene flow between
+ populations and promotes, as a consequence, their differentiation. We
+ selected 12 populations across southern central Europe to study the
+ impact of mowing and grazing on seasonal and genetic differentiation in
+ the grassland species Scabiosa columbaria. We conducted a common garden
+ experiment to analyse floral display between populations and applied
+ molecular markers to assess genetic diversity and genetic
+ differentiation between populations. We demonstrated explicitly that
+ flowering time and genetic differentiation are linked with the type of
+ land use. Populations from mown habitats flowered significantly earlier
+ than populations from grazed sites. Furthermore, genetic
+ differentiation was stronger between populations from sites of
+ different land use than between populations from far away geographic
+ regions. The results of this study indicate that populations of S.
+ columbaria are seasonally adapted to mowing and grazing. Land use is,
+ therefore, an important factor for evolution in grassland species,
+ which promotes the development of seasonal ecotypes and clearly affects
+ intraspecific variation.
+
+
+3360
+#Unifying selection acts on competitive ability and relative growth rate in Scabiosa columbaria
+#Scheepens JF, Stocklin J, Pluess AR
+#2010
+--------------------------------
+Q(ST) vs. F-ST comparisons can reveal diversifying or unifying selection pressures among populations for specific traits. In this study we performed Q(ST)-F-ST analyses on eleven populations of Scabiosa columbaria from the Swiss Jura to reveal genetic differentiation in two quantitative traits (above-ground biomass and relative growth rate of leaf lengths) and in neutral molecular markers. Above-ground biomass of plants under competition has been shown to correlate with their competitive ability, which is an important fitness-related trait. We hypothesized that strong unifying selection acts on above-ground biomass, since underperformance would result in decreased fitness and overperformance is unlikely due to trade-offs with other plant functions. Overall G(ST) (an F-ST analogue) was 0.12. Analysis of variance revealed that above-ground biomass and relative growth rate did not differ among populations, but both traits differed among seed families and were heritable (h(2) = 0.31 and h(2) = 0.35, respectively). Q(ST) was close to zero for above-ground biomass and zero for relative growth rate of leaf lengths, and thus Q(ST) was much lower than G(ST), indicating unifying selection on these traits. This conclusion is restricted by the limits of the used methodology. Q(ST) < F-ST cannot always be considered as a proof for unifying selection, because in complex traits the assumption of purely additive effects of underlying genes may be violated. However, given the large differences between Q(ST) and G(ST), together with substantial heritabilities of the traits under study, we conclude that our findings are not in contradiction with the hypothesis of unifying selection.
+
+
+3361
+#De novo transcriptome characterization and development of genomic tools for Scabiosa columbaria L. using next-generation sequencing techniques.
+#Angeloni F, Wagemaker CAM, Jetten MSM, den Camp HJMO, Janssen-Megens EM, Francoijs KJ, Stunnenberg HG, Ouborg NJ
+#2011
+--------------------------------
+Next-generation sequencing (NGS) technologies are increasingly applied in many organisms, including nonmodel organisms that are important for ecological and conservation purposes. Illumina and 454 sequencing are among the most used NGS technologies and have been shown to produce optimal results at reasonable costs when used together. Here, we describe the combined application of these two NGS technologies to characterize the transcriptome of a plant species of ecological and conservation relevance for which no genomic resource is available, Scabiosa columbaria. We obtained 528 557 reads from a 454 GS-FLX run and a total of 28 993 627 reads from two lanes of an Illumina GAII single run. After read trimming, the de novo assembly of both types of reads produced 109 630 contigs. Both the contigs and the >75 bp remaining singletons were blasted against the Uniprot/Swissprot database, resulting in 29 676 and 10 515 significant hits, respectively. Based on sequence similarity with known gene products, these sequences represent at least 12 516 unique genes, most of which are well covered by contig sequences. In addition, we identified 4320 microsatellite loci, of which 856 had flanking sequences suitable for PCR primer design. We also identified 75 054 putative SNPs. This annotated sequence collection and the relative molecular markers represent a main genomic resource for S. columbaria which should contribute to future research in conservation and population biology studies. Our results demonstrate the utility of NGS technologies as starting point for the development of genomic tools in nonmodel but ecologically important species.
+
+
+3362
+#Within and between population variation in inbreeding depression in the locally threatened perennial Scabiosa columbaria
+#Angeloni, F., Vergeer, P., Wagemaker, C. A. M., Ouborg, N. J.
+#2014
+--------------------------------
+Inbreeding depression plays a central role within the conservation genetics paradigm. Until now inbreeding depression is incorporated into models of population viability as a mean value (e. g. number of lethal equivalents) for all traits in a population. In this study of the locally threatened perennial plant species Scabiosa columbaria we investigated both the mean and the variance among families of inbreeding depression in eight life history traits for five natural populations varying in size from 300 to more than 120,000 individuals. Significant inbreeding depression was found in all populations and all traits. The mean inbreeding depression value per trait was never correlated to population size. Within each population, highly significant variation in inbreeding depression between families (VIFLID) was found. Per trait, families with inbreeding depression next to families with outbreeding depression were often found within the same population. Inbreeding depression at the family level was in many cases not correlated among traits and independent of correlations between traits themselves. VIFLID was negatively correlated with population size: in two traits these correlations were significant. The results underline that inbreeding depression is a complex, highly dynamic phenomenon. Models of viability should incorporate inbreeding depression distributions, with a trait specific mean and variance. Moreover, models of metapopulation dynamics should incorporate genotype quality as factor in colonization success.
+
+
+3363
+#Epigenetic population differentiation in field- and common garden-grown Scabiosa columbaria plants
+#Groot, MP, Wagemaker, N, Ouborg, NJ, Verhoeven, KJF, Vergeer, P
+#2018
+--------------------------------
+Populations often differ in phenotype and these differences can be caused by adaptation by natural selection, random neutral processes, and environmental responses. The most straightforward way to divide mechanisms that influence phenotypic variation is heritable variation and environmental-induced variation (e.g., plasticity). While genetic variation is responsible for most heritable phenotypic variation, part of this is also caused by nongenetic inheritance. Epigenetic processes may be one of the underlying mechanisms of plasticity and nongenetic inheritance and can therefore possibly contribute to heritable differences through drift and selection. Epigenetic variation may be influenced directly by the environment, and part of this variation can be transmitted to next generations. Field screenings combined with common garden experiments will add valuable insights into epigenetic differentiation, epigenetic memory and can help to reveal part of the relative importance of epigenetics in explaining trait variation. We explored both genetic and epigenetic diversity, structure and differentiation in the field and a common garden for five British and five French Scabiosa columbaria populations. Genetic and epigenetic variation was subsequently correlated with trait variation. Populations showed significant epigenetic differentiation between populations and countries in the field, but also when grown in a common garden. By comparing the epigenetic variation between field and common garden-grown plants, we showed that a considerable part of the epigenetic memory differed from the field-grown plants and was presumably environmentally induced. The memory component can consist of heritable variation in methylation that is not sensitive to environments and possibly genetically based, or environmentally induced variation that is heritable, or a combination of both. Additionally, random epimutations might be responsible for some differences as well. By comparing epigenetic variation in both the field and common environment, our study provides useful insight into the environmental and genetic components of epigenetic variation.
+
+

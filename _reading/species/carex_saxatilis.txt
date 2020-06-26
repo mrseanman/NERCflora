@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+559
+#Allozyme diversity and genetic relationships among North American members of the short-beaked taxa of Carex sect. Vesicariae (Cyperaceae).
+#Ford, BA, Ball, PW, Ritland, K
+#1991
+--------------------------------
+Morphological studies of the short-beaked members of Carex sect.  Vesicariae have indicated that three species can be recognized:  C. saxatilis (incl. C. miliaris and C. physocarpa), C. membranacea, and C. rotundata.  To assess genetic relationships among species and gene diversity within species, 44 populations from throughout North America were surveyed electrophoretically for 12 enzymes encoded by 17 putative loci.  Populations of the same species exhibited high genetic indentities, with average values exceeding 0.950. Interspecific genetic identities ranged from 0.636 (between C. saxatilis and C. rotundata) to 0.880 (C. membranacea and C. rotundata).  Alleles for the isozymes AAT-1, AAT-2, 6-PGD, PGI- 2, PGM-2, and SKDH were useful in distinguishing C. saxatilis from C. membranacea and C. rotundata.  Carex membranacea and C. rotundata were best distinguished by alleles of 6-PGD.  There was little allozyme differentiation within the C. saxatilis complex; however, a weak east/west cline was evident.  Within populations, observed heterozygosity closely matched expected levels of heterozygosity:  F values averaged 0.039, indicating outcrossing is prevalent.  Genetic variation was found to be largely apportioned within populations as Nei's gene diversity statistic (G(ST)) was close to 0.19 in each species.  Past electrophoretic studies of Carex have disclosed low levels of intrapopulation genetic variation and high levels of interpopulation differentiation indicating high levels of inbreeding.  Large population sizes, dichogamy, a rhizomatous habit, and self-incompatibility are discussed as possible mechanisms for maintaining genetic diversity within populations of the short-beaked species.
+
+
+------------- All Abstracts -------------------
+559
+#Allozyme diversity and genetic relationships among North American members of the short-beaked taxa of Carex sect. Vesicariae (Cyperaceae).
+#Ford, BA, Ball, PW, Ritland, K
+#1991
+--------------------------------
+Morphological studies of the short-beaked members of Carex sect.  Vesicariae have indicated that three species can be recognized:  C. saxatilis (incl. C. miliaris and C. physocarpa), C. membranacea, and C. rotundata.  To assess genetic relationships among species and gene diversity within species, 44 populations from throughout North America were surveyed electrophoretically for 12 enzymes encoded by 17 putative loci.  Populations of the same species exhibited high genetic indentities, with average values exceeding 0.950. Interspecific genetic identities ranged from 0.636 (between C. saxatilis and C. rotundata) to 0.880 (C. membranacea and C. rotundata).  Alleles for the isozymes AAT-1, AAT-2, 6-PGD, PGI- 2, PGM-2, and SKDH were useful in distinguishing C. saxatilis from C. membranacea and C. rotundata.  Carex membranacea and C. rotundata were best distinguished by alleles of 6-PGD.  There was little allozyme differentiation within the C. saxatilis complex; however, a weak east/west cline was evident.  Within populations, observed heterozygosity closely matched expected levels of heterozygosity:  F values averaged 0.039, indicating outcrossing is prevalent.  Genetic variation was found to be largely apportioned within populations as Nei's gene diversity statistic (G(ST)) was close to 0.19 in each species.  Past electrophoretic studies of Carex have disclosed low levels of intrapopulation genetic variation and high levels of interpopulation differentiation indicating high levels of inbreeding.  Large population sizes, dichogamy, a rhizomatous habit, and self-incompatibility are discussed as possible mechanisms for maintaining genetic diversity within populations of the short-beaked species.
+
+
+560
+#Genetic and macromorphologic evidence bearing on the evolution of members of Carex section Vesicariae (Cyperaceae) and their natural hybrids.
+#Ford, BA, Ball, PW, Ritland, K
+#1993
+--------------------------------
+A comparison of genetic distances between the short-beaked species (C saxatilis, C membranacea, and C rotundata) and some long-beaked species (C. utriculata, C. rostrata, and C. vesicaria) of Carex section Vesicariae indicates that the short-beaked group is not monophyletic. Carex saxatilis is closely related to C vesicaria, while C membranacea and C rotundata are related to C utriculata. It is proposed that C saxatilis is derived from a vesicaria-like ancestor, while C membranacea and C rotundata have evolved from a utriculata-like progenitor. Taxa identified as hybrids between various short- and long-beaked species are intermediate in morphology, heterozygous for diagnostic loci (which exhibited a high frequency of alternative alleles in the putative parents), and often sterile. On the basis of the evidence presented the following hybrids are recognized: C x paludivagans (C rotundata x utriculata); C x stenolepis (incl. C x grahamii, C x mainensis, C x anti-costensis; C saxatilis x vesicaria); C x physocarpoides (C saxatilis x utriculata); and C membranacea x utriculata.
+
+

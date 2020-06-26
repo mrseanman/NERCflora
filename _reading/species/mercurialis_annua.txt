@@ -1,0 +1,71 @@
+------------- Description -------------------
+#plantat website
+A dioecious annual of disturbed waste places, cultivated ground, particularly in allotments and gardens, rubbish tips, walls, and roadsides, thriving on light, nutrient-rich soils. It produces a long-lived seed bank. Lowland.
+
+
+------------- Matching Abstracts -------------------
+1934
+#DNA markers for sex: Molecular evidence for gender dimorphism in dioecious Mercurialis annua L.
+#Khadka, DK Nejidat, A Tal, M Golan-Goldhirsh, A
+#2002
+--------------------------------
+Male specific Random Amplified Polymorphic DNA (RAPD) markers, OPB01-1562 and OPC07-303, were identified and sequenced in dioecious Mercurialis annua. Sequence Characterized Amplified Region (SCAR) primers were designed. Several internal segments of OPB01-1562 were amplified as male specific SCAR markers. These markers were PCR amplified from strong, intermediate and weak male subtypes selected according to their resistance to feminization by cytokinin. Nucleotide sequence of OPB01-1562 isolated from three male subtypes were near identical. The OPB01-1562 and derived SCAR markers were absent in females as well as hexaploid Mercurialis male and monoecious individuals. The gender relationship of the markers was maintained in all ecotypes tested. There were 2 internal fragments of OPB01-1562, which were PCR amplified from all genotypes of diploid and hexaploid Mercurialis. It is argued that identification of gender specific DNA suggests a dimorphic differentiation of the genome of dioecious Mercurialis annua.
+
+
+1935
+#Solving the Problem of Ambiguous Paralogy for Marker Loci: Microsatellite Markers with Diploid Inheritance in Allohexaploid Mercurialis annua (Euphorbiaceae)
+#Korbecka G, Rymer PD, Harris SA, Pannell JR
+#2010
+--------------------------------
+Mercurialis annua is a wind-pollinated annual showing a remarkable sexual-system variation, with hexaploid populations being either monoecious or androdioecious. Hexaploid M. annua is most likely a product of hybridization between diploid M. huetii and tetraploid M. annua; therefore, we developed microsatellite loci by isolating simple sequence repeat (SSR) sequences from the diploid progenitor, cross-amplification tests in M. huetii/M. annua species complex followed by selection of loci amplifying only in M. huetii and hexaploid M. annua, and testing polymorphism in 1 hexaploid population. This protocol resulted in 10 unlinked, polymorphic loci amplifying 4-10 alleles per locus. Due to specific amplification of the diploid part of the genome originating from M. huetii, these loci produce codominantly scored, diploid data for allohexaploid species, thereby simplifying data collection and subsequent analyses. Sequencing of the hexaploid polymerase chain reaction product for all 10 loci and aligning it with M. huetii SSR library sequence confirmed orthology of the characterized loci. Inheritance tests in 4 hexaploid crosses confirmed diploid Mendelian segregation of the new loci.
+
+
+1936
+#Symptoms of population range expansion: lessons from phenotypic and genetic differentiation in hexaploid Mercurialis annua
+#Pujol B, Obbard DJ, Pannell JR
+#2010
+--------------------------------
+Background: Range expansion often results in colonisation bottlenecks that should both deplete genetic diversity and increase genetic differentiation towards the margins of a species' geographic distribution. Aims: We tested whether genetic differentiation increased among populations of the annual plant Mercurialis annua after its colonisation of the Iberian Peninsula from Morocco. Previous work showed that this colonisation resulted in a decrease of phenotypic and genetic diversity from the core in North Africa towards the distribution margins of M. annua in north-eastern and north-western Spain. Methods: Seeds were sampled from 20 populations located across the hexaploid range of M. annua. Patterns of phenotypic and genetic differentiation among experimentally grown populations were analysed and compared between the Iberian Peninsula and North Africa. Results: The level of phenotypic and genetic differentiation among populations in the expanded range of the Iberian Peninsula was similar to that in the core range in North Africa. Conclusions: Our findings imply that the observed effects of range expansion on genetic differentiation may be independent of the effects on genetic diversity. They point to the importance of taking both historic and contemporary processes of migration into account when predicting the results of range expansion.
+
+
+1937
+#Mixed mating in androdioecious Mercurialis annua inferred using progeny arrays and diploid-acting microsatellite loci in a hexaploid background
+#Korbecka G, Hamilton A, Pannell JR
+#2011
+--------------------------------
+Background and Aims The frequency at which males can be maintained with hermaphrodites in androdioecious populations is predicted to depend on the selfing rate, because self-fertilization by hermaphrodites reduces prospective siring opportunities for males. In particular, high selfing rates by hermaphrodites are expected to exclude males from a population. Here, the first estimates are provided of the mating system from two wild hexaploid populations of the androdioecious European wind-pollinated plant M. annua with contrasting male frequencies. Methods Four diploid microsatellite loci were used to genotype 19-20 progeny arrays from two populations of M. annua, one with males and one without. Mating-system parameters were estimated using the program MLTR. Key Results Both populations had similar, intermediate outcrossing rates (t(m) = 0.64 and 0.52 for the population with and without males, respectively). The population without males showed a lower level of correlated paternity and biparental inbreeding and higher allelic richness and gene diversity than the population with males. Conclusions The results demonstrate the utility of new diploid microsatellite loci for mating system analysis in a hexaploid plant. It would appear that androdioecious M. annua has a mixed-mating system in the wild, an uncommon finding for wind-pollinated species. This study sets a foundation for future research to assess the relative importance of the sexual system, plant-density variation and stochastic processes for the regulation of male frequencies in M. annua over space and time.
+
+
+------------- All Abstracts -------------------
+1934
+#DNA markers for sex: Molecular evidence for gender dimorphism in dioecious Mercurialis annua L.
+#Khadka, DK Nejidat, A Tal, M Golan-Goldhirsh, A
+#2002
+--------------------------------
+Male specific Random Amplified Polymorphic DNA (RAPD) markers, OPB01-1562 and OPC07-303, were identified and sequenced in dioecious Mercurialis annua. Sequence Characterized Amplified Region (SCAR) primers were designed. Several internal segments of OPB01-1562 were amplified as male specific SCAR markers. These markers were PCR amplified from strong, intermediate and weak male subtypes selected according to their resistance to feminization by cytokinin. Nucleotide sequence of OPB01-1562 isolated from three male subtypes were near identical. The OPB01-1562 and derived SCAR markers were absent in females as well as hexaploid Mercurialis male and monoecious individuals. The gender relationship of the markers was maintained in all ecotypes tested. There were 2 internal fragments of OPB01-1562, which were PCR amplified from all genotypes of diploid and hexaploid Mercurialis. It is argued that identification of gender specific DNA suggests a dimorphic differentiation of the genome of dioecious Mercurialis annua.
+
+
+1935
+#Solving the Problem of Ambiguous Paralogy for Marker Loci: Microsatellite Markers with Diploid Inheritance in Allohexaploid Mercurialis annua (Euphorbiaceae)
+#Korbecka G, Rymer PD, Harris SA, Pannell JR
+#2010
+--------------------------------
+Mercurialis annua is a wind-pollinated annual showing a remarkable sexual-system variation, with hexaploid populations being either monoecious or androdioecious. Hexaploid M. annua is most likely a product of hybridization between diploid M. huetii and tetraploid M. annua; therefore, we developed microsatellite loci by isolating simple sequence repeat (SSR) sequences from the diploid progenitor, cross-amplification tests in M. huetii/M. annua species complex followed by selection of loci amplifying only in M. huetii and hexaploid M. annua, and testing polymorphism in 1 hexaploid population. This protocol resulted in 10 unlinked, polymorphic loci amplifying 4-10 alleles per locus. Due to specific amplification of the diploid part of the genome originating from M. huetii, these loci produce codominantly scored, diploid data for allohexaploid species, thereby simplifying data collection and subsequent analyses. Sequencing of the hexaploid polymerase chain reaction product for all 10 loci and aligning it with M. huetii SSR library sequence confirmed orthology of the characterized loci. Inheritance tests in 4 hexaploid crosses confirmed diploid Mendelian segregation of the new loci.
+
+
+1936
+#Symptoms of population range expansion: lessons from phenotypic and genetic differentiation in hexaploid Mercurialis annua
+#Pujol B, Obbard DJ, Pannell JR
+#2010
+--------------------------------
+Background: Range expansion often results in colonisation bottlenecks that should both deplete genetic diversity and increase genetic differentiation towards the margins of a species' geographic distribution. Aims: We tested whether genetic differentiation increased among populations of the annual plant Mercurialis annua after its colonisation of the Iberian Peninsula from Morocco. Previous work showed that this colonisation resulted in a decrease of phenotypic and genetic diversity from the core in North Africa towards the distribution margins of M. annua in north-eastern and north-western Spain. Methods: Seeds were sampled from 20 populations located across the hexaploid range of M. annua. Patterns of phenotypic and genetic differentiation among experimentally grown populations were analysed and compared between the Iberian Peninsula and North Africa. Results: The level of phenotypic and genetic differentiation among populations in the expanded range of the Iberian Peninsula was similar to that in the core range in North Africa. Conclusions: Our findings imply that the observed effects of range expansion on genetic differentiation may be independent of the effects on genetic diversity. They point to the importance of taking both historic and contemporary processes of migration into account when predicting the results of range expansion.
+
+
+1937
+#Mixed mating in androdioecious Mercurialis annua inferred using progeny arrays and diploid-acting microsatellite loci in a hexaploid background
+#Korbecka G, Hamilton A, Pannell JR
+#2011
+--------------------------------
+Background and Aims The frequency at which males can be maintained with hermaphrodites in androdioecious populations is predicted to depend on the selfing rate, because self-fertilization by hermaphrodites reduces prospective siring opportunities for males. In particular, high selfing rates by hermaphrodites are expected to exclude males from a population. Here, the first estimates are provided of the mating system from two wild hexaploid populations of the androdioecious European wind-pollinated plant M. annua with contrasting male frequencies. Methods Four diploid microsatellite loci were used to genotype 19-20 progeny arrays from two populations of M. annua, one with males and one without. Mating-system parameters were estimated using the program MLTR. Key Results Both populations had similar, intermediate outcrossing rates (t(m) = 0.64 and 0.52 for the population with and without males, respectively). The population without males showed a lower level of correlated paternity and biparental inbreeding and higher allelic richness and gene diversity than the population with males. Conclusions The results demonstrate the utility of new diploid microsatellite loci for mating system analysis in a hexaploid plant. It would appear that androdioecious M. annua has a mixed-mating system in the wild, an uncommon finding for wind-pollinated species. This study sets a foundation for future research to assess the relative importance of the sexual system, plant-density variation and stochastic processes for the regulation of male frequencies in M. annua over space and time.
+
+

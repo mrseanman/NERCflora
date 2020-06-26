@@ -1,0 +1,44 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3600
+#Genetic structure of European accessions of Solanum dulcamara L. (Solanaceae)
+#Golas TM, Feron RMC, van den Berg RG, van der Weerden GM, Mariani C, Allefs J
+#2010
+--------------------------------
+Solanum dulcamara (bittersweet) is one of the few native species of Solanum present in Europe. It is a common weed that occupies a wide range of habitats and is often found in the direct vicinity of cultivated potatoes (Solanum tuberosum), where it could transmit diseases. A broad sampling of European S. dulcamara accessions was carried out to gain insight into the population structure and crossing preferences of this species. Three amplified fragment length polymorphism (AFLP(A (R))) primer combinations generating 288 polymorphic fragments were used to analyze 79 bittersweet accessions (245 individuals). Dendrograms revealed a low level of genetic polymorphism in the bittersweet populations, caused partially by the out-crossing nature of this species.
+
+
+3601
+#Genetic diversity assessment of bittersweet (Solanum dulcamara, Solanaceae) germplasm using conserved DNA-derived polymorphism and intron-targeting markers
+#Poczai P, Varga I, Bell NE, Hyvonen J
+#2011
+--------------------------------
+Bittersweet (Solanum dulcamara), a European native weed, is widespread across a variety of habitats and often occurs as a coloniser of open, disturbed, ephemeral environments or wetlands, although it is also found in mountain habitats and on forest edges. As recent studies have shown the potential utility of the species in plant breeding programs, we assembled a collection of bittersweet germplasm from natural populations found in Europe. This collection was analysed with conserved DNA-derived polymorphism (CDDP) and intron-targeting (IT) markers to assess genetic diversity found within and among the populations. We found that there is limited genetic variability within the collected S. dulcamara accessions, with a greater proportion of allelic variation distributed among populations and considerably greater population structure at higher regional levels. Although bittersweet is an outcrossing species, its population structure might be affected by its perennial self-compatible nature, reducing genetic diversity within regional populations and enhancing inbreeding leading to high interpopulation or spatial differentiation. We found that populations have been separated by local selection of alleles, resulting in regional differentiation. This has been accompanied by concurrent loss of genetic diversity within populations, although this process has not affected species-level genetic diversity. Germplasm collecting strategies should be aimed at preserving overall genetic diversity in bittersweet nightshade by expanding sampling to southern Europe and to smaller regional geographic levels in northern and central Europe.
+
+
+------------- All Abstracts -------------------
+3600
+#Genetic structure of European accessions of Solanum dulcamara L. (Solanaceae)
+#Golas TM, Feron RMC, van den Berg RG, van der Weerden GM, Mariani C, Allefs J
+#2010
+--------------------------------
+Solanum dulcamara (bittersweet) is one of the few native species of Solanum present in Europe. It is a common weed that occupies a wide range of habitats and is often found in the direct vicinity of cultivated potatoes (Solanum tuberosum), where it could transmit diseases. A broad sampling of European S. dulcamara accessions was carried out to gain insight into the population structure and crossing preferences of this species. Three amplified fragment length polymorphism (AFLP(A (R))) primer combinations generating 288 polymorphic fragments were used to analyze 79 bittersweet accessions (245 individuals). Dendrograms revealed a low level of genetic polymorphism in the bittersweet populations, caused partially by the out-crossing nature of this species.
+
+
+3601
+#Genetic diversity assessment of bittersweet (Solanum dulcamara, Solanaceae) germplasm using conserved DNA-derived polymorphism and intron-targeting markers
+#Poczai P, Varga I, Bell NE, Hyvonen J
+#2011
+--------------------------------
+Bittersweet (Solanum dulcamara), a European native weed, is widespread across a variety of habitats and often occurs as a coloniser of open, disturbed, ephemeral environments or wetlands, although it is also found in mountain habitats and on forest edges. As recent studies have shown the potential utility of the species in plant breeding programs, we assembled a collection of bittersweet germplasm from natural populations found in Europe. This collection was analysed with conserved DNA-derived polymorphism (CDDP) and intron-targeting (IT) markers to assess genetic diversity found within and among the populations. We found that there is limited genetic variability within the collected S. dulcamara accessions, with a greater proportion of allelic variation distributed among populations and considerably greater population structure at higher regional levels. Although bittersweet is an outcrossing species, its population structure might be affected by its perennial self-compatible nature, reducing genetic diversity within regional populations and enhancing inbreeding leading to high interpopulation or spatial differentiation. We found that populations have been separated by local selection of alleles, resulting in regional differentiation. This has been accompanied by concurrent loss of genetic diversity within populations, although this process has not affected species-level genetic diversity. Germplasm collecting strategies should be aimed at preserving overall genetic diversity in bittersweet nightshade by expanding sampling to southern Europe and to smaller regional geographic levels in northern and central Europe.
+
+
+3602
+#Hydrologically contrasting environments induce genetic but not phenotypic differentiation in Solanum dulcamara
+#Zhang, Q, Peters, JL, Visser, EJW, de Kroon, H, Huber, H
+#2016
+--------------------------------
+In contrasting habitats, locally adapted populations are expected to evolve through directional selection. Hydrological gradients provide a scenario where strong selection forces have led to species segregation in communities along the hydrological niche axes due to specific adaptations to their ambient environment. However, much less is known about the processes enabling species with wide ecological amplitudes, such as Solanum dulcamara L., to occupy the contrasting niches at the far ends of the gradient. Here, we investigate the question whether local adaptation is indeed the driving mechanism enabling this species to inhabit contrasting wet and dry habitats. Using molecular analyses and performing a common garden experiment, we examined whether genetic and phenotypic differentiation had occurred between populations originating from flooding- and drought-prone habitat pairs from nine different locations. We also tested whether plants were better adapted to their home site stress. We found a significant genetic variation but hardly any phenotypic differentiation between populations from contrasting habitats for plants grown under optimal conditions. Surprisingly, comparison of the genetic differentiation in neutral markers with that in phenotypic traits using the Q(ST)-F-ST (estimated by ?(PT)) approach revealed that the Q(ST) values were consistently and significantly smaller than the ?(PT) values. This is in contrast to the hypothesis that directional selection is an important component enabling S.dulcamara to survive under contrasting habitat conditions. In addition, no home site effects were detected for responses to flooding and drought treatments. All plants were characterized by high levels of plasticity for traits associated with flooding and drought tolerance, such as rapid adventitious root formation upon flooding and increased root to shoot ratio in response to drought, irrespective of habitat of origin. Moreover, no trade-offs in such flooding and drought responses were found.Synthesis. Our results show that S.dulcamara has not evolved locally adapted populations in response to flooding and drought stress, despite genetic differentiation and despite the presumably strong selection gradient. The generally high levels of adaptive plasticity in traits increasing flooding and drought tolerance may be the main mechanism allowing S.dulcamara to occupy hydrologically contrasting habitats.
+
+

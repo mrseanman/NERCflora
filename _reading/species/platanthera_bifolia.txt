@@ -1,0 +1,114 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2525
+#Patterns of Genetic Diversity in Platanthera bifolia (Orchidaceae) with Respect to Life History Traits and Recent Range Expansion 
+#Brzosko, E Wroblewska, A Talalaj, I Adamowski, W
+#2009
+--------------------------------
+For evolutionary and ecological analyses, genetic diversity at
+ different scales needs to be studied in terms of biological properties,
+ habitat, population size and population history. We surveyed
+ Platanthera bifolia populations from six regions in northeastern Poland
+ to determine the impact of the mating system and population history on
+ genetic diversity. Based on variation at allozyme markers, genetic
+ variation was relatively moderate (P = 22.3%, A = 1.48, H (O) = 0.083,
+ F (IS) = -0.015) and similar to other Platanthera species. These
+ parameters varied between populations (P = 13.3%-26.6%, A = 1.26-1.66,
+ H (O) = 0.055-0.111, F (IS) = -0.262-0.147). The genetic diversity
+ patterns were shaped by different proportions of facilitated selfing
+ and/or outcrossing, resulting in positive and negative F (IS) values,
+ respectively. No relationship between inbreeding coefficient and
+ population size, however, and no impact of apomixis on the level of
+ genetic diversity of P. bifolia were found. The relatively low level of
+ genetic differentiation among the investigated regions (F (CT) = 0.002,
+ P > 0.05) and among populations (F (ST) = 0.048, P < 0.001), and the
+ lack of a significant relationship between genetic and geographical
+ distance, are discussed in the context of possible scenaria of
+ postglacial expansion.
+
+
+2526
+#Contrast in levels of morphological versus molecular divergence between closely related Eurasian species of Platanthera (Orchidaceae) suggests recent evolution with a strong allometric component
+#Bateman, R. M., K. E. James, and P. J. Rudall
+#2012
+--------------------------------
+We consider the conceptual relationship between pollinator specfificity, genetic isolation and species delimitation, critiquing Darwin's (1877) hypothesis that differential placement of pollinia on the probosces and eyes of sphingid moths explained the divergence of the Eurasian orchids Platanthera bifolia and P. chlorantha - species that have similar geographic distributions, habitat preferences and flowering times. Subsequent workers have developed Darwin's initial hypothesis into an oft-cited model system for coevolutionary speciation via a prezygotic barrier. The four datasets gathered from the two species were: (a) morphometric data from 139 individuals of 21 populations in southern England, supported by SEM study of representative flowers; (b) spur-length measurements gathered by many fieldworkers from 3070 plants sampled across western Europe; (c) DNA sequences from two representative individuals of each species from nuclear ribosomal ITS and eight plastid regions; and (d) nrITS sequence data for 50 individuals of the two species and their close relatives in Eurasia. Platanthera bifolia and P. chlorantha show a strong allometric relationship approximating a 2:3 ratio in mean values for most measurements. The few characters showing greater deviations collectively reflect some but not all aspects of the classical adaptive scenario; moreover, they may be genetically linked. Those characters are sufficient to reliably distinguish between the two species and identify occasional hybrids. Spur length of both species shows a latitudinal gradient, strongest within the British Isles, that decreases northward by an average of ca. 2% per 100 km. In contrast with this substantial morphological divergence, only one base-pair difference was detected in c. 9 kb of rapidly evolving nuclear and plastid DNA, though inclusion of closely related taxa from the Mediterranean region, Macaronesian islands and eastern Asia increased to seven the number of subtly distinct ITS alleles recovered from the aggregate. Most of the phenotypic variability observed, both within and between P. bifolia and P. chlorantha, is encompassed within a single allometric cline that conflates - in order of decreasing influence -ontogenetic factors, environmental (epigenetic) influences, and taxonomic distinction. Phenotypic divergence between the two species is less than is generally supposed, and is hypothesised to reflect a simple genetic control that radically increases stigma size in P. chlorantha. Our failure to detect species-specific genetic differences between the two allogamous putative species indicates (but cannot conclusively demonstrate) that extensive gene-flow occurs between them, suggesting that previous assertions of pollinator specificity have been greatly exaggerated. This homogeneity could represent hybridisation through secondary contact of formerly distinct species, but this theory is contradicted by the low allelic diversity of the putative species, together with their similar geographic distributions and habitat preferences. Rather, we suspect that these and other closely related taxa represent a relatively early stage of speciation, when phenotypic divergence (which typically reflects minute changes in the regulation of phenotypically expressed genes) inevitably precedes more widespread divergence in the various genic regions that are routinely used in molecular phylogenetics. This phenotypically overt but genotypically cryptic phase of speciation, here termed the genetic divergence lag (GDL), renders such incipient species immune to DNA barcoding.Many incipient species may never achieve a level of genetic isolation sufficient to escape the GDL. In the present case, the incipient speciation may have occurred sympatrically and may (thus far) have led only to stabilised polymorphism.
+
+
+2527
+#THE ABILITY OF SPONTANEOUS AUTOGAMY IN FOUR ORCHID SPECIES: CEPHALANTHERA RUBRA, NEOTTIA OVATA, GYMNADENIA CONOPSEA, AND PLATANTHERA BIFOLIA
+#Talalaj, I, Ostrowiecka, B, Wlostowska, E, Rutkowska, A, Brzosko, E
+#2017
+--------------------------------
+The breeding system in Orchidaceae generates many questions about the selfing potential of its representatives. We investigated the ability of spontaneous autogamy of four orchid species: Cephalanthera rubra and Neottia ovata of the Neottieae tribe and Gymnadenia conopsea and Platanthera bifolia of the Orchideae tribe. These species represent diverse specializations of the gynostemium architecture. The self-compatibility and properties of autogamous seeds were determined in a bagging experiment and seed development analysis. After induced autogamy, a high level of fruiting (80-100%) was noted in all of the four study species. C. rubra, N. ovata, and G. conopsea are completely self-compatible, and P. bifolia is suggested to be partially self-compatible. If autogamy occurred, inbreeding depression and resource limitation on seed development appeared only in the two Orchideae species. Independent of flower specialization, both Neottieae species and P. bifolia were completely allogamous, whereas G. conopsea could be facultatively autogamous.
+
+
+2529
+#Characterization of sympatric Platanthera bifolia and Platanthera chlorantha (Orchidaceae) populations with intermediate plants
+#Esposito, F, Vereecken, NJ, Gammella, M, Rinaldi, R, Laurent, P, Tyteca, D
+#2018
+--------------------------------
+Platanthera bifolia and P. chlorantha are terrestrial and rewarding orchids with a wide Eurasian distribution. Although genetically closely related, they exhibit significant morphological, phenological and ecological differences that maintain reproductive isolation between the species. However, where both species co-occur, individuals with intermediate phenotypic traits, often considered as hybrids, are frequently observed. Here, we combined neutral genetic markers (AFLPs), morphometrics and floral scent analysis (GC-MS) to investigate two mixed Platanthera populations where morphologically intermediate plants were found. Self-pollination experiments revealed a low level of autogamy and artificial crossings combined with assessments of fruit set and seed viability, showed compatibility between the two species. The results of the genetic analyses showed that morphologically intermediate plants had similar genetic patterns as the P. bifolia group. These results are corroborated also by floral scent analyses, which confirmed a strong similarity in floral scent composition between intermediate morphotypes and P. bifolia. Therefore, this study provided a much more detailed picture of the genetic structure of a sympatric zone between two closely allied species and supports the hypothesis that intermediate morphotypes in sympatry could reflect an adaptive evolution in response to local pollinator-mediated selection.
+
+
+------------- All Abstracts -------------------
+2525
+#Patterns of Genetic Diversity in Platanthera bifolia (Orchidaceae) with Respect to Life History Traits and Recent Range Expansion 
+#Brzosko, E Wroblewska, A Talalaj, I Adamowski, W
+#2009
+--------------------------------
+For evolutionary and ecological analyses, genetic diversity at
+ different scales needs to be studied in terms of biological properties,
+ habitat, population size and population history. We surveyed
+ Platanthera bifolia populations from six regions in northeastern Poland
+ to determine the impact of the mating system and population history on
+ genetic diversity. Based on variation at allozyme markers, genetic
+ variation was relatively moderate (P = 22.3%, A = 1.48, H (O) = 0.083,
+ F (IS) = -0.015) and similar to other Platanthera species. These
+ parameters varied between populations (P = 13.3%-26.6%, A = 1.26-1.66,
+ H (O) = 0.055-0.111, F (IS) = -0.262-0.147). The genetic diversity
+ patterns were shaped by different proportions of facilitated selfing
+ and/or outcrossing, resulting in positive and negative F (IS) values,
+ respectively. No relationship between inbreeding coefficient and
+ population size, however, and no impact of apomixis on the level of
+ genetic diversity of P. bifolia were found. The relatively low level of
+ genetic differentiation among the investigated regions (F (CT) = 0.002,
+ P > 0.05) and among populations (F (ST) = 0.048, P < 0.001), and the
+ lack of a significant relationship between genetic and geographical
+ distance, are discussed in the context of possible scenaria of
+ postglacial expansion.
+
+
+2526
+#Contrast in levels of morphological versus molecular divergence between closely related Eurasian species of Platanthera (Orchidaceae) suggests recent evolution with a strong allometric component
+#Bateman, R. M., K. E. James, and P. J. Rudall
+#2012
+--------------------------------
+We consider the conceptual relationship between pollinator specfificity, genetic isolation and species delimitation, critiquing Darwin's (1877) hypothesis that differential placement of pollinia on the probosces and eyes of sphingid moths explained the divergence of the Eurasian orchids Platanthera bifolia and P. chlorantha - species that have similar geographic distributions, habitat preferences and flowering times. Subsequent workers have developed Darwin's initial hypothesis into an oft-cited model system for coevolutionary speciation via a prezygotic barrier. The four datasets gathered from the two species were: (a) morphometric data from 139 individuals of 21 populations in southern England, supported by SEM study of representative flowers; (b) spur-length measurements gathered by many fieldworkers from 3070 plants sampled across western Europe; (c) DNA sequences from two representative individuals of each species from nuclear ribosomal ITS and eight plastid regions; and (d) nrITS sequence data for 50 individuals of the two species and their close relatives in Eurasia. Platanthera bifolia and P. chlorantha show a strong allometric relationship approximating a 2:3 ratio in mean values for most measurements. The few characters showing greater deviations collectively reflect some but not all aspects of the classical adaptive scenario; moreover, they may be genetically linked. Those characters are sufficient to reliably distinguish between the two species and identify occasional hybrids. Spur length of both species shows a latitudinal gradient, strongest within the British Isles, that decreases northward by an average of ca. 2% per 100 km. In contrast with this substantial morphological divergence, only one base-pair difference was detected in c. 9 kb of rapidly evolving nuclear and plastid DNA, though inclusion of closely related taxa from the Mediterranean region, Macaronesian islands and eastern Asia increased to seven the number of subtly distinct ITS alleles recovered from the aggregate. Most of the phenotypic variability observed, both within and between P. bifolia and P. chlorantha, is encompassed within a single allometric cline that conflates - in order of decreasing influence -ontogenetic factors, environmental (epigenetic) influences, and taxonomic distinction. Phenotypic divergence between the two species is less than is generally supposed, and is hypothesised to reflect a simple genetic control that radically increases stigma size in P. chlorantha. Our failure to detect species-specific genetic differences between the two allogamous putative species indicates (but cannot conclusively demonstrate) that extensive gene-flow occurs between them, suggesting that previous assertions of pollinator specificity have been greatly exaggerated. This homogeneity could represent hybridisation through secondary contact of formerly distinct species, but this theory is contradicted by the low allelic diversity of the putative species, together with their similar geographic distributions and habitat preferences. Rather, we suspect that these and other closely related taxa represent a relatively early stage of speciation, when phenotypic divergence (which typically reflects minute changes in the regulation of phenotypically expressed genes) inevitably precedes more widespread divergence in the various genic regions that are routinely used in molecular phylogenetics. This phenotypically overt but genotypically cryptic phase of speciation, here termed the genetic divergence lag (GDL), renders such incipient species immune to DNA barcoding.Many incipient species may never achieve a level of genetic isolation sufficient to escape the GDL. In the present case, the incipient speciation may have occurred sympatrically and may (thus far) have led only to stabilised polymorphism.
+
+
+2527
+#THE ABILITY OF SPONTANEOUS AUTOGAMY IN FOUR ORCHID SPECIES: CEPHALANTHERA RUBRA, NEOTTIA OVATA, GYMNADENIA CONOPSEA, AND PLATANTHERA BIFOLIA
+#Talalaj, I, Ostrowiecka, B, Wlostowska, E, Rutkowska, A, Brzosko, E
+#2017
+--------------------------------
+The breeding system in Orchidaceae generates many questions about the selfing potential of its representatives. We investigated the ability of spontaneous autogamy of four orchid species: Cephalanthera rubra and Neottia ovata of the Neottieae tribe and Gymnadenia conopsea and Platanthera bifolia of the Orchideae tribe. These species represent diverse specializations of the gynostemium architecture. The self-compatibility and properties of autogamous seeds were determined in a bagging experiment and seed development analysis. After induced autogamy, a high level of fruiting (80-100%) was noted in all of the four study species. C. rubra, N. ovata, and G. conopsea are completely self-compatible, and P. bifolia is suggested to be partially self-compatible. If autogamy occurred, inbreeding depression and resource limitation on seed development appeared only in the two Orchideae species. Independent of flower specialization, both Neottieae species and P. bifolia were completely allogamous, whereas G. conopsea could be facultatively autogamous.
+
+
+2528
+#Darwin's legacy in Platanthera: are there more than two species in the Platanthera bifolia/chlorantha group?
+#Durka, W, Baum, A, Michalski, SG, Baum, H
+#2017
+--------------------------------
+In Central Europe, the genus Platanthera traditionally comprised two species, P. chlorantha Cust. ex Rchb. (Pc) and P. bifolia (L.) Rich. (Pb). They are morphologically characterized by a wide and narrow separation of anthers, respectively. However, a third form with intermediate anther distance has repeatedly been hypothesized but only hesitantly accepted. In addition, intermediate morphology has been also used as the main character of P. x hybrida. However, the status of some purported hybrid populations is challenged by the local lack of parental species, their successful reproduction and non-intermediate traits. Despite this unclear situation, detailed genetic and morphological analyses are lacking. Here, we studied morphology and molecular markers within the P. chlorantha/bifolia group in Central Europe. Three morphological groups emerged representing Pc, Pb and a third form, here informally referred to as non-hybrid intermediates (Pn). The latter is characterized, among other trait differences, by intermediate distance between anthers [(0.7)-1-2.2 mm] and long spurs (28-40 mm). Three gene pools were identified, which largely corresponded to the three morphological groups. The Pn gene pool had several high-frequency private alleles substantiating its genetic independence. Some of the Pn populations were previously interpreted as P. x hybrida suggesting that Pn was overlooked hitherto and mistaken to represent hybrids. The non-perfect fit between morphological and genetic groups highlights the potential for fast morphological evolution. Overall, the finding of three distinct lineages within the bifolia/chlorantha group necessitates a thorough reanalysis of reported taxa and a reevaluation of our understanding of their distribution, ecology and evolution.
+
+
+2529
+#Characterization of sympatric Platanthera bifolia and Platanthera chlorantha (Orchidaceae) populations with intermediate plants
+#Esposito, F, Vereecken, NJ, Gammella, M, Rinaldi, R, Laurent, P, Tyteca, D
+#2018
+--------------------------------
+Platanthera bifolia and P. chlorantha are terrestrial and rewarding orchids with a wide Eurasian distribution. Although genetically closely related, they exhibit significant morphological, phenological and ecological differences that maintain reproductive isolation between the species. However, where both species co-occur, individuals with intermediate phenotypic traits, often considered as hybrids, are frequently observed. Here, we combined neutral genetic markers (AFLPs), morphometrics and floral scent analysis (GC-MS) to investigate two mixed Platanthera populations where morphologically intermediate plants were found. Self-pollination experiments revealed a low level of autogamy and artificial crossings combined with assessments of fruit set and seed viability, showed compatibility between the two species. The results of the genetic analyses showed that morphologically intermediate plants had similar genetic patterns as the P. bifolia group. These results are corroborated also by floral scent analyses, which confirmed a strong similarity in floral scent composition between intermediate morphotypes and P. bifolia. Therefore, this study provided a much more detailed picture of the genetic structure of a sympatric zone between two closely allied species and supports the hypothesis that intermediate morphotypes in sympatry could reflect an adaptive evolution in response to local pollinator-mediated selection.
+
+

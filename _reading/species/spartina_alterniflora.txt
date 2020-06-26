@@ -1,0 +1,217 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3723
+#Reciprocal hybrid formation of Spartina in San Francisco Bay.
+#Anttila, CK, King, RA, Ferris, C, Ayres, DR, Strong, DR
+#2000
+--------------------------------
+Diversity in the tRNA(LEU1) intron of the chloroplast genome of Spartina was used to study hybridization of native California cordgrass, Spartina foliosa, with S. alterniflora, introduced to San Francisco Bay approximate to 25 years ago. We sequenced 544 bases of the tRNA(LEU1) intron and found three polymorphic sites, a pyrimidine transition at site 126 and transversions at sites 382 and 430. Spartina from outside of San Francisco Bay, where hybridization between these species is impossible, gave cpDNA genotypes of the parental species. S. foliosa had a single chloroplast haplotype, CCT, and this was unique to California cordgrass. S. alterniflora from the native range along the Atlantic coast of North America had three chloroplast haplotypes, CAT, TAA, and TAT. Hybrids were discriminated by random amplified polymorphic DNA (RAPD) phenotypes developed in a previous study. We found one hybrid that contained a cpDNA haplotype unknown in either parental species (TCT). The most significant finding was that hybridization proceeds in both directions, assuming maternal inheritance of cpDNA; 26 of the 36 hybrid Spartina plants from San Francisco Bay contained the S. foliosa haplotype, nine contained haplotypes of the invading S. alterniflora, and one had the cpDNA of unknown origin. Furthermore, cpDNA of both parental species was distributed throughout the broad range of RAPD phenotypes, suggesting ongoing contributions to the hybrid swarm from both. The preponderance of S. foliosa cpDNA has entered the hybrid swarm indirectly, we propose, from F1s that backcross to S. foliosa. Flowering of the native precedes by several weeks that of the invading species, with little overlap between the two. Thus, F1 hybrids would be rare and sired by the last S. foliosa pollen upon the first S. alterniflora stigmas. The native species produces little pollen and this has low viability. An intermediate flowering time of hybrids as well as pollen that is more vigourous and abundant than that of the native species would predispose F1s to high fitness in a vast sea of native ovules. Thus, spread of hybrids to other S. foliosa marshes could be an even greater threat to the native species than introductions of alien S. alterniflora.
+
+
+3726
+#Inbreeding depression in smooth cordgrass (Spartina alterniflora, Poaceae) invading San Francisco Bay.
+#Daehler, CC
+#1999
+--------------------------------
+The magnitude of inbreeding depression in invading plant populations is often presumed to be small and of little consequence. The purpose of this study was to assess the magnitude of inbreeding depression in a pollen-limited, partially self-incompatible, invading plant population. The magnitude and timing of inbreeding depression were compared among ten maternal plants sampled from a population of smooth cordgrass (Spartina alterniflora) invading San Francisco Bay. Selfed and outcrossed progeny were compared for embryo abortion, survival of seedlings, and growth/survival at the end of the first growing season in three greenhouse environments. Estimates of inbreeding depression varied among environments, with competitive environment > high-nutrient environment > low- nutrient environment. Population-level estimates of inbreeding depression ranged from 0.61 to 0.81; however, maternal plants varied significantly in their magnitude of inbreeding depression, ranging from 0.1 to 0.97. The 95% confidence interval for inbreeding depression for some maternal plants included zero. There was a significant negative correlation between the overall magnitude of inbreeding depression and self-fertility rate among maternal plants. The few maternal plants with high self-fertility carried relatively little genetic load, and their selfed progeny are likely to survive on open mudflats. The noncompetitive, pollen-limited growing conditions associated with invasion may allow self-fertility to spread in this population.
+
+
+3729
+#A comparative assessment of genetic diversity among differently-aged populations of Spartina alterniflora on restored versus natural wetlands.
+#Travis, SE, Proffitt, CE, Lowenfeld, RC, Mitchell, TW
+#2002
+--------------------------------
+We collected naturally recolonizing Spartina alterniflora (smooth cord grass) from each of three restored sites and one undisturbed reference site in southwestern Louisiana to assess the impact of wetland restoration on genetic diversity. We used amplified fragment length polymorphisms (AFLPs) to produce 94 polymorphic genetic markers, which were used to characterize genetic diversity as average heterozygosity <H> and the proportion of polymorphic loci . Overall our findings indicate that restored populations of S. alterniflora maintain levels of genetic diversity comparable to natural populations, which should provide some measure of resistance against environmental disturbances. Diversity estimates were lowest for the natural reference site (<H> = 0.1059; = 0.2763), whereas estimates for the three restored sites ranged from <H> = 0.1148 to 0.1256 and = 0.3114 to 0.3202. All sites maintained sufficiently high diversity levels to suggest significant rates of outcrossing. Overall, genetic differentiation among populations was small (Weir and Cockerham's Theta = 0.0645), with the values from each pairwise comparison among the populations increasing with the geographic distance between sites (range = 0.0490-0.1101). These values indicate an average migration rate of 3.6 migrants, either pollen or seeds, per generation.
+
+
+3730
+#Genetic evidence for hybridization between the native Spartina maritima and the introduced Spartina alterniflora (Poaceae) in South-West France: Spartina X neyrautii re-examined.
+#Baumel, A, Ainouche, ML, Misset, MT, Gourret, JP, Bayer, RJ
+#2003
+--------------------------------
+Spartina alterniflora, a perennial grass native to the North American Atlantic coast, was introduced during the 19th century in western Europe (Southern England and western France) where it hybridized with the native Spartina maritima. In England, the sterile hybrid S. x townsendii gave rise by chromosome doubling to the highly fertile allopolyploid Spartina anglica, which has now invaded many salt marshes and estuaries in western Europe, and has been introduced in several continents. In South-West France, another sterile hybrid was discovered in 1892 in the Bidassoa Estuary, and named Spartina x neyrautii. According to their morphology, some authors suggested that S.  neyrautii and S. x townsendii result from reciprocal crosses. During the 20th century, the hybridization site was severely disturbed, and surviving of S. x neyrautii was questioned. In this paper, various Spartina populations are investigated in the Basque region (France and Spain), and compared to the hybrid taxa formed in England (S. x townsendii an S. anglica). The samples were analyzed using molecular fingerprinting (RAPD and ISSR) and Chloroplast DNA sequence (trnL-trnT spacer, trnL intron and trnL-trnF spacer). In the Bidassoa estuary, a hybrid isolated clone has been found, that displays additive species- specific nuclear markers of S. maritima and S. alterniflora, and that is subsequently considered as a surviving clone of S. x neyrautii. The molecular analyses indicate that S.  neyrautii and S. x townsendii share the same maternal (S. alterniflora), and paternal (S. maritima) parental species, but also that the two independent hybridization events have involved different parental (nuclear) genotypes in England and in South-West France.
+
+
+3734
+#Genotypic diversity at multiple spatial scales in the foundation marsh species, Spartina alterniflora
+#Hughes, A. Randall, Lotterhos, Katie E.
+#2014
+--------------------------------
+Fine-scale variation in both the number and relatedness of genetic individuals can influence a range of ecological and evolutionary processes. However, we often have little information from natural populations regarding the fine-scale distribution of genetic diversity. We quantified multiple metrics of genetic diversity in the widespread, dominant marsh plant Spartina alterniflora across 3 spatial scales in 16 natural marshes in the Florida Panhandle. We also examined correlations between genetic diversity and marsh plant species diversity, along with key environmental variables that may influence both. Most of the variance in S. alterniflora genetic structure was explained by variation within sampling areas across sites. S. alterniflora genetic diversity and marsh plant species diversity increased with spatial scale within sites. In addition, diversity was generally higher on mainland marsh sites compared to discrete marsh islands, consistent with theoretical predictions from island biogeography and population genetics. Multiple metrics of genetic diversity increased with island area and with distance to the mainland. Despite significant correlations between diversity and tidal height, sediment organic content, and sediment porewater salinity, site type (mainland or island) and spatial scale were the best predictors of S. alterniflora genetic and marsh plant species diversity. We show that natural populations of S. alterniflora exhibit significant fine-scale spatial genetic structure, and thus continued loss of habitat could lead to a substantial loss of genetic diversity.
+
+
+------------- All Abstracts -------------------
+3718
+#The evolution of Spartina anglica C.E. Hubbard (Gramineae): origin and genetic variability.
+#Raybould AF, Gray, AJ, Lawrence, MJ and Marshall, DF
+#1991
+--------------------------------
+
+
+
+3719
+#The evolution of Spartina anglica C.E. Hubbard (Gramineae): genetic variation and status of parental species in Britain.
+#Raybould AF, Gray AJ, Lawrence MJ and Marshall, DF
+#1991
+--------------------------------
+
+
+
+3720
+#Molecular evidence for the maternal parentage in the hybrid origin of Spartina anglica.
+#Ferris, C, King, RA and Gray, AJ
+#1997
+--------------------------------
+Spartina anglica is a textbook example of a natural amphiploid, which originated from hybridization between S. alterniflora and S. maritina. Which of these species was the maternal parent has remained a mystery. Inheritance of chloroplast DNA in most angiosperms is strictly maternal and can thus be used to test the parentage of hybrid taxa. The DNA sequence of the chloroplast leucine tRNA gene intron was used to show that the introduced North American S. alterniflora is the female parent of the F-1 hybrid S. x to townsendii and the amphiploid S. anglica. A possible scenario for their origin is given.
+
+
+3721
+#Molecular investigations in populations of Spartina anglica C.E. Hubbard (Poaceae) invading coastal Brittany (France).
+#Baume,l A, Ainouche, ML, and Levasseur, JE
+#2001
+--------------------------------
+Spartina anglica is a classical example of recent alloploid speciation. It arose during the end of the nineteenth century in England by hybridization between the indigenous Spartina maritima and the introduced East-American Spartina alterniflora. Duplication of the hybrid genome ( Spartina ´ townsendii ) gave rise to a vigorous allopolyploid involved in natural and artificial invasions on different continents. Spartina anglica was first recorded in France in 1906, and since then, it has spread all along the western French coast. Earlier studies revealed that native British populations display consistent morphological plasticity and lack of isozyme variation. In this paper, we use different molecular markers (randomly amplified polymorphic DNA, intersimple sequence repeats and restriction patterns from nuclear and chloroplast DNA sequences) to analyse the genetic patterns of the French populations of S. anglica. Our results show that French populations are mainly composed of one ‘major’ multilocus genotype. This genotype is identical to the first-generation hybrid S. ´ townsendii from England. Losses of few markers from this genotype are observed but are restricted to a few populations from Brittany; it is likely that they appeared independently, subsequent to their introduction. In southern Brittany, no hybrids between S. anglica and S. maritima have been found where the two species co-occur. All French populations of S. anglica display the same chloroplast DNA sequences as S. alterniflora , the maternal genome donor. These findings are consistent with a severe genetic bottleneck at the time of the species formation, as a consequence of a unique origin of the species. Both parental nuclear sequences are present in the allopolyploid populations, revealing that for the markers investigated, no extensive changes have occurred in this young species.
+
+
+3722
+#Origin and genetic diversity of Spartina anglica (Poaceae) using nuclear DNA markers.
+#Ayres DR, Strong DR
+#2001
+--------------------------------
+Spartina alterniflora, introduced into the UK in the 1800s. Was the seed parent in an interspecific hybridization with S. maritima. The sterile F1 hybrid S. xtownsendii gave rise to the fertile allopolyploid S. anglica by chromosomal doubling. Previous chromosome, isozyme, and cpDNA surveys did not reveal notable genetic variation within either the parental or the hybrid species. We used nuclear DNA markers (random amplified polymorphic DNA ([RAPD]) and inter-simple sequence repeats (ISSR) to further explore the origin, diversity, and parentage of S. anglica. We found DNA fragments in S. xtownsendii were the aggregate of diagnostic DNA fragments from S. maritima and S. alterniflora, thus confirming its hybrid origin. The S. xtownsendii genotype was identical to most of the S. anglica individuals analyzed, establishing the genetic concordance of these two taxa. We found widespread genetic variation within S. anglica. This could indicate that S. anglica arose several times. from different S. maritima sires. Alternatively. alleles could have been lost through recombination and/or through loss of entire chromosomes in S. anglica. Finally. all but one S. anglica individual had a S. alterniflora component that was indistinguishable from a S. alterniflora plant extant in Marchwood, UK, leaving open the possibility that this plant is the actual seed parent of S. anglica.
+
+
+3723
+#Reciprocal hybrid formation of Spartina in San Francisco Bay.
+#Anttila, CK, King, RA, Ferris, C, Ayres, DR, Strong, DR
+#2000
+--------------------------------
+Diversity in the tRNA(LEU1) intron of the chloroplast genome of Spartina was used to study hybridization of native California cordgrass, Spartina foliosa, with S. alterniflora, introduced to San Francisco Bay approximate to 25 years ago. We sequenced 544 bases of the tRNA(LEU1) intron and found three polymorphic sites, a pyrimidine transition at site 126 and transversions at sites 382 and 430. Spartina from outside of San Francisco Bay, where hybridization between these species is impossible, gave cpDNA genotypes of the parental species. S. foliosa had a single chloroplast haplotype, CCT, and this was unique to California cordgrass. S. alterniflora from the native range along the Atlantic coast of North America had three chloroplast haplotypes, CAT, TAA, and TAT. Hybrids were discriminated by random amplified polymorphic DNA (RAPD) phenotypes developed in a previous study. We found one hybrid that contained a cpDNA haplotype unknown in either parental species (TCT). The most significant finding was that hybridization proceeds in both directions, assuming maternal inheritance of cpDNA; 26 of the 36 hybrid Spartina plants from San Francisco Bay contained the S. foliosa haplotype, nine contained haplotypes of the invading S. alterniflora, and one had the cpDNA of unknown origin. Furthermore, cpDNA of both parental species was distributed throughout the broad range of RAPD phenotypes, suggesting ongoing contributions to the hybrid swarm from both. The preponderance of S. foliosa cpDNA has entered the hybrid swarm indirectly, we propose, from F1s that backcross to S. foliosa. Flowering of the native precedes by several weeks that of the invading species, with little overlap between the two. Thus, F1 hybrids would be rare and sired by the last S. foliosa pollen upon the first S. alterniflora stigmas. The native species produces little pollen and this has low viability. An intermediate flowering time of hybrids as well as pollen that is more vigourous and abundant than that of the native species would predispose F1s to high fitness in a vast sea of native ovules. Thus, spread of hybrids to other S. foliosa marshes could be an even greater threat to the native species than introductions of alien S. alterniflora.
+
+
+3724
+#Molecular phylogeny of hybridizing species from the genus Spartina Schreb. (Poaceae).
+#Baumel, A, Ainouche, ML, Bayer, RJ, Ainouche, AK, Misset, MT
+#2002
+--------------------------------
+Interspecific hybridization events have been reported in the genus Spartina Schreb. (Poaceae), involving the east American species Spartina alterniflora, and including either introgression (e.g., with the western American Spartina foliosa) or allopolyploid speciation (e.g., with the Euro- African Spartina maritima). Molecular phylogenetic analysis of the genus has been undertaken in order to understand phylogenetic relationships and genetic divergence among these hybridizing species. Twelve Spartina species have been sequenced for two nuclear DNA regions (ITS of ribosomal DNA, and part of the Waxy gene) and one chloroplast DNA spacer (trnT-trnL). Separate and conditional combined phylogenetic analyses using Cynodon dactylon as the outgroup have been conducted. Spartina is composed of two lineages. The first clade includes all hexaploid species: the Euro-African S. maritima (2n = 60), the East-American S. alterniflora (2n = 62) and the West-American S. foliosa (2n = 60). Spartina alterniflora appears as a closely related sister species to S. foliosa. Although belonging to the same lineage, Spartina maritima appears consistently more genetically differentiated from S. alterniflora than S. foliosa. The tetraploid species S. argentinensis (2n = 40) is placed at the base of this first clade according to the Waxy data, but its position is not well resolved by the other sequences. The second well-supported main lineage within genus Spartina includes the other tetraploid American species. Significant incongruence has been encountered between the waxy based tree and both the ITS and trnT-trnL trees concerning the position of S. densiflora, suggesting a possible reticulate evolution for this species. The results agree with hybridization patterns occurring in Spartina: introgression involving closely related species (S. alterniflora and S. foliosa) on one hand, and alloploid speciation involving more differentiated species (S. alterniflora and S. maritima) on the other hand.
+
+
+3725
+#Characterization of microsatellite loci in Spartina species (Poaceae).
+#Blum, MJ, Sloop, CM, Ayres, DR, Strong, DR
+#2004
+--------------------------------
+The cordgrasses in the genus Spartina have become model organisms for studying biological invasions from both ecological and genetic perspectives. Here we characterize 11 disomic loci in Spartina alterniflora that show promise for population studies and for studying hybridization events between S. alterniflora and S. foliosa. Comparisons among invasive and native S. alterniflora populations showed that levels of allelic variation are lower in invasive populations. In addition, nearly all loci that amplified in S. foliosa populations and in a swarm of S. alterniflora x foliosa hybrids were polymorphic. We also found that several loci amplified successfully in other Spartina species.
+
+
+3726
+#Inbreeding depression in smooth cordgrass (Spartina alterniflora, Poaceae) invading San Francisco Bay.
+#Daehler, CC
+#1999
+--------------------------------
+The magnitude of inbreeding depression in invading plant populations is often presumed to be small and of little consequence. The purpose of this study was to assess the magnitude of inbreeding depression in a pollen-limited, partially self-incompatible, invading plant population. The magnitude and timing of inbreeding depression were compared among ten maternal plants sampled from a population of smooth cordgrass (Spartina alterniflora) invading San Francisco Bay. Selfed and outcrossed progeny were compared for embryo abortion, survival of seedlings, and growth/survival at the end of the first growing season in three greenhouse environments. Estimates of inbreeding depression varied among environments, with competitive environment > high-nutrient environment > low- nutrient environment. Population-level estimates of inbreeding depression ranged from 0.61 to 0.81; however, maternal plants varied significantly in their magnitude of inbreeding depression, ranging from 0.1 to 0.97. The 95% confidence interval for inbreeding depression for some maternal plants included zero. There was a significant negative correlation between the overall magnitude of inbreeding depression and self-fertility rate among maternal plants. The few maternal plants with high self-fertility carried relatively little genetic load, and their selfed progeny are likely to survive on open mudflats. The noncompetitive, pollen-limited growing conditions associated with invasion may allow self-fertility to spread in this population.
+
+
+3727
+#Genetic diversity within tall form Spartina alterniflora Loisel. along the Atlantic and Gulf coasts of the United States.
+#O'Brien, DL, Freshwater, DW
+#1999
+--------------------------------
+Spartina alterniflora is the dominant flowering plant of regularly flooded salt marshes along the Atlantic and Gulf coasts of the United States. Studies have suggested that there may be a genetic basis for the morphological, physiological, and phenological differences observed in plants sampled over a broad geographic range. Randomly amplified polymorphic DNA (RAPD) analysis was employed to assess the genetic variability in tall form S. alterniflora from the Atlantic and Gulf coasts. Twenty-nine RAPD primers produced 300 scoreable electrophoretic bands, of which 225 were polymorphic (75%). An UPGMA (unweighted pair-group method using an arithmetic average) phenogram based on Jaccard's genetic distances showed three clusters of plants: New England/New Jersey, North Carolina/South Atlantic, and Gulf coast. Analysis of molecular variance (AMOVA) was used to estimate how genetic variability is partitioned among regions, areas, and individuals. The resulting variance components were highly significant at all hierachical levels for the sampling regime employed. The correlation between genetic and estimated coastal geographic distance was positive and highly significant based on Mantel's non-parametric test. Although direct gene flow among plants from geographically separate areas is not probable due to differences in flowering phenology, a total barrier to the exchange of genetic information is not likely. Present data and results of previous studies suggest a genetic continuum for this species rather than discrete, isolated populations.
+
+
+3728
+#100 years of Spartina alterniflora (Poaceae) in Willapa bay, Washington - Random Amplified Polymorphic DNA analysis of an invasive population.
+#Stiller, JW, Denton, AL
+#1995
+--------------------------------
+Spartina alterniflora (smooth cordgrass) has invaded Willapa Bay, Washington, covering bare mud flats and seagrass beds. At current expansion rates it threatens to occupy most of the intertidal habitat in the bay within 40 years. Although a major mitigation effort is underway, nothing is known about the genetic structure of the Willapa Bay S. alterniflora population or the underlying causes for the dramatic increase in seed set that has occurred in the last 15 years. Random amplified polymorphic DNA (RAPD) analysis was assessed as a method of DNA fingerprinting to analyse the genetic history and current structure of the Willapa population. The results suggest that all S. alterniflora clones in Willapa Bay are descended from a single genet. Given the limited genetic variability expected in a clonally founded population, we discuss the utility of RAPDs as genetic markers to explore the large morphological and reproductive differences reported among Willapa clones. Cluster analysis of RAPD fragments was used to show relatedness among S. alterniflora genets and may be helpful in locating the most prolific clones for mitigation efforts. Overall, RAPDs show great potential in genetic analysis of S. alterniflora, particularly in invasive populations where isozyme variability is low or nonexistent.
+
+
+3729
+#A comparative assessment of genetic diversity among differently-aged populations of Spartina alterniflora on restored versus natural wetlands.
+#Travis, SE, Proffitt, CE, Lowenfeld, RC, Mitchell, TW
+#2002
+--------------------------------
+We collected naturally recolonizing Spartina alterniflora (smooth cord grass) from each of three restored sites and one undisturbed reference site in southwestern Louisiana to assess the impact of wetland restoration on genetic diversity. We used amplified fragment length polymorphisms (AFLPs) to produce 94 polymorphic genetic markers, which were used to characterize genetic diversity as average heterozygosity <H> and the proportion of polymorphic loci . Overall our findings indicate that restored populations of S. alterniflora maintain levels of genetic diversity comparable to natural populations, which should provide some measure of resistance against environmental disturbances. Diversity estimates were lowest for the natural reference site (<H> = 0.1059; = 0.2763), whereas estimates for the three restored sites ranged from <H> = 0.1148 to 0.1256 and = 0.3114 to 0.3202. All sites maintained sufficiently high diversity levels to suggest significant rates of outcrossing. Overall, genetic differentiation among populations was small (Weir and Cockerham's Theta = 0.0645), with the values from each pairwise comparison among the populations increasing with the geographic distance between sites (range = 0.0490-0.1101). These values indicate an average migration rate of 3.6 migrants, either pollen or seeds, per generation.
+
+
+3730
+#Genetic evidence for hybridization between the native Spartina maritima and the introduced Spartina alterniflora (Poaceae) in South-West France: Spartina X neyrautii re-examined.
+#Baumel, A, Ainouche, ML, Misset, MT, Gourret, JP, Bayer, RJ
+#2003
+--------------------------------
+Spartina alterniflora, a perennial grass native to the North American Atlantic coast, was introduced during the 19th century in western Europe (Southern England and western France) where it hybridized with the native Spartina maritima. In England, the sterile hybrid S. x townsendii gave rise by chromosome doubling to the highly fertile allopolyploid Spartina anglica, which has now invaded many salt marshes and estuaries in western Europe, and has been introduced in several continents. In South-West France, another sterile hybrid was discovered in 1892 in the Bidassoa Estuary, and named Spartina x neyrautii. According to their morphology, some authors suggested that S.  neyrautii and S. x townsendii result from reciprocal crosses. During the 20th century, the hybridization site was severely disturbed, and surviving of S. x neyrautii was questioned. In this paper, various Spartina populations are investigated in the Basque region (France and Spain), and compared to the hybrid taxa formed in England (S. x townsendii an S. anglica). The samples were analyzed using molecular fingerprinting (RAPD and ISSR) and Chloroplast DNA sequence (trnL-trnT spacer, trnL intron and trnL-trnF spacer). In the Bidassoa estuary, a hybrid isolated clone has been found, that displays additive species- specific nuclear markers of S. maritima and S. alterniflora, and that is subsequently considered as a surviving clone of S. x neyrautii. The molecular analyses indicate that S.  neyrautii and S. x townsendii share the same maternal (S. alterniflora), and paternal (S. maritima) parental species, but also that the two independent hybridization events have involved different parental (nuclear) genotypes in England and in South-West France.
+
+
+3731
+#Can population genetics studies of Spartina alterniflora (smooth cordgrass) affect marsh restoration horticultural practices?
+#Novy, A Hartman, JM Smouse, P Struwe, L Miller, C Skaradek, W Bonos, S
+#2008
+--------------------------------
+
+
+
+3732
+#Genetic diversity and population genetic structure of saltmarsh Spartina alterniflora from four coastal Louisiana basins 
+#Utomo, HS Wenefrida, I Materne, MD Harrison, SA
+#2009
+--------------------------------
+Seventy-two Spartina alterniflora accessions originating from four
+ coastal Louisiana basins (18 accessions per basin) were used to
+ evaluate the genetic structure of this native perennial low-intertidal
+ plant species. The objective of this study was to determine the
+ population genetic structure and diversity of S. alterniflora
+ accessions originating from these four basins using amplified fragment
+ length polymorphism (AFLP) markers. A total of 250 unambiguous and
+ highly repeatable AFLP markers, 186 of which (74.4%) were polymorphic,
+ were obtained using four primer combinations. Overall, pairwise
+ similarity estimates between accessions ranged from 0.70 to 0.93
+ (average = 0.80) with only a small portion of alleles (0.54-1.08%)
+ unique to each basin. The average HS (genetic diversity within coastal
+ basins) was 0.20 with an HS values of 0.19, 0.20, 0.20, and 0.21 for
+ Mermentau, Terrebonne, Calcasieu, and Barataria-Breton basin,
+ respectively. AMOVA analysis showed no genetic structure among basins,
+ with the majority of genetic variation, 96.6%, residing within the
+ basins. There was no indication of isolation by distance. Our results
+ suggest that maintaining high levels of genetic diversity can be
+ accomplished through the use of an adequate number of S. alterniflora
+ samples collected within any large basin. Choosing parental lines from
+ several Louisiana coastal basins for breeding purposes may not
+ significantly increase genetic variability among the progeny lines.
+
+
+3733
+#Genotypic diversity enhances invasive ability of Spartina alterniflora
+#Wang, X. Y., D. W. Shen, J. Jiao, N. N. Xu, S. Yu, X. F. Zhou, M. M. Shi, and X. Y. Chen
+#2012
+--------------------------------
+Although genetic diversity is very important for alien species, which have to cope with new environments, little is known about the role that genetic diversity plays in their invasive success. In this study, we set up a manipulation experiment including three levels of genotypic diversity to test whether genotypic diversity can enhance the invasive ability of alien species, in our case the invasive Spartina alterniflora in China, and to infer the underlying mechanisms. There was no significant relationship between genotypic diversity and parameters of performance in the first year; however, from the summer of the second year onwards, genotypic diversity enhanced four of the six parameters of performance. After two growing seasons, there were significant positive relationships between genotypic diversity and maximum spread distance, patch size, shoot number per patch, and aboveground biomass. Moreover, abundance of the native dominant species Scirpus mariqueter was marginally significantly decreased with genotypic diversity of S. alterniflora, suggesting that enhanced invasive ability of S. alterniflora may have depressed the growth of the native species. There was no significant difference in most measures of performance among six genotypes, but we observed a transgressive over performance in four measures in multiple-genotype patches. At the end of the experiment, there were significant nonadditive effects of genotypic diversity according to Monte Carlo permutations, in six-genotype, but not three-genotype plots. Our results indicated that both additive and nonadditive effects played roles in the positive relationship between genetic diversity and invasion success, and nonadditive effects were stronger as duration increased.
+
+
+3734
+#Genotypic diversity at multiple spatial scales in the foundation marsh species, Spartina alterniflora
+#Hughes, A. Randall, Lotterhos, Katie E.
+#2014
+--------------------------------
+Fine-scale variation in both the number and relatedness of genetic individuals can influence a range of ecological and evolutionary processes. However, we often have little information from natural populations regarding the fine-scale distribution of genetic diversity. We quantified multiple metrics of genetic diversity in the widespread, dominant marsh plant Spartina alterniflora across 3 spatial scales in 16 natural marshes in the Florida Panhandle. We also examined correlations between genetic diversity and marsh plant species diversity, along with key environmental variables that may influence both. Most of the variance in S. alterniflora genetic structure was explained by variation within sampling areas across sites. S. alterniflora genetic diversity and marsh plant species diversity increased with spatial scale within sites. In addition, diversity was generally higher on mainland marsh sites compared to discrete marsh islands, consistent with theoretical predictions from island biogeography and population genetics. Multiple metrics of genetic diversity increased with island area and with distance to the mainland. Despite significant correlations between diversity and tidal height, sediment organic content, and sediment porewater salinity, site type (mainland or island) and spatial scale were the best predictors of S. alterniflora genetic and marsh plant species diversity. We show that natural populations of S. alterniflora exhibit significant fine-scale spatial genetic structure, and thus continued loss of habitat could lead to a substantial loss of genetic diversity.
+
+
+3735
+#Persistence, dispersal and genetic evolution of recently formed Spartina homoploid hybrids and allopolyploids in Southern England
+#Huska, D, Leitch, IJ, de Carvalho, JF, Leitch, AR, Salmon, A, Ainouche, M, Kovarik, A
+#2016
+--------------------------------
+In Southampton Water, UK, the recent (c. 150 years ago) interspecific hybridisation between Spartina alterniflora (2n = 6x = 62; A-genome) and S. maritima (2n = 6x = 60; M-genome) gave rise to the homoploid hybrid (S. x townsendii, 2n = 6x = 62), and subsequently to the invasive allododecaploid species S. anglica (2n = 12x = 120-124) that has since spread worldwide. To address the question of dynamics of mixed ploidy populations involving these plants, we analysed several Spartina populations (fifty one individuals) in Southern England, UK, one of which was the presumed place of origin of the homoploid hybrid (Hythe). Using a combination of flow cytometry and ribosomal DNA (rDNA) genotyping we were able to identify the genomic composition and ploidy level of each individual analysed. The data show that the homoploid hybrid still dominates the population at Hythe (82 % of individuals collected in that locality) since its origin in the nineteenth century. We also identified S. x townsendii for the first time on Hayling Island (66 % individuals), indicating dispersal beyond its likely origin. The fertile allododecaploid S. anglica was mainly found in populations outside the initial hybridisation site, on Hayling Island and at Eling Marchwood. Quantification of the rDNA contributions from each parental genome showed that the ratios were mostly balanced in S. x townsendii. However, two (3 %) S. anglica individuals analysed have lost nearly all M-genome homeologs, indicating extensive repeat loss. Such variation indicates that despite the presumed single allopolyploid origin of S. anglica and genetic uniformity at other loci, it has undergone substantial changes at the rDNA loci following genome duplication.
+
+
+3736
+#Spartina anglica C.E. Hubbard: a natural model system for analysing early evolutionary changes that affect allopolyploid genomes.
+#Ainouche, ML, Baumel, A and Salmon, A
+#2004
+--------------------------------
+
+
+

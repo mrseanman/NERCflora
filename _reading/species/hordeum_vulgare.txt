@@ -1,0 +1,171 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1537
+#Patterns of genetic diversity and linkage disequilibrium in a highly structured Hordeum vulgare association-mapping population for the Mediterranean basin
+#Comadran, J Thomas, WTB van Eeuwijk, FA Ceccarelli, S Grando, S Stanca, AM Pecchioni, N Akar, T Al-Yassin, A Benbelkacem, A Ouabbou, H Bort, J Romagosa, I Hackett, CA Russell, JR
+#2009
+--------------------------------
+Population structure and genome-wide linkage disequilibrium (LD) were
+ investigated in 192 Hordeum vulgare accessions providing a
+ comprehensive coverage of past and present barley breeding in the
+ Mediterranean basin, using 50 nuclear microsatellite and 1,130 DArTA
+ (R) markers. Both clustering and principal coordinate analyses clearly
+ sub-divided the sample into five distinct groups centred on key
+ ancestors and regions of origin of the germplasm. For given genetic
+ distances, large variation in LD values was observed, ranging from
+ closely linked markers completely at equilibrium to marker pairs at 50
+ cM separation still showing significant LD. Mean LD values across the
+ whole population sample decayed below r (2) of 0.15 after 3.2 cM. By
+ assaying 1,130 genome-wide DArTA (R) markers, we demonstrated that,
+ after accounting for population substructure, current genome coverage
+ of 1 marker per 1.5 cM except for chromosome 4H with 1 marker per 3.62
+ cM is sufficient for whole genome association scans. We show, by
+ identifying associations with powdery mildew that map in genomic
+ regions known to have resistance loci, that associations can be
+ detected in strongly stratified samples provided population structure
+ is effectively controlled in the analysis. The population we describe
+ is, therefore, shown to be a valuable resource, which can be used in
+ basic and applied research in barley.
+
+
+1540
+#Genetics of phenotypic plasticity: QTL analysis in barley, Hordeum vulgare
+#Lacaze, X Hayes, PM Korol, A
+#2009
+--------------------------------
+Phenotypic plasticity is the variation in phenotypic traits produced by
+ a genotype in different environments. In contrast, environmental
+ canalization is defined as the insensitivity of a genotype's phenotype
+ to variation in environments. Despite the extensive literature on the
+ evolutionary significance and potential genetic mechanisms driving
+ plasticity and canalization, few studies tried to unravel the genetic
+ basis of this phenomenon. Using both simulations and real data from
+ barley (Hordeum vulgare), we used QTL mapping to obtain insights into
+ the genetics of phenotypic plasticity. We explored two ways of
+ quantifying phenotypic plasticity, namely the phenotypic variance
+ across environments and the Finlay-Wilkinson's regression slope. Each
+ relates to a different concept of stability. Through QTL detection with
+ real and simulated data, we show that each measure of plasticity
+ detects specific types of plasticity QTL. Most of the plasticity QTLs
+ were detected in the data set with the lowest number of environments.
+ All plasticity QTL co-located with loci showing QTL x E interaction and
+ there were no QTL that only affected plasticity. The number of
+ environments that are considered and their homogeneity is a key to
+ interpret the genetic control of phenotypic plasticity. Regulatory
+ pathways of plasticity may vary from one set of environments to another
+ due to unique features of each environment. Therefore, with an
+ increasing number of environments, it may become impossible to detect a
+ single 'consistent' regulatory pathway for all environments.
+
+
+------------- All Abstracts -------------------
+1537
+#Patterns of genetic diversity and linkage disequilibrium in a highly structured Hordeum vulgare association-mapping population for the Mediterranean basin
+#Comadran, J Thomas, WTB van Eeuwijk, FA Ceccarelli, S Grando, S Stanca, AM Pecchioni, N Akar, T Al-Yassin, A Benbelkacem, A Ouabbou, H Bort, J Romagosa, I Hackett, CA Russell, JR
+#2009
+--------------------------------
+Population structure and genome-wide linkage disequilibrium (LD) were
+ investigated in 192 Hordeum vulgare accessions providing a
+ comprehensive coverage of past and present barley breeding in the
+ Mediterranean basin, using 50 nuclear microsatellite and 1,130 DArTA
+ (R) markers. Both clustering and principal coordinate analyses clearly
+ sub-divided the sample into five distinct groups centred on key
+ ancestors and regions of origin of the germplasm. For given genetic
+ distances, large variation in LD values was observed, ranging from
+ closely linked markers completely at equilibrium to marker pairs at 50
+ cM separation still showing significant LD. Mean LD values across the
+ whole population sample decayed below r (2) of 0.15 after 3.2 cM. By
+ assaying 1,130 genome-wide DArTA (R) markers, we demonstrated that,
+ after accounting for population substructure, current genome coverage
+ of 1 marker per 1.5 cM except for chromosome 4H with 1 marker per 3.62
+ cM is sufficient for whole genome association scans. We show, by
+ identifying associations with powdery mildew that map in genomic
+ regions known to have resistance loci, that associations can be
+ detected in strongly stratified samples provided population structure
+ is effectively controlled in the analysis. The population we describe
+ is, therefore, shown to be a valuable resource, which can be used in
+ basic and applied research in barley.
+
+
+1538
+#Development and assessment of simple PCR markers for SNP genotyping in barley
+#Hayden, MJ Tabone, T Mather, DE
+#2009
+--------------------------------
+Simple molecular marker assays underpin routine plant breeding and
+ research activities in many laboratories worldwide. With the rapid
+ growth of single nucleotide polymorphism (SNP) resources for many
+ important crop plants, the availability of routine, low-tech marker
+ assays for genotyping SNPs is of increased importance. In this study,
+ we demonstrate that temperature-switch PCR (TSP) supports the rapid
+ development of robust, allele-specific PCR markers for codominant SNP
+ genotyping on agarose gel. A total of 87 TSP markers for assessing gene
+ diversity in barley were developed and used to investigate the efficacy
+ for marker development, assay reliably and genotyping accuracy. The TSP
+ markers described provide good coverage of the barley genome, are
+ simple to use, easy to interpret and score, and are amenable to assay
+ automation. They provide a resource of informative SNP markers for
+ assessing genetic relationships among individuals, populations and gene
+ pools of cultivated barley (Hordeum vulgare L.) and its wild relative
+ H. spontaneum K. Koch. TSP markers provide opportunities to use
+ available SNP resources for marker-assisted breeding and plant genetic
+ research, and to generate information that can be integrated with SNP
+ data from different sources and studies. TSP markers are expected to
+ provide similar advantages for any animal or plant species.
+
+
+1539
+#Genetic diversity and population structure of wild and cultivated barley from West Asia and North Africa 
+#Orabi, J Jahoor, A Backes, G
+#2009
+--------------------------------
+Population structure and relationships within and among 185
+ accessions of wild (Hordeum vulgare ssp. spontaneum) and cultivated
+ barley (H. v. ssp. vulgare) from five countries in the West Asia and
+ North Africa (WANA) region were studied using 36 simple sequence repeat
+ (SSR) markers. The accessions were divided into subspecies/origin
+ (S/O)-groups and marker results were analysed in relation to genetic
+ diversity and genetic structure. Wild barley from WANA was found to be
+ highly diverse. The landraces from different countries of the Near East
+ showed genetic diversity that was nearly as high as the wild barley
+ from the same country. Further analyses showed that wild barley from
+ Palestine/Israel represented the group with the highest diversity and
+ the most complex structure. However, this group was distantly related
+ to the cultivated barley in WANA, while the wild barley from the rest
+ of the WANA region was closely related to the cultivated WANA barley.
+ The high diversity and the close relationship to the wild barley make
+ the WANA landraces an interesting genetic resource for both
+ conservation and exploitation.
+
+
+1540
+#Genetics of phenotypic plasticity: QTL analysis in barley, Hordeum vulgare
+#Lacaze, X Hayes, PM Korol, A
+#2009
+--------------------------------
+Phenotypic plasticity is the variation in phenotypic traits produced by
+ a genotype in different environments. In contrast, environmental
+ canalization is defined as the insensitivity of a genotype's phenotype
+ to variation in environments. Despite the extensive literature on the
+ evolutionary significance and potential genetic mechanisms driving
+ plasticity and canalization, few studies tried to unravel the genetic
+ basis of this phenomenon. Using both simulations and real data from
+ barley (Hordeum vulgare), we used QTL mapping to obtain insights into
+ the genetics of phenotypic plasticity. We explored two ways of
+ quantifying phenotypic plasticity, namely the phenotypic variance
+ across environments and the Finlay-Wilkinson's regression slope. Each
+ relates to a different concept of stability. Through QTL detection with
+ real and simulated data, we show that each measure of plasticity
+ detects specific types of plasticity QTL. Most of the plasticity QTLs
+ were detected in the data set with the lowest number of environments.
+ All plasticity QTL co-located with loci showing QTL x E interaction and
+ there were no QTL that only affected plasticity. The number of
+ environments that are considered and their homogeneity is a key to
+ interpret the genetic control of phenotypic plasticity. Regulatory
+ pathways of plasticity may vary from one set of environments to another
+ due to unique features of each environment. Therefore, with an
+ increasing number of environments, it may become impossible to detect a
+ single 'consistent' regulatory pathway for all environments.
+
+

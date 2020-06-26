@@ -1,0 +1,876 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2907
+#Chloroplast DNA recognizes three refugial sources of European oaks and suggests independent eastern and western immigrations to Finland.
+#Ferris, C, King, RA, Vainola, R and Hewitt, GM
+#1998
+--------------------------------
+Refugial differentiation and routes of postglacial migration are major determinants of the patterns of geographical variation we see in natural populations today. We used patterns of chloroplast DNA (cpDNA) variation to investigate the postglacial colonization history of the European oak species Quercus robur and Q. petraea. By sequencing two cpDNA segments using universal primers, we revealed four polymorphic sites which identify four cytotypes with characteristic geographical distributions. Of these, the principal eastern, central and western cytotypes divide the range into three longitudinal zones, each extending from the south to the north of Europe. This corroborates the idea that the postglacial colonization started from three distinct southerly refugia. The fourth cytotype, restricted to East Anglia, was probably derived from the western type postglacially. As a special problem, we addressed the controversial origin of Q. robur at its northern limits in south-western Finland, where it currently occupies a narrow coastal zone disjunct from the remaining oak range. Using a PCR-RFLP assay that discriminates the eastern cytotype, a contact zone of two cytotypes was identified in the region of the Salpausselka ridges. This suggests that the marginal northern occurrence was independently colonized both from the east and from the west, across the Baltic Sea.
+
+
+2915
+#Chloroplast DNA variation in European white oaks.Phylogeography and patterns of diversity based on data from over 2600 populations.
+#Petit, R J, Csaikl, UM, Bordács, S, Burg, K, Coart, E, Cottrell, J, van Dam, B, Deans, JD, Dumolin-Lapègue, S, Fineschi, S et al
+#2002
+--------------------------------
+A consortium of 16 laboratories have studied chloroplast DNA (cpDNA) variation in European white oaks. A common strategy for molecular screening, based on restriction analysis of four PCR-amplified cpDNA fragments, was used to allow comparison among the different laboratories. A total of 2613 oak populations (12,214 individual trees from eight species) weresampled from 37 countries, and analysed with the four fragments. They belong to eight related oak species: Quercus robur, Q. petraea, Q. pubescens, Q. frainetto, Q. faginea, Q. pyrenaica, Q. canariensis and Q. macranthera. During this survey, 45 chloroplast variants were detected and are described together with their phylogenetic relationships, but several of these haplotypes were pooled when there were some risks of confusion across laboratories during the survey, and finally 32 remained that were mapped and used in diversity analyses. A strong phylogeographic structure is apparent from the data, where related haplotypes have broadly similar geographic distributions. In total, six cpDNA lineages are identified, which have distinct geographic distributions, mainly along a longitudinal gradient. Most haplotypes found in northern Europe are also present in the south, whereas the converse is not true, suggesting that the majority of mutations observed were generated prior to postglacial recolonisation, corroborating the conclusions of earlier studies. The description of a new western European lineage constitutes a major finding, compared to earlier phylogenetic treatments. Although the eight oak species studied systematically share cpDNA variants when in sympatry, they partition cpDNA diversity differently, as a consequence of their different ecology and life history attributes. Regional differences in levels of differentiation also exist (either species-specific or general); these seem to be related to the intensity of past and present management of the forests across Europe but also to the level of fragmentation of the range within these regions.
+
+
+2918
+#High nuclear genetic diversity, high levels of outcrossing and low differentiation among remnant populations of Quercus petraea at the margin of its range in Ireland.
+#Muir G, Lowe AJ, Fleming CC, Vogl C
+#2004
+--------------------------------
+Background and Aims Quercus petraea colonized Ireland after the last glaciation from refugia on mainland Europe. Deforestation. however. beginning in Neolithic times, has resulted in small, scattered forest fragments, now covering less than 12 000 ha. Methods Plastid (three fragments) and microsatellite variation (13 loci) were characterized in seven Irish populations sampled along a north-south gradient. Using Bayesian approaches and Wright's F-statistics, the effects of colonization and fragmentation on the genetic structure and mating patterns of extant oak populations were investigated. Key-Results All Populations possessed cytotypes common to the Iberian Peninsula. Despite the distance from the refugial core and the extensive deforestation in Ireland, nuclear genetic variation was high and comparable to mainland Europe. Low population differentiation was observed within Ireland and populations showed no evidence for isolation by distance. As expected of a marker with an effective Population size of one-quarter relative to the nuclear genome, plastid variation indicated higher differentiation. Individual inbreeding coefficients indicated high levels of outcrossing. Conclusions Consistent with a large effective Population size in the historical migrant gene pool and/or with high gene flow among populations, high within-population diversity and low population differentiation was observred within Ireland. It is proposed that native Q. petraea populations in Ireland share a common phylogeographic history and that the present genetic structure does not reflect founder effects.
+
+
+2919
+#Species distinction in Irish populations of Quercus petraea and Q. robur: Morphological versus molecular analyses
+#Kelleher CT, Hodkinson TR, Douglas, GC and Kelly, DL
+#2005
+--------------------------------
+Background and Aims Populations of oak (Quercus petraea and Q. robur) were investigated using morphological and molecular (AFLP) analyses to assess species distinction. The study aimed to describe species distinction in Irish oak populations and to situate this in a European context. Methods Populations were sampled from across the range of the island of Ireland. Leaf morphological characters were analysed through clustering and ordination methods. Putative neutral molecular markers (AFLPs) were used to analyse the molecular variation. Cluster and ordination analyses were also performed on the AFLP markers in addition to calculations of genetic diversity and F-statisitcs. Key Results A notable divergence was uncovered between the morphological and molecular analyses. The morphological analysis clearly differentiated individuals into their respective species, whereas the molecular analysis did not. Twenty species-specific AFLP markers were observed from 123 plants in 24 populations but none of these was species-diagnostic. Principal Coordinate Analysis of the AFLP data revealed a clustering, across the first two axes, of individuals according to population rather than according to species. High F-ST values calculated from AFLP markers also indicated population differentiation (F-ST = 0.271). Species differentiation accounted for only 13 % of the variation in diversity compared with population differentiation, which accounted for 27 %. Conclusions The results show that neutral molecular variation is partitioned more strongly between populations than between species. Although this could indicate that the populations of Q. petraea and Q. robur studied may not be distinct species at a molecular level, it is proposed that the difficulty in distinguishing the species in Irish oak populations using AFLP markers is due to population differentiation masking species differences. This could result from non-random mating in small, fragmented woodland populations. Hybridization and introgression between the species could also have a significant role.
+
+
+2922
+#Characterisation of chloroplast DNA haplotypes to reveal the provenance and genetic structure of oaks in Ireland
+#Kelleher CT, Hodkinson TR, Douglas GC, Kelly DL
+#2004
+--------------------------------
+The first phylogeographical description of oak populations in Ireland is presented and discussed in an European context. Using chloroplast DNA PCR-RFLP, a geographical genetic structure was obtained for oak populations across the island of Ireland. Two chloroplast haplotypes, 10 and 12, predominated and most populations were fixed for a single haplotype. The distribution of haplotypes within the species was shown to be unequal in Quercus petraea and more equal in Quercus robur. Haplotype 12 predominated in Q. petraea and haplotype 10 was more evenly distributed between the two species. Haplotype diversity is lower than in Britain and much lower than in France or Spain. We ascribe this to Ireland’s isolation and hence to limited ‘founder’ populations. The haplotype distribution was used to infer possible postglacial migration routes of oak into Ireland. The putative migration routes confirm those deduced from palaeoecological data and give further information on the dynamics of invasion. While the origin of the haplotypes is confirmed to be the Iberian Peninsula refugium, the proposed routes of migration into Ireland are still tentative.
+
+
+2931
+#Identification and characterization of (GA/CT)(n)- microsatellite loci from Quercus petraea.
+#Steinkellner, H, Fluch, S, Turetschek, E, Lexer, C, Streiff, R, Kremer, A, Burg, K, Glossl, J
+#1997
+--------------------------------
+In this study a size selected genomic library from Quercus petraea was screened for (GA/CT)(n)-microsatellite sequences. The resulting loci were analysed by PCR for their usefulness as molecular markers in e. petraea and Q. robur. 17 out Of 52 tested primer pairs resulted in the amplification of a polymorphic single-locus pattern. The number of alleles found per locus varied from 6 to 16. Combining the genetic variation observed for the characterized loci provides a unique genotype for all the individuals tested. Using intraspecific controlled crosses of e. robur trees Mendelian inheritance could be shown for five loci.
+
+
+2932
+#Conservation of (GA)(n) microsatellite loci between Quercus species.
+#Steinkellner, H, Lexer, C, Turetschek, E, Glossl, J
+#1997
+--------------------------------
+Microsatellite (simple sequence repeat, SSR) amplification was performed in eight different members of the Fagaceae family by using sets of primers developed from sessile oak, Quercus petraea. In total, 136 cases of heterologous amplification were carried out, and 66% resulted in interpretable amplification products. From these, 12 PCR amplification products were sequenced and all 12 contained a sequence homologous to the original locus from Q. petraea. Although SSR primers worked even across different genera, with increasing evolutionary distance there was a clear tendency for decreasing ability to successfully amplify loci and a decreasing proportion of polymorphism amongst those markers which could be amplified. Two of the loci, ssrQpZAG46 and ssrQpZAG110, were polymorphic in all Quercus species tested. Only at one locus, ssrQpZAG58, a specific PCR product could be amplified in all species analysed. For four loci found in two species, we observed significant interspecies differences in the size range of the amplified alleles. Sequence analysis of two alleles showed that the size differences are not only due to variations in the number of (GA) repeats but also to an insertion of approximately 80 nucleotides in the flanking region. Our findings prove the usefulness of SSR markers within and amongst closely related genera of plants.
+
+
+2933
+#Geographical structure of gene diversity in Quercus petraea (Matt) Liebl .1. Monolocus patterns of variation.
+#Zanetto, A, Kremer, A
+#1995
+--------------------------------
+A gene diversity survey was conducted on a range-wide sample of 81 populations of Quercus petraea. Allele frequencies were calculated at 13 enzyme-coding loci, of which 11 were polymorphic. There was a clear discrepancy in the levels of diversity at loci controlling enzymes of primary metabolism compared with those involved in secondary metabolism, the latter being more variable than the former. Quercus petraea is a highly variable species as are other long-lived widespread forest species: at the species level, the mean number of alleles per population was 4.77 and the expected heterozygosity 0.265. Populations from the central part of the natural range exhibited fewer alleles but higher heterozygosities than populations from the margins of the distribution. Significant correlations were observed between allele frequencies and longitude for most loci, resulting in a clinal variation of allele frequencies across a continental gradient. The patterns of geographical variation in allele frequencies and levels of diversity were interpreted as a consequence of postglacial migration pathways.
+
+
+2936
+#Chloroplast DNA variation within the Nordic countries.
+#Jensen, JS, Gillies, A, Csaikl, U, Munro, R, Madsen, SF, Roulund, H, Lowe, A
+#2002
+--------------------------------
+Chloroplast DNA (cpDNA) variation was studied in the white oak species, Quercus robur and Quercus petraea, from Denmark, Norway, Sweden and Finland. A total of 474 trees from 91 populations were screened within the region for a set of previously characterised cpDNA haplotypes. Within the sample, haplotype 1, known to have originated from an Italian Pleistocene forest refugium, was the most common (55%), and was well-distributed across all Scandinavian countries and dominated in Sweden. We propose that material of Italian origin was part of the first wave of post-glacial migration of oak into Scandinavia, and that the Italian haplotype migrated into Finland from Sweden across the Baltic Sea. In Finland, a sharply defined transition zone between the haplotype of Italian origin and haplotype 5, originating from an eastern European refugium in the Balkans, was observed in southern Finland, and confirms the findings of a previous study [Heredity 80 (1998) 584]. Evidence from the study of Csaikl et al. [For. Ecol. Manage., this issue] confirms that this haplotype migrated into Finland via an eastern route through the Baltic States. Another haplotype of Balkan origin (haplotype 7) was only common in southern Denmark and known to be present throughout the native German forests [For. Ecol. Manage., this issue], from where we believe it migrated into Denmark. It appears probable that this haplotype reached Denmark later than the Italian lineage as its progress towards north appears to have been hindered by a bottlenecking in central Denmark. Finally, three haplotypes originally of Iberian origin (haplotypes 10-12) were also found at intermediate frequency throughout the Nordic countries sampled, except Finland. This pattern of distribution suggests that migration occurred concurrently or just behind that of the Italian lineage. One of the Iberian haplotypes (haplotype 12) is rare in autochthonous stands, but found at a frequency of 24% in planted non-autochthonous stands in Denmark. Overall, the proportion of populations fixed for a single haplotype was high in natural, autochthonous stands (77%) and lower in artificial stands (54%). In addition, population subdivision was higher (G(ST) = 0.87) and diversity lower (h(S) = 0.075 and h(T) = 0.6) in autochthonous stands than in artificial stands (G(ST) = 0.69. h(S) = 0.22, h(T) = 0.72). The pattern of haplotype distribution across Scandinavia and Finland appears fairly clumped and is discussed in relation to natural gene flow, leptokurtic post-glacial dispersal and human influences. Finally, no relation between cpDNA haplotype and six quantitative traits measured on autochthonous stands in Denmark was found. The potential for cpDNA haplotype screening for setting gene conservation and seed certification priorities is discussed.
+
+
+2937
+#Chloroplast DNA polymorphisms provide evidence for postglacial re-colonisation of oaks (Quercus spp.) across the Swiss Alps.
+#Matyas, G, Sperisen, C
+#2001
+--------------------------------
+The spatial pattern of chloroplast DNA (cpDNA) variation in Quercus robur, Quercus petraea and Quercus pubescens was studied in 1036 trees from 181 locations throughout the Swiss Alps and adjacent regions in order to gain a deeper insight into the postglacial history of these species. A total of ten different cpDNA types (haplotypes) were identified, six of which are described for the first time. The genetic variation was mainly found between collection sites (G(ST)=0.881). Spatial autocorrelation indicated that the two dominant haplotypes had a structured, non-random distribution. The spatial pattern of these two haplotypes, which are associated with different ice-age refugia, reveals: (1) that oaks did not immigrate into regions of the Swiss Alps together, rather they immigrated separately in space and/or time, and (2) that the spatial mixing of haplotypes as a consequence of seed dispersal was low. Furthermore, the geographic distribution of the haplotypes suggests that the Alps only partially blocked the re-colonisation of oaks: Quercus species, which originated after range expansion from a refugium in Italy, have most likely crossed the Swiss Alps. Previously proposed postglacial migration pathways are reviewed and possible re-colonisation routes are discussed.
+
+
+2938
+#Identification of hybrids between Quercus petraea and Q. robur (Fagaceae): results obtained with RAPD markers confirm allozyme studies based on the Got-2 locus.
+#Samuel, R
+#1999
+--------------------------------
+RAPDs were employed as genetic markers to detect interspecific hybridization between the closely related oak species Quercus robur and Q. petraea. Fourteen primers were used in order to check the genetic status ("pure" or hybrid) of individuals classified morphologically. Among the 147 PCR fragments obtained 11 appear to be species-specific. In the phenotypically intermediate individuals different combinations of these species-specific bands were obtained. The patterns in these putative hybrids were not additive, which may be either the result of repeated backcrossing and introgression between the two species or of heterozygosity within the parental species. The results of the RAPD study are consistent with morphological analyses and allozyme data obtained for the Got-2 locus. Thus the RAPD markers used in this study may provide a powerful genetic tool for the identification of hybrids and the discrimination between the two "pure" species.
+
+
+2943
+#Comparison of morphological and genetic traits of pedunculate oak (Q. robur L) and sessile oak (Q. petraea (Matt) Liebl).
+#Kleinschmit, JRG, Bacilieri, R, Kremer, A, Roloff, A
+#1995
+--------------------------------
+Morphological and genetic traits are compared for pedunculate oak (Quercus robur L.) and sessile oak (Quercus petraea (MATT.) LIEBL.) by means Of controlled crosses and 2 mixed stands. The existence of hybrids as morphological intermediate forms and of disjunctive characters for distinction between the 2 taxonomic species was tested. It was shown that the leaf morphology of the juvenile and the adult trees differ from each other. On the level of single individuals a recognition of species' hybrids is not possible by means of an intermediate morphology. On the level of families it is sometimes possible using statistical bests. Morphological, isoenzymatic and DNA-analytic methods are compared for their different abilities to detect a differentiation between pedunculate and sessile oak. 111 trees of a German stand, were divided into groups as well by means of discriminant functions as by the direct comparison of density distributions (VERGA, 1995), which derived from the measurements of the characters. None of the characters has disjunctive expressions. The 2 methods of species' discrimination, using morphological traits, differ in respect of their selectivity between Q. robur and Q. petraea and their classification of individuals with intermediate morphology. Phenotypic and genetic parameters were calculated for the groups derived from VERGA's method. Eight RAPD fragments whose dominant Mendelian inheritance was proven were used for DNA analysis. The total phenotypic differentiation (delta(TP)), based on the RAPD analysis, is 0.30 for the ''robur type'' and 0.44 for the ''petraea type''. On the basis of 10 enzyme loci the genetic parameters were calculated according to Gregorius. The mean number of alleles is 2.9 for the ''robur type'' resp. 3.1 for the ''petraea type''. The observed heterozygosity is 26.7% for the ''robur type'' and 20.6% for the ''petraea type'' (the conditional heterozygosities are 59.9% resp. 55.5%), the total differentiation of the collective (delta(T)) is 0.25 for the ''robur type'' and 0.28 for the ''petraea type''. The distances between the types are: morphological distance (d(m)) 0.45, phenotypic distance (d(OP)) 0.22 and genic distance (d(o)) 0.14. The values of the German stand are compared to those of a French stand. The characters which contribute to the discrimination between the types within a stand are the same for both stands. The geographically separated groups of one type are differentiated above all because of differences of their leaf length and leaf width. The distance between the same types in different locations is small compared to the distance between different types within one stand. The ''petraea type'' of the German stand is more variable for all traits analysed than the ''robur type''. Due to the possibility of a hybridization between Q. robur and Q. petraea, their different ecological requirements and because of the lack of characters' disjunctive expressions between the different types, it seems to be appropriate to state that sessile and pedunculate oak belong to the same biological species for which they represent different ecotypes.
+
+
+2963
+#Population differentiation of sessile oak at the altitudinal front of migration in the French Pyrenees
+#Alberto F, Niort J, Derory J, Lepais O, Vitalis R, Galop D, Kremer A
+#2010
+--------------------------------
+To assess the effects of altitude on the level and structure of genetic diversity, a genetic survey was conducted in 12 populations of sessile oak (Quercus petraea) located between 130 and 1660 m in two parallel valleys on the northern side of the Pyrenees Mountains. Genetic diversity was monitored at 16 nuclear microsatellite loci and 5 chloroplast DNA (cpDNA) markers. The cpDNA survey suggested that extant populations in both valleys shared the same source populations from the plain. There was no visible trend of nuclear genetic diversity along altitude, even if indirect estimates of effective population sizes revealed a consistent reduction at higher altitudes. Population differentiation, although low, was mostly present among populations of the same valleys and reached similar levels than differentiation across the range of distribution of sessile oak. Contribution to the overall differentiation in the valleys was mostly due to the genetic divergence of the highest populations and the altitudinal variation of allelic frequencies at a few loci. Bayesian inference of migration between groups of populations showed that gene flow is preferentially unidirectional from lower altitudes in one valley to other groups of populations. Finally, we found evidence of clonal reproduction in high altitude populations. The introgression of Quercus robur and Quercus pubescens was also more frequent at the altitudinal margin suggesting that this mechanism may have contributed to the present migration and adaptation of Q. petraea and may also facilitate its future upslope shift in the context of climate change.
+
+
+2965
+#A fast and cost-effective approach to develop and map EST-SSR markers: oak as a case study
+#Durand J, Bodenes C, Chancerel E, Frigerio J-M, Vendramin G, Sebastiani F, Buonamici A, Gailing O, Koelewijn H-P, Villani F, Mattioni C, Cherubini M, Goicoechea PG, Herran A, Ikaran Z, Cabane C, Ueno S, Alberto F, Dumoulin P-Y, Guichoux E, de Daruvar A, Kremer A, Plomion C
+#2010
+--------------------------------
+Background: Expressed Sequence Tags (ESTs) are a source of simple sequence repeats (SSRs) that can be used to develop molecular markers for genetic studies. The availability of ESTs for Quercus robur and Quercus petraea provided a unique opportunity to develop microsatellite markers to accelerate research aimed at studying adaptation of these long-lived species to their environment. As a first step toward the construction of a SSR-based linkage map of oak for quantitative trait locus (QTL) mapping, we describe the mining and survey of EST-SSRs as well as a fast and cost-effective approach (bin mapping) to assign these markers to an approximate map position. We also compared the level of polymorphism between genomic and EST-derived SSRs and address the transferability of EST-SSRs in Castanea sativa (chestnut).Results: A catalogue of 103,000 Sanger ESTs was assembled into 28,024 unigenes from which 18.6% presented one or more SSR motifs. More than 42% of these SSRs corresponded to trinucleotides. Primer pairs were designed for 748 putative unigenes. Overall 37.7% (283) were found to amplify a single polymorphic locus in a reference full-sib pedigree of Quercus robur. The usefulness of these loci for establishing a genetic map was assessed using a bin mapping approach. Bin maps were constructed for the male and female parental tree for which framework linkage maps based on AFLP markers were available. The bin set consisting of 14 highly informative offspring selected based on the number and position of crossover sites. The female and male maps comprised 44 and 37 bins, with an average bin length of 16.5 cM and 20.99 cM, respectively. A total of 256 EST-SSRs were assigned to bins and their map position was further validated by linkage mapping. EST-SSRs were found to be less polymorphic than genomic SSRs, but their transferability rate to chestnut, a phylogenetically related species to oak, was higher.Conclusion: We have generated a bin map for oak comprising 256 EST-SSRs. This resource constitutes a first step toward the establishment of a gene-based map for this genus that will facilitate the dissection of QTLs affecting complex traits of ecological importance.
+
+
+2967
+#Detecting interspecific and geographic differentiation patterns in two interfertile oak species (Quercus petraea (Matt.) Liebl. and Q. robur L.) using small sets of microsatellite markers
+#Neophytou C, Aravanopoulos FA, Fink S, Dounavi A
+#2010
+--------------------------------
+Genetic analysis was carried out in order to provide insights into differentiation among populations of two interfertile oak species, Quercus petraea and Quercus robur. Gene flow between the two species, local adaptation and speciation processes in general, may leave differential molecular signatures across the genome. Three interspecific pairs of natural populations from three ecologically different regions, one in central Europe (SW Germany) and two in the Balkan Peninsula (Greece and Bulgaria) were sampled. Grouping of highly informative SSR loci was made according to the component of variation they express interspecific or provenance specific. 'Species' and 'provenance discriminant' loci were characterized based on F(ST)s. Locus specific F(ST)s were tested for deviation from the neutral expectation both within and between species. Data were then treated separately in a Bayesian analysis of genetic structure. By using three 'species discriminant' loci, high membership probability to inferred species groups was achieved. On the other hand, analysis of genetic structure based on five 'provenance discriminant' loci was correlated with geographic region and revealed shared genetic variation between neighbouring Q. petraea and Q. robur. Small sets of highly variable nuclear SSRs were sufficient to discriminate, either between species or between provenances. Thus, an effective tool is provided for molecular identification of both species and provenances. Furthermore, data suggest that a combination of gene flow and natural selection forms these diversity patterns. 'Species discriminant' loci might represent genome regions affected by directional selection, which maintains species identity. 'Provenance specific' loci might represent genome regions with high interspecific gene flow and common adaptive patterns to local environmental factors. (C) 2010 Elsevier B.V. All rights reserved.
+
+
+2973
+#High Rates of Gene Flow by Pollen and Seed in Oak Populations across Europe
+#Gerber, Sophie, Chadoeuf, Joel, Gugerli, Felix, Lascoux, Martin, Buiteveld, Joukje, Cottrell, Joan, Dounavi, Aikaterini, Fineschi, Silvia, Forrest, Laura L., Fogelqvist, Johan, Goicoechea, Pablo G., Jensen, Jan Svejgaard, Salvini, Daniela, Vendramin, Giovanni G., Kremer, Antoine
+#2014
+--------------------------------
+Gene flow is a key factor in the evolution of species, influencing effective population size, hybridisation and local adaptation. We analysed local gene flow in eight stands of white oak (mostly Quercus petraea and Q. robur, but also Q. pubescens and Q. faginea) distributed across Europe. Adult trees within a given area in each stand were exhaustively sampled (range [239, 754], mean 423), mapped, and acorns were collected ([17,147], 51) from several mother trees ([3,47], 23). Seedlings ([65,387], 178) were harvested and geo-referenced in six of the eight stands. Genetic information was obtained from screening distinct molecular markers spread across the genome, genotyping each tree, acorn or seedling. All samples were thus genotyped at 5-8 nuclear microsatellite loci. Fathers/parents were assigned to acorns and seedlings using likelihood methods. Mating success of male and female parents, pollen and seed dispersal curves, and also hybridisation rates were estimated in each stand and compared on a continental scale. On average, the percentage of the wind-borne pollen from outside the stand was 60%, with large variation among stands (21-88%). Mean seed immigration into the stand was 40%, a high value for oaks that are generally considered to have limited seed dispersal. However, this estimate varied greatly among stands (20-66%). Gene flow was mostly intraspecific, with large variation, as some trees and stands showed particularly high rates of hybridisation. Our results show that mating success was unevenly distributed among trees. The high levels of gene flow suggest that geographically remote oak stands are unlikely to be genetically isolated, questioning the static definition of gene reserves and seed stands.
+
+
+2974
+#Chloroplast microsatellites as a tool for phylogeographic studies: the case of white oaks in Poland
+#Chmielewski, Michal, Meyza, Katarzyna, Chybicki, Igor J., Dzialuk, Artur, Litkowiec, Monika, Burczyk, Jaroslaw
+#2015
+--------------------------------
+Assessing the distribution of chloroplast DNA (cpDNA) haplotype variation is useful for studying the phylogeography of angiosperms. In the last two decades the cpDNA phylogeography of white oaks in Europe has been extensively studied, mostly based on the PCR-RFLP technique. However, PCR-RFLPs have low mutation rates and are primarily useful for reconstructing patterns at large geographical scales and lack resolution at fine spatial scales. Here we evaluate the usefulness of chloroplast microsatellites (cpSSR) as an alternative to PCR-RFLPs in Polish oak populations which have been underrepresented in previous studies. Eighty-five cpSSR haplotypes were detected using 14 cpSSR loci and a broad collection of 6680 trees sampled throughout Poland. Haplotype diversity was significantly lower in Q. petraea (H-e = 0.798) than in Q. robur (H-e = 0.820). Only 17 haplotypes (H01-H17) were found in 13 or more individuals, comprising together 97.9% of the sample. Most frequent cpSSR haplotypes were related to PCR-RFLP haplotypes, establishing the cross-references between the two marker systems. There was significant concordance between the matrices of genetic distances obtained by PCR-RFLP haplotypes and cpSSR haplotypes. Phylogenetic relationships among cpSSR haplotypes supported the existence of the three predominant maternal lineages of oaks in Poland: Iberian (7.8%), Apennine (20.6%) and Balkan (65.5%). The results are discussed with regards to the usefulness of cpSSR markers for phylogeographic studies.
+
+
+2976
+#Genetic variation of Central European oaks: shaped by evolutionary factors and human intervention?
+#Neophytou, Charalambos, Gaertner, Stefanie M., Vargas-Gaete, Rodrigo, Michiels, Hans-Gerhard
+#2015
+--------------------------------
+Oak species (Quercus spp.) in Central Europe grow on a relatively wide range of sites. Due to the economic importance of oak for its wood and other products, oak forests have long been managed by humans. This raises the question whether adaptation and/or human activities-especially the moving of propagules-have left their footprints on the genetic variation of oak populations. To address this question, we focused on the Upper Rhine Valley, a densely populated area today that was settled by humans early on. Here, the three most common native Central European oak species can be found. We studied their genetic variation across a large number of oak stands, growing on different sites and having different silvicultural histories, using neutral and EST-derived microsatellite markers. At the interspecific level, we showed that Quercus robur is relatively well delimited, while Quercus petraea and Quercus pubescens are more closely related. Natural hybridization might explain the increased genetic introgression between these two species. Within species, we found a low differentiation among populations of Q. robur and Q. petraea. In spite of forest fragmentation, we detected no spatial genetic barriers. However, we found that populations of Q. pubescens, a species with a marginal distribution in the study area were spatially structured. Genetic drift but also unidirectional introgressive hybridization with Q. petraea may account for this. Regarding the question of adaptation, we considered soil flooding, texture, drainage, and calcium carbonate in the upper horizons as physiologically important site condition variables. But with multivariate statistics, we could not find any significant effects of these parameters on genetic differentiation. Although there was no evidence for natural selection due to adaptation in stands of Q. robur, we demonstrated that age had a significant effect on their genetic variation and that stands established after the end of the Second World War had higher genetic diversity. We interpret these findings as being the result of an increase in large-scale transfers of reproductive materials during this time period and discuss arguments supporting this hypothesis. Finally, we consider the implications of these results for forest management.
+
+
+2978
+#Single-nucleotide polymorphism discovery and validation in high-density SNP array for genetic analysis in European white oaks
+#Lepoittevin, C., Bodenes, C., Chancerel, E., Villate, L., Lang, T., Lesur, I., Boury, C., Ehrenmann, F., Zelenica, D., Boland, A., Besse, C., Garnier-Gere, P., Plomion, C., Kremer, A.
+#2015
+--------------------------------
+An Illumina Infinium SNP genotyping array was constructed for European white oaks. Six individuals of Quercus petraea and Q.robur were considered for SNP discovery using both previously obtained Sanger sequences across 676 gene regions (1371 in vitro SNPs) and Roche 454 technology sequences from 5112 contigs (6542 putative in silico SNPs). The 7913 SNPs were genotyped across the six parental individuals, full-sib progenies (one within each species and two interspecific crosses between Q.petraea and Q.robur) and three natural populations from south-western France that included two additional interfertile white oak species (Q.pubescens and Q.pyrenaica). The genotyping success rate in mapping populations was 80.4% overall and 72.4% for polymorphic SNPs. In natural populations, these figures were lower (54.8% and 51.9%, respectively). Illumina genotype clusters with compression (shift of clusters on the normalized x-axis) were detected in similar to 25% of the successfully genotyped SNPs and may be due to the presence of paralogues. Compressed clusters were significantly more frequent for SNPs showing a priori incorrect Illumina genotypes, suggesting that they should be considered with caution or discarded. Altogether, these results show a high experimental error rate for the Infinium array (between 15% and 20% of SNPs potentially unreliable and 10% when excluding all compressed clusters), and recommendations are proposed when applying this type of high-throughput technique. Finally, results on diversity levels and shared polymorphisms across targeted white oaks and more distant species of the Quercus genus are discussed, and perspectives for future comparative studies are proposed.
+
+
+2980
+#Pure species in a continuum of genetic and morphological variation: sympatric oaks at the edge of their range
+#Beatty, GE, Montgomery, WI, Spaans, F, Tosh, DG, Provan, J
+#2016
+--------------------------------
+Background and Aims Studies on oaks (Quercus spp.) have often been hampered by taxonomic confusion, a situation further compounded by the occurrence of extensive interspecific hybridization. In the present study, a combination of genetic and morphological analyses was used to examine sympatric populations of Q. petraea and Q. robur at the north-western edge of their ranges in Northern Ireland, since it had previously been suggested that hybridization could facilitate the apparent rapid, long-distance dispersal of oaks following the glaciations. Methods Samples were collected from 24 sites across Northern Ireland that had been previously designated as ancient or semi-natural woodland. Genotypes were obtained from a total of 950 trees using 12 nuclear microsatellite loci, and admixture coefficients were calculated based on a Bayesian clustering approach. Individuals were also classified as Q. petraea, Q. robur or hybrids based on two objective morphometric characters shown previously to delineate pure individuals effectively. Genetically 'pure' individuals of both species, as defined by the Bayesian clustering, were also genotyped for five chloroplast microsatellites. Key Results Genetic and morphological analyses both indicated the presence of pure individuals of both species, as well as a continuum of intermediates. There was a good agreement between the molecular and morphological classification, with a generally clear separation between pure individuals. Conclusions Despite millennia of hybridization and introgression, genetically and morphologically pure individuals of both Q. petraea and Q. robur can be found at the edge of their range, where both species occur sympatrically. The high proportion of individuals exhibiting introgression compared with previous studies may reflect the historical role of hybridization in facilitating dispersal following the glaciations. This is further supported by the significantly higher chloroplast diversity in Q. robur compared with Q. petraea.
+
+
+2981
+#Signatures of local adaptation in candidate genes of oaks (Quercus spp.) with respect to present and future climatic conditions
+#Rellstab, C, Zoller, S, Walthert, L, Lesur, I, Pluess, AR, Graf, RE, Bodenes, C, Sperisen, C, Kremer, A, Gugerli, F
+#2016
+--------------------------------
+Testing how populations are locally adapted and predicting their response to their future environment is of key importance in view of climate change. Landscape genomics is a powerful approach to investigate genes and environmental factors involved in local adaptation. In a pooled amplicon sequencing approach of 94 genes in 71 populations, we tested whether > 3500 single nucleotide polymorphisms (SNPs) in the three most common oak species in Switzerland (Quercus petraea, Q. pubescens, Q. robur) show an association with abiotic factors related to local topography, historical climate and soil characteristics. In the analysis including all species, the most frequently associated environmental factors were those best describing the habitats of the species. In the species- specific analyses, the most important environmental factors and associated SNPs greatly differed among species. However, we identified one SNP and seven genes that were associated with the same environmental factor across all species. We finally used regressions of allele frequencies of the most strongly associated SNPs along environmental gradients to predict the risk of nonadaptedness (RONA), which represents the average change in allele frequency at climate-associated loci theoretically required to match future climatic conditions. RONA is considerable for some populations and species (up to 48% in single populations) and strongly differs among species. Given the long generation time of oaks, some of the required allele frequency changes might not be realistic to achieve based on standing genetic variation. Hence, future adaptedness requires gene flow or planting of individuals carrying beneficial alleles from habitats currently matching future climatic conditions.
+
+
+2982
+#Using joint multivariate analyses of leaf morphology and molecular-genetic markers for taxon identification in three hybridizing European white oak species (Quercus spp.)
+#Rellstab, C, Buhler, A, Graf, R, Folly, C, Gugerli, F
+#2016
+--------------------------------
+We show that joint multivariate analyses of leaf morphological characters and molecular-genetic markers improve the taxonomic assignment in hybridizing European white oaks. However, model-based approaches using genetic data alone represent straightforward alternatives to laborious, detailed morphological assessments. In European white oaks, species delimitation is debated because of large overlap of morphological characteristics likely due to hybridization. We tested whether joint multivariate analyses of leaf morphology and molecular markers improve the identification of three oak species (Quercus petraea, Quercus pubescens, Quercus robur) compared to approaches using morphological or genetic variables only. We assessed 13 leaf morphological characters and applied eight nuclear microsatellite markers in almost 1400 trees of 71 oak populations across Switzerland. We performed two multivariate approaches with three variable sets (morphology, genetics, combined) and assessed their performance in separating the taxa. We also compared the taxon assignment to a model-based clustering approach (Structure) based on genetic data alone. A joint use of morphological and genetic variables led to an improved taxon assignment. Whereas Q. robur could clearly be separated from the two other taxa, there was a certain overlap between Q. petraea and Q. pubescens. The Structure clustering led to the same taxon assignment in 85 % of the individuals. It is important to consider both morphological and genetic properties in morphologically similar and hybridizing species. However, it might be more efficient to concentrate only on genetic markers than on time-consuming morphological assessments.
+
+
+2983
+#Extensive recent secondary contacts between four European white oak species
+#Leroy, T, Roux, C, Villate, L, Bodenes, C, Romiguier, J, Paiva, JAP, Dossat, C, Aury, JM, Plomion, C, Kremer, A
+#2017
+--------------------------------
+Historical trajectories of tree species during the late Quaternary have been well reconstructed through genetic and palaeobotanical studies. However, many congeneric tree species are interfertile, and the timing and contribution of introgression to species divergence during their evolutionary history remains largely unknown. We quantified past and current gene flow events between four morphologically divergent oak species (Quercus petraea, Q. robur, Q. pyrenaica, Q. pubescens), by two independent inference methods: diffusion approximation to the joint frequency spectrum (partial derivative a partial derivative i) and approximate Bayesian computation (ABC). For each pair of species, alternative scenarios of speciation allowing gene flow over different timescales were evaluated. Analyses of 3524 single nucleotide polymorphisms (SNPs) randomly distributed in the genome, showed that these species evolved in complete isolation for most of their history, but recently came into secondary contact, probably facilitated by the most recent period of postglacial warming. We demonstrated that: there was sufficient genetic differentiation before secondary contact for the accumulation of barriers to gene flow; and current European white oak genomes are a mosaic of genes that have crossed species boundaries and genes impermeable to gene flow.
+
+
+------------- All Abstracts -------------------
+2907
+#Chloroplast DNA recognizes three refugial sources of European oaks and suggests independent eastern and western immigrations to Finland.
+#Ferris, C, King, RA, Vainola, R and Hewitt, GM
+#1998
+--------------------------------
+Refugial differentiation and routes of postglacial migration are major determinants of the patterns of geographical variation we see in natural populations today. We used patterns of chloroplast DNA (cpDNA) variation to investigate the postglacial colonization history of the European oak species Quercus robur and Q. petraea. By sequencing two cpDNA segments using universal primers, we revealed four polymorphic sites which identify four cytotypes with characteristic geographical distributions. Of these, the principal eastern, central and western cytotypes divide the range into three longitudinal zones, each extending from the south to the north of Europe. This corroborates the idea that the postglacial colonization started from three distinct southerly refugia. The fourth cytotype, restricted to East Anglia, was probably derived from the western type postglacially. As a special problem, we addressed the controversial origin of Q. robur at its northern limits in south-western Finland, where it currently occupies a narrow coastal zone disjunct from the remaining oak range. Using a PCR-RFLP assay that discriminates the eastern cytotype, a contact zone of two cytotypes was identified in the region of the Salpausselka ridges. This suggests that the marginal northern occurrence was independently colonized both from the east and from the west, across the Baltic Sea.
+
+
+2908
+#Geographical structure of gene diversity in Quercus petraea (Matt.) Liebl..1. Monolocus patterns of variation.
+#Zanetto, A and Kremer, A
+#1995
+--------------------------------
+
+
+
+2909
+#Native oak chloroplasts reveal an ancient divide across Europe.
+#Ferris, C, Oliver, RP, Davy, AJ and Hewitt, GM
+#1993
+--------------------------------
+
+
+
+2910
+#A strategy for identifying introduced provenances and translocations.
+#Ferris, C, Davy, AJ and Hewitt, GM
+#1997
+--------------------------------
+
+
+
+2911
+#Comparison of fine-scale genetic structure using nuclear microsatellites within two British oakwoods differing in population history.
+#Cottrell, JE, Munro, RC, Tabbener, HE, Milner, AD, Forrest, GI and Lowe, AJ
+#2003
+--------------------------------
+
+
+
+2912
+#Distribution of chloroplast DNA variation in British oaks (Quercus robur and Q. petraea): the influence of postglacial colonisation and human management.
+#Cottrell, JE, Munro, RC, Tabbener, HE, Gillies, ACM, Forrest, GI, Deans, JD and Lowe, AJ
+#2002
+--------------------------------
+Variation in the non-coding region of chloroplast DNA (cpDNA) was studied to determine the route and pattern of postglacial recolonisation of native oak throughout mainland Britain. In total, 1076 mature oak trees of either Quercus petraea (Matt.) Liebl. or Quercus robur L. from 224 British ancient woodland sites were analysed, and represent the largest and most saturating molecular analysis of British oak undertaken to date. The majority of oaks (98%) possessed one of the three cpDNA haplotypes from lineage B that are commonly found in Spain and western regions of France. Thus, our findings strongly support the hypothesis that most native British Q. robur and Q. petraea originate from a Pleistocene refugium in the Iberian Peninsula. A haplotype previously thought to be the result of a de novo postglacial mutation in East Anglia, Native and Nonnative in British Forestry. Proceedings of a Discussion Meeting, March 31–April 2, 1995. University of Warwick, pp. 38–55] was found at several sites in eastern Britain, including major population clusters in East Anglia, Tyneside and northeast Scotland. We propose that this haplotype was introduced to Britain via normal postglacial colonisation processes. Less than 2% of oak trees sampled possessed haplotypes from lineages which originate from more eastern refugia (Italy and Balkans). Whilst human-mediated translocation may be responsible for the occurrence of these haplotypes in Britain, single long distance dispersal events (of between 300 and 500 km from France) cannot be excluded for at least one case. The majority of populations sampled (including those where both species are present) were fixed for a single haplotype (69%). However, significant areas of mixed haplotype woods occurred in the Welsh Marches and Scotland and the proportion of population fixation was lower and intra-population diversity higher for Q. robur (GST ¼ 0:661; hS ¼ 0:224) than for Q. petraea (GST ¼ 0:884; hS ¼ 0:089). The distribution of cpDNA variation in British oak populations is discussed and interpreted in the light of hypothesised recolonisation routes and dynamics, inter-specific hybridisation and chloroplast capture, and human impacts due to the management of ancient woodland.
+
+
+2913
+#Using chloroplast DNA to identify native East Anglian oaks.
+#Ferris, C, Oliver, RP, Davy, AJ and Hewitt, GM
+#1995
+--------------------------------
+
+
+
+2914
+#Comparison of levels of genetic diversity diversity detected with AFLP and microsatellite markers within and among mixed Q.petraea (Matt.) Liebl. And Q.robur L. Stands.
+#Mariette, S, Cottrell, J, Csaikl, UM, Goikoechea, P, König, A, Lowe, AJ, van Dam, BC, Barreneche, T, Bodénès, C, et al
+#2002
+--------------------------------
+
+
+
+2915
+#Chloroplast DNA variation in European white oaks.Phylogeography and patterns of diversity based on data from over 2600 populations.
+#Petit, R J, Csaikl, UM, Bordács, S, Burg, K, Coart, E, Cottrell, J, van Dam, B, Deans, JD, Dumolin-Lapègue, S, Fineschi, S et al
+#2002
+--------------------------------
+A consortium of 16 laboratories have studied chloroplast DNA (cpDNA) variation in European white oaks. A common strategy for molecular screening, based on restriction analysis of four PCR-amplified cpDNA fragments, was used to allow comparison among the different laboratories. A total of 2613 oak populations (12,214 individual trees from eight species) weresampled from 37 countries, and analysed with the four fragments. They belong to eight related oak species: Quercus robur, Q. petraea, Q. pubescens, Q. frainetto, Q. faginea, Q. pyrenaica, Q. canariensis and Q. macranthera. During this survey, 45 chloroplast variants were detected and are described together with their phylogenetic relationships, but several of these haplotypes were pooled when there were some risks of confusion across laboratories during the survey, and finally 32 remained that were mapped and used in diversity analyses. A strong phylogeographic structure is apparent from the data, where related haplotypes have broadly similar geographic distributions. In total, six cpDNA lineages are identified, which have distinct geographic distributions, mainly along a longitudinal gradient. Most haplotypes found in northern Europe are also present in the south, whereas the converse is not true, suggesting that the majority of mutations observed were generated prior to postglacial recolonisation, corroborating the conclusions of earlier studies. The description of a new western European lineage constitutes a major finding, compared to earlier phylogenetic treatments. Although the eight oak species studied systematically share cpDNA variants when in sympatry, they partition cpDNA diversity differently, as a consequence of their different ecology and life history attributes. Regional differences in levels of differentiation also exist (either species-specific or general); these seem to be related to the intensity of past and present management of the forests across Europe but also to the level of fragmentation of the range within these regions.
+
+
+2916
+#Identification of refugia and post-glacial colonisation routes of European white oaks based on chloroplast DNA and fossil pollen evidence.
+#Petit R, Brewer S, Bordács S, Burg K, Cheddadi R, Coart E, Cottrell J, Csaikl UM, van Dam B, Deans JD et al
+#2002
+--------------------------------
+
+
+
+2917
+#Is there a correlation between chloroplastic and nuclear divergence, or what are the roles of history and selection on genetic diversity in European oaks?
+#Kremer A, Kleinschmit J, Cottrell J, Cundall EP, Deans JD, Ducousso A, König AO, Lowe AJ, Munro RC, Petit RJ and Stephan R
+#2002
+--------------------------------
+
+
+
+2918
+#High nuclear genetic diversity, high levels of outcrossing and low differentiation among remnant populations of Quercus petraea at the margin of its range in Ireland.
+#Muir G, Lowe AJ, Fleming CC, Vogl C
+#2004
+--------------------------------
+Background and Aims Quercus petraea colonized Ireland after the last glaciation from refugia on mainland Europe. Deforestation. however. beginning in Neolithic times, has resulted in small, scattered forest fragments, now covering less than 12 000 ha. Methods Plastid (three fragments) and microsatellite variation (13 loci) were characterized in seven Irish populations sampled along a north-south gradient. Using Bayesian approaches and Wright's F-statistics, the effects of colonization and fragmentation on the genetic structure and mating patterns of extant oak populations were investigated. Key-Results All Populations possessed cytotypes common to the Iberian Peninsula. Despite the distance from the refugial core and the extensive deforestation in Ireland, nuclear genetic variation was high and comparable to mainland Europe. Low population differentiation was observed within Ireland and populations showed no evidence for isolation by distance. As expected of a marker with an effective Population size of one-quarter relative to the nuclear genome, plastid variation indicated higher differentiation. Individual inbreeding coefficients indicated high levels of outcrossing. Conclusions Consistent with a large effective Population size in the historical migrant gene pool and/or with high gene flow among populations, high within-population diversity and low population differentiation was observred within Ireland. It is proposed that native Q. petraea populations in Ireland share a common phylogeographic history and that the present genetic structure does not reflect founder effects.
+
+
+2919
+#Species distinction in Irish populations of Quercus petraea and Q. robur: Morphological versus molecular analyses
+#Kelleher CT, Hodkinson TR, Douglas, GC and Kelly, DL
+#2005
+--------------------------------
+Background and Aims Populations of oak (Quercus petraea and Q. robur) were investigated using morphological and molecular (AFLP) analyses to assess species distinction. The study aimed to describe species distinction in Irish oak populations and to situate this in a European context. Methods Populations were sampled from across the range of the island of Ireland. Leaf morphological characters were analysed through clustering and ordination methods. Putative neutral molecular markers (AFLPs) were used to analyse the molecular variation. Cluster and ordination analyses were also performed on the AFLP markers in addition to calculations of genetic diversity and F-statisitcs. Key Results A notable divergence was uncovered between the morphological and molecular analyses. The morphological analysis clearly differentiated individuals into their respective species, whereas the molecular analysis did not. Twenty species-specific AFLP markers were observed from 123 plants in 24 populations but none of these was species-diagnostic. Principal Coordinate Analysis of the AFLP data revealed a clustering, across the first two axes, of individuals according to population rather than according to species. High F-ST values calculated from AFLP markers also indicated population differentiation (F-ST = 0.271). Species differentiation accounted for only 13 % of the variation in diversity compared with population differentiation, which accounted for 27 %. Conclusions The results show that neutral molecular variation is partitioned more strongly between populations than between species. Although this could indicate that the populations of Q. petraea and Q. robur studied may not be distinct species at a molecular level, it is proposed that the difficulty in distinguishing the species in Irish oak populations using AFLP markers is due to population differentiation masking species differences. This could result from non-random mating in small, fragmented woodland populations. Hybridization and introgression between the species could also have a significant role.
+
+
+2920
+#Frost hardiness of sixteen European prevenances of sessile oak growing in Scotland
+#Deans, JD and Harvey, FJ
+#1996
+--------------------------------
+The frost hardiness of 16 European provenances of sessile oak Quercus petraea (Mart.) Liebl. originating from six European countries was examined from autumn until budburst in spring using the method of relative conductivity.
+
+There were significant differences of frost hardiness between provenances and a strong relationship between phenology and frost hardiness. In spring, provenances that burst bud early dehardened earlier than provenances that burst bud later. In autumn, provenances that stopped growing early were more frost hardy than provenances that continued to grow.
+
+The interprovenance ranges of frost hardiness were greatest in spring and autumn and least in midwinter. Consequently, it was not possible to demonstrate significant differences of frost hardiness between provenances in December and January.
+
+Overall, German, Polish and Danish provenances were more frost hardy than French, Austrian and British provenances. French provenances were least hardy at all times.
+
+
+2921
+#A comparison between European and British provenances of some British native trees: growth, survival and stem form.
+#Worrell, R
+#1992
+--------------------------------
+Data describing the growth, survival and stem form of: a) European continental, and b) British provenances of trees native to Britain were collated from Forestry Commission records. The growth rates of European continental provenances of Scots pine (Pinus sylvestris), silver birch (Betula pendula), sessile oak (Quercus petraea) and common alder (Alnus glutinosa) were inferior to those of British provenances in 90 per cent of cases. European provenances of these species also showed inferior survival. The growth rates of continental provenances of beech (Fagus sylvatica) were superior to British provenances in about 50 per cent of cases, provenances from northern France, Belgium and Holland being the fastest growing. Relationships between the relative height growth of foreign provenances and latitude were demonstrated for Scots pine, silver birch and beech (relative height growth = the height growth of a foreign provenance expressed relative to that of British provenances at the same site). The continental provenances that grew best originated at 0-4-degrees-south of the latitudes of the planting sites. Relative height growth decreased both north and south of these latitudes. In the case of oak, relative height growth did not vary widely between origins. The survival of continental provenances of Scots pine was particularly poor on exposed upland sites. The stem form of British provenances of Scots pine was intermediate between Fennoscandian provenances and provenances from the rest of Europe. In oak and beech there was generally little difference in stem form between British and continental provenances, but the best continental provenances (Belgian beech; French oak) were most reliable. The growth and survival of native trees is interpreted in the light of the post-glacial history of these species. The implications regarding the continued use of seed of native hardwoods imported from continental Europe are discussed.
+
+
+2922
+#Characterisation of chloroplast DNA haplotypes to reveal the provenance and genetic structure of oaks in Ireland
+#Kelleher CT, Hodkinson TR, Douglas GC, Kelly DL
+#2004
+--------------------------------
+The first phylogeographical description of oak populations in Ireland is presented and discussed in an European context. Using chloroplast DNA PCR-RFLP, a geographical genetic structure was obtained for oak populations across the island of Ireland. Two chloroplast haplotypes, 10 and 12, predominated and most populations were fixed for a single haplotype. The distribution of haplotypes within the species was shown to be unequal in Quercus petraea and more equal in Quercus robur. Haplotype 12 predominated in Q. petraea and haplotype 10 was more evenly distributed between the two species. Haplotype diversity is lower than in Britain and much lower than in France or Spain. We ascribe this to Ireland’s isolation and hence to limited ‘founder’ populations. The haplotype distribution was used to infer possible postglacial migration routes of oak into Ireland. The putative migration routes confirm those deduced from palaeoecological data and give further information on the dynamics of invasion. While the origin of the haplotypes is confirmed to be the Iberian Peninsula refugium, the proposed routes of migration into Ireland are still tentative.
+
+
+2923
+#Route, speed and mode of oak postglacial colonisation across the British Isles: Integrating molecular ecology, palaeoecology and modelling approaches
+#Lowe A, Unsworth C, Gerber S, Davies S, Munro R, Kelleher C, King A, Brewer S, White A, Cottrell J
+#2006
+--------------------------------
+
+
+
+2924
+#A new set of mono- and dinucleotide chloroplast microsatellites in Fagaceae.
+#Sebastiani, F, Carnevale, S, Vendramin, GG
+#2004
+--------------------------------
+A new set of 14 chloroplast microsatellites, represented by mono- and dinucleotide repeats, was optimized in the three main species of the Fagaceae (Castanea sativa, Fagus sylvatica and Quercus petraea). The intraspecific variation was tested in some natural populations. The polymorphic microsatellites displayed two or three variants. Conservation of the primer pairs was checked on an additional set of six species of the Fagaceae and on Fraxinus excelsior. All the primer pairs produced a fragment of the expected size in the Fagaceae species while no amplification was obtained with 36% of the primers in F. excelsior.
+
+
+2925
+#ITS sequences from nuclear rDNA suggest unexpected phylogenetic relationships between Euro-Mediterranean, East Asiatic and North American taxa of Quercus (Fagaceae).
+#Samuel, R, Bachmair, A, Jobst, J, Ehrendorfer, F
+#1998
+--------------------------------
+Nucleotide sequences from the internal transcribed spacer (ITS) regions of the 18S-26S nuclear ribosomal DNA have been studied from ten species of Quercus (representing four subgenera), Castanea sativa and Fagus sylvatica, as a preliminary molecular contribution to the still poorly understood systematics and evolution of Fagaceae. The resulting matrix has been used to calculate pair-wise sequence divergence indices and to construct a maximum parsimony tree for Quercus coding indels as a fifth state. Divergence is greater for Quercus vs. Fagus than for Quercus vs. Castanea. The tree for the Quercus taxa studied reveals two clearly divergent clades. In clade I the evergreen W Mediterranean Q. suber appears in a basal position as sister to more distal deciduous taxa, i.e. the E Mediterranean Q. macrolepis and the E Asiatic Q. acutissima tall formerly united as different sections under the apparently polyphyletic subg. Cern's), and Q. rubra (a representative of the N American subg. Erythrobalanus), forming a pair with Q. acutissima. In clade II the evergreen southeastern N American Q. virginiana is basal and sister to the remaining three branches, i.e. a pair of evergreen Mediterranean taxa with Q. ilex and Q. coccifera (subg. Sclerophyllodrys), the deciduous but otherwise plesiomorphic SE European/SW Asiatic Q. cern's (type species of subg. Cerris), and the related but more apomorphic European pair Q. petraea and Q. robur (subg. Quercus). These results partly conflict with current taxonomic classification but are supported by some anatomical and morphological characters. They document polyphyletic lines from evergreen to deciduous taxa and suggest Tertiary transcontinental connections within the genus.
+
+
+2926
+#Morphological and molecular differentiation between Quercus petraea (Matt.) Liebl. and Quercus pubescens Willd. (Fagaceae) in Northern and Central Italy.
+#Bruschi, P, Vendramin, GG, Bussotti, F, Grossoni, P
+#2000
+--------------------------------
+Quercus petraea (Matt.) Liebl. and Q. pubescens Willd. are two closely related taxa. No specific single marker, either morphological or molecular, has been identified to distinguish the two species until now. In the present study morphoanatomical and molecular traits (simple sequence repeats = SSR loci) were investigated in an attempt to characterize and to discriminate between these two oak species. At the morphological level, the applied statistics (nested ANOVA and discriminant analysis) suggest that the micromorphological features are the most effective for this purpose. The wide range of macromorphological variation observed can confound the classification of many individuals into either Q. petraea and Q. pubescens. Analysis of microsatellite data indicates that most of the genetic variation is contained within, rather than between, species. The lack of molecular divergence could be attributed to either relatively rapid and recent differentiation or to extensive hybridization following secondary contact of the taxa.
+
+
+2927
+#Morphological and molecular diversity among Italian populations of Quercus petraea (Fagaceae).
+#Bruschi, P, Vendramin, GG, Bussotti, F, Grossoni, P
+#2003
+--------------------------------
+Quercus petraea (sessile oak) has a scattered distribution in southern and central Italy. The objective of this work was to evaluate the level and distribution of diversity in five Italian populations of Q. petraea by using morphological markers and hypervariable molecular markers such as microsatellites. Forty-eight morphological traits and six nuclear and three plastid loci were scored for each population. Evidence for differentiation in both sets of traits Was found, but patterns of differentiation of morphological traits did not coincide with microsatellite differentiation. Morphological variation was correlated with ecological conditions at the site of origin. Analysis of molecular variance revealed significant genetic variation among populations (P < 0.001), both at the nuclear and plastid levels. There was a slight, but significant, correlation between nuclear genetic distance and geographic distance. The relatively high genetic diversity in the populations analysed indicates that the maintenance of their evolutionary potential is possible if population sizes are maintained or increased. Low levels of haplotype diversity found within the small southernmost population (Piano Costantino) indicates that genetic erosion may increase the extinction risk for this population.
+
+
+2928
+#Population genetics and spatial autocorrelation in an unmanaged stand of Quercus petraea in Denmark.
+#Jensen, JS, Olrik, DC, Siegismund, HR, Lowe, AJ
+#2003
+--------------------------------
+An unmanaged stand of Quercus petraea (Matt.) Liebl. in Denmark was studied for morphological and microsatellite variation. The sample of 339 trees, which is part of a European network of similar oak stands, revealed a unimodal (single) distribution of Q. petraea but found evidence for extreme morphological variation expressed by a number of trees. While hybridization with Quercus robur may be one reason for such a pattern of variation, other possibilities exist. Variation at six microsatellite loci indicated no correlation with any of the nine morphological traits investigated, and showed only small deviations from Hardy-Weinberg proportions. The levels of observed heterozygosity and allelic diversity were similar to those found within other stands of Q. petraea in central Europe, and no reduction in diversity was evident for the Danish stand despite its being situated at the margin of the distribution of the species. Weak, but significant, spatial genetic structure was identified using Moran's index, but the level of spatial autocorrelation was found to be dependent on locus, allele frequency and sample size, which should be greater than 100 trees to identify spatial patterns. Spatial genetic structure was found to be higher for trees with a diameter at breast height (dbh) of <40 cm than for larger trees (>40 cm dbh) and this is thought to reflect a balance between the influence of limited seed dispersal, which will act to establish genetic structure in younger generations, and selection, which will disrupt genetic structure in older generations. The life history of the stand is discussed in relation to the observed genetic parameters.
+
+
+2929
+#Multilocus and multitrait measures of differentiation for gene markers and phenotypic traits.
+#Kremer, A, Zanetto, A, Ducousso, A
+#1997
+--------------------------------
+Multilocus measures of differentiation taking into account gametic disequilibrium are developed. Even if coupling and repulsion heterozygotes cannot be separated at the multilocus level, a method is given to calculate a composite measure of differentiation (CFst) at the zygotic level, which accounts for allelic associations combining both gametic and nongametic effects. Mean and maximum differentiations may be relevant when multilocus measures are computed. Maximum differentiation is the highest eigenvalue of the F-st matrix, whereas mean differentiation corresponds to the mean value of all eigenvalues of the F-st matrix. Gametic disequilibrium has a stronger effect on maximum differentiation than on mean differentiation and takes into account the anisotropy that may exist between within- and between-population components of disequilibria. Multilocus mean and maximum differentiation are calculated for a set of 81 Quercus petraea (sessile oak) populations assessed with eight allozyme loci and two phenotypic traits (bud burst and height growth). The results indicate that maximum differentiation increases as more loci (traits) are considered whereas mean differentiation remains constant or decreases. Phenotypic traits exhibit higher population differentiation than allozymes. The applications and uses of mean and maximum differentiations are farther discussed.
+
+
+2930
+#Genetic variation at allozyme and RAPD loci in sessile oak Quercus petraea (Matt) Liebl: The role of history and geography.
+#LeCorre, V, DumolinLapegue, S, Kremer, A
+#1997
+--------------------------------
+The nuclear genetic variation within and among 21 populations of sessile oak was estimated at 31 RAPD loci in conjunction with previous estimates of variation at eight allozyme loci. The aim of the study was to assess the relative role of isolation-by-distance and postglacial history on patterns of nuclear variation. Because of its small effective population size and maternal transmission, the chloroplast genome is a good marker of population history. Both kinds of nuclear variation (RAPD and allozyme) were therefore compared, first, to the geographical distances among populations and, secondly, to chloroplast DNA restriction polymorphism in the same populations. Multiple Mantel tests were used for this purpose. Although RAPDs revealed less genetic diversity than allozymes, levels of genetic differentiation (G(ST)) were identical. The standard genetic distance calculated at all RAPD loci was correlated with geographical distances but not with the genetic distance calculated from chloroplast DNA data. Conversely, allozyme variation was correlated with chloroplast DNA variation, but not with geography. Possibly, divergent selection at two allozyme loci during the glacial period could explain this pattern. Because of its greater number of loci assayed, RAPDs probably provided a less biased picture of the relative role of geography and history.
+
+
+2931
+#Identification and characterization of (GA/CT)(n)- microsatellite loci from Quercus petraea.
+#Steinkellner, H, Fluch, S, Turetschek, E, Lexer, C, Streiff, R, Kremer, A, Burg, K, Glossl, J
+#1997
+--------------------------------
+In this study a size selected genomic library from Quercus petraea was screened for (GA/CT)(n)-microsatellite sequences. The resulting loci were analysed by PCR for their usefulness as molecular markers in e. petraea and Q. robur. 17 out Of 52 tested primer pairs resulted in the amplification of a polymorphic single-locus pattern. The number of alleles found per locus varied from 6 to 16. Combining the genetic variation observed for the characterized loci provides a unique genotype for all the individuals tested. Using intraspecific controlled crosses of e. robur trees Mendelian inheritance could be shown for five loci.
+
+
+2932
+#Conservation of (GA)(n) microsatellite loci between Quercus species.
+#Steinkellner, H, Lexer, C, Turetschek, E, Glossl, J
+#1997
+--------------------------------
+Microsatellite (simple sequence repeat, SSR) amplification was performed in eight different members of the Fagaceae family by using sets of primers developed from sessile oak, Quercus petraea. In total, 136 cases of heterologous amplification were carried out, and 66% resulted in interpretable amplification products. From these, 12 PCR amplification products were sequenced and all 12 contained a sequence homologous to the original locus from Q. petraea. Although SSR primers worked even across different genera, with increasing evolutionary distance there was a clear tendency for decreasing ability to successfully amplify loci and a decreasing proportion of polymorphism amongst those markers which could be amplified. Two of the loci, ssrQpZAG46 and ssrQpZAG110, were polymorphic in all Quercus species tested. Only at one locus, ssrQpZAG58, a specific PCR product could be amplified in all species analysed. For four loci found in two species, we observed significant interspecies differences in the size range of the amplified alleles. Sequence analysis of two alleles showed that the size differences are not only due to variations in the number of (GA) repeats but also to an insertion of approximately 80 nucleotides in the flanking region. Our findings prove the usefulness of SSR markers within and amongst closely related genera of plants.
+
+
+2933
+#Geographical structure of gene diversity in Quercus petraea (Matt) Liebl .1. Monolocus patterns of variation.
+#Zanetto, A, Kremer, A
+#1995
+--------------------------------
+A gene diversity survey was conducted on a range-wide sample of 81 populations of Quercus petraea. Allele frequencies were calculated at 13 enzyme-coding loci, of which 11 were polymorphic. There was a clear discrepancy in the levels of diversity at loci controlling enzymes of primary metabolism compared with those involved in secondary metabolism, the latter being more variable than the former. Quercus petraea is a highly variable species as are other long-lived widespread forest species: at the species level, the mean number of alleles per population was 4.77 and the expected heterozygosity 0.265. Populations from the central part of the natural range exhibited fewer alleles but higher heterozygosities than populations from the margins of the distribution. Significant correlations were observed between allele frequencies and longitude for most loci, resulting in a clinal variation of allele frequencies across a continental gradient. The patterns of geographical variation in allele frequencies and levels of diversity were interpreted as a consequence of postglacial migration pathways.
+
+
+2934
+#AFLP markers demonstrate local genetic differentiation between two indigenous oak species [Quercus robur L. and Quercus petraea (Matt.) Liebl] in Flemish populations.
+#Coart, E, Lamote, V, De Loose, M, Van Bockstaele, E, Lootens, P, Roldan-Ruiz, I
+#2002
+--------------------------------
+The nuclear genetic variation within and between four sessile (Q. petraea) and six pedunculate (Q. robur) autochthonous Flemish oak populations was investigated with AFLP markers. One sessile and one pedunculate oak population were additionally screened for detailed leaf characteristics using an image analysis system. Principal coordinate analysis on the AFLP data classified the oaks in two main groups, according to their taxonomic status. No species-specific AFLP markers were found using four primer combinations, but marker frequency differences up to 71% were recorded between both species. Analysis of the genetic structure showed that the divergence between species, as observed by ordination, was significant. Both species revealed similar diversity levels. A smaller though significant differentiation was also revealed for both species among populations within species. Molecular and morphology based approaches showed a high degree of consistency. Screening of 60 AFLP primer combinations using a bulking strategy did not allow identifying species-specific markers, which supports the conclusions reached in previous studies. The distribution of genetic variability at the species and at the population level is discussed.
+
+
+2935
+#Genetic differentiation of oak populations within the Quercus robur/Quercus petraea complex in Central and Eastern Europe.
+#Gomory, D, Yakovlev, I, Zhelev, P, Jedinakova, J, Paule, L
+#2001
+--------------------------------
+Genetic structure of 25 indigenous populations of sessile and pedunculate oaks (Quercus petraea and Q. robur), originating from three geographical regions: Slovakia, Bulgaria and the Republic Mari-El (Russia), was investigated using isozyme markers. Mean number of alleles per locus ranged between 1.8 and 2.6 in Q. robur populations and from 2.0 to 3.0 in Q. petraea populations, slightly higher expected heterozygosity values were found in Q. robur compared to Q. petraea. One locus, coding for a substrate-nonspecific dehydrogenase, differentiated the two species. The interspecific component of gene diversity was 46.7% at this locus, compared to 0.4-7.8% at the remaining loci.
+
+
+2936
+#Chloroplast DNA variation within the Nordic countries.
+#Jensen, JS, Gillies, A, Csaikl, U, Munro, R, Madsen, SF, Roulund, H, Lowe, A
+#2002
+--------------------------------
+Chloroplast DNA (cpDNA) variation was studied in the white oak species, Quercus robur and Quercus petraea, from Denmark, Norway, Sweden and Finland. A total of 474 trees from 91 populations were screened within the region for a set of previously characterised cpDNA haplotypes. Within the sample, haplotype 1, known to have originated from an Italian Pleistocene forest refugium, was the most common (55%), and was well-distributed across all Scandinavian countries and dominated in Sweden. We propose that material of Italian origin was part of the first wave of post-glacial migration of oak into Scandinavia, and that the Italian haplotype migrated into Finland from Sweden across the Baltic Sea. In Finland, a sharply defined transition zone between the haplotype of Italian origin and haplotype 5, originating from an eastern European refugium in the Balkans, was observed in southern Finland, and confirms the findings of a previous study [Heredity 80 (1998) 584]. Evidence from the study of Csaikl et al. [For. Ecol. Manage., this issue] confirms that this haplotype migrated into Finland via an eastern route through the Baltic States. Another haplotype of Balkan origin (haplotype 7) was only common in southern Denmark and known to be present throughout the native German forests [For. Ecol. Manage., this issue], from where we believe it migrated into Denmark. It appears probable that this haplotype reached Denmark later than the Italian lineage as its progress towards north appears to have been hindered by a bottlenecking in central Denmark. Finally, three haplotypes originally of Iberian origin (haplotypes 10-12) were also found at intermediate frequency throughout the Nordic countries sampled, except Finland. This pattern of distribution suggests that migration occurred concurrently or just behind that of the Italian lineage. One of the Iberian haplotypes (haplotype 12) is rare in autochthonous stands, but found at a frequency of 24% in planted non-autochthonous stands in Denmark. Overall, the proportion of populations fixed for a single haplotype was high in natural, autochthonous stands (77%) and lower in artificial stands (54%). In addition, population subdivision was higher (G(ST) = 0.87) and diversity lower (h(S) = 0.075 and h(T) = 0.6) in autochthonous stands than in artificial stands (G(ST) = 0.69. h(S) = 0.22, h(T) = 0.72). The pattern of haplotype distribution across Scandinavia and Finland appears fairly clumped and is discussed in relation to natural gene flow, leptokurtic post-glacial dispersal and human influences. Finally, no relation between cpDNA haplotype and six quantitative traits measured on autochthonous stands in Denmark was found. The potential for cpDNA haplotype screening for setting gene conservation and seed certification priorities is discussed.
+
+
+2937
+#Chloroplast DNA polymorphisms provide evidence for postglacial re-colonisation of oaks (Quercus spp.) across the Swiss Alps.
+#Matyas, G, Sperisen, C
+#2001
+--------------------------------
+The spatial pattern of chloroplast DNA (cpDNA) variation in Quercus robur, Quercus petraea and Quercus pubescens was studied in 1036 trees from 181 locations throughout the Swiss Alps and adjacent regions in order to gain a deeper insight into the postglacial history of these species. A total of ten different cpDNA types (haplotypes) were identified, six of which are described for the first time. The genetic variation was mainly found between collection sites (G(ST)=0.881). Spatial autocorrelation indicated that the two dominant haplotypes had a structured, non-random distribution. The spatial pattern of these two haplotypes, which are associated with different ice-age refugia, reveals: (1) that oaks did not immigrate into regions of the Swiss Alps together, rather they immigrated separately in space and/or time, and (2) that the spatial mixing of haplotypes as a consequence of seed dispersal was low. Furthermore, the geographic distribution of the haplotypes suggests that the Alps only partially blocked the re-colonisation of oaks: Quercus species, which originated after range expansion from a refugium in Italy, have most likely crossed the Swiss Alps. Previously proposed postglacial migration pathways are reviewed and possible re-colonisation routes are discussed.
+
+
+2938
+#Identification of hybrids between Quercus petraea and Q. robur (Fagaceae): results obtained with RAPD markers confirm allozyme studies based on the Got-2 locus.
+#Samuel, R
+#1999
+--------------------------------
+RAPDs were employed as genetic markers to detect interspecific hybridization between the closely related oak species Quercus robur and Q. petraea. Fourteen primers were used in order to check the genetic status ("pure" or hybrid) of individuals classified morphologically. Among the 147 PCR fragments obtained 11 appear to be species-specific. In the phenotypically intermediate individuals different combinations of these species-specific bands were obtained. The patterns in these putative hybrids were not additive, which may be either the result of repeated backcrossing and introgression between the two species or of heterozygosity within the parental species. The results of the RAPD study are consistent with morphological analyses and allozyme data obtained for the Got-2 locus. Thus the RAPD markers used in this study may provide a powerful genetic tool for the identification of hybrids and the discrimination between the two "pure" species.
+
+
+2939
+#Genetic, morphological, ecological and phenological differentiation between Quercus petraea (Matt) Liebl and Quercus robur L. in a mixed stand of northwest of France.
+#Bacilieri, R, Ducousso, A, Kremer, A
+#1995
+--------------------------------
+The sessile and pedunculate oaks are the most common tree species in Europe. The 2 taxons are closely related, and, in spite of their ecological differences, they form frequently mixed forests, where hybridisation is suspected to occur. In this paper, we describe a mixed forest stand of sessile and pedunculate oaks, in which a regular slope establishes an ecological gradient. Genetic, morphological, phenological and ecological differentiation between the 2 species and the existence of parallel variations among these different types of characters are analysed. The sessile and the pedunculate oaks studied here showed a weak differentiation for the genetic, morphological and ecological characters. The flowering of the 2 species was synchronous over 3 years. Morphological and ecological traits showed an overlapping distribution; with allozymes any specific marker was not identified. Within each species the diversity is not structured along the ecological gradient, we do not find associations among ecological, morphological, phenological traits and allozyme markers. Inferences about the taxonomic relationships of these species are discussed.
+
+
+2940
+#Intraspecific genetic structure in a mixed population of Quercus petraea (Matt) Leibl and Quercus robur L..
+#Bacilieri, R, Labbe, T, Kremer, A
+#1994
+--------------------------------
+The intraspecific genetic structure of a mixed population of sessile and pedunculate oak was studied in the Petite Charnie Forest, Sarthe, France, using enzyme electrophoresis. Spatial structure was analysed by calculating F-statistics and autocorrelations at different scales of spatial subdivision of the population. F-statistics were also used to compare the genetic structure of groups of trees subdivided according to the phenology of flowering. Spatial organization of phenology of flowering was studied with autocorrelation methods. In both species, a highly significant heterozygote deficiency was found at the population level. Spatial genetic structure was at least partially responsible for this deficiency, as demonstrated by the variations observed in F-statistics in relation to the size of this population subdivision. The significance of the observed structure was confirmed by comparison with a null hypothesis generated with the help of permutation analysis. We suggest that the limited dispersal of pollen and/or seeds in the stand gave rise to a family structure. The autocorrelation in phenology of flowering found in both species could contribute to lower the neighbourhood size and then to increase the Wahlund effect. Autocorrelation analyses allowed us to show that heterogeneity of patterns of structure among loci was present. Other possible causes of the genetic structure and its heterogeneity are discussed.
+
+
+2941
+#Investigations on vitality and genetic structure in oak stands.
+#Hertel, H, Zaspel, I
+#1996
+--------------------------------
+Six oak stands with the two indigenous species Quercus petraea and Q robur were investigated in order to establish relationships between the vitality of oak trees and their genetic structure. The stands were affected by the 'European oak decline'. The registered traits of every tree were branching habits, defoliation, discoloration of foliage, necrosis on stems, epicormic branches at stems and in the crowns. The several traits were integrated into a vitality coefficient. Isozyme analyses were carried out to characterize the genetic structure of oak stands and subpopulations distinguished by their vitality. In principle, the results indicate the same tendency for the relationship between vitality and genetic structure for Q robur and Q petraea: increase of excess of homozygotes from the tolerant group to the sensitive group, decrease of observed heterozygosity from the tolerant to the sensitive group, maximum hypothetical gametic diversity and minimum subpopulation differentiation in the intermediate group as an indication for a directed selection.
+
+
+2942
+#Population structure and post-glacial migration routes of Quercus robur and Quercus petraea in Denmark, based on chloroplast DNA analysis.
+#Johnk, N, Siegismund, HR
+#1997
+--------------------------------
+Populations of Quercus robur L. and Quercus petraea [Matt.] Liebl. were shown previously to be fixed for the same chloroplast DNA marker in western Europe and for another form of this marker in eastern Europe. Application of this marker to 17 Danish populations of Q. robur showed significant population differentiation (G(ST) = 0.6). Restricted gene flow, low effective population size, restricted colonization ability of oak in dense forest and historical data might explain this. In addition, the genetic structure in eastern and western Denmark was quite different. In Jutland the populations were homogenous for the western marker, in eastern Denmark, significant population differentiation and high diversity within populations were found. Post-glacial migration is likely to explain the geographical structure. Oaks have immigrated to Jutland from the west, whereas eastern Denmark was colonized from both east and west, forming a hybrid zone where immigrants met. Data from three populations of Q. petraea and from two hybrid populations also support this.
+
+
+2943
+#Comparison of morphological and genetic traits of pedunculate oak (Q. robur L) and sessile oak (Q. petraea (Matt) Liebl).
+#Kleinschmit, JRG, Bacilieri, R, Kremer, A, Roloff, A
+#1995
+--------------------------------
+Morphological and genetic traits are compared for pedunculate oak (Quercus robur L.) and sessile oak (Quercus petraea (MATT.) LIEBL.) by means Of controlled crosses and 2 mixed stands. The existence of hybrids as morphological intermediate forms and of disjunctive characters for distinction between the 2 taxonomic species was tested. It was shown that the leaf morphology of the juvenile and the adult trees differ from each other. On the level of single individuals a recognition of species' hybrids is not possible by means of an intermediate morphology. On the level of families it is sometimes possible using statistical bests. Morphological, isoenzymatic and DNA-analytic methods are compared for their different abilities to detect a differentiation between pedunculate and sessile oak. 111 trees of a German stand, were divided into groups as well by means of discriminant functions as by the direct comparison of density distributions (VERGA, 1995), which derived from the measurements of the characters. None of the characters has disjunctive expressions. The 2 methods of species' discrimination, using morphological traits, differ in respect of their selectivity between Q. robur and Q. petraea and their classification of individuals with intermediate morphology. Phenotypic and genetic parameters were calculated for the groups derived from VERGA's method. Eight RAPD fragments whose dominant Mendelian inheritance was proven were used for DNA analysis. The total phenotypic differentiation (delta(TP)), based on the RAPD analysis, is 0.30 for the ''robur type'' and 0.44 for the ''petraea type''. On the basis of 10 enzyme loci the genetic parameters were calculated according to Gregorius. The mean number of alleles is 2.9 for the ''robur type'' resp. 3.1 for the ''petraea type''. The observed heterozygosity is 26.7% for the ''robur type'' and 20.6% for the ''petraea type'' (the conditional heterozygosities are 59.9% resp. 55.5%), the total differentiation of the collective (delta(T)) is 0.25 for the ''robur type'' and 0.28 for the ''petraea type''. The distances between the types are: morphological distance (d(m)) 0.45, phenotypic distance (d(OP)) 0.22 and genic distance (d(o)) 0.14. The values of the German stand are compared to those of a French stand. The characters which contribute to the discrimination between the types within a stand are the same for both stands. The geographically separated groups of one type are differentiated above all because of differences of their leaf length and leaf width. The distance between the same types in different locations is small compared to the distance between different types within one stand. The ''petraea type'' of the German stand is more variable for all traits analysed than the ''robur type''. Due to the possibility of a hybridization between Q. robur and Q. petraea, their different ecological requirements and because of the lack of characters' disjunctive expressions between the different types, it seems to be appropriate to state that sessile and pedunculate oak belong to the same biological species for which they represent different ecotypes.
+
+
+2944
+#Geographic structure of chloroplast DNA polymorphisms in European oaks.
+#Petit, RJ, Kremer, A, Wagner, DB
+#1993
+--------------------------------
+Chloroplast DNA polymorphisms have been detected by the conventional Southern-blotting hybridization method in four species of European oaks (Quercus petraea, Q. robur, Q. pubescens and Q. pyrenaica). Three polymorphisms, shared by at least three of these species, can be scored directly in ethidium bromide-stained gels and were used in a broad survey of the level of differentiation of the oak species and of their pattern of genetic structure in western Europe. The highly significant geographic variation and the high genetic differentiation (Gst = 0.895, S(Gst) = 0.025) indicate a low level of cytoplasmic gene flow. We conclude that cytoplasmic genomes are well suited for the reconstruction of past migrational routes of such a complex of species.
+
+
+2945
+#Electrophoretic analysis of genetic variation within and between populations of Quercus cerris, Quercus pubescens, Q. petraea and Quercus robur (Fagaceae) from eastern Austria.
+#Samuel, R, Pinsker, W, Ehrendorfer, F
+#1995
+--------------------------------
+Allozyme variation at 14 loci was studied electrophoretically in 19 population samples of Quercus cerris, Q. pubescens, Q. petraea, and Q. robur. Genetic variation, measured as mean heterozygosity, was found to be high within populations but low among populations. A significant deficit of heterozygotes was observed in most of the populations of Q. pubescens, Q. petraea, and Q. robur. At the species level, Q. cerris (sect. Cerris) appears to be clearly separated hem the rest (sect. Quercus). Q. pubescens, Q. petraea, and Q. robur form a cluster of closely-related species. The degree of genetic differentiation among these species is low, i.e. in the range normally found among con-specific populations. Nevertheless, allozyme data allow the elaboration of a dendrogram which is in reasonable accordance with the taxonomic classification, but also supports the importance of hybridization and introgression. This is also underlined by the fact that the allelic differentiation at the Got-2 locus corresponds with the phenotypic classification (petraea-like, hybrids, and robur- like) in samples from mixed populations.
+
+
+2946
+#Within-population genetic structure in Quercus robur L. and Quercus petraea (Matt.) Liebl. assessed with isozymes and microsatellites.
+#Streiff, R, Labbe, T, Bacilieri, R, Steinkellner, H, Glossl, J, Kremer, A
+#1998
+--------------------------------
+The spatial distribution of alleles is described in a forest stand of natural origin of 5 ha comprising 355 mature Quercus petraea and Q. robur trees. Each tree was genotyped for six microsatellite loci. Previous studies on the same population based on isozymes allowed a comparison of different markers for the detection of spatial genetic structure. Different statistics were used: differentiation measures at different spatial scales, and spatial autocorrelation analysis based on Moran's index I. For microsatellites, differentiation and autocorrelation were calculated with unordered alleles (identity in state) and with alleles ordered according to their size. Results showed the same tendency of a significant, but low, spatial genetic structure for markers and different statistics. Some differences could, however, be detected. First, microsatellites interpreted as unordered alleles exhibit stronger spatial structure than isozymes or microsatellite interpreted as ordered alleles. Second, differentiation and autocorrelation values were higher in Q. petraea than in Q. robur. These differences were attributed to species differences in gene flow via pollen or seed.
+
+
+2947
+#Microsatellite DNA profiling of phenotypically selected clones of Irish oak (Quercus spp.) and ash (Fraxinus excelsior L.).
+#Lefort, F, Douglas, GC and Thompson, D
+#2000
+--------------------------------
+
+
+
+2948
+#Evidence for shared ancestral polymorphism rather than recurrent gene flow at microsatellite loci differentiating two hybridizing oaks (Quercus spp.).
+#Muir, G and Schlotterer, C
+#2005
+--------------------------------
+Quercus petraea and Quercus robur are two closely related oak species, considered to hybridize. Genetic markers, however, indicate that despite sharing most alleles, the two species remain separate genetic units. Analysis of 20 microsatellite loci in multiple populations from both species suggested a genome-wide differentiation. Thus, the allele sharing between both species could be explained either by low rates of gene flow or shared ancestral variation. We performed further analyses of population differentiation in a biogeographical setting and an admixture analysis in mixed oak stands to distinguish between both hypotheses. Based on our results we propose that the low genetic differentiation among these species results from shared ancestry rather than high rates of gene flow.
+
+
+2949
+#Gene flow and hybridisation in a mixed oak forest (Quercus pyrenaica Willd. and Quercus petraea (Matts.) Liebl.) in central Spain
+#Valbuena-Carabana, M, Gonzalez-Martinez, SC, Sork, VL, Collada, C, Soto, A, Goicoechea, PG and Gil, L
+#2005
+--------------------------------
+Oaks are long- standing models for the study of gene flow and hybridisation. Temperate ( Quercus petraea) and sub-Mediterranean ( Quercus pyrenaica) oaks coexist in central Spain, showing remarkable differences in population size and structure. Q. petraea has a scattered distribution in central Spain, where it is at one of the southernmost limits of its range, and forms low- density stands; in contrast, Q. pyrenaica is widespread in the region. We selected a mixed population of the two species ( similar to 13 ha, 176 adults and 96 saplings) to compare the patterns of gene flow within each species and the extent of introgression between them. Using five nuclear microsatellite markers, we performed a parentage analysis and found considerable immigration from outside the stand ( similar to 38% for Q. petraea and similar to 34% for Q. pyrenaica), and estimated average seed- dispersal distances of 42 and 14 m for Q. petraea and Q. pyrenaica, respectively. Introgression between species was also estimated using our microsatellite battery. First, we developed a multivariate discriminant approach and, second, we compared our results with a widely used clustering method ( STRUCTURE). Both analyses were consistent with a low level of introgression between Q. petraea and Q. pyrenaica. Indeed, only 15 adult trees, similar to 8.5%, were identified as putative hybrids when both methods of analysis were combined. Hybrids may be most common in contact zones due merely to physical proximity.
+
+
+2950
+#Allozyme variation in different species of deciduous oaks from northwestern Italy
+#Belletti, P, Leonardi, S, Monteleone, I and Piovani, R
+#2005
+--------------------------------
+Allozyme variation was studied by electrophoresis at 11 loci in 14 populations of Quercus petraea, Q. robur, Q. cerris and Q. pubescens from Piedmont, northwestern Italy. The aim of the work was to characterize the genetic resources and to suggest effective measures for in situ preservation of biodiversity. As expected, most of the genetic variability was found at the within population level, and genetic differentiation accounted for about 14% of it. The study confirmed the low level of genetic variability among the species studied: only Q. cerris populations could be clearly distinguished. Q. pubescens could be separated from Q. petraea and Q. robur using Principal Coordinate Analysys. The latter was also found to be useful for separating Q. petraea and Q. robur populations. However, in mixed populations, the differentiation between the latter species was similar to that scored among populations belonging to the same species. A significant deviation from random mating was observed, although it was variable among species: Q. pubescens had the highest value for the inbreeding coefficient F-IS (0.159).
+
+
+2951
+#PCR multiplexing of nuclear microsatellite loci in Quercus species.
+#Dzialuk, A, Chybicki, I, and Burczyk, J
+#2005
+--------------------------------
+Simple sequence repeats have become the tool of choice in a wide range of studies of forest trees. Despite frequent use of multicolor fluorescent labeling DNA fragment analyzers, there are few procedures that reduce time and cost of the analyses by PCR multiplexing. Here we present an example of 2 multiplexes of 7 unlinked nuclear microsatellite loci to increase the efficiency of genotyping of large samples of oaks, which is extremely useful in population genetic studies.
+
+
+2952
+#Geographical structure of gene diversity in Quercus petraea (Matt.) Liebl., multilocus patterns of variation.
+#Kremer, A and Zanetto, A
+#1997
+--------------------------------
+Two-locus composite disequilibria were estimated for all 28 pairs of loci (from eight loci) in 81 populations of Quercus petraea spread over the natural distribution of the species. Significant disequilibria were found in almost all populations for two pairs (Aap-A/Lap-A, Mr-A/Dia-A) that have also shown strong linkage in cosegregation analysis. These pairs belong to the so-called complex loci producing nearly identical gene products and that are tightly linked. Significant disequilibria were also found for other pairs of loci that are linked to a smaller degree. The amount of disequilibrium followed a geographical pattern. The number of pairs showing significant disequilibria per population was higher on the edges of the natural range (Norway, Great Britain, Turkey). Disequilibria for the two pairs (Aap-A/Lap-A, Mr-A/Dia-A) were also higher at the edges of the distribution and were correlated with longitude. Population differentiation resulting from the associations of alleles at different loci was increased when the correlations of allele frequencies at the within- and between-population level were of different magnitude. It is suspected that correlations at the between-population level may arise from historical causes rather than gametic disequilibrium. Finally, the first canonical variate (multivariate score) including allelic frequencies of all eight loci fellows a strong longitudinal pattern of variation.
+
+
+2953
+#Chloroplast DNA footprints of post-glacial recolonization by oaks
+#Petit, RJ, Pineau, E, Demeasure, B, Bacilieri, R, Ducousso, A and Kremmer, A
+#1997
+--------------------------------
+Recolonization of Europe by forest tree species after the last glaciation is well documented in the fossil pollen record. This spread may have been achieved at low densities by rare events of long-distance dispersal, rather than by a compact wave of advance, generating a patchy genetic structure through founder effects, In long-lived oak species, this structure could still be discernible by using maternally transmitted genetic markers, To test this hypothesis, a fine-scale study of chloroplast DNA (cpDNA) variability of two sympatric oak species was carried out in western France, The distributions of six cpDNA length variants were analyzed at 188 localities over a 200 x 300 km area, A cpDNA map was obtained by applying geostatistics methods to the complete data set. Patches of several hundred square kilometers exist which are virtually fixed for a single haplotype for both oak species. This local systematic interspecific sharing of the maternal genome strongly suggests that long-distance seed dispersal events followed by interspecific exchanges were involved at the time of colonization, about 10,000 years ago.
+
+
+2954
+#Phenologies of sixteen European provanances of sessile  oak growing in Scotland
+#Deans, JD and Harvey, FJ
+#1995
+--------------------------------
+Budburst, budset, leaf yellowing, growth, and frost damage were assessed on 2- to 4-year-old transplants of 16 provenances of sessile oak (Quercus petraea) collected in six European countries and grown in Scotland. There were significant differences in dates of budburst between provenances. Provenances from France and Austria burst bud earlier than the others (P < 0.05).
+
+Budburst date was negatively correlated with altitude of provenance origin but positively correlated with latitude, indicating that southern provenances burst bud earlier than northern provenances and are therefore more prone to spring frost damage.
+
+Although there were no significant differences of growth between provenances, French provenances tended to grow later in autumn than provenances originating in other countries. Consequently plants from these French provenances were more badly damaged by autumnal frosts (P < 0.05) than plants from other provenances. Budset and leaf yellowing in late September were positively correlated.
+
+
+2955
+#Genetic inventory of oak populations: conequences for breeding and gene conservation
+#Herzog, S, Dreyer, E and Aussenac, G
+#1996
+--------------------------------
+The objective of the present study was to characterize the genetic variation in pedunculate oak and sessile oak populations on the basis of isoenzyme markers and to perform a genetic inventory of European oak populations. The results are discussed with special respect to forest tree breeding and conservation of genetic resources. Previous results on oak genetics, summarized in the present paper, are also discussed. The results reveal a relatively high genetic variation among individuals in terms of actual heterozygosities, compared to other plant species. In addition, intrapopulational variation is large. Genetic differentiation among populations of each species is relatively small in general, with certain exceptions. In contrast to earlier results, which suggest smaller differentiation values for pendunculate oak as compared to sessile oak, the present results indicate an opposite trend. The results presented herein suggest that forest tree breeding and silviculture of sessile and pedunculate oak need to take into account large genetic multiplicities. It seems improbable that we can find single stands representing the whole or nearly the whole genetic variation of the species. This would call for a management which is focused on the in situ maintenance of numerous and sufficiently large, locally adapted stands.
+
+
+2956
+#Coincidence of small-scale spatial discontinuities in leaf morphology and nuclear microsatellite variation of Quercus petraea and Q-robur in a mixed forest
+#Gugerli, F Walser, JC Dounavi, K Holderegger, R Finkeldey, R
+#2007
+--------------------------------
+Background and Aims The taxon complex comprising Quercus petraea and Q. robur shows distinct morphologies and ecological preferences, but mostly low differentiation in various types of molecular markers at a broad spatial range. Local, spatially explicit analyses may reveal patterns induced by microevolutionary processes operating mainly over short distances. However, no attempts have been made to date to explore the potential of spatial analyses combining morphological and genetic data of these oaks.
+Methods A mixed oak stand was studied to elucidate the small-scale population genetic structure. All adult individuals were classified and putative hybrids were identified using multivariate discrimination analysis of leaf morphological characters. Likewise, all trees were genotyped with five nuclear microsatellites, and a Bayesian assignment method was applied based on maximum likelihood of multilocus genotypes for taxon and putative hybrid classification.
+Key Results Multivariate analyses of leaf morphological data recognized two groups with few individuals as putative hybrids. These groups were significantly differentiated at the five microsatellites, and genetic taxon assignment coincided well with morphological classification. Furthermore, most putative hybrids were assigned to the taxon found in their spatial neighbourhood. When grouping trees into clusters according to their spatial positions, these clusters were clearly dominated by one taxon. Discontinuities in morphological and genetic distance matrices among these clusters showed high congruence.
+Conclusions The spatial-genetic analyses and the available literature led to the assumption that reproductive barriers, assortative mating, limited seed dispersal and microsite-induced selection in favour of the locally adapted taxon at the juvenile stage may reinforce taxon-specific spatial aggregation that fosters species separation. Thus, the results tend to support the hypothesis that Q. petraea and Q. robur are distinct taxa which share a recent common ancestry. Occasional hybrids are rarely found in adults owing to selection during establishment of juveniles.
+
+
+2957
+#Fine-scale spatial genetic structure in mixed oak stands with different levels of hybridization
+#Valbuena-Carabana, M Gonzalez-Martinez, SC Hardy, OJ Gil, L
+#2007
+--------------------------------
+Oaks are model species for the study of natural introgressive hybridization. High interfertility among oak taxa might result in collective evolution, through transpecific spread of advantageous alleles, challenging the standard concept of species. Nine highly polymorphic microsatellite (nuSSR) loci were analysed in three mixed oak populations of Quercus pyrenaica and Quercus petraea (Montejo, Somosierra and Robregordo) with different density and hybridization rates. Both leaf morphology and molecular markers were used to assess individual admixture rates. Insights about the relative effect of density and hybridization rates on fine-scale spatial genetic structure (SGS) were obtained from autocorrelograms and Sp statistics. Differences in SGS among populations were higher than between species. These differences cannot be attributed solely to census densities but also relate to other factors, such as the spatial configuration of the population. Hybridization was an important factor shaping within-population spatial genetic structure, and an interspecific component of SGS was found in Somosierra. Indirect estimates of historical gene flow in Montejo were compared with actual values of gene dispersal assessed by parentage analysis in a former study. Similar values were found for current and historical gene flow in both species, which might reflect demographical stability.
+
+
+2958
+#Genetic variation and differentiation within a natural community of five oak species (Quercus spp.)
+#Curtu, AL Gailing, O Leinemann, L Finkeldey, R AF
+#2007
+--------------------------------
+Chloroplast DNA and two categories of nuclear markers - isozymes and microsatellites - were used to examine a very rich natural community of oaks (Quercus spp.) situated in west-central Romania. The community consists of five oak species: Q. robur, Q. petraea, Q. pubescens, and Q. frainetto - that are closely related -, and Q. cerris. A total of five chloroplast haplotypes was identified. Q. cerris was fixed for a single haplotype. The other four species shared the two most common haplotypes. One haplotype was confined to Q. robur and a very rare one was restricted to Q. petraea. Both types of nuclear markers revealed a larger genetic variation for Q. pubescens and Q. petraea than for Q. frainetto and Q. robur, although the differences between species are in most cases not significant. At the nuclear level, Q. cerris could be clearly separated from the other four oak species confirming the taxonomic classification. Regardless of the estimate used, the levels of polymorphism revealed by microsatellites were much higher than those based on isozymes. For the four closely related species the overall genetic differentiation was significant at both categories of nuclear markers. Several loci, such as Acp-C for isozymes, and ssrQpZAG36 and ssrQrZAG96 for microsatellites were very useful to discriminate among species. However, the level of differentiation varied markedly between pairs of species. The genetic affinities among the species may reflect different phylogenetic distances and/or different rates of recurrent gene flow at this site.
+
+
+2959
+#Altitudinal differentiation in growth and phenology among populations of temperate-zone tree species growing in a common garden 
+#Vitasse, Y Delzon, S Bresson, CC Michalet, R Kremer, A
+#2009
+--------------------------------
+The aim of the study was to determine whether there are genetic variations in growth and leaf phenology (flushing and senescence) among populations of six woody species (Abies alba Mill., Acer pseudoplatanus L., Fagus sylvatica L., Fraxinus excelsior L., Ilex aquifolium L., and Quercus petraea (Matt.) Liebl.) along altitudinal gradients, using a common-garden experiment. We found (i) significant differences in phenology and growth among provenances for most species and (ii) evidence that these among-population differences in phenology were related to the annual temperature at the provenance sites for ash, beech, and oak. It is noteworthy that along the same climatic gradient, species can exhibit opposing genetic clines: beech populations from high elevations flushed earlier than those from low elevations, whereas we observed the opposite trend for ash and oak. For most species, significant altitudinal clines for growth were also revealed. Finally, we highlighted the fact that both phenology timing and growth rate were highly consistent from year to year. The results demonstrated that despite the proximity of the populations in their natural area, differences in altitude led to genetic differentiation in their phenology and growth. These adaptive capacities acting along a natural climatic gradient could allow populations to cope with current climate change
+
+
+2960
+#Nucleotide sequence, structural organization and length heterogeneity of ribosomal DNA intergenic spacer in Quercus petraea (Matt.) Liebl. and Q. robur L.
+#Bauer, Natasa Horvat, Tomislav Birus, Ivan Vicic, Vedrana Zoldos, Vlatka
+#2009
+--------------------------------
+18S-5.8S-26S rDNA family comprises tandemly arranged, repeating units
+ separated by an intergenic spacer (IGS) that contains transcription
+ initiation/termination signals and usually repeating elements. In this
+ study, we performed for the first time thorough sequence analysis of
+ rDNA IGS region in two dominant European oaks, Quercus petraea and Q.
+ robur, in order to investigate (1) if IGS sequence composition allows
+ discrimination between these two species, and (2) if there is an rDNA
+ length heterogeneity arising from IGS sequence. Two spacer length
+ variants (slvs), 2 and 4 kb in length, were found in the genomes of
+ both species. Inter-comparison of both slvs revealed no
+ species-specificity in sequence or structural organization. Both slvs
+ could be divided into four subregions; (1) the subrepeat region
+ containing three repeated elements, (2) the AT-rich region containing
+ matrix attachment sites and putative origin of replication, (3) the
+ promoter region containing putative transcription initiation site and
+ (4) the 5'ETS region. In the 4-kb slvs all four subregions are
+ extended, and the subrepeat, AT-rich and promoter regions are
+ duplicated. This is unique compared to other known IGS sequences where
+ the variation in number of subrepeats is responsible for slvs creation.
+ We also propose a possible evolutionary scenario to explain the
+ formation of the subrepeat region in oak IGS. Results obtained in this
+ work add to the previous picture of low-genetic differentiation of the
+ two oaks and provide important data for further analyses of the
+ function of IGS in control of rRNA gene expression.
+
+
+2961
+#Natural hybridisation between Quercus petraea (Matt.) Liebl. and Quercus pubescens Willd. within an Italian stand as revealed by microsatellite fingerprinting
+#Salvini, D Bruschi, P Fineschi, S Grossoni, P Kjaer, ED Vendramin, GG
+#2009
+--------------------------------
+Interspecific gene flow is frequently reported in the genus Quercus.
+ However, interfertile oak species often seem to remain distinct, even
+ within areas of sympatry. This study employed molecular markers to
+ verify, at a fine scale, the presence of interspecific gene flow in a
+ natural population of Quercus petraea and Quercus pubescens. Within a
+ delimited area of 6 ha, all adult trees belonging to the studied oak
+ complex and seeds from a subsample of such trees were collected and
+ analysed using molecular microsatellite markers. A low interspecific
+ genetic differentiation and a high level of interspecific genetic
+ admixture suggested past hybridisation. Paternity inference of seeds
+ allowed the estimation of pollination frequencies from the three groups
+ of pollen donors (Q. petraea, Q. pubescens, intermediate). We also
+ assayed pollen viability and germinability of each species group. We
+ observed natural hybridisation between Q. petraea and Q. pubescens,
+ with a predominant component in the direction Q. petraea -> Q.
+ pubescens: Q. pubescens displayed a higher level of heterospecific
+ pollination by Q. petraea (25.8%) and intermediate morphotypes (14.7%),
+ compared to Q. petraea acting as pollen receptor (with less than 5%
+ heterospecific pollinations). Intermediate 'mother trees' were
+ pollinated in similar proportions by Q. petraea (23.1%), Q. pubescens
+ (37.8%) and intermediate morphotypes (39.1%). The asymmetrical
+ introgression observed for the studied generation may be caused, among
+ other factors, by the relative abundance of trees from each species
+ group in the studied area.
+
+
+2962
+#Variability Of The Chloroplast DNA Of Sessile Oak (Quercus petraea agg. Ehrendorfer, 1967) In Serbia
+#Sijacic-Nikolic, M Milovanovic, J Bobinac, M Savic-Pavicevic, D Brajuskovic, G Diklic, M
+#2009
+--------------------------------
+Genetic variability of sessile oak (Quercus petraea agg. Ehrendorfer,
+ 1967) in Serbia is estimated applying cpDNA universal primer pairs that
+ were characterized by a high informative level for chloroplast genome
+ variability assessment in previous investigations. Five different
+ haplotypes were detected in the analyzed sample material from
+ populations in Serbia.
+
+
+2963
+#Population differentiation of sessile oak at the altitudinal front of migration in the French Pyrenees
+#Alberto F, Niort J, Derory J, Lepais O, Vitalis R, Galop D, Kremer A
+#2010
+--------------------------------
+To assess the effects of altitude on the level and structure of genetic diversity, a genetic survey was conducted in 12 populations of sessile oak (Quercus petraea) located between 130 and 1660 m in two parallel valleys on the northern side of the Pyrenees Mountains. Genetic diversity was monitored at 16 nuclear microsatellite loci and 5 chloroplast DNA (cpDNA) markers. The cpDNA survey suggested that extant populations in both valleys shared the same source populations from the plain. There was no visible trend of nuclear genetic diversity along altitude, even if indirect estimates of effective population sizes revealed a consistent reduction at higher altitudes. Population differentiation, although low, was mostly present among populations of the same valleys and reached similar levels than differentiation across the range of distribution of sessile oak. Contribution to the overall differentiation in the valleys was mostly due to the genetic divergence of the highest populations and the altitudinal variation of allelic frequencies at a few loci. Bayesian inference of migration between groups of populations showed that gene flow is preferentially unidirectional from lower altitudes in one valley to other groups of populations. Finally, we found evidence of clonal reproduction in high altitude populations. The introgression of Quercus robur and Quercus pubescens was also more frequent at the altitudinal margin suggesting that this mechanism may have contributed to the present migration and adaptation of Q. petraea and may also facilitate its future upslope shift in the context of climate change.
+
+
+2964
+#Realized gene flow within mixed stands of Quercus robur L. and Q-petraea (Matt.) L. revealed at the stage of naturally established seedling
+#Chybicki IJ, Burczyk J
+#2010
+--------------------------------
+The estimates of contemporary gene flow assessed based on naturally established seedlings provide information much needed for understanding the abilities of forest tree populations to persist under global changes through migration and/or adaptation facilitated by gene exchange among populations. Here, we investigated pollen- and seed-mediated gene flow in two mixed-oak forest stands (consisting of Quercus robur L. and Q. petraea [Matt.] Liebl.). The gene flow parameters were estimated based on microsatellite multilocus genotypes of seedlings and adults and their spatial locations within the sample plots using models that attempt to reconstruct the genealogy of the seedling cohorts. Pollen and seed dispersal were modelled using the standard seedling neighbourhood model and a modification-the 2-component seedling neighbourhood model, with the later allowing separation of the dispersal process into local and long-distance components. The 2-component model fitted the data substantially better than the standard model and provided estimates of mean seed and pollen dispersal distances accounting for long-distance propagule dispersal. The mean distance of effective pollen dispersal was found to be 298 and 463 m, depending on the stand, while the mean distance of effective seed dispersal was only 8.8 and 15.6 m, which is consistent with wind pollination and primarily seed dispersal by gravity in Quercus. Some differences observed between the two stands could be attributed to the differences in the stand structure of the adult populations and the existing understory vegetation. Such a mixture of relatively limited seed dispersal with occasional long distance gene flow seems to be an efficient strategy for colonizing new habitats with subsequent local adaptation, while maintaining genetic diversity within populations.
+
+
+2965
+#A fast and cost-effective approach to develop and map EST-SSR markers: oak as a case study
+#Durand J, Bodenes C, Chancerel E, Frigerio J-M, Vendramin G, Sebastiani F, Buonamici A, Gailing O, Koelewijn H-P, Villani F, Mattioni C, Cherubini M, Goicoechea PG, Herran A, Ikaran Z, Cabane C, Ueno S, Alberto F, Dumoulin P-Y, Guichoux E, de Daruvar A, Kremer A, Plomion C
+#2010
+--------------------------------
+Background: Expressed Sequence Tags (ESTs) are a source of simple sequence repeats (SSRs) that can be used to develop molecular markers for genetic studies. The availability of ESTs for Quercus robur and Quercus petraea provided a unique opportunity to develop microsatellite markers to accelerate research aimed at studying adaptation of these long-lived species to their environment. As a first step toward the construction of a SSR-based linkage map of oak for quantitative trait locus (QTL) mapping, we describe the mining and survey of EST-SSRs as well as a fast and cost-effective approach (bin mapping) to assign these markers to an approximate map position. We also compared the level of polymorphism between genomic and EST-derived SSRs and address the transferability of EST-SSRs in Castanea sativa (chestnut).Results: A catalogue of 103,000 Sanger ESTs was assembled into 28,024 unigenes from which 18.6% presented one or more SSR motifs. More than 42% of these SSRs corresponded to trinucleotides. Primer pairs were designed for 748 putative unigenes. Overall 37.7% (283) were found to amplify a single polymorphic locus in a reference full-sib pedigree of Quercus robur. The usefulness of these loci for establishing a genetic map was assessed using a bin mapping approach. Bin maps were constructed for the male and female parental tree for which framework linkage maps based on AFLP markers were available. The bin set consisting of 14 highly informative offspring selected based on the number and position of crossover sites. The female and male maps comprised 44 and 37 bins, with an average bin length of 16.5 cM and 20.99 cM, respectively. A total of 256 EST-SSRs were assigned to bins and their map position was further validated by linkage mapping. EST-SSRs were found to be less polymorphic than genomic SSRs, but their transferability rate to chestnut, a phylogenetically related species to oak, was higher.Conclusion: We have generated a bin map for oak comprising 256 EST-SSRs. This resource constitutes a first step toward the establishment of a gene-based map for this genus that will facilitate the dissection of QTLs affecting complex traits of ecological importance.
+
+
+2966
+#Chloroplast DNA Diversity of Oak Species in Eastern Romania
+#Moldovan IC, Sofletea N, Curtu AL, Abrudan IV, Postolache D, Popescu F
+#2010
+--------------------------------
+The chloroplast DNA of 34 sessile oak (Quercus petraea) and 27 pedunculate oak (Q robur) populations covering the entire natural distribution of the two oak species in Eastern Romania was investigated using four large regions of the chloroplast genome by PCR and RFLP technique A total of seven chloroplast DNA haplotypes sensu lato have been observed by analysing 305 mature trees However due to the high resolution of the electrophoresis method a total of 22 chloroplast variants could have been detected with new mutations and fragment combinations in two ache amplified regions psbC/trnD and trnT/trnF All of the haplotypes belong to the phylogenetic lineages A and E which originate from the Balkan Peninsula Most of genetic diversity is distributed among populations (G(sT)=0 779) The chloroplast DNA haplotypes are shared by the two oak species Different dispersal abilities may explain the higher value of genetic differentiation among populations in sessile oak than in pedunculate oak
+
+
+2967
+#Detecting interspecific and geographic differentiation patterns in two interfertile oak species (Quercus petraea (Matt.) Liebl. and Q. robur L.) using small sets of microsatellite markers
+#Neophytou C, Aravanopoulos FA, Fink S, Dounavi A
+#2010
+--------------------------------
+Genetic analysis was carried out in order to provide insights into differentiation among populations of two interfertile oak species, Quercus petraea and Quercus robur. Gene flow between the two species, local adaptation and speciation processes in general, may leave differential molecular signatures across the genome. Three interspecific pairs of natural populations from three ecologically different regions, one in central Europe (SW Germany) and two in the Balkan Peninsula (Greece and Bulgaria) were sampled. Grouping of highly informative SSR loci was made according to the component of variation they express interspecific or provenance specific. 'Species' and 'provenance discriminant' loci were characterized based on F(ST)s. Locus specific F(ST)s were tested for deviation from the neutral expectation both within and between species. Data were then treated separately in a Bayesian analysis of genetic structure. By using three 'species discriminant' loci, high membership probability to inferred species groups was achieved. On the other hand, analysis of genetic structure based on five 'provenance discriminant' loci was correlated with geographic region and revealed shared genetic variation between neighbouring Q. petraea and Q. robur. Small sets of highly variable nuclear SSRs were sufficient to discriminate, either between species or between provenances. Thus, an effective tool is provided for molecular identification of both species and provenances. Furthermore, data suggest that a combination of gene flow and natural selection forms these diversity patterns. 'Species discriminant' loci might represent genome regions affected by directional selection, which maintains species identity. 'Provenance specific' loci might represent genome regions with high interspecific gene flow and common adaptive patterns to local environmental factors. (C) 2010 Elsevier B.V. All rights reserved.
+
+
+2968
+#Genetic differences within natural and planted stands of Quercus petraea
+#Dostalek J, Frantik T, Lukasova M
+#2011
+--------------------------------
+Five sessile oak [Quercus petraea (Matt.) Liebl.] stands from the Czech Republic were studied to learn about the impact of different types of forest management regimes on the genetic differences among tree populations and on population structures. One population had not been markedly affected by human activity, two populations represented unplanted stands that were extensively managed for a long period of time using the coppice system, and two populations were planted stands. Approximately 100 trees from each stand were mapped and subsequently genotyped using 10 nuclear microsatellite loci. We determined the spatial genetic structure of each population and the genetic differentiation among the populations. We found that: (i) the populations were genetically differentiated, but the differences between the unplanted and planted stands were not markedly significant; (ii) the genetic differentiation among the populations depended on the geographical distribution of the populations; (iii) within unplanted stands, a strong spatial genetic structure was seen; and (iv) within planted stands, no spatial genetic structure was observed. Our findings implies that the analysis of spatial genetic structure of the sessile oak forest stand can help reveal and determine its origin.
+
+
+2969
+#Species integrity of Quercus robur L., Q. petraea (Matt.) Liebl. and Q. pubescens Willd. from the genetic point of view
+#Hoeltken, A. M., J. Buschbom, and R. Kaetzel
+#2012
+--------------------------------
+Species integrities are under question for pedunculate, sessile and downy oak since years due to their hybridization ability. The present study clearly shows a limited impact of hybridization on the gene pools of the three oak species and the genetic distinctiveness of the species. Its results are based on analyses of eight markers (nuclear microsatellite loci) in two and more stands of each oak species (table 1). Genetic diversity and structure within and between the three morphologically identified species were described using genetic profiles (figure 1) and summarized using indices of genetic diversity and differentiation (tables 2, 3 and 4). In addition, the gene pool of the three species represented by the present population and species sample was partitioned into reproductive units independently of a priori assumptions using the model-based approach implemented in the program STRUCTURE 2.3.2 (figure 2, table 5). Our results support the following conclusions: the program STRUCTURE allows not only a clustering of species within oaks, but also resolves intraspecific population structure. Population structure is less visible in the common and widespread species Q. robur and Q. petraea in comparison to the rare and scattered Q. pubescens. Downy oak is restricted to extrazonal habitats in Central Europe and, thus, genetic drift will have a larger impact. In sum, the employed gene marker set provides a reliable and decisive basis for the partitioning of stands and single individuals to species and reproductive units, respectively. The present approach can be used for the identification of hybrids and their admixture proportions, the study of stand histories and the selection of valuable gene resources, especially regarding scattered downy oak stands in Central Europe.
+
+
+2970
+#Assessment of genetic diversity in two-species oak seed stands and their progeny populations
+#Dering, M., and I. Chybicki
+#2012
+--------------------------------
+In this article, we examined the effects of the two modes of regeneration (natural vs. artificial) on the genetic diversity of Quercus robur (L.) and Quercus petrea (Matt.) Liebl. populations. Using nuclear microsatellite markers, we investigated the genetic diversity of two-species oak seed stands (Jamy and Legnica, Poland) and their progeny - naturally regenerated stands and progeny plantations. A statistically significant excess of homozygotes was noted for all progeny plantations, but the naturally regenerated populations were in Hardy-Weinberg equilibrium. On average, gene diversity in the five progeny plantations from Jamy decreased on average 3.73% and increased 1.26% in plantations from Legnica. However, almost in all plantations from both stands statistically significant excess of homozygotes was noted, and natural regenerations were in Hardy-Weinberg equilibrium. Additionally, the effective population size was several fold higher for naturally regenerated stands compared with progeny plantations. Impact of regeneration mode and potential hybridisation in modelling the level of genetic diversity of progeny populations are discussed.
+
+
+2971
+#Changes in genetic structure of sessile oak (Quercus petraea [Matt.] Liebl.) natural regeneration in relation to maternal trees
+#Nowakowska, Justyna A., Michalska, Aneta, Zachara, Tadeusz
+#2014
+--------------------------------
+The genetic variability of sessile oak (Quercus petraea L.) mature stand and its natural progeny was investigated. Comparison between genetic structure of parental and progeny trees was based on frequencies of nuclear microsatellite (SSR) alleles occurring in three DNA loci. A slight (4%) increase of gene pool between oak mature and progeny trees was revealed by heterozygosity level estimation, maintaining 86.3% of genetic similarity between generations. Also allele richness, partition probability of basic clustering and inbreed coefficient proved the high genetic similarity between parental and progeny of investigated oak trees. The gene flow occurred within the stands as far as rare alleles were transmitted or new ones appeared in the progenies. The results highlight the necessity of such a study for silvicultural measures taken in order to proceed natural or artificial regeneration in forest tree stand.
+
+
+2972
+#Distinct male reproductive strategies in two closely related oak species
+#Lagache, Lelia, Klein, Etienne K., Ducousso, Alexis, Petit, Remy J.
+#2014
+--------------------------------
+Reproductive strategies of closely related species distributed along successional gradients should differ as a consequence of the trade-off between competition and colonization abilities. We compared male reproductive strategies of Quercus robur and Q. petraea, two partly interfertile European oak species with different successional status. In the studied even-aged stand, trees of the late-successional species (Q. petraea) grew faster and suffered less from intertree competition than trees of the early-successional species (Q. robur). A large-scale paternity study and a spatially explicit individual-based mating model were used to estimate parameters of pollen production and dispersal as well as sexual barriers between species. Male fecundity was found to be dependent both on a tree's circumference and on its environment, particularly so for Q. petraea. Pollen dispersal was greater and more isotropic in Q. robur than in Q. petraea. Premating barriers to hybridization were strong in both species, but more so in Q. petraea than in Q. robur. Hence, predictions based on the competition-colonization trade-off are well supported, whereas the sexual barriers themselves seem to be shaped by colonization dynamics.
+
+
+2973
+#High Rates of Gene Flow by Pollen and Seed in Oak Populations across Europe
+#Gerber, Sophie, Chadoeuf, Joel, Gugerli, Felix, Lascoux, Martin, Buiteveld, Joukje, Cottrell, Joan, Dounavi, Aikaterini, Fineschi, Silvia, Forrest, Laura L., Fogelqvist, Johan, Goicoechea, Pablo G., Jensen, Jan Svejgaard, Salvini, Daniela, Vendramin, Giovanni G., Kremer, Antoine
+#2014
+--------------------------------
+Gene flow is a key factor in the evolution of species, influencing effective population size, hybridisation and local adaptation. We analysed local gene flow in eight stands of white oak (mostly Quercus petraea and Q. robur, but also Q. pubescens and Q. faginea) distributed across Europe. Adult trees within a given area in each stand were exhaustively sampled (range [239, 754], mean 423), mapped, and acorns were collected ([17,147], 51) from several mother trees ([3,47], 23). Seedlings ([65,387], 178) were harvested and geo-referenced in six of the eight stands. Genetic information was obtained from screening distinct molecular markers spread across the genome, genotyping each tree, acorn or seedling. All samples were thus genotyped at 5-8 nuclear microsatellite loci. Fathers/parents were assigned to acorns and seedlings using likelihood methods. Mating success of male and female parents, pollen and seed dispersal curves, and also hybridisation rates were estimated in each stand and compared on a continental scale. On average, the percentage of the wind-borne pollen from outside the stand was 60%, with large variation among stands (21-88%). Mean seed immigration into the stand was 40%, a high value for oaks that are generally considered to have limited seed dispersal. However, this estimate varied greatly among stands (20-66%). Gene flow was mostly intraspecific, with large variation, as some trees and stands showed particularly high rates of hybridisation. Our results show that mating success was unevenly distributed among trees. The high levels of gene flow suggest that geographically remote oak stands are unlikely to be genetically isolated, questioning the static definition of gene reserves and seed stands.
+
+
+2974
+#Chloroplast microsatellites as a tool for phylogeographic studies: the case of white oaks in Poland
+#Chmielewski, Michal, Meyza, Katarzyna, Chybicki, Igor J., Dzialuk, Artur, Litkowiec, Monika, Burczyk, Jaroslaw
+#2015
+--------------------------------
+Assessing the distribution of chloroplast DNA (cpDNA) haplotype variation is useful for studying the phylogeography of angiosperms. In the last two decades the cpDNA phylogeography of white oaks in Europe has been extensively studied, mostly based on the PCR-RFLP technique. However, PCR-RFLPs have low mutation rates and are primarily useful for reconstructing patterns at large geographical scales and lack resolution at fine spatial scales. Here we evaluate the usefulness of chloroplast microsatellites (cpSSR) as an alternative to PCR-RFLPs in Polish oak populations which have been underrepresented in previous studies. Eighty-five cpSSR haplotypes were detected using 14 cpSSR loci and a broad collection of 6680 trees sampled throughout Poland. Haplotype diversity was significantly lower in Q. petraea (H-e = 0.798) than in Q. robur (H-e = 0.820). Only 17 haplotypes (H01-H17) were found in 13 or more individuals, comprising together 97.9% of the sample. Most frequent cpSSR haplotypes were related to PCR-RFLP haplotypes, establishing the cross-references between the two marker systems. There was significant concordance between the matrices of genetic distances obtained by PCR-RFLP haplotypes and cpSSR haplotypes. Phylogenetic relationships among cpSSR haplotypes supported the existence of the three predominant maternal lineages of oaks in Poland: Iberian (7.8%), Apennine (20.6%) and Balkan (65.5%). The results are discussed with regards to the usefulness of cpSSR markers for phylogeographic studies.
+
+
+2975
+#Genetic structure of a natural oak community in central Italy: Evidence of gene flow between three sympatric white oak species (Quercus, Fagaceae)
+#Antonecchia, G., Fortini, P., Lepais, O., Gerber, S., Leger, P., Scippa, G. S., Viscosi, V.
+#2015
+--------------------------------
+Incomplete reproductive barriers between species, especially in sympatric areas where several species coexist, may result in hybridization and an increase in genetic diversity. Here we assessed the amount of genetic diversity in a community of three interfertile and sympatric European oaks (Quercus frainetto Ten., Q. petraea Liebl. Matt. and Q. pubescens Willd.) situated in central Italy. We used 11 micro satellite markers derived from Expressed Sequence Tag (EST-SSRs) and we implemented a Bayesian clustering analysis to assign individuals to species or hybrids. All genotyped loci were polymorphic for all the species and three genetic clusters corresponding to each species were detected. Significant differences and a higher level of gene flow were observed between the three oak species. Occurrence of hybrids varied markedly within the studied area: hybrids between Q. petraea and Q, pubescens were the most frequent, while hybrids between Q. petraea and Q. frainetto were particularly rare. Q. pubescens and Q. petraea showed the highest number of alleles compared to Q. frainetto, which was characterized by a low number of private, but highly frequent, alleles. However, Q. frainetto showed a lower genetic diversity and a stronger reproductive isolation from the other two oak species.
+
+
+2976
+#Genetic variation of Central European oaks: shaped by evolutionary factors and human intervention?
+#Neophytou, Charalambos, Gaertner, Stefanie M., Vargas-Gaete, Rodrigo, Michiels, Hans-Gerhard
+#2015
+--------------------------------
+Oak species (Quercus spp.) in Central Europe grow on a relatively wide range of sites. Due to the economic importance of oak for its wood and other products, oak forests have long been managed by humans. This raises the question whether adaptation and/or human activities-especially the moving of propagules-have left their footprints on the genetic variation of oak populations. To address this question, we focused on the Upper Rhine Valley, a densely populated area today that was settled by humans early on. Here, the three most common native Central European oak species can be found. We studied their genetic variation across a large number of oak stands, growing on different sites and having different silvicultural histories, using neutral and EST-derived microsatellite markers. At the interspecific level, we showed that Quercus robur is relatively well delimited, while Quercus petraea and Quercus pubescens are more closely related. Natural hybridization might explain the increased genetic introgression between these two species. Within species, we found a low differentiation among populations of Q. robur and Q. petraea. In spite of forest fragmentation, we detected no spatial genetic barriers. However, we found that populations of Q. pubescens, a species with a marginal distribution in the study area were spatially structured. Genetic drift but also unidirectional introgressive hybridization with Q. petraea may account for this. Regarding the question of adaptation, we considered soil flooding, texture, drainage, and calcium carbonate in the upper horizons as physiologically important site condition variables. But with multivariate statistics, we could not find any significant effects of these parameters on genetic differentiation. Although there was no evidence for natural selection due to adaptation in stands of Q. robur, we demonstrated that age had a significant effect on their genetic variation and that stands established after the end of the Second World War had higher genetic diversity. We interpret these findings as being the result of an increase in large-scale transfers of reproductive materials during this time period and discuss arguments supporting this hypothesis. Finally, we consider the implications of these results for forest management.
+
+
+2977
+#High Genetic Differentiation among European White Oak Species (Quercus spp.) at a Dehydrin Gene
+#Craciunesc, Iacob, Vornam, Barbara, Leinemann, Ludger, Finkeldey, Reiner, Sofletea, Neculae, Curtu, Alexandru Lucian
+#2015
+--------------------------------
+Dehydryn genes are involved in plant response to environmental stress and may be useful to examine functional diversity in relation to adaptive variation. Recently, a dehydrin gene (DHN3) was isolated in Quercus petraea and showed little differentiation between populations of the same species in an attitudinal transect In the present study, inter- and intraspedfic differentiation patterns in closely related and interfertile oaks were investigated for the first time at the DHN3 locus. A four-oak-species stand (Quercus frainetto Ten., Q. petraea (Matt.) Liebl., Q. pubescens Willd. Q. robur L.) and two populations for each of five white oak species (Q. frainetto Ten., Q. petraea (Matt.) Liebl., Q. pubescens Q. robur L. and Q. pedunculiflora K. Koch) were analyzed. Three alleles shared by all five oak species were observed. However, only two alleles were present in each population, but with different frequencies according to the species. At population level, all interspecific pairs of populations showed significant differentiation, except for pure Q. robur and Q. pedunculiflora populations. In contrast, no significant differentiation (p > 0.05) was found among conspecific populations. The DHN3 locus proved to be vet), useful to differentiate Q. frainetto and Q. pubesens from Q. pedunculiflora (F-ST = 0.914 and 0.660, respectively) and Q. robur (F-ST = 0.858 and 0.633, respectively). As expected, the lowest level of differentiation was detected between the most closely related species,Qrobur and Q. pedunculiflora(F-ST = 0.020). Our results suggest that DHN3 can be an important generic marker for differentiating among European white oak species.
+
+
+2978
+#Single-nucleotide polymorphism discovery and validation in high-density SNP array for genetic analysis in European white oaks
+#Lepoittevin, C., Bodenes, C., Chancerel, E., Villate, L., Lang, T., Lesur, I., Boury, C., Ehrenmann, F., Zelenica, D., Boland, A., Besse, C., Garnier-Gere, P., Plomion, C., Kremer, A.
+#2015
+--------------------------------
+An Illumina Infinium SNP genotyping array was constructed for European white oaks. Six individuals of Quercus petraea and Q.robur were considered for SNP discovery using both previously obtained Sanger sequences across 676 gene regions (1371 in vitro SNPs) and Roche 454 technology sequences from 5112 contigs (6542 putative in silico SNPs). The 7913 SNPs were genotyped across the six parental individuals, full-sib progenies (one within each species and two interspecific crosses between Q.petraea and Q.robur) and three natural populations from south-western France that included two additional interfertile white oak species (Q.pubescens and Q.pyrenaica). The genotyping success rate in mapping populations was 80.4% overall and 72.4% for polymorphic SNPs. In natural populations, these figures were lower (54.8% and 51.9%, respectively). Illumina genotype clusters with compression (shift of clusters on the normalized x-axis) were detected in similar to 25% of the successfully genotyped SNPs and may be due to the presence of paralogues. Compressed clusters were significantly more frequent for SNPs showing a priori incorrect Illumina genotypes, suggesting that they should be considered with caution or discarded. Altogether, these results show a high experimental error rate for the Infinium array (between 15% and 20% of SNPs potentially unreliable and 10% when excluding all compressed clusters), and recommendations are proposed when applying this type of high-throughput technique. Finally, results on diversity levels and shared polymorphisms across targeted white oaks and more distant species of the Quercus genus are discussed, and perspectives for future comparative studies are proposed.
+
+
+2979
+#GENETIC STRUCTURE OF SESSILE OAK (Quercus petraea (Matt.) Lieblein) IN BOSNIA AND HERZEGOVINA BASED ON THE ISOENZYME ANALYSIS
+#Ballian, D
+#2016
+--------------------------------
+Sessile Oak (Quercus petraea (Matt.) Lieblein) is one of the most important type of forest tree in Bosnia and Hercegovina, even though the Sessile Oak forest structure is very weak. The reason for this is found in the huge effect that the man has on these breeds throughout history and numerous unplanned cutting and poor management system. In the conditions present in Bosnia and Hercegovina Sessile Oak is found in approximately 330,000ha in small and usually clean and varied samples. Through this research we would like to answer the following questions, namely what is the genetic structure, diversity and differentiation of Sessile Oak in some of the populations in Bosnia and Herzegovina and what is the importance of knowing the genetic structure especially when it comes to regeneration. For the analysis we have used 11 enzyme systems with 14 genetic locus and 82 aleals. The biochemcial analysis of the genetic structure of 17 populations of Sessile Oak, by using the 14 isoenzyme genetic locus wwe have found notable differences. A large level of polymorphism has been recorded and only the gene locus sorbitol has registered true monomorphysm, whereas the genetic locus Pgi-A we have found polymorphism to exist in only one population. The average number of aleals by locus was between 1,7143 and up to 3,1429 and the effective number of aleals was between 1,1089 and 1,2585. Similar findings were found when it came to heterozygotry, and the larges was for the population from Bugojno at 0,1869 and smallest at population from Gracanice at 0,0947. The negative values of the fiksational index in the studied populations are indicative of fact that freer management and husbandry is possible as it has not lost its genetic potential for adaptation which is further supported by the research of the seed samples. The results of teh differentiations show very small values which shows that there is onlya short period of time from their splitting and that even the effect of humans has not caused them to lose their adaptational potential. As far as the genetic distances between the populations are concerned, it is the same principal as with the differentiation, only a few popualtions diverges notably from the average and the divergence can be attributed to the historical effect of humans as the populations are from the areas of dense human populations throughout the history. The methods of biochemocal marker usage for the Sessile Oak have given us a good picture about the studied populations and the achieved results ensure the right suggestions are done to preserve the genetic values of this species of oak in Bosnia and Hercegovina.
+
+
+2980
+#Pure species in a continuum of genetic and morphological variation: sympatric oaks at the edge of their range
+#Beatty, GE, Montgomery, WI, Spaans, F, Tosh, DG, Provan, J
+#2016
+--------------------------------
+Background and Aims Studies on oaks (Quercus spp.) have often been hampered by taxonomic confusion, a situation further compounded by the occurrence of extensive interspecific hybridization. In the present study, a combination of genetic and morphological analyses was used to examine sympatric populations of Q. petraea and Q. robur at the north-western edge of their ranges in Northern Ireland, since it had previously been suggested that hybridization could facilitate the apparent rapid, long-distance dispersal of oaks following the glaciations. Methods Samples were collected from 24 sites across Northern Ireland that had been previously designated as ancient or semi-natural woodland. Genotypes were obtained from a total of 950 trees using 12 nuclear microsatellite loci, and admixture coefficients were calculated based on a Bayesian clustering approach. Individuals were also classified as Q. petraea, Q. robur or hybrids based on two objective morphometric characters shown previously to delineate pure individuals effectively. Genetically 'pure' individuals of both species, as defined by the Bayesian clustering, were also genotyped for five chloroplast microsatellites. Key Results Genetic and morphological analyses both indicated the presence of pure individuals of both species, as well as a continuum of intermediates. There was a good agreement between the molecular and morphological classification, with a generally clear separation between pure individuals. Conclusions Despite millennia of hybridization and introgression, genetically and morphologically pure individuals of both Q. petraea and Q. robur can be found at the edge of their range, where both species occur sympatrically. The high proportion of individuals exhibiting introgression compared with previous studies may reflect the historical role of hybridization in facilitating dispersal following the glaciations. This is further supported by the significantly higher chloroplast diversity in Q. robur compared with Q. petraea.
+
+
+2981
+#Signatures of local adaptation in candidate genes of oaks (Quercus spp.) with respect to present and future climatic conditions
+#Rellstab, C, Zoller, S, Walthert, L, Lesur, I, Pluess, AR, Graf, RE, Bodenes, C, Sperisen, C, Kremer, A, Gugerli, F
+#2016
+--------------------------------
+Testing how populations are locally adapted and predicting their response to their future environment is of key importance in view of climate change. Landscape genomics is a powerful approach to investigate genes and environmental factors involved in local adaptation. In a pooled amplicon sequencing approach of 94 genes in 71 populations, we tested whether > 3500 single nucleotide polymorphisms (SNPs) in the three most common oak species in Switzerland (Quercus petraea, Q. pubescens, Q. robur) show an association with abiotic factors related to local topography, historical climate and soil characteristics. In the analysis including all species, the most frequently associated environmental factors were those best describing the habitats of the species. In the species- specific analyses, the most important environmental factors and associated SNPs greatly differed among species. However, we identified one SNP and seven genes that were associated with the same environmental factor across all species. We finally used regressions of allele frequencies of the most strongly associated SNPs along environmental gradients to predict the risk of nonadaptedness (RONA), which represents the average change in allele frequency at climate-associated loci theoretically required to match future climatic conditions. RONA is considerable for some populations and species (up to 48% in single populations) and strongly differs among species. Given the long generation time of oaks, some of the required allele frequency changes might not be realistic to achieve based on standing genetic variation. Hence, future adaptedness requires gene flow or planting of individuals carrying beneficial alleles from habitats currently matching future climatic conditions.
+
+
+2982
+#Using joint multivariate analyses of leaf morphology and molecular-genetic markers for taxon identification in three hybridizing European white oak species (Quercus spp.)
+#Rellstab, C, Buhler, A, Graf, R, Folly, C, Gugerli, F
+#2016
+--------------------------------
+We show that joint multivariate analyses of leaf morphological characters and molecular-genetic markers improve the taxonomic assignment in hybridizing European white oaks. However, model-based approaches using genetic data alone represent straightforward alternatives to laborious, detailed morphological assessments. In European white oaks, species delimitation is debated because of large overlap of morphological characteristics likely due to hybridization. We tested whether joint multivariate analyses of leaf morphology and molecular markers improve the identification of three oak species (Quercus petraea, Quercus pubescens, Quercus robur) compared to approaches using morphological or genetic variables only. We assessed 13 leaf morphological characters and applied eight nuclear microsatellite markers in almost 1400 trees of 71 oak populations across Switzerland. We performed two multivariate approaches with three variable sets (morphology, genetics, combined) and assessed their performance in separating the taxa. We also compared the taxon assignment to a model-based clustering approach (Structure) based on genetic data alone. A joint use of morphological and genetic variables led to an improved taxon assignment. Whereas Q. robur could clearly be separated from the two other taxa, there was a certain overlap between Q. petraea and Q. pubescens. The Structure clustering led to the same taxon assignment in 85 % of the individuals. It is important to consider both morphological and genetic properties in morphologically similar and hybridizing species. However, it might be more efficient to concentrate only on genetic markers than on time-consuming morphological assessments.
+
+
+2983
+#Extensive recent secondary contacts between four European white oak species
+#Leroy, T, Roux, C, Villate, L, Bodenes, C, Romiguier, J, Paiva, JAP, Dossat, C, Aury, JM, Plomion, C, Kremer, A
+#2017
+--------------------------------
+Historical trajectories of tree species during the late Quaternary have been well reconstructed through genetic and palaeobotanical studies. However, many congeneric tree species are interfertile, and the timing and contribution of introgression to species divergence during their evolutionary history remains largely unknown. We quantified past and current gene flow events between four morphologically divergent oak species (Quercus petraea, Q. robur, Q. pyrenaica, Q. pubescens), by two independent inference methods: diffusion approximation to the joint frequency spectrum (partial derivative a partial derivative i) and approximate Bayesian computation (ABC). For each pair of species, alternative scenarios of speciation allowing gene flow over different timescales were evaluated. Analyses of 3524 single nucleotide polymorphisms (SNPs) randomly distributed in the genome, showed that these species evolved in complete isolation for most of their history, but recently came into secondary contact, probably facilitated by the most recent period of postglacial warming. We demonstrated that: there was sufficient genetic differentiation before secondary contact for the accumulation of barriers to gene flow; and current European white oak genomes are a mosaic of genes that have crossed species boundaries and genes impermeable to gene flow.
+
+
+2984
+#The genetic management of native species in Scotland.
+#Ennos, RA, Worrell, R and Malcolm, DC
+#1998
+--------------------------------
+Changes in forestry policy have increased the importance and extended the scope of genetic management of native species. Recent debate on genetic management prescriptions has been conducted with insufficient access to sound scientific information. This paper attempts to remedy this by: (1) presenting an overview of genetic variation and the processes which control it; (2) reviewing current measures; and (3) proposing a range of improvements ti, policy and practice. Genetic variation in Scottish tree and shrub populations is a neglected field of research, except for Scots pine (Pinus sylvestris). Some useful information can be provided by considering the history, ecology and biology of species together with genetic theory. Current patterns of variation reflect both the historical origins (as demonstrated by biochemical markers) and adaptation through natural selection (as indicated by provenance research). Existing populations probably still retain significant elements of adaptive variation; though this will vary according to species, with some showing close correlation between patterns of adaptive variation and environmental factors and others being more plastic. Indigenous genepools have been modified by fragmentation, changes in the forest environment, and introduction of foreign material, much of which is maladapted to upland sites. With some exceptions, the levels of genetic variation in existing indigenous populations comprise an adequate basis for restoring and expanding native woodland. The current undiscriminating use of continental provenances needs to be strongly discouraged; but equally restricting choice of seed sources to the most local provenances can also be inappropriate. Use of Scottish material from the same region and similar site type as the planting site needs to be encouraged. Current genetic management measures are rudimentary and fail to address adequately key issues of provenance choice, genetic conservation, seed supply or provision of selected or improved material, especially in broadleaves. Changes in legislation, regulation, seed supply, advice and research are proposed to address these shortcomings. The need for more provenance research is highlighted.
+
+

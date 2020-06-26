@@ -1,0 +1,134 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+581
+#Role of domestication in shaping Castanea sativa genetic variation in Europe
+#Mattioni, C Cherubini, M Micheli, E Villani, F Bucci, G
+#2008
+--------------------------------
+The genetic structure of sweet chestnut (Castanea sativa Mill.) across Europe was assessed using 73 inter-simple sequence repeat markers to screen 1,768 individuals from 68 stands distributed across 29 sites in five European countries (Italy, France, Spain, Greece, and UK). At each site, trees were sampled from three distinct management types (domestication levels): naturalized stands, managed coppice, and grafted fruit orchards. In more than a third of the orchards, nonlocal genetic material (grafted clones) were evident, showing (as predicted) large differences from the other two domestication levels for most of the within-population genetic diversity parameters estimated. Randomly generated linkage disequilibrium analysis revealed weak though significant differences in two-locus allelic correlations between naturalized stands and coppice, suggesting that long-term management techniques may influence the genetic makeup of the populations. Multivariate analysis revealed the existence of five distinct gene pools across the study area; three were located in Greece, one on the northwestern coast of the Iberian peninsula and a large gene pool covering the rest of the Mediterranean basin. The implications of the results are discussed in relation to developing conservation strategies for chestnut genetic resources in Europe.
+
+
+589
+#Genetics of sweet chestnut (Castanea sativa Mill)
+#Fineschi, S Gillet, E Malvolti, ME
+#1990
+--------------------------------
+Genetic analysis of four enzyme systems (PGI, IDH, DIA, AP) in European sweet chestnut (Castanea sativa MILL.) Is performed by a method utilizing single trees and their seed progenies, as offspring from controlled crosses were not available. A total of six variable gene loci with single-locus codominant modes of inheritance were intuitively postulated on the basis of adult zymograms alone. Subsequent genetic analysis supported the intuitive interpretation for only five of the six proposed loci. The results for the sixth, AP-A, demonstrate the necessity for genetic analysis of zymograms, the limitations of such analysis, and its usefulness for providing indications of distortive phenomena. These results are summarized as follows:
+Observation of adult zymograms suggests complete codominance for AP-A, but qualitative analysis of the single tree progenies compels rejection of this hypothesis, instead suggesting the presence of a (recessive) null allele, A0, in several maternal trees. The revised, null-allele-hypothesis is unequivocally supported by the qualitative tests in all maternal trees as well as by the quantitative tests in all maternal trees not possessing A0. It must, however, be rejected on the grounds of the quantitative test for heterozygous maternal trees presumably possessing the null allele: A0 was significantly overrepresented in two progeny sets, significantly underrepresented in a third, and showed no significant deviation from expectation for the remaining three. It is considered whether the null-allele-hypothesis must necessarily be false or whether other phenomena could have caused the seemingly erratic segregation distortion. Possible explanations are discussed in the light of the fact that, despite the apparently considerable frequency of A0 in the population, no adult trees nor any seeds were found to be homozygous for it.
+
+
+592
+#Landscape genetics structure of European sweet chestnut (Castanea sativa Mill): indications for conservation priorities
+#Mattioni, C, Martin, MA, Chiocchini, F, Cherubini, M, Gaudet, M, Pollegioni, P, Velichkov, I, Jarman, R, Chambers, FM, Paule, L, Damian, VL, Crainic, GC, Villani, F
+#2017
+--------------------------------
+Sweet chestnut is a tree of great economic (fruit and wood production), ecological, and cultural importance in Europe. A large-scale landscape genetic analysis of natural populations of sweet chestnut across Europe is applied to (1) evaluate the geographic patterns of genetic diversity, (2) identify spatial coincidences between genetic discontinuities and geographic barriers, and (3) propose certain chestnut populations as reservoirs of genetic diversity for conservation and breeding programs. Six polymorphic microsatellite markers were used for genotyping 1608 wild trees sampled in 73 European sites. The Geostatistical IDW technique (ArcGIS 9.3) was used to produce maps of genetic diversity parameters (He, Ar, PAr) and a synthetic map of the population membership (Q value) to the different gene pools. Genetic barriers were investigated using BARRIER 2.2 software and their locations were overlaid on a Digital Elevation Model (GTOPO30). The DIVA-GIS software was used to propose priority areas for conservation. High values of genetic diversity (He) and allelic richness (Ar) were observed in the central area of C. sativa's European distribution range. The highest values of private allelic richness (PAr) were found in the eastern area. Three main gene pools and a significant genetic barrier separating the eastern from the central and western populations were identified. Areas with high priority for genetic conservation were indicated in Georgia, eastern Turkey, and Italy. Our results increase knowledge of the biogeographic history of C. sativa in Europe, indicate the geographic location of different gene pools, and identify potential priority reservoirs of genetic diversity.
+
+
+------------- All Abstracts -------------------
+580
+#Isolation and characterization of polymorphic microsatellites in European chestnut (Castanea sativa Mill.).
+#Buck, EJ, Hadonou, MH, James, CJ, Blakesley, D and Russell, K
+#2003
+--------------------------------
+Thirteen polymorphic microsatellite loci were isolated from Castanea sativa (Mill.). Six contained dinucleotide repeats, six contained trinucleotide repeats, and one contained a compound microsatellite of a trinucleotide and a tetranucleotide repeat. The loci were characterized using C. sativa trees from three populations in the UK and the parents and six seedlings from a Turkish mapping population. The number of alleles revealed varied from two to 14 (mean = 5.15) per loci. Eight loci were found to be useful in the mapping family.
+
+
+581
+#Role of domestication in shaping Castanea sativa genetic variation in Europe
+#Mattioni, C Cherubini, M Micheli, E Villani, F Bucci, G
+#2008
+--------------------------------
+The genetic structure of sweet chestnut (Castanea sativa Mill.) across Europe was assessed using 73 inter-simple sequence repeat markers to screen 1,768 individuals from 68 stands distributed across 29 sites in five European countries (Italy, France, Spain, Greece, and UK). At each site, trees were sampled from three distinct management types (domestication levels): naturalized stands, managed coppice, and grafted fruit orchards. In more than a third of the orchards, nonlocal genetic material (grafted clones) were evident, showing (as predicted) large differences from the other two domestication levels for most of the within-population genetic diversity parameters estimated. Randomly generated linkage disequilibrium analysis revealed weak though significant differences in two-locus allelic correlations between naturalized stands and coppice, suggesting that long-term management techniques may influence the genetic makeup of the populations. Multivariate analysis revealed the existence of five distinct gene pools across the study area; three were located in Greece, one on the northwestern coast of the Iberian peninsula and a large gene pool covering the rest of the Mediterranean basin. The implications of the results are discussed in relation to developing conservation strategies for chestnut genetic resources in Europe.
+
+
+582
+#Phenotypic and genotypic diversity of European chestnut (Castanea sativa mill.) in Slovenia - opportunity for genetic improvement
+#Solar, A Podjavorsek, A Stampar, F
+#2005
+--------------------------------
+Phenotypic diversity of 244 chestnut trees was investigated. They originate from the Mediterranean and from two continental regions in Slovenia. In 3 years of analyses, length, diameter, thickness and weight of fruits; length and width of hilum, the pellicle intrusion; shape and colour of fruits; and the embryony were dealt with. The continental trees have smaller fruits than the Mediterranean trees; their fruits show greater variability in shape and the pellicle intrusion is stronger. They also exhibit polyembriony more frequently and they rarely have darker stripes. The sample of 46 trees from all three regions was used for the comparison between the phenotypic and genotypic diversity which had been investigated by RAPD analysis. In both cases, the UPGMA method was used for the classification of the trees into groups. Six pomological clusters were established. The clusters I, II, III and V comprise only the trees from the continental part. The cluster IV comprises nine trees of the marron type from the Mediterranean and one KOZ1 tree with equal pomological characteristics but originating from the continental part. The cluster VI is composed of eight trees from the continental part and one RAV3 tree whose fruits are very small and it originates from the Mediterranean. The Jaccard's coefficient of similarity is used in order to evaluate genetic relations. On the RAPD dendrogram four clusters of trees are defined. The continental trees are divided into three clusters and exhibit greater genotypic diversity than the Mediterranean trees which form only one cluster. With the RAPD analyses the differentiation of the trees with regard to their pomological traits is determined in 60-90% of the cases. The outcome of the research point to the fact that the Slovene chestnut is a rich source of genetic diversity and is very suitable for further breeding purposes.
+
+
+583
+#Cotyledon storage proteins as markers of the genetic diversity in Castanea sativa Miller
+#Alvarez, JB Munoz-Diez, C Martin-Cuevas, A Lopez, S Martin, LM
+#2003
+--------------------------------
+This study has been to analyse the useful nut globulin proteins as a marker of the genetic diversity in Castanea sativa. The evaluated populations were highly polymorphic for the globulins, being detected up to 35 polymorphic bands with a wide distribution among all the evaluated populations. Taken together for populations from all the chestnut regions, about 39.3% of total allelic variation was distributed among the populations. The estimates of genetic similarity between populations were clearly associated with the collecting site. This method of analysis of the nut storage proteins (globulins) could be a useful tool for the evaluation of genetic diversity in this and other species of the Fagaceae.
+
+
+584
+#Development and characterization of microsatellite markers in Castanea sativa (Mill.)
+#Marinoni, D Akkak, A Bounous, G Edwards, KJ Botta, R
+#2003
+--------------------------------
+Thirty-three simple sequence repeat (SSR) markers were isolated and characterized in Castanea sativa (Mill.) from the cultivar Garrone Nero. For the identification of SSR loci, primers were designed on each side flanking the repeat region and they were initially tested on 5 chestnut samples using chemiluminescence detection. Twenty four loci where shown to be polymorphic and the number of alleles detected per locus varied from 2 to 7. Fourteen loci were chosen for the analysis of 20 cultivars grown in North Italy using the semi-automatic system ABI PRISM 377. These 14 markers showed a high level of genetic polymorphism with a total of 90 alleles; the number of alleles ranged from 4 to 10 per locus, with an average level of 6.4. The mean expected and observed heterozygosity were 0.724 (range: 0.649-0.835) and 0.793 (range: 0.350-0.950) respectively. The estimated frequency of null alleles showed a positive value for 3 loci, but except for 1 locus, the values were very low. The total value for the probability of identity was 7.04 x 10(-11). Paternity exclusion probability was very high (0.999), sufficiently high to study pollen flow.
+
+
+585
+#Chloroplast DNA polymorphism reveals little geographical structure in Castanea sativa Mill. (Fagaceae) throughout southern European countries
+#Fineschi, S Taurchini, D Villani, F Vendramin, GG
+#2000
+--------------------------------
+The distribution of haplotypic diversity of 38 European chestnut (Castanea sativa Mill.) populations was investigated by PCR/RFLP analysis of regions of the chloroplast and mitochondrial genomes in order to shed light on the history of this heavily managed species. The rapid expansion of chestnut starting from 3000 years ago is strongly related to human activities such as agricultural practice. This demonstrates the importance of human impact, which lasted some thousands of years, on the present-day distribution of the species. No polymorphism was detected for the single mitochondrial analysed region, while a total of 11 different chloroplast (cp) haplotypes were scored. The distribution of the cpDNA haplotypes revealed low geographical structure of the genetic diversity. The value of population subdivision, as measured by G(STc), is strikingly lower than in the other species of the family Fagaceae investigated. The actual distribution of haplotypic diversity may be explained by the strong human impact on this species, particularly during the Roman civilization of the continent, and to the long period of cultivation experienced during the last thousand years.
+
+
+586
+#Genetic structure of natural populations of Castanea sativa in Turkey: evidence of a hybrid zone
+#Villani, F Sansotta, A Cherubini, M Cesaroni, D Sbordoni, V
+#1999
+--------------------------------
+This study points out the evidence of a hybrid zone between two groups of genetically differentiated populations of chestnut (Castanea sativa Mill.) in Turkey. Genetic structure, gene flow and introgression levels, based on 16 allozyme loci, were investigated on 34 population samples spanning the entire C. Sativa distribution area in this country. The occurrence of the hybrid zone, located in the Bithynian region, was inferred in a group of populations showing the following genetic characteristics: (i) enhanced genetic variability and intermediate allelic frequencies between those of the Western and Eastern groups of populations; (ii) shall, and concordant changes in allele frequencies; (iii) decreased gene flow with the Western and Eastern populations. Starting from the dine width estimated to be 324 km, strength of selection was evaluated from the gene Bow distance, as indicated from the degree of genetic structuring outside the hybrid zone. Evolutionary processes shaping the observed genetic differentiation and introgression are discussed on the basis of palynological data, palaeoclimatic events and evidence of hybridization found in other plant and animal species in the same region.
+
+
+587
+#Evidence of genetic drift in chestnut populations
+#Machon, N Burel, L Lefranc, M Frascaria Lacoste, N
+#1996
+--------------------------------
+The genetic diversity and differentiation of six French populations of chestnut, Castanea sativa Mill., were analysed with isozyme markers. This work extends previous studies on Italian and Turkish populations. Results suggest that human interference has dramatically reduced the number of alleles per locus. This reduction is probably due to the process of genetic drift, as successively smaller numbers of genotypes were sampled in the course of reforestation and subsequent propagation of this species.
+
+
+588
+#Chestnut trade - a new aspect in the study of the genetic differentiation of chestnut-tree (Castanea sativa Mill) populations in France
+#Frascaria, N Lefranc, M
+#1992
+--------------------------------
+Five chestnut-tree populations located in France have been analysed for 3 polymorphic enzymatic markers. The genetic distance between pairs of populations is evaluated by the technique of Mahalanobis (Anderson, 1958). At a given genetic similarity threshold, 2 geographic groups of populations are observed, one situated in the west, the other in the east of France. Furthermore, a large genetic similarity appears between populations at a distance of more than 800 km. Some historical events give answers. Chestnut trade over the centuries could explain our genetic results. Thus, it appears clearly that human activities have been essential in the establishment of chestnut-tree populations in France.
+
+
+589
+#Genetics of sweet chestnut (Castanea sativa Mill)
+#Fineschi, S Gillet, E Malvolti, ME
+#1990
+--------------------------------
+Genetic analysis of four enzyme systems (PGI, IDH, DIA, AP) in European sweet chestnut (Castanea sativa MILL.) Is performed by a method utilizing single trees and their seed progenies, as offspring from controlled crosses were not available. A total of six variable gene loci with single-locus codominant modes of inheritance were intuitively postulated on the basis of adult zymograms alone. Subsequent genetic analysis supported the intuitive interpretation for only five of the six proposed loci. The results for the sixth, AP-A, demonstrate the necessity for genetic analysis of zymograms, the limitations of such analysis, and its usefulness for providing indications of distortive phenomena. These results are summarized as follows:
+Observation of adult zymograms suggests complete codominance for AP-A, but qualitative analysis of the single tree progenies compels rejection of this hypothesis, instead suggesting the presence of a (recessive) null allele, A0, in several maternal trees. The revised, null-allele-hypothesis is unequivocally supported by the qualitative tests in all maternal trees as well as by the quantitative tests in all maternal trees not possessing A0. It must, however, be rejected on the grounds of the quantitative test for heterozygous maternal trees presumably possessing the null allele: A0 was significantly overrepresented in two progeny sets, significantly underrepresented in a third, and showed no significant deviation from expectation for the remaining three. It is considered whether the null-allele-hypothesis must necessarily be false or whether other phenomena could have caused the seemingly erratic segregation distortion. Possible explanations are discussed in the light of the fact that, despite the apparently considerable frequency of A0 in the population, no adult trees nor any seeds were found to be homozygous for it.
+
+
+590
+#Genetic differentiation among Turkish chestnut (Castanea sativa mill) populations
+#Villani, F Pigliucci, M Benedettelli, S Cherubini, M
+#1991
+--------------------------------
+Genetic variability in Turkish chestnut (Castanea sativa Mill.) Was measured by means of horizontal starch gel electrophoresis of 16 isoenzymatic systems in 13 populations. The results were compared with existing data on Italian chestnut populations. Thirty-one out of 43 alleles showed significant heterogeneity in frequency among Turkish populations. Most enzymatic polymorphisms show a gradual or sharp difference between Eastern and Western Turkish populations. Western Turkish demes seem genetically to be more closely related to Italian populations than to Eastern demes. These results are discussed in the light of historical and palinological records of the domestication of this species.
+
+
+591
+#Spatial patterns of genetic-variability in Italian chestnut (Castanea sativa)
+#Pigliucci, M Benedettelli, S Villani, F
+#1990
+--------------------------------
+
+
+
+592
+#Landscape genetics structure of European sweet chestnut (Castanea sativa Mill): indications for conservation priorities
+#Mattioni, C, Martin, MA, Chiocchini, F, Cherubini, M, Gaudet, M, Pollegioni, P, Velichkov, I, Jarman, R, Chambers, FM, Paule, L, Damian, VL, Crainic, GC, Villani, F
+#2017
+--------------------------------
+Sweet chestnut is a tree of great economic (fruit and wood production), ecological, and cultural importance in Europe. A large-scale landscape genetic analysis of natural populations of sweet chestnut across Europe is applied to (1) evaluate the geographic patterns of genetic diversity, (2) identify spatial coincidences between genetic discontinuities and geographic barriers, and (3) propose certain chestnut populations as reservoirs of genetic diversity for conservation and breeding programs. Six polymorphic microsatellite markers were used for genotyping 1608 wild trees sampled in 73 European sites. The Geostatistical IDW technique (ArcGIS 9.3) was used to produce maps of genetic diversity parameters (He, Ar, PAr) and a synthetic map of the population membership (Q value) to the different gene pools. Genetic barriers were investigated using BARRIER 2.2 software and their locations were overlaid on a Digital Elevation Model (GTOPO30). The DIVA-GIS software was used to propose priority areas for conservation. High values of genetic diversity (He) and allelic richness (Ar) were observed in the central area of C. sativa's European distribution range. The highest values of private allelic richness (PAr) were found in the eastern area. Three main gene pools and a significant genetic barrier separating the eastern from the central and western populations were identified. Areas with high priority for genetic conservation were indicated in Georgia, eastern Turkey, and Italy. Our results increase knowledge of the biogeographic history of C. sativa in Europe, indicate the geographic location of different gene pools, and identify potential priority reservoirs of genetic diversity.
+
+

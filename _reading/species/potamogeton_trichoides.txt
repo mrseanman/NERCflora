@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2779
+#Genetic variation within and between populations of Potamogeton pusillus agg..
+#Kaplan, Z, Stepanek, J
+#2003
+--------------------------------
+Patterns of isozyme variation were examined in 17 populations of P. pusillus and P. berchtoldii, together with one population of P. trichoides taken for comparison. Both P. pusillus and P. berchtoldii displayed low levels of variation within populations associated with high levels of interpopulation differentiation. This pattern of partitioning of genetic variation within and between populations is attributed to the founder effect, frequent vegetative propagation by turions, dominant self-fertilization and limited seedling recruitment. The mechanism of pollen transfer was investigated in cultivation. Effective pollination takes place in air above the water surface (autogamy, geitonogamy, anemogamy), on the water surface (epihydrogamy) or below water surface (hydroautogamy). The species are self-compatible. The low level of infra- population variation together with rare occurrence of heterozygotes suggest that selfing is the most frequent mode of pollination, although the protogynous flowers may occasionally permit some cross-pollination. Unique enzyme markers were found for P. pusillus and P. berchtoldii, and also for the single population of P. trichoides. All multienzyme phenotypes were species-specific. Isozyme data support the separate position of P. pusillus and P. berchtoldii. UPGMA dendogram based on enzyme data of 133 plant samples revealed three distinct main enzymatic entities perfectly corresponding to the three morphologically defined species.
+
+
+------------- All Abstracts -------------------
+2779
+#Genetic variation within and between populations of Potamogeton pusillus agg..
+#Kaplan, Z, Stepanek, J
+#2003
+--------------------------------
+Patterns of isozyme variation were examined in 17 populations of P. pusillus and P. berchtoldii, together with one population of P. trichoides taken for comparison. Both P. pusillus and P. berchtoldii displayed low levels of variation within populations associated with high levels of interpopulation differentiation. This pattern of partitioning of genetic variation within and between populations is attributed to the founder effect, frequent vegetative propagation by turions, dominant self-fertilization and limited seedling recruitment. The mechanism of pollen transfer was investigated in cultivation. Effective pollination takes place in air above the water surface (autogamy, geitonogamy, anemogamy), on the water surface (epihydrogamy) or below water surface (hydroautogamy). The species are self-compatible. The low level of infra- population variation together with rare occurrence of heterozygotes suggest that selfing is the most frequent mode of pollination, although the protogynous flowers may occasionally permit some cross-pollination. Unique enzyme markers were found for P. pusillus and P. berchtoldii, and also for the single population of P. trichoides. All multienzyme phenotypes were species-specific. Isozyme data support the separate position of P. pusillus and P. berchtoldii. UPGMA dendogram based on enzyme data of 133 plant samples revealed three distinct main enzymatic entities perfectly corresponding to the three morphologically defined species.
+
+
+2780
+#Isozyme polymorphism in the genus Potamogeton (Potamogetonaceae).
+#Hettiarachchi, P and Triest, L
+#1991
+--------------------------------
+
+
+
+2781
+#Hybridization between the linear-leaved Potamogeton species in Turkey
+#Aykurt, C, Fehrer, J, Sari, D, Kaplan, Z, Denize, IG, Aydemir, E, Imir, N
+#2017
+--------------------------------
+Hybridization is an important source of generating diversity in Potamogeton. However, the recorded frequency and distribution of hybrids in the world is highly uneven, and so is our knowledge of this diversity. So far, no hybrid between linear-leaved species has been recorded in Turkey. Morphologically intermediate and taxonomically unclear forms collected during an extensive field survey in wetlands throughout Turkey were subjected to detailed morphological and molecular analyses. Direct sequencing and cloning of the ITS region revealed two hybrids previously unknown in Turkey: P. obtusifolius x P. berchtoldii and P. trichoides x P. berchtoldii. Sequences of the chloroplast trnL-trnF intergenic spacer region confirmed P. obtusifolius and P. trichoides as maternal parents of these hybrids. One of the maternal species, P. obtusifolius, is not known to currently occur in Turkey. Brief morphological descriptions of the new hybrids are provided, as well as a comparison of diagnostic characters with those of all parental and similar linear-leaved species. These results demonstrate that hybridization studies and appropriate approaches bring important information about both past and present biodiversity.
+
+

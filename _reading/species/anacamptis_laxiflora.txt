@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2039
+#Genetic variation and natural hybridization between Orchis laxiflora and Orchis palustris (Orchidaceae).
+#Arduino, P, Verra, F, Cianchi, R, Rossi, W, Corrias, B, Bullini, L
+#1996
+--------------------------------
+Genetic divergence between population samples of Orchis laxiflora and of O. palustris from various European locations was studied by electrophoretic analysis of 25 enzyme loci. An average genetic distance of D-Nei = 1. 24 was found between the two taxa, with 12 out of 25 loci showing alternative alleles (diagnostic loci). Genetic heterogeneity was observed within both O. laxiflora and O. palustris, when northern and southeastern populations were compared, being lower in the former taxon (D = 0.06), than in the latter (D = 0.16). Karyologically, 2n = 36 was found for both O. laxiflora and O. palustris. O. laxiflora and O. palustris produce hybrids, described as O. x intermedia. Genotype analysis of several sympatric samples showed the presence of hybrid zones, including Fl hybrids and, in low proportions, recombinant classes, putatively assigned to F-n and backcrosses, as well as a few introgressed individuals of both taxa. These data indicate that hybrids are only partially fertile, with a very limited mixing up of the two parental gene pools; this is also shown by the lack of significant lowering of genetic distances when sympatric and allopatric heterospecific samples are compared. Accordingly, O. laxiflora and O. palustris form a syngameon; nevertheless they can be considered as good taxonomic species, with virtually distinct gene pools, which evolve independently. The genetic variability in O. laxiflora and O. palustris is remarkably low (<(H)over bar (e)> = 0.05 and <(H)over bar (e)> = 0.02, respectively). In particular, nearly complete absence of polymorphic loci was found in O. palustris from northcentral Europe. Two hypotheses are considered to explain the low genetic variability of this endangered species.
+
+
+------------- All Abstracts -------------------
+2039
+#Genetic variation and natural hybridization between Orchis laxiflora and Orchis palustris (Orchidaceae).
+#Arduino, P, Verra, F, Cianchi, R, Rossi, W, Corrias, B, Bullini, L
+#1996
+--------------------------------
+Genetic divergence between population samples of Orchis laxiflora and of O. palustris from various European locations was studied by electrophoretic analysis of 25 enzyme loci. An average genetic distance of D-Nei = 1. 24 was found between the two taxa, with 12 out of 25 loci showing alternative alleles (diagnostic loci). Genetic heterogeneity was observed within both O. laxiflora and O. palustris, when northern and southeastern populations were compared, being lower in the former taxon (D = 0.06), than in the latter (D = 0.16). Karyologically, 2n = 36 was found for both O. laxiflora and O. palustris. O. laxiflora and O. palustris produce hybrids, described as O. x intermedia. Genotype analysis of several sympatric samples showed the presence of hybrid zones, including Fl hybrids and, in low proportions, recombinant classes, putatively assigned to F-n and backcrosses, as well as a few introgressed individuals of both taxa. These data indicate that hybrids are only partially fertile, with a very limited mixing up of the two parental gene pools; this is also shown by the lack of significant lowering of genetic distances when sympatric and allopatric heterospecific samples are compared. Accordingly, O. laxiflora and O. palustris form a syngameon; nevertheless they can be considered as good taxonomic species, with virtually distinct gene pools, which evolve independently. The genetic variability in O. laxiflora and O. palustris is remarkably low (<(H)over bar (e)> = 0.05 and <(H)over bar (e)> = 0.02, respectively). In particular, nearly complete absence of polymorphic loci was found in O. palustris from northcentral Europe. Two hypotheses are considered to explain the low genetic variability of this endangered species.
+
+
+2040
+#Characterization of a minisatellite repeat locus in the chloroplast genome of Orchis palustris (Orchidaceae).
+#Cafasso, D, Pellegrino, G, Musacchio, A, Widmer, A, Cozzolino, S
+#2001
+--------------------------------
+We describe the occurrence of a tandem repeat in them chloroplast genome of the marsh orchid, Orchis palustris. The repeat unit is an AT-rich, 16-bp sequence located in the chloroplast tRNA(LEU) intron. Southern blot analysis confirmed that the O. palustris tRNA(LEU) intron including the minisatellite locus has not been transferred to the nucleus, but is indeed located on the chloroplast genome. The 16-bp repeat unit was found to be present in all O. palustris accessions studied, as well as in the closely related O. laxiflora. Variation in repeat numbers among individuals was found in O. palustris from central and northern Italy; and this was consistently associated with a 13-bp sequence motif preceding the repeat. This motif was absent from O. palustris from southern Italy, Greece, and from O. laxiflora. In these accessions, no variation in repeat numbers was found. Our results suggest that the O. palustris chloroplast minisatellite. locus evolved relatively recently, presumably in central Italy, and may represent a valuable marker for population genetic studies.
+
+

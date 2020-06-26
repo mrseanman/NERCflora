@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2872
+#Characterization of microsatellite markers in peach [Prunus persica (L.) Batsch]
+#Sosinski, B Gannavarapu, M Hager, LD Beck, LE King, GJ Ryder, CD Rajapakse, S Baird, WV Ballard, RE Abbott, AG
+#2000
+--------------------------------
+Microsatellites have emerged as an important system of molecular markers. We evaluated the potential of microsatellites for use in genetic studies of peach [Prunus persica (L.) Batsch]. Microsatellite loci in peach were identified by screening a pUC8 genomic library, a lambda ZAPII leaf cDNA library, as well as through database searches. Primer sequences for the microsatellite loci were tested from the related Rosaceae species apple (Malusxdomestica) and sour cherry (Prunus cerasus L.). The genomic library was screened for CT, CA and AGG repeats, while the cDNA library was screened for (CT)(n)- and (CA)(n)-containing clones. Estimates of microsatellite frequencies were determined from the genomic library screening, and indicate that CT repents occur every 100 kb, CA repeats every 420 kb, and AGG repeats every 700 kb in the peach genome. Microsatellite-containing clones were sequenced, and specific PCR primers were designed to amplify the microsatellite-containing regions from genomic DNA. The level of microsatellite polymorphism was evaluated among 28 scion peach cultivars which displayed one to four alleles per primer pair. Five microsatellites were found to segregate in intraspecific peach-mapping crosses. In addition, these microsatellite markers were tested for their utility in cross-species amplification for use in comparative mapping both within the Rosaceae, and with the unrelated species Arabidopsis thaliana L.
+
+
+------------- All Abstracts -------------------
+2872
+#Characterization of microsatellite markers in peach [Prunus persica (L.) Batsch]
+#Sosinski, B Gannavarapu, M Hager, LD Beck, LE King, GJ Ryder, CD Rajapakse, S Baird, WV Ballard, RE Abbott, AG
+#2000
+--------------------------------
+Microsatellites have emerged as an important system of molecular markers. We evaluated the potential of microsatellites for use in genetic studies of peach [Prunus persica (L.) Batsch]. Microsatellite loci in peach were identified by screening a pUC8 genomic library, a lambda ZAPII leaf cDNA library, as well as through database searches. Primer sequences for the microsatellite loci were tested from the related Rosaceae species apple (Malusxdomestica) and sour cherry (Prunus cerasus L.). The genomic library was screened for CT, CA and AGG repeats, while the cDNA library was screened for (CT)(n)- and (CA)(n)-containing clones. Estimates of microsatellite frequencies were determined from the genomic library screening, and indicate that CT repents occur every 100 kb, CA repeats every 420 kb, and AGG repeats every 700 kb in the peach genome. Microsatellite-containing clones were sequenced, and specific PCR primers were designed to amplify the microsatellite-containing regions from genomic DNA. The level of microsatellite polymorphism was evaluated among 28 scion peach cultivars which displayed one to four alleles per primer pair. Five microsatellites were found to segregate in intraspecific peach-mapping crosses. In addition, these microsatellite markers were tested for their utility in cross-species amplification for use in comparative mapping both within the Rosaceae, and with the unrelated species Arabidopsis thaliana L.
+
+

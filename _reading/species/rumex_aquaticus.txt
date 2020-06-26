@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3205
+#Is hybridisation a threat to Rumex aquaticus in Britain?
+#Ruhsam, Markus, Jacobs, Tim, Watson, Keith, Hollingsworth, Peter M.
+#2015
+--------------------------------
+Background: Hybridisation between locally common and rare plant species is of conservation concern as it may lead to the extinction of the rare taxon. Rumex aquaticus (2n = ca. 200, Polygonaceae) is a widespread Euro-Siberian species but rare in the British Isles. It hybridises freely with the locally abundant congener R. obtusifolius (2n = 40) producing fertile and viable hybrids.Aims: We aimed to establish whether hybridisation poses an extinction threat to R. aquaticus in Britain. Methods: Flow cytometry, AFLPs and morphological characters were used to assess the extent of hybridisation between R. obtusifolius and R. aquaticus. Results: Flow cytometry was the most useful tool to distinguish between hybrids and parental species and indicated that out of 88 samples from two hybrid populations, 85% were likely to be F1s and only 15% were likely to be back-crosses to R. aquaticus. AFLP markers were only able to identify putative F1 hybrids reliably and 11 morphological traits could not distinguish unambiguously between hybrids and pure R. aquaticus. Conclusions: Although our data suggest that genetic assimilation of pure R. aquaticus populations is unlikely to be the case in the future, there is a potential threat from demographic swamping by hybrids and targeted protection of R. aquaticus habitat is proposed as a management strategy.
+
+
+------------- All Abstracts -------------------
+3205
+#Is hybridisation a threat to Rumex aquaticus in Britain?
+#Ruhsam, Markus, Jacobs, Tim, Watson, Keith, Hollingsworth, Peter M.
+#2015
+--------------------------------
+Background: Hybridisation between locally common and rare plant species is of conservation concern as it may lead to the extinction of the rare taxon. Rumex aquaticus (2n = ca. 200, Polygonaceae) is a widespread Euro-Siberian species but rare in the British Isles. It hybridises freely with the locally abundant congener R. obtusifolius (2n = 40) producing fertile and viable hybrids.Aims: We aimed to establish whether hybridisation poses an extinction threat to R. aquaticus in Britain. Methods: Flow cytometry, AFLPs and morphological characters were used to assess the extent of hybridisation between R. obtusifolius and R. aquaticus. Results: Flow cytometry was the most useful tool to distinguish between hybrids and parental species and indicated that out of 88 samples from two hybrid populations, 85% were likely to be F1s and only 15% were likely to be back-crosses to R. aquaticus. AFLP markers were only able to identify putative F1 hybrids reliably and 11 morphological traits could not distinguish unambiguously between hybrids and pure R. aquaticus. Conclusions: Although our data suggest that genetic assimilation of pure R. aquaticus populations is unlikely to be the case in the future, there is a potential threat from demographic swamping by hybrids and targeted protection of R. aquaticus habitat is proposed as a management strategy.
+
+

@@ -1,0 +1,124 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3975
+#An examination of hybridization between the cattail species Typha latifolia and Typha angustifolia using random amplified polymorphic DNA and chloroplast DNA markers.
+#Kuehn, MM, Minor, JE, White, BN
+#1999
+--------------------------------
+Typha glauca represents a significant portion of the biomass of the wetlands surrounding the Great Lakes, USA. It is generally accepted to be a form of hybrid between T. latifolia and T. angustifolia, which itself appears to be an exotic introduction from Europe. Based on morphological and isozyme data, conflicting theories have been proposed for the hybrid nature of T. glauca: it has been described as a hybrid swarm, a distinct hybrid species and an F-1 hybrid. Therefore, we developed random amplified polymorphic DNA (RAPD) and chloroplast DNA markers, specific to the parental species, to assess hybrids. Ten RAPD primers gave 17 fragments specific to T. angustifolia and 13 fragments specific to T. latifolia. All of the interspecific hybrids contained each of the species- specific markers, indicating an F-1 hybrid status. Furthermore, all hybrids tested contained the T. angustifolia chloroplast haplotype, which is consistent with differential interspecific crossing success found previously. Additional confirmation of an F-1 hybrid status was gained by examining seedlings from T. glauca. These progeny were expected to be advanced-generation hybrids, as opposed to the F-1 hybrid parent. Analysis of the seedlings revealed segregating marker patterns consistent with patterns observed in experimental advanced-generation hybrids, although these advanced hybrids do not appear to be a significant part of mature stands. Our data do not provide support for extensive gene now between T. latifolia and T. angustifolia. However, our results suggest that hybridization between the native and introduced Typha species has impacted the native population through the spread of the F-1 hybrid, T. glauca.
+
+
+3980
+#Molecular genetic data reveal hybridization between Typha angustifolia and Typha latifolia across a broad spatial scale in eastern North America.
+#Kirk H, Connolly C, Freeland JR
+#2011
+--------------------------------
+A recent increase in the abundance of cattails (Typha spp.) in North American wetlands has been anecdotally linked with hybridization between Typha latifolia and Typha angustifolia. In this study, we used molecular genetic markers (microsatellites) to investigate whether the hybrid lineage (Typha x glauca) is restricted to The Great Lakes region, or exists across a much broader spatial scale. We also investigated the possibility of backcrossing and genetic introgression in natural populations. Parental species could be distinguished from one another based on the distribution of alleles at six microsatellite loci. Species identification based on genetic data corresponded well with species identifications based on leaf width, a key morphological trait that can distinguish the two parental species. We found that hybrids occur in Ontario, Quebec, New Brunswick, and Nova Scotia, but we did not detect hybrids in Maine. F(1)s are more abundant than backcrossed or intercrossed hybrids, although we also found evidence of backcrossing, particularly in Ontario. This indicates that hybrids are fertile, and are therefore potential conduits of gene flow between the parental species. Further work is needed to determine whether T. x glauca is particularly successful in the Great Lakes region relative to other areas in which the two parental species co-exist, and to assess whether introgression may lead to increased invasiveness in the species complex.
+
+
+3982
+#Comparison of genetic diversity in four Typha species (Poales, Typhaceae) from China
+#Zhou, BB, Yu, D, Ding, ZJ, Xu, XW
+#2016
+--------------------------------
+Life history traits play an important role in the level and distribution of genetic diversity, and comparing closely related species with similar life histories can provide insight into the determinants of genetic variation in plant populations. In this study, we used variations of one chloroplast DNA fragment, one nuclear gene, and six microsatellites to compare the levels and distributions of genetic diversity in four widespread Typha species from China. Surveys were conducted on 898 individuals from 120 sites. The individuals of all four species formed monophyletic clades and distinct genetic clusters, suggesting no hybridization between T. angustifolia and T. latifolia in China. The levels of cpDNA nucleotide diversity followed the order T. latifolia > T. laxmannii > T. angustifolia > T. orientalis, whereas the genetic diversity in nDNA and nSSR of T. laxmannii and T. angustifolia was higher than that of T. latifolia. In T. angustifolia, T. laxmannii, and T. orientalis, more than half of genetic variation occurred within populations, and in T. latifolia, most of genetic variation occurred among populations. The variation in the levels and distributions of genetic diversity among the four species can be attributed to differences in inflorescence characteristics which either limit or enhanced outcrossing rates.
+
+
+3984
+#Genetic characterization of cattail species and hybrids (Typha spp.) in Europe
+#Ciotir, C, Szabo, J, Freeland, J
+#2017
+--------------------------------
+Cattails (Typha spp.) are essential components of wetland around the world, although they can also be problematic invaders. In some regions of North America, T. latifolia and T. angustifolia hybridize to produce T. x glauea, which is invading and dominating wetlands around the Laurentian Great Lakes. However, in other regions such as China and the maritime provinces of Canada, hybrids are either non-existent or maintained at very low frequencies, and cattails are not considered invasive. Little is known about cattail hybrids in Europe. We used microsatellite markers to characterize T. latifolia, T. angustifolia, T. laxmannii, and T. domingensis sampled from 63 sites across nine European countries. Hybrids were very uncommon (< 2% of all sampled plants), and resulted from crosses involving two of T. latifolia, T. angustifolia and T. domingensis. Infrequent hybridization may partly explain why Typha does not dominate European wetlands. However, we identified two distinct genetic clusters within T. angustifolia, broadly corresponding to eastern and western Europe. In addition, our T. laxmannii samples were from countries where it is considered alien, and populations show a high degree of genetic differentiation that is consistent with independent introductions. Managers should continue to monitor range expansions of Typha spp. in Europe, partly because novel interactions among species and lineages may increase the likelihood of future hybridization.
+
+
+------------- All Abstracts -------------------
+3974
+#Microsatellite loci isolated from narrow-leaved cattail Typha angustifolia.
+#Tsyusko-Omeltchenko, OV, Schable, NA, Smith, MH, Glenn, TC
+#2003
+--------------------------------
+We present 11 dinucleotide microsatellite DNA loci isolated from the narrow-leaved cattail (Typha angustifolia) and describe conditions for their amplification. The PCR primers were tested on at least 20 individuals of Typha angustifolia and T. latifolia from two Ukrainian populations per species. The primers amplify loci with relatively high numbers of alleles (averaging 7.22 and 4.95 alleles per locus in T. angustifolia and T. latifolia, respectively), and polymorphic information content (averaging 0.61 and 0.46 in T. angustifolia and T. latifolia, respectively).
+
+
+3975
+#An examination of hybridization between the cattail species Typha latifolia and Typha angustifolia using random amplified polymorphic DNA and chloroplast DNA markers.
+#Kuehn, MM, Minor, JE, White, BN
+#1999
+--------------------------------
+Typha glauca represents a significant portion of the biomass of the wetlands surrounding the Great Lakes, USA. It is generally accepted to be a form of hybrid between T. latifolia and T. angustifolia, which itself appears to be an exotic introduction from Europe. Based on morphological and isozyme data, conflicting theories have been proposed for the hybrid nature of T. glauca: it has been described as a hybrid swarm, a distinct hybrid species and an F-1 hybrid. Therefore, we developed random amplified polymorphic DNA (RAPD) and chloroplast DNA markers, specific to the parental species, to assess hybrids. Ten RAPD primers gave 17 fragments specific to T. angustifolia and 13 fragments specific to T. latifolia. All of the interspecific hybrids contained each of the species- specific markers, indicating an F-1 hybrid status. Furthermore, all hybrids tested contained the T. angustifolia chloroplast haplotype, which is consistent with differential interspecific crossing success found previously. Additional confirmation of an F-1 hybrid status was gained by examining seedlings from T. glauca. These progeny were expected to be advanced-generation hybrids, as opposed to the F-1 hybrid parent. Analysis of the seedlings revealed segregating marker patterns consistent with patterns observed in experimental advanced-generation hybrids, although these advanced hybrids do not appear to be a significant part of mature stands. Our data do not provide support for extensive gene now between T. latifolia and T. angustifolia. However, our results suggest that hybridization between the native and introduced Typha species has impacted the native population through the spread of the F-1 hybrid, T. glauca.
+
+
+3976
+#Genetic and clonal diversity of two cattail species, Typha latifolia and T. angustifolia (Typhaceae), from Ukraine
+#Tsyusko, OV, Smith, MH, Sharitz, RR and Glenn, TC
+#2005
+--------------------------------
+Genetic and clonal diversity vary between two closely related cattail species (Typha angustifolia and T. latifolia) from Ukraine. This diversity was calculated from microsatellite data. Forty-eight percent of the total variation was partitioned between species, which formed distinct clusters in a dendrogram with no indication of hybrid populations. Typha angustifolia had higher heterozygosity at the species (H-es = 0.66) and population (H-ep = 0.49) levels than did T. latifolia (H-es = 0.37 and H-ep = 0.29, respectively). The higher number of alleles in T. angustifolia may be indicative of larger effective population sizes due to its higher seed production. Clonal diversity of T. angustifolia was lower than that of T. latifolia (N-g/N-e = 0.40 and 0.61, Simpson's D = 0.82 and 0.94, respectively). Correlations between clonal and genetic diversity were higher for T. latifolia than T. angustifolia, suggesting that the importance of factors and their interactions affecting this relationship are different for the two species. Latitudinal and longitudinal trends were not observed in either species despite the large sampling area. Population differentiation was relatively high with F-ST of 0.24 and 0.29 for T. angustifolia and T. latifolia, respectively. Weak isolation by distance was observed for T. latifolia but not for T. angustifolia.
+
+
+3977
+#Evaluation of AFLP markers to reveal genetic diversity in Typha
+#Lamote, V, De Loose, M, Van Bockstaele, E and Roldan-Ruiz, I
+#2005
+--------------------------------
+We investigated to what extent DNA-markers can assist species determination in the genus Typha. A set of AFLP markers was used to discriminate samples of the species Typha latifolia and Typha angustifolia collected in Flanders (North Belgium). The T latifolia samples formed a compact cluster while the T angustifolia samples were divided into smaller groups. It was not clear whether interspecific hybrids or higher levels of diversity present in the T angustifolia dataset could account for this. As in previous surveys, using isozyme and VNTR markers, AFLP markers revealed an almost complete lack of genetic variation in Flemish T latifolia. Despite the low degree of diversity, a significant level of genetic differentiation was found between the T latifolia samples originating from different river basins. Whether this differentiation has any ecological relevance remains to be investigated. The methodology applied was not able to detect clonal reproduction in T latifolia. Probably, the low levels of diversity present in this species can account for this, indicating that the usefulness of the methodology applied depends on the level of diversity present in the species studied.
+
+
+3978
+#Genetics of cattails in radioactively contaminated areas around Chornobyl
+#Tsyusko, OV, Smith, MH, Oleksyk, TK, Goryanaya, J, Glenn, TC
+#2006
+--------------------------------
+Research on populations from radioactively contaminated areas around Chornobyl has produced ambiguous results for the presence of radiation effects. More studies are needed to provide information on whether radiation exposure at Chornobyl significantly affected genetic diversity in natural populations of various taxa. Eleven and nine variable microsatellite loci were used to test for differences in genetic diversity between reference and Chornobyl populations of two cattail species (Typha angustifolia and Typha latifolia, respectively) from Ukraine. Our purpose was to determine whether radiation had a significant impact on genetic diversities of the Chornobyl Typha populations, or if their genetic composition might be better explained by species demography and/or changes in population dynamics, mainly in sexual and asexual reproduction. Populations closest to the reactor had increased genetic diversities and high number of genets, which likely were due to factors other than radiation including increased gene flow among Chornobyl populations, enhanced sexual reproduction within populations, and/or origin of the genets from seed bank. Both Typha species also demonstrated small but significant effects associated with latitude, geographical regions, and watersheds. Typha's demography in Ukraine possibly varies with these three factors, and the small difference between Chornobyl and reference populations of T. latifolia detected after partitioning the total genetic variance between them is probably due primarily to these factors. However, the positive correlations of several genetic characteristics with radionuclide concentrations suggest that radiation may have also affected genetics of Chornobyl Typha populations but much less than was expected considering massive contamination of the Chornobyl area.
+
+
+3979
+#Genetic relationship and genetic diversity among Typha taxa from East Asia based on AFLP markers
+#Na HR, Kim C, Choi HK
+#2010
+--------------------------------
+The genetic relationship and diversity among four Typha taxa in East Asia were evaluated using amplified fragment length polymorphism (AFLP) markers. Three AFLP selective primer combinations generated a total of 707 amplification products, of which 704 (99.6%) were polymorphic. The unweighted pair-group method with arithmetic mean (UPGMA) dendrogram and principal component analysis (PCA) plot confirmed the taxonomic status of four separate species. East Asian Typha taxa separated into two groups: the first with Typha angustifolia and the second with T orientalis, T laxmanni, and T latifolia with a high bootstrap value for UPGMA (93%) and a low first score for PCA (25%). The two clusters corresponded with two sections based on the bracteoles in the female flower: section Bracteolatae and section Ebracteolatae. T. angustifolia showed the highest genetic diversity among the four Typha taxa (percentage of polymorphic loci [PPL] = 71%, H-o = 0.157), whereas T. latifolia had the lowest genetic diversity (PPL = 40%, H-o = 0.117). Genetic diversity was related to the presence of the gap between male and female inflorescences. A positive correlation between genetic distance and geographic distance was clearly found in the two species with continuous inflorescences (T. latifolia and T. orientalis). This positive correlation was not observed in the other species with discontinuous spikes (T. angustifolia and T. laxmanni).
+
+
+3980
+#Molecular genetic data reveal hybridization between Typha angustifolia and Typha latifolia across a broad spatial scale in eastern North America.
+#Kirk H, Connolly C, Freeland JR
+#2011
+--------------------------------
+A recent increase in the abundance of cattails (Typha spp.) in North American wetlands has been anecdotally linked with hybridization between Typha latifolia and Typha angustifolia. In this study, we used molecular genetic markers (microsatellites) to investigate whether the hybrid lineage (Typha x glauca) is restricted to The Great Lakes region, or exists across a much broader spatial scale. We also investigated the possibility of backcrossing and genetic introgression in natural populations. Parental species could be distinguished from one another based on the distribution of alleles at six microsatellite loci. Species identification based on genetic data corresponded well with species identifications based on leaf width, a key morphological trait that can distinguish the two parental species. We found that hybrids occur in Ontario, Quebec, New Brunswick, and Nova Scotia, but we did not detect hybrids in Maine. F(1)s are more abundant than backcrossed or intercrossed hybrids, although we also found evidence of backcrossing, particularly in Ontario. This indicates that hybrids are fertile, and are therefore potential conduits of gene flow between the parental species. Further work is needed to determine whether T. x glauca is particularly successful in the Great Lakes region relative to other areas in which the two parental species co-exist, and to assess whether introgression may lead to increased invasiveness in the species complex.
+
+
+3981
+#Assessment of genetic diversity of Typha angustifolia in the development of cattail stands
+#Min, S. J., H.-T. Kim, and J. G. Kim
+#2012
+--------------------------------
+Typha angustifolia has ecological characteristics of clonal growth similar to Phragmites australis. The plant spreads by clonal growth and seed dispersal. In this study, for the three stands which have different settlement age at the Baksilji wetland in Korea, genetic diversity was estimated by random amplification of polymorphic DNA analysis to evaluate the change in genetic diversity of T. angustifolia during stand development in the same population. Stand (ST) I was the oldest and ST 4 was the youngest. ST 5 was in a small ditch out of the Baksilji. Although the ST 1, ST 2, and ST 3 did not differ significantly in vegetational or physical environment, the genetic diversity estimated according to Nei's gene diversity (h) and the Shannon index (i) increased in the order of ST 1 < ST 2 < ST 3 contrary to formative age. The genetic diversity of ST 4 was much higher than that of the other three stands. ST 4 has similar abiotic environmental conditions with slight T angusnfolia dominance, and seems to be in the early establishment stage. ST 5 differed from the other stands in vegetational and soil environments, which can result in stressful cattail conditions. Even though the ST 5 stand was not younger than the ST 4 stand, ST 5 showed the highest genetic diversity. Our results indicate that after early settlement of the T. angustifolia population, genetic diversity within the species decreased over time and that the decreasing pattern of genetic diversity within T. angustifolia stands is not likely to occur under stressful conditions.
+
+
+3982
+#Comparison of genetic diversity in four Typha species (Poales, Typhaceae) from China
+#Zhou, BB, Yu, D, Ding, ZJ, Xu, XW
+#2016
+--------------------------------
+Life history traits play an important role in the level and distribution of genetic diversity, and comparing closely related species with similar life histories can provide insight into the determinants of genetic variation in plant populations. In this study, we used variations of one chloroplast DNA fragment, one nuclear gene, and six microsatellites to compare the levels and distributions of genetic diversity in four widespread Typha species from China. Surveys were conducted on 898 individuals from 120 sites. The individuals of all four species formed monophyletic clades and distinct genetic clusters, suggesting no hybridization between T. angustifolia and T. latifolia in China. The levels of cpDNA nucleotide diversity followed the order T. latifolia > T. laxmannii > T. angustifolia > T. orientalis, whereas the genetic diversity in nDNA and nSSR of T. laxmannii and T. angustifolia was higher than that of T. latifolia. In T. angustifolia, T. laxmannii, and T. orientalis, more than half of genetic variation occurred within populations, and in T. latifolia, most of genetic variation occurred among populations. The variation in the levels and distributions of genetic diversity among the four species can be attributed to differences in inflorescence characteristics which either limit or enhanced outcrossing rates.
+
+
+3983
+#Cryptic intercontinental dispersal, commercial retailers, and the genetic diversity of native and non-native cattails (Typha spp.) in North America
+#Ciotir, C, Freeland, J
+#2016
+--------------------------------
+Although cattails (Typha spp.) are important components of wetlands around the world, the three most widespread species (T. angustifolia, T. domingensis, T. latifolia) are becoming increasingly dominant. We used global phylogenetic and phylogeographic assessments to test the hypotheses that each species has experienced multiple introductions of divergent lineages into North America and that commercial retailers are aiding long-distance dispersal. Our analyses identified T. angustifolia as a paraphyletic species with a highly divergent lineage. We found evidence for at least one introduced T. angustifolia lineage in wild populations and garden centres of North America. Although potentially complicated by incomplete lineage sorting, our data suggest dispersal of T. domingensis between Europe and Australia, and further investigation should assess a possible introduction of a non-native T. domingensis lineage into North America. T. latifolia has experienced bidirectional dispersal between North America and Europe, and a sample of T. latifolia purchased in a Canadian garden centre was an Asian lineage. Interspecific hybridization and novel intraspecific admixture have been repeatedly implicated in biological invasions, including invasions by the hybrid cattail Typha x glauca, and future work should focus on the potential contributions of non-native lineages to regional patterns of invasion by Typha spp. in North America.
+
+
+3984
+#Genetic characterization of cattail species and hybrids (Typha spp.) in Europe
+#Ciotir, C, Szabo, J, Freeland, J
+#2017
+--------------------------------
+Cattails (Typha spp.) are essential components of wetland around the world, although they can also be problematic invaders. In some regions of North America, T. latifolia and T. angustifolia hybridize to produce T. x glauea, which is invading and dominating wetlands around the Laurentian Great Lakes. However, in other regions such as China and the maritime provinces of Canada, hybrids are either non-existent or maintained at very low frequencies, and cattails are not considered invasive. Little is known about cattail hybrids in Europe. We used microsatellite markers to characterize T. latifolia, T. angustifolia, T. laxmannii, and T. domingensis sampled from 63 sites across nine European countries. Hybrids were very uncommon (< 2% of all sampled plants), and resulted from crosses involving two of T. latifolia, T. angustifolia and T. domingensis. Infrequent hybridization may partly explain why Typha does not dominate European wetlands. However, we identified two distinct genetic clusters within T. angustifolia, broadly corresponding to eastern and western Europe. In addition, our T. laxmannii samples were from countries where it is considered alien, and populations show a high degree of genetic differentiation that is consistent with independent introductions. Managers should continue to monitor range expansions of Typha spp. in Europe, partly because novel interactions among species and lineages may increase the likelihood of future hybridization.
+
+

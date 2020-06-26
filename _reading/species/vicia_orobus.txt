@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+4099
+#Isozyme variation and phylogenetic relationships in Vicia subgenus Cracca (Fabaceae)
+#Jaaska, V
+#2005
+--------------------------------
+Background and Aims The phylogenetic relationships among 27 vetch species belonging to the subgenus Cracca of the genus Vicia were studied in comparison with three species of Lathyrus section Lathyrus on the basis of isozyme variation. Methods Isozymes encoded by 15 putative loci of ten enzymes were resolved by polyacrylamide gel electrophoresis and isozyme variation was analysed by using parsimony and neighbour-joining methods. Key Results The analyses revealed 63 parsimony-informative and 36 species-specific orthozymes. Of the latter, 23 are monomophic and are suitable for identification of V. benghalensis, V. palaestina, V. dumetorum, V. pisiformis, V. sylvatica, V. onobrychioides, V. cappadocica, V. cretica, V. articulata, V. tetrasperma, V. ervilia, V. hirsuta and V. loiseleurii. Polymorphism with heterozygous and homozygous isozyme genotypes was found for V. cracca, V. tenuifolia, V. ochroleuca, V. villosa, V. sylvatica, V. cassubica, V. sparsiflora, V. megalotropis, V. altissima, V. onobrychioides, V. cassia, V. cretica and L. heterophyllus, reflecting outcrossing in these species. By contrast, V. benghalensis, V. palaestina, V. disperma, V. dumetorum, V. pisiformis, V. orobus, V. pauciflora, V. tetrasperma and V. loiseleurii had only homozygous isozyme genotypes at polymorphic loci. Isozyme-based phylogenetic trees are presented. Conclusions Sections Cracca, Ervum, Pedunculatae and Lenticula of traditional taxonomy are monophyletic groups, whereas sections Oroboideae (= Vicilla) and Panduratae appear polyphyletic and section Cassubicae is split into two species-couples linked at a low level of support. Treatment of ervoid species in a separate subgenus Ervum is not supported because of its polyphyly.
+
+
+------------- All Abstracts -------------------
+4098
+#Patterns of variation in relation to the conservation of rare and declining plant species.
+#Kay, QON and John, RF
+#1997
+--------------------------------
+
+
+
+4099
+#Isozyme variation and phylogenetic relationships in Vicia subgenus Cracca (Fabaceae)
+#Jaaska, V
+#2005
+--------------------------------
+Background and Aims The phylogenetic relationships among 27 vetch species belonging to the subgenus Cracca of the genus Vicia were studied in comparison with three species of Lathyrus section Lathyrus on the basis of isozyme variation. Methods Isozymes encoded by 15 putative loci of ten enzymes were resolved by polyacrylamide gel electrophoresis and isozyme variation was analysed by using parsimony and neighbour-joining methods. Key Results The analyses revealed 63 parsimony-informative and 36 species-specific orthozymes. Of the latter, 23 are monomophic and are suitable for identification of V. benghalensis, V. palaestina, V. dumetorum, V. pisiformis, V. sylvatica, V. onobrychioides, V. cappadocica, V. cretica, V. articulata, V. tetrasperma, V. ervilia, V. hirsuta and V. loiseleurii. Polymorphism with heterozygous and homozygous isozyme genotypes was found for V. cracca, V. tenuifolia, V. ochroleuca, V. villosa, V. sylvatica, V. cassubica, V. sparsiflora, V. megalotropis, V. altissima, V. onobrychioides, V. cassia, V. cretica and L. heterophyllus, reflecting outcrossing in these species. By contrast, V. benghalensis, V. palaestina, V. disperma, V. dumetorum, V. pisiformis, V. orobus, V. pauciflora, V. tetrasperma and V. loiseleurii had only homozygous isozyme genotypes at polymorphic loci. Isozyme-based phylogenetic trees are presented. Conclusions Sections Cracca, Ervum, Pedunculatae and Lenticula of traditional taxonomy are monophyletic groups, whereas sections Oroboideae (= Vicilla) and Panduratae appear polyphyletic and section Cassubicae is split into two species-couples linked at a low level of support. Treatment of ervoid species in a separate subgenus Ervum is not supported because of its polyphyly.
+
+

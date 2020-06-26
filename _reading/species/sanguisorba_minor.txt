@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3310
+#Molecular markers provide evidence for a broad-fronted recolonisation of the widespread calcareous grassland species Sanguisorba minor from southern and cryptic northern refugia
+#Tausch, S, Leipold, M, Poschlod, P, Reisch, C
+#2017
+--------------------------------
+Calcareous grasslands belong to the most species-rich and endangered habitats in Europe. However, little is known about the origin of the species typically occurring in these grasslands. In this study we analysed the glacial and post-glacial history of Sanguisorba minor, a typical plant species frequently occurring in calcareous grasslands. The study comprised 38 populations throughout the whole distribution range of the species across Europe. We used molecular markers (AFLP) and applied Bayesian cluster analysis as well as spatial principal components analysis (sPCA) to identify glacial refugia and post-glacial migration routes to Central Europe. Our study revealed significant differences in the level of genetic variation and the occurrence of rare fragments within populations of S.minor and a distinct separation of eastern and western lineages. The analyses uncovered traditional southern but also cryptic northern refugia and point towards a broad fronted post-glacial recolonisation. Based on these results we postulate that incomplete lineage sorting may have contributed to the detected pattern of genetic variation and that S.minor recolonised Central Europe post-glacially from Iberia and northern glacial refugia in France, Belgium or Germany. Our results highlight the importance of refugial areas for the conservation of intraspecific variation in calcareous grassland species.
+
+
+------------- All Abstracts -------------------
+3308
+#Genetic variation in Sanguisorba minor after 6 years in situ selection under elevated CO2.
+#Wieneke, S, Prati, D, Brandl, R, Stocklin, J, Auge, H
+#2004
+--------------------------------
+Genetic variation within plant species in their response to elevated CO2 could be important for long-term changes in plant community composition because it allows for selection of responsive genotypes. Six years of in situ CO2 enrichment in a temperate grassland offered a unique opportunity to investigate such microevolutionary changes in a common herb of that plant community, Sanguisorba minor. Plants were grown from seeds collected at the end of a 6-year treatment in either ambient or elevated CO2. The resulting seedlings were grown under ambient or elevated CO2 and with or without interspecific competition by Bromus erectus in the greenhouse for two seasons. The effect of competition was included because we expected selection under elevated CO2 to favour increased competitive ability. Elevated CO2 in the greenhouse and competition both caused a significant reduction of the total dry mass in S. minor, by 12% and 40%, respectively, with no interaction between CO2 and competition. Genetic variation in all traits was substantial. Seed families responded differently to competition, but the family x greenhouse CO2 interaction was rather weak. There was no main effect of the field CO2 treatment on any parameter analysed in the greenhouse. However, the field CO2 treatment did significantly interact with the greenhouse CO2 treatment for the cumulative number of leaves, suggesting microevolutionary change in this plant trait. Families from ambient field CO2 produced fewer leaves under elevated greenhouse CO2, whereas families from elevated field CO2 retained constant number of leaves in either greenhouse CO2 treatment. Since this resulted in increased litter production of the families from elevated field CO2 under elevated greenhouse CO2, the microevolutionary response should, in turn, affect ecosystem functions through dry matter recycling.
+
+
+3309
+#Applying plant DNA barcodes for Rosaceae species identification
+#Pang X, Song J, Zhu Y, Xu H, Huang L, Chen S
+#2011
+--------------------------------
+The Consortium for the Barcode of Life (CBOL) Plant Working Group (PWG) established the use of matK+rbcL as core barcodes and ITS2 as one of the supplementary loci for differentiating plants at the Third International Barcoding Conference. Here, we tested the applicability of four DNA regions (rbcL, matK, rpoC1 and ITS2) as the barcodes for identifying species within Rosaceae. Based on assessments of the success rates of PCR amplifications, the sequence quality, extent of specific genetic divergence, DNA barcoding gap and ability for species discrimination, our results suggest that ITS2 is the best of the four loci tested for barcoding Rosaceae. We further evaluated the effectiveness of ITS2 for identifying a wide range of species within Rosaceae. Of the 1410 plant samples collected from 893 species in 96 diverse genera, ITS2 successfully identified 78 and 100% of them at the species and genus levels, respectively. Therefore, our research indicated that the ITS2 region is a powerful, though not perfect, barcode for Rosaceae identification that also contributes valuable information for identifying closely related species in other plant taxonomic groups.
+
+
+3310
+#Molecular markers provide evidence for a broad-fronted recolonisation of the widespread calcareous grassland species Sanguisorba minor from southern and cryptic northern refugia
+#Tausch, S, Leipold, M, Poschlod, P, Reisch, C
+#2017
+--------------------------------
+Calcareous grasslands belong to the most species-rich and endangered habitats in Europe. However, little is known about the origin of the species typically occurring in these grasslands. In this study we analysed the glacial and post-glacial history of Sanguisorba minor, a typical plant species frequently occurring in calcareous grasslands. The study comprised 38 populations throughout the whole distribution range of the species across Europe. We used molecular markers (AFLP) and applied Bayesian cluster analysis as well as spatial principal components analysis (sPCA) to identify glacial refugia and post-glacial migration routes to Central Europe. Our study revealed significant differences in the level of genetic variation and the occurrence of rare fragments within populations of S.minor and a distinct separation of eastern and western lineages. The analyses uncovered traditional southern but also cryptic northern refugia and point towards a broad fronted post-glacial recolonisation. Based on these results we postulate that incomplete lineage sorting may have contributed to the detected pattern of genetic variation and that S.minor recolonised Central Europe post-glacially from Iberia and northern glacial refugia in France, Belgium or Germany. Our results highlight the importance of refugial areas for the conservation of intraspecific variation in calcareous grassland species.
+
+

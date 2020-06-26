@@ -1,0 +1,23 @@
+------------- Description -------------------
+#plantat website
+A perennial herb of damp or wet habitats on a wide range of soils, including fen- and water-meadows, rush-pasture, marshes, streamsides, wet heath, springs and flushes on hill slopes and occasionally in wet woodland. It is also established from cultivation in churchyards, and on roadsides and waste ground. 0-770 m (Cross Fell, Cumberland).
+
+
+------------- Matching Abstracts -------------------
+18
+#The potential for selective seed maturation in Achillea ptarmica (Asteraceae).
+#Andersson, S
+#1993
+--------------------------------
+I examined whether there is a potential for selective abortion associated with the consistently low seed-ovule ratio in Achillea ptarmica, a self-incompatible clonal plant with single-ovuled flowers arranged in dense inflorescences. Maternal plants raised in a greenhouse differed widely in their fertility following hand-pollination, ranging from plants that were effectively female sterile to individuals in which more than 80% of the ovules matured into seeds. This variation was largely genetic, as shown by a strong between-year consistency and a high clonal repeatability. The probability that an ovule matured into a seed did not increase when a large fraction of ovules was artificially removed, suggesting that ovule abortion occurs too early to be based on the genetic quality of the embryos or that maternal plants fail to reallocate internal resources to other ovules in the same inflorescence. There was no tendency for plants with a high rate of ovule abortion (low seed-ovule ratio) to produce more vigorous offspring than those with a lower rate of ovule abortion (high seed-ovule ratio), despite the great potential for selective abortion when only a small fraction of the ovules mature into seeds. My results do not indicate tradeoffs between the seed-ovule ratio and other components of female and male fertility. I found a strong positive correlation between the seed-ovule ratio and pollen viability and propose genetic load as the basis for fertility differences in Achillea. Non-additive gene action combined with the great potential for clonal growth to maintain genotypes produced by sexual reproduction may be sufficient to explain the wide range of seed-ovule ratios observed in this study.
+
+
+------------- All Abstracts -------------------
+18
+#The potential for selective seed maturation in Achillea ptarmica (Asteraceae).
+#Andersson, S
+#1993
+--------------------------------
+I examined whether there is a potential for selective abortion associated with the consistently low seed-ovule ratio in Achillea ptarmica, a self-incompatible clonal plant with single-ovuled flowers arranged in dense inflorescences. Maternal plants raised in a greenhouse differed widely in their fertility following hand-pollination, ranging from plants that were effectively female sterile to individuals in which more than 80% of the ovules matured into seeds. This variation was largely genetic, as shown by a strong between-year consistency and a high clonal repeatability. The probability that an ovule matured into a seed did not increase when a large fraction of ovules was artificially removed, suggesting that ovule abortion occurs too early to be based on the genetic quality of the embryos or that maternal plants fail to reallocate internal resources to other ovules in the same inflorescence. There was no tendency for plants with a high rate of ovule abortion (low seed-ovule ratio) to produce more vigorous offspring than those with a lower rate of ovule abortion (high seed-ovule ratio), despite the great potential for selective abortion when only a small fraction of the ovules mature into seeds. My results do not indicate tradeoffs between the seed-ovule ratio and other components of female and male fertility. I found a strong positive correlation between the seed-ovule ratio and pollen viability and propose genetic load as the basis for fertility differences in Achillea. Non-additive gene action combined with the great potential for clonal growth to maintain genotypes produced by sexual reproduction may be sufficient to explain the wide range of seed-ovule ratios observed in this study.
+
+

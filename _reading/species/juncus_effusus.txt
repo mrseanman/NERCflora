@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1608
+#IDENTIFICATION AND CHARACTERIZATION OF MICROSATELLITE LOCI IN THE RUSH JUNCUS EFFUSUS (JUNCACEAE)
+#Michalski, S. G., and W. Durka
+#2012
+--------------------------------
+Premise of the study: Microsatellite markers were developed for the common wetland plant Juncus effusus to assess levels of within- and among-population genetic diversity. Methods and Results: Using a next-generation sequencing approach we identified new microsatellite loci, from which 23 were further characterized in a large population of J. effusus. Expected heterozygosity ranged from 0 to 0.64 with a mean of 0.407. Inbreeding coefficients (mean = 0.984) were very high, confirming earlier suggestions of an inbred mating system. Cross-amplification was tested in J. conglomeratus, J. inflexus, J. drummondii, and J. filiformis, with best results in the former. Conclusions: The described microsatellite markers will be helpful in assisting studies on, e. g., reproduction, taxonomy, and phylogeography in J. effusus and related species.
+
+
+------------- All Abstracts -------------------
+1608
+#IDENTIFICATION AND CHARACTERIZATION OF MICROSATELLITE LOCI IN THE RUSH JUNCUS EFFUSUS (JUNCACEAE)
+#Michalski, S. G., and W. Durka
+#2012
+--------------------------------
+Premise of the study: Microsatellite markers were developed for the common wetland plant Juncus effusus to assess levels of within- and among-population genetic diversity. Methods and Results: Using a next-generation sequencing approach we identified new microsatellite loci, from which 23 were further characterized in a large population of J. effusus. Expected heterozygosity ranged from 0 to 0.64 with a mean of 0.407. Inbreeding coefficients (mean = 0.984) were very high, confirming earlier suggestions of an inbred mating system. Cross-amplification was tested in J. conglomeratus, J. inflexus, J. drummondii, and J. filiformis, with best results in the former. Conclusions: The described microsatellite markers will be helpful in assisting studies on, e. g., reproduction, taxonomy, and phylogeography in J. effusus and related species.
+
+

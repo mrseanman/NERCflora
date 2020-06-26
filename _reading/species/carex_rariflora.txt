@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+553
+#Geographic patterns in the genetic diversity of a northern sedge, Carex rariflora.
+#Vellend, M, Waterway, MJ
+#1999
+--------------------------------
+We compared the genetic diversity of a northern wetland sedge, Carex rariflora, both within and between populations, in different habitat types, and across geographic regions with different glacial histories. Twelve populations were sampled: 5 from each of two regions in northern Quebec, and 2 from northern Yukon. Habitat types were medium to rich fens, wet tidal flat, and alpine stream edge. Allele frequency data revealed a low degree of within-population genetic diversity (H-S = 0.07) and a high degree of genetic differentiation among populations (G(ST) = 0.47) compared with previously studied northern wetland Carex species. Higher genetic variability found in the Yukon than in Quebec could be explained by the presence of a glacial refugium in much of Alaska and the Yukon throughout the Pleistocene. Low genetic diversity in Quebec suggests the occurrence of genetic bottlenecks resulting from founder effects during postglacial colonization. There was a strong positive correlation between geographic distance and genetic distance among populations, and the three geographic regions were genetically distinct from one another. Detrended correspondence analysis of vegetation data revealed clear differences among the three habitat types, but we found no significant correlation between habitat differences and genetic distance.
+
+
+------------- All Abstracts -------------------
+553
+#Geographic patterns in the genetic diversity of a northern sedge, Carex rariflora.
+#Vellend, M, Waterway, MJ
+#1999
+--------------------------------
+We compared the genetic diversity of a northern wetland sedge, Carex rariflora, both within and between populations, in different habitat types, and across geographic regions with different glacial histories. Twelve populations were sampled: 5 from each of two regions in northern Quebec, and 2 from northern Yukon. Habitat types were medium to rich fens, wet tidal flat, and alpine stream edge. Allele frequency data revealed a low degree of within-population genetic diversity (H-S = 0.07) and a high degree of genetic differentiation among populations (G(ST) = 0.47) compared with previously studied northern wetland Carex species. Higher genetic variability found in the Yukon than in Quebec could be explained by the presence of a glacial refugium in much of Alaska and the Yukon throughout the Pleistocene. Low genetic diversity in Quebec suggests the occurrence of genetic bottlenecks resulting from founder effects during postglacial colonization. There was a strong positive correlation between geographic distance and genetic distance among populations, and the three geographic regions were genetically distinct from one another. Detrended correspondence analysis of vegetation data revealed clear differences among the three habitat types, but we found no significant correlation between habitat differences and genetic distance.
+
+

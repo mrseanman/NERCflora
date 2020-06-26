@@ -1,0 +1,40 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+4022
+#Fine-scale gene flow and genetic structure in a relic Ulmus laevis population at its northern range
+#Nielsen LR, Kjaer ED
+#2010
+--------------------------------
+Ulmus laevis is mainly distributed in Central and Eastern Europe. The present study took place in Southern Denmark, which together with southern Sweden and Finland, is the Northern range of the species distribution area. The study site (Krenkerup Haveskov) is the only presumed natural continuous population of U. laevis in Denmark. The forest is a part of a formerly larger carr forest. Scattered trees (U. laevis) are found in nearby woods. With seven polymorphic microsatellite loci, we revealed a fairly low genetic diversity in the parental generation with 2-7 alleles per locus and average gene diversity (H (e)) = 0.5. There were no signs of a recent population decrease in U. laevis from Denmark. In contrast, the only known larger population of U. laevis from the Netherlands showed significant genetic signals of a recent bottleneck. The outcrossing rate was not significantly different from 1, indicating absence of self-pollination. Gene flow was found between the continuous population and trees in the nearby woods. We found significant spatial genetic structure which may be due to short dispersal distances of the winged fruits of U. laevis. Due to the low genetic diversity, the strong spatial genetic structure and the outcrossing nature of the species, it may be especially vulnerable to size reductions.
+
+
+------------- All Abstracts -------------------
+4021
+#High Genetic Differentiation in Marginal Populations of European White Elm (Ulmus laevis)
+#Vakkari, P Rusanen, M Karkkainen, K
+#2009
+--------------------------------
+Studies on the amount of genetic variation in marginal Populations and
+ differentiation between them are essential for assessment of best gene
+ conservation strategies and sampling schemes. Thirteen marginal
+ populations of Ulmus laevis in Southern Finland and one in Estonia were
+ investigated for genetic variation in 20 allozyme loci. Population
+ differentiation among Finnish stands was high, F-st=0.290, and mean
+ genetic diversity low, H-e=0.088. The differentiation follows the
+ isolation-by-distance structure within the core of the distribution
+ area (lake Vanajavesi). Fairly high frequency of recurrent genotypes
+ was observed, but this did not have an influence on the genetic
+ parameters. The observed genetic structure is consistent with the
+ central-marginal hypothesis. In the light of the results, the Finnish
+ gene conservation strategy for U. laevis seems to be on a sound basis.
+
+
+4022
+#Fine-scale gene flow and genetic structure in a relic Ulmus laevis population at its northern range
+#Nielsen LR, Kjaer ED
+#2010
+--------------------------------
+Ulmus laevis is mainly distributed in Central and Eastern Europe. The present study took place in Southern Denmark, which together with southern Sweden and Finland, is the Northern range of the species distribution area. The study site (Krenkerup Haveskov) is the only presumed natural continuous population of U. laevis in Denmark. The forest is a part of a formerly larger carr forest. Scattered trees (U. laevis) are found in nearby woods. With seven polymorphic microsatellite loci, we revealed a fairly low genetic diversity in the parental generation with 2-7 alleles per locus and average gene diversity (H (e)) = 0.5. There were no signs of a recent population decrease in U. laevis from Denmark. In contrast, the only known larger population of U. laevis from the Netherlands showed significant genetic signals of a recent bottleneck. The outcrossing rate was not significantly different from 1, indicating absence of self-pollination. Gene flow was found between the continuous population and trees in the nearby woods. We found significant spatial genetic structure which may be due to short dispersal distances of the winged fruits of U. laevis. Due to the low genetic diversity, the strong spatial genetic structure and the outcrossing nature of the species, it may be especially vulnerable to size reductions.
+
+

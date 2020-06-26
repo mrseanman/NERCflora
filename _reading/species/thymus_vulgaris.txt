@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3920
+#The male-sterility polymorphism of Silene vulgaris: Analysis of genetic data from two populations and comparison with Thymus vulgaris.
+#Charlesworth D, Laporte V
+#1998
+--------------------------------
+Results are given of genetic studies of male sterility using plants from two natural populations from Sussex, England. Both populations have substantial frequencies of females, similar to 0.25 in population 1 and 0.60 in population 3. As in the few other gynodioecious populations studied in detail, many genetic factors are present. In population 1, there are at least two, and more likely three, different cytoplasmic types, one of which appears to produce male sterility in progeny from any hermaphrodite pollen donor; in other words restorer alleles for this cytoplasm are rare or absent from the population. The other two populations can be carried in hermaphrodites that have the dominant restorers. In population 1, there are also probably three restorer loci with complementary recessive male- sterility alleles, as well as a locus with duplicate action, which cannot produce male sterility unless the plant is also homozygous for the recessive allele at another locus. The results from population 3 are quite similar, though there was no evidence in this population for an unrestored sterility cytoplasm. A similar joint nucleocytoplasmic model with multiple restorers fits data from Thymus vulgaris.
+
+
+------------- All Abstracts -------------------
+3920
+#The male-sterility polymorphism of Silene vulgaris: Analysis of genetic data from two populations and comparison with Thymus vulgaris.
+#Charlesworth D, Laporte V
+#1998
+--------------------------------
+Results are given of genetic studies of male sterility using plants from two natural populations from Sussex, England. Both populations have substantial frequencies of females, similar to 0.25 in population 1 and 0.60 in population 3. As in the few other gynodioecious populations studied in detail, many genetic factors are present. In population 1, there are at least two, and more likely three, different cytoplasmic types, one of which appears to produce male sterility in progeny from any hermaphrodite pollen donor; in other words restorer alleles for this cytoplasm are rare or absent from the population. The other two populations can be carried in hermaphrodites that have the dominant restorers. In population 1, there are also probably three restorer loci with complementary recessive male- sterility alleles, as well as a locus with duplicate action, which cannot produce male sterility unless the plant is also homozygous for the recessive allele at another locus. The results from population 3 are quite similar, though there was no evidence in this population for an unrestored sterility cytoplasm. A similar joint nucleocytoplasmic model with multiple restorers fits data from Thymus vulgaris.
+
+

@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+3376
+#Genetic variation and hybridization in Swedish Schoenus (Cyperaceae).
+#Hedren, M
+#1997
+--------------------------------
+Schoenus ferrugineus and S. nigricans have restricted distributions in Sweden and are almost exclusively confined to calcareous fen habitats. At S. nigricans sites, S. ferrugineus is usually also present, and hybrids are frequently found. In this report, I used allozymes to estimate the amount of gene flow between the two species, and to compare the partitioning of genetic diversity in each of them. Thirteen loci were analysed at eight different enzyme systems. Seven loci were variable between or within the species. The two species had completely different alleles at two of the seven variable loci, whereas there was overlap at five loci. In all, 22 different alleles were found. Six of these alleles were confined to S. nigricans, and five alleles were confined to S. ferrugineus. Nei's genetic identity was 0.55. - In S. ferrugineus, three loci (23%) were polymorphic, and the average number of alleles per polymorphic locus was 2.0 (each polymorphic locus had two alleles). In S. nigricans, three loci (23%) were polymorphic, and the average number of alleles per polymorphic locus was 2.3. - The proportion of genetic diversity due to variation among sites (C-ST) was fairly similar in the two species, mean over loci = 0.12 in S. ferrugineus and 0.15 in S. nigricans. However, the proportion of genetic diversity due to variation among individuals within sites (G(IS)) differed markedly between the two species, mean over loci = 0.54 in S. ferrugineus and 0.17 in S. nigricans. Accordingly, there was a much higher individual heterozygosity in S. nigricans than in S. ferrugineus. - Most hybrids were interpreted as F-1 hybrids. However, a small proportion, 0.5-1.6%, were F-n hybrids or back-crosses. - On the Swedish mainland, all former occurrences of S. nigricans are extinct, but viable hybrids are still present at a few sites in southernmost Sweden.
+
+
+------------- All Abstracts -------------------
+3376
+#Genetic variation and hybridization in Swedish Schoenus (Cyperaceae).
+#Hedren, M
+#1997
+--------------------------------
+Schoenus ferrugineus and S. nigricans have restricted distributions in Sweden and are almost exclusively confined to calcareous fen habitats. At S. nigricans sites, S. ferrugineus is usually also present, and hybrids are frequently found. In this report, I used allozymes to estimate the amount of gene flow between the two species, and to compare the partitioning of genetic diversity in each of them. Thirteen loci were analysed at eight different enzyme systems. Seven loci were variable between or within the species. The two species had completely different alleles at two of the seven variable loci, whereas there was overlap at five loci. In all, 22 different alleles were found. Six of these alleles were confined to S. nigricans, and five alleles were confined to S. ferrugineus. Nei's genetic identity was 0.55. - In S. ferrugineus, three loci (23%) were polymorphic, and the average number of alleles per polymorphic locus was 2.0 (each polymorphic locus had two alleles). In S. nigricans, three loci (23%) were polymorphic, and the average number of alleles per polymorphic locus was 2.3. - The proportion of genetic diversity due to variation among sites (C-ST) was fairly similar in the two species, mean over loci = 0.12 in S. ferrugineus and 0.15 in S. nigricans. However, the proportion of genetic diversity due to variation among individuals within sites (G(IS)) differed markedly between the two species, mean over loci = 0.54 in S. ferrugineus and 0.17 in S. nigricans. Accordingly, there was a much higher individual heterozygosity in S. nigricans than in S. ferrugineus. - Most hybrids were interpreted as F-1 hybrids. However, a small proportion, 0.5-1.6%, were F-n hybrids or back-crosses. - On the Swedish mainland, all former occurrences of S. nigricans are extinct, but viable hybrids are still present at a few sites in southernmost Sweden.
+
+
+3377
+#AFLP markers and cytotaxonomic analysis reveal hybridisation in the genus Schoenus (Cyperaceae).
+#Scotti, I, Mariani, A, Verona, V, Candolini, A, Cenci, CA, Olivieri, AM
+#2002
+--------------------------------
+Molecular, cytological, and morphological data support the existence of a hybrid population between Schoenus nigricans and Schoenus ferrugineus. This population was found in northeastern Italy, where S. nigricans is central with respect to its natural range and S. ferrugineus is marginal, being most common in the Alps and in central and northern Europe. Molecular marker data show that the putative hybrid population is genetically intermediate between nearby populations of the parent species. Cytological evidence confirmed the hybrid nature of this population, as does the almost complete sterility of plants within the population. Although no seeds were produced by the hybrid population, some possibly fertile pollen grains were produced; this suggests that the possibility of introgression between the two species through the hybrids cannot completely be excluded.
+
+

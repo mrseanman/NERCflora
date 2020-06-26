@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2772
+#Molecular identification of hybrids from a former hot spot of Potamogeton hybrid diversity
+#Kaplan, Zdenek, Fehrer, Judith
+#2013
+--------------------------------
+More than a century ago, an extremely high diversity of Potamogeton hybrids was recorded in several rivers and streams in Jutland, Denmark. Accuracy of their identification was doubted by some later authors who were sceptical about the existence and co-occurrence of so many hybrids. Selected original localities were investigated for the presence of morphologically matching plants after more than 100 years. In spite of profound changes in landscape and considerable deterioration of aquatic habitats during the 20th century resulting in a significant decline of submerged vegetation, three of ten previously recorded hybrids were recently found that had persisted at their original localities. Two of them, whose existence had not been proved previously, were subjected to molecular analyses. RFLP, direct sequencing and cloning of the ITS region confirmed their previous morphological identification: P. x undulatus as P. crispus x P. praelongus and P. x cognatus as P. perfoliatus x P. praelongus. Chloroplast DNA sequencing identified P. praelongus as the maternal parent in both crosses. The existence of most of the other hybrid combinations recorded from Jutland was proved by means of molecular analyses conducted on plants from other regions. Their morphologies perfectly correspond to old herbarium vouchers from Jutland and support their original identifications. These observations indicate that Jutland rivers and streams hosted a high species and hybrid diversity still in the late 19th century, but most of this richness has meanwhile disappeared. (C) 2012 Elsevier B.V. All rights reserved.
+
+
+------------- All Abstracts -------------------
+2772
+#Molecular identification of hybrids from a former hot spot of Potamogeton hybrid diversity
+#Kaplan, Zdenek, Fehrer, Judith
+#2013
+--------------------------------
+More than a century ago, an extremely high diversity of Potamogeton hybrids was recorded in several rivers and streams in Jutland, Denmark. Accuracy of their identification was doubted by some later authors who were sceptical about the existence and co-occurrence of so many hybrids. Selected original localities were investigated for the presence of morphologically matching plants after more than 100 years. In spite of profound changes in landscape and considerable deterioration of aquatic habitats during the 20th century resulting in a significant decline of submerged vegetation, three of ten previously recorded hybrids were recently found that had persisted at their original localities. Two of them, whose existence had not been proved previously, were subjected to molecular analyses. RFLP, direct sequencing and cloning of the ITS region confirmed their previous morphological identification: P. x undulatus as P. crispus x P. praelongus and P. x cognatus as P. perfoliatus x P. praelongus. Chloroplast DNA sequencing identified P. praelongus as the maternal parent in both crosses. The existence of most of the other hybrid combinations recorded from Jutland was proved by means of molecular analyses conducted on plants from other regions. Their morphologies perfectly correspond to old herbarium vouchers from Jutland and support their original identifications. These observations indicate that Jutland rivers and streams hosted a high species and hybrid diversity still in the late 19th century, but most of this richness has meanwhile disappeared. (C) 2012 Elsevier B.V. All rights reserved.
+
+
+2773
+#Present Status of Genetic Diversity of Potamogeton praelongus Populations in the Czech Republic
+#Kitner, Miloslav, Prausova, Romana, Adamec, Lubomir
+#2013
+--------------------------------
+According to the European Red list, Potamogeton praelongus WULFEN (Potamogetonaceae) is a Least Concern species predominantly distributed throughout northern Europe, Asia and North America. It is considered a critically endangered species in the Czech Republic, with the last natural population in a standing oxbow in the Orlice river floodplain at Malgova Lhota, near Hradec Kralove in E Bohemia. In this study, the genetic diversity of plants from natural and introduced Czech populations as well as a rescue culture was determined using AFLP analyses. At these sites, despite prolific flowering and seed setting, it propagates only vegetatively as seed germination is apparently extremely rare if any. The analyses revealed a very low genetic diversity in existing Czech micropopulations suggesting a predominant clonal propagation within the natural populations. This may also be a result in the course of ongoing repatriation of in vitro micropropagated plants. However, we observed differences in the genetic profiles and higher genetic diversity in plant individuals raised from seeds (obtained from rescue cultures) produced by sexual reproduction. Trying to obtain seeds could be utilized to increase the genetic diversity within natural and newly established populations. Other aspects of successful conservation of this species are also discussed.
+
+
+2774
+#Spontaneous hybridization of Potamogeton praelongus and Potamogeton lucens confirmed in a germination test (Czech Republic)
+#Prausova, R
+#2018
+--------------------------------
+A hybrid of P. praelongus and P. lucens (P. x judandicus) was found in an outdoor germination test in 2013-2015, which confirmed existence of spontaneous hybridization of the pondweed species present in the ponds below Plesivec in the Kokorinsko Protected Landscape Area in the Czech Republic Seedlings of P. x jutlandicus were different from those of P. praelongus and the speed of their growth was higher. P. x jutlandicus has not been found in natural sites in the Czech Republic yet. The Czech locality is the third one of this rare hybrid worldwide and the first one with a molecular proof.
+
+

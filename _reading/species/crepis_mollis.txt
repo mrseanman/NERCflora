@@ -1,0 +1,36 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+782
+#DEVELOPMENT OF MICROSATELLITE MARKERS FOR CREPIS MOLLIS (ASTERACEAE)
+#Duwe, VK, Muller, LAH, Borsch, T, Ismail, SA
+#2016
+--------------------------------
+Premise of the study: Polymorphic microsatellite markers were developed for the threatened species Crepis mollis (Asteraceae) to investigate population and conservation genetics. Methods and Results: Illumina sequencing was conducted on pooled genomic DNA from 10 individuals of two populations. Ten polymorphic and 10 monomorphic microsatellite loci with di-, tri-, tetra-, penta-, and hexanucleotide repeat motifs were developed and characterized in C. mollis. In the polymorphic markers, up to 17 alleles per locus were detected with an observed and expected heterozygosity ranging from 0.120 to 0.780 and 0.102 to 0.834, respectively. Furthermore, the polymorphic markers were tested for cross- amplification in three congeneric species (C. biennis, C. foetida, and C. sancta) and amplified in up to three loci. Conclusions: The markers developed in this study are the first microsatellites tested on C. mollis and will be useful for performing population and conservation genetic studies in this threatened species.
+
+
+783
+#Genetic structure and genetic diversity of the endangered grassland plant Crepis mollis (Jacq.) Asch as a basis for conservation management in Germany
+#Duwe, VK, Muller, LAH, Reichel, K, Zippel, E, Borsch, T, Ismail, SA
+#2018
+--------------------------------
+Plant diversity is decreasing mainly through anthropogenic factors like habitat fragmentation, which lead to spatial separation of remaining populations and thereby affect genetic diversity and structure within species. Twenty populations of the threatened grassland species Crepis mollis were studied across Germany (578 individual plants) based on microsatellite genotyping. Genetic diversity was significantly higher in populations from the Alpine region than from the Central Uplands. Furthermore, genetic diversity was significantly positively correlated with population size. Despite smaller populations in the Uplands there were no signs of inbreeding. Genetic differentiation between populations was moderate (F (ST) = 0.09) and no isolation by distance was found. In contrast, large-scale spatial genetic structure showed a significant decrease of individual pairwise relatedness, which was higher than in random pairs up to 50 km. Bayesian analyses detected three genetic clusters consistent with two regions in the Uplands and an admixture group in the Alpine region. Despite the obvious spatial isolation of the currently known populations, the absence of significant isolation by distance combined together with moderate population differentiation indicates that drift rather than inter-population gene flow drives differentiation. The absence of inbreeding suggests that pollination is still effective, while seed dispersal by wind is likely to be impaired by discontinuous habitats. Our results underline the need for maintaining or improving habitat quality as the most important short term measure for C. mollis. For maintaining long-term viability, establishing stepping stone habitats or, where this is not possible, assisted gene flow needs to be considered.
+
+
+------------- All Abstracts -------------------
+782
+#DEVELOPMENT OF MICROSATELLITE MARKERS FOR CREPIS MOLLIS (ASTERACEAE)
+#Duwe, VK, Muller, LAH, Borsch, T, Ismail, SA
+#2016
+--------------------------------
+Premise of the study: Polymorphic microsatellite markers were developed for the threatened species Crepis mollis (Asteraceae) to investigate population and conservation genetics. Methods and Results: Illumina sequencing was conducted on pooled genomic DNA from 10 individuals of two populations. Ten polymorphic and 10 monomorphic microsatellite loci with di-, tri-, tetra-, penta-, and hexanucleotide repeat motifs were developed and characterized in C. mollis. In the polymorphic markers, up to 17 alleles per locus were detected with an observed and expected heterozygosity ranging from 0.120 to 0.780 and 0.102 to 0.834, respectively. Furthermore, the polymorphic markers were tested for cross- amplification in three congeneric species (C. biennis, C. foetida, and C. sancta) and amplified in up to three loci. Conclusions: The markers developed in this study are the first microsatellites tested on C. mollis and will be useful for performing population and conservation genetic studies in this threatened species.
+
+
+783
+#Genetic structure and genetic diversity of the endangered grassland plant Crepis mollis (Jacq.) Asch as a basis for conservation management in Germany
+#Duwe, VK, Muller, LAH, Reichel, K, Zippel, E, Borsch, T, Ismail, SA
+#2018
+--------------------------------
+Plant diversity is decreasing mainly through anthropogenic factors like habitat fragmentation, which lead to spatial separation of remaining populations and thereby affect genetic diversity and structure within species. Twenty populations of the threatened grassland species Crepis mollis were studied across Germany (578 individual plants) based on microsatellite genotyping. Genetic diversity was significantly higher in populations from the Alpine region than from the Central Uplands. Furthermore, genetic diversity was significantly positively correlated with population size. Despite smaller populations in the Uplands there were no signs of inbreeding. Genetic differentiation between populations was moderate (F (ST) = 0.09) and no isolation by distance was found. In contrast, large-scale spatial genetic structure showed a significant decrease of individual pairwise relatedness, which was higher than in random pairs up to 50 km. Bayesian analyses detected three genetic clusters consistent with two regions in the Uplands and an admixture group in the Alpine region. Despite the obvious spatial isolation of the currently known populations, the absence of significant isolation by distance combined together with moderate population differentiation indicates that drift rather than inter-population gene flow drives differentiation. The absence of inbreeding suggests that pollination is still effective, while seed dispersal by wind is likely to be impaired by discontinuous habitats. Our results underline the need for maintaining or improving habitat quality as the most important short term measure for C. mollis. For maintaining long-term viability, establishing stepping stone habitats or, where this is not possible, assisted gene flow needs to be considered.
+
+

@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2058
+#Little genetic differentiation across Europe between early-flowering and late-flowering populations of the rapidly declining orchid Neotinea ustulata
+#Tali, K, Fay, MF, Bateman, RM
+#2006
+--------------------------------
+Amplified fragment length polymorphism (AFLP) was used to characterize genetic diversity of the endangered Burnt Orchid, Neotinea (formerly Orchis) ustulata. Fingerprinting of Estonian and British populations revealed surprisingly little genetic differentiation between populations but larger amounts of diversity within populations, especially in Britain. The resulting mean FIT value of 0.51 is unusually high for an orchid species. Much of the variation follows a west-east cline across Europe, whereas the much-discussed early- and late-flowering taxa of N. ustulata are considered insufficiently distinct to be viewed as separate subspecies. The later flowering N. ustulata var. aestivalis probably evolved independently on two or three occasions, each time diverging from the earlier flowering nominate race. The identity of the genes underpinning phenology in the species, and the potential selective advantages of phenological divergence, merit further study. Overall genetic diversity within populations is sufficiently high to render impoverishment an unlikely cause of their recent, precipitous decline.
+
+
+------------- All Abstracts -------------------
+2058
+#Little genetic differentiation across Europe between early-flowering and late-flowering populations of the rapidly declining orchid Neotinea ustulata
+#Tali, K, Fay, MF, Bateman, RM
+#2006
+--------------------------------
+Amplified fragment length polymorphism (AFLP) was used to characterize genetic diversity of the endangered Burnt Orchid, Neotinea (formerly Orchis) ustulata. Fingerprinting of Estonian and British populations revealed surprisingly little genetic differentiation between populations but larger amounts of diversity within populations, especially in Britain. The resulting mean FIT value of 0.51 is unusually high for an orchid species. Much of the variation follows a west-east cline across Europe, whereas the much-discussed early- and late-flowering taxa of N. ustulata are considered insufficiently distinct to be viewed as separate subspecies. The later flowering N. ustulata var. aestivalis probably evolved independently on two or three occasions, each time diverging from the earlier flowering nominate race. The identity of the genes underpinning phenology in the species, and the potential selective advantages of phenological divergence, merit further study. Overall genetic diversity within populations is sufficiently high to render impoverishment an unlikely cause of their recent, precipitous decline.
+
+

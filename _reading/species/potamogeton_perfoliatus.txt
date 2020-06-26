@@ -1,0 +1,115 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2765
+#Comparison of natural and artificial hybridization in Potamogeton
+#Kaplan, Z, Fehrer, J
+#2006
+--------------------------------
+The first attempt to artificially hybridize species of Potamogeton resulted in the hybrid P. perfoliatus x P. gramineus. The morphological features, reproductive behaviour and molecular markers of the offspring of this experimental hybridization were compared with those of the parental species and natural hybrids of the same assumed parentage. A phenotype corresponding to that of the natural hybrid R x nitens was acquired from an experimental cross between P. perfoliatus and P. gramineus. All plants, both natural and artificial, of this hybrid were consistently sterile. They showed the ITS variants of both parental taxa, which is consistent with biparental inheritance of nuclear DNA. The experimental hybrid was used to test the maternal inheritance of chloroplast DNA in Potamogeton. Sequences of a chloroplast intergenic spacer (rpl20-rps12) were identical with those of the female parent. Then, the directions of the crosses resulting in the natural hybrids were investigated. Of five natural populations of P. x nitens, P. gramineus was the maternal parent of two and P. perfoliatus of three populations. The frequency of hybridization events and rise of hybrids are discussed.
+
+
+2768
+#Discovery of a new, recurrently formed Potamogeton hybrid in Europe and Africa: Molecular evidence and morphological comparison of different clones
+#Zalewska-Galosz J, Ronikier M, Kaplan Z
+#2010
+--------------------------------
+A new Potamogeton hybrid resulting from crossing between P. nodosus and P. perfoliatus, and occurring in Europe and Africa is described here as P. xassidens. The hybrid identity was unequivocally confirmed by molecular study of ITS and selected chloroplast DNA regions. In European populations, for which the maternal taxon was identified based on cpDNA as P. nodosus, maternally driven expression of characters may account to a large degree for shaping the range of morphological variability of the hybrid taxon. This was accompanied by a matroclinal concerted evolution observed at the molecular level in the ITS sequences. Our observations may suggest the presence of some genetic mechanisms that promote a higher impact of the maternal lineage on the expression and evolution of the hybrid variability both at the molecular (direction of concerted evolution in hybrids) and the morphological level. Distinctive characters of P. xassidens and other morphologically close Potamogeton hybrids are discussed. The hybrid most similar to P. xassidens, namely P. xrectifolius, is typified.
+
+
+2769
+#When interspecific prezygotic barriers break down: hybridization between two Potamogeton species (P. wrightii and P. perfoliatus) and comparison of the artificial and natural hybrids
+#Zhang X-L, Li X-X, Ni L-Y, Guo Y-H
+#2011
+--------------------------------
+Interspecific hybridization played an important role in speciation and evolution of angiosperms. Although the widespread occurrence of natural hybrids in the genus Potamogeton has been studied intensively, few successful experimental hybridization studies have been reported in this genus. In the present study, critical experimental hybridization was conducted using Potamogeton x intortusifolius, a natural hybrid widely distributed in China, and its parents (P. perfoliatus and P. wrightii). The absence of prezygotic barriers between P. wrightii and P. perfoliatus was observed, which contributes to the frequent hybridization of these species in nature. The pollen tube growth rates of P. perfoliatus were much faster than those of P. wrightii in the style of that species. However, the conspecific pollen tubes were competitively advantageous in P. perfoliatus styles. The interspecific hybridization could be applied bidirectionally, and 28 F1 hybrid individuals were successfully obtained from P. wrightii x P. perfoliatus, despite the low germination possibility of the hybrid seeds. Both the artificial and natural hybrids exhibited intermediate morphological characters but presented much lower fertility. The sterility of P. x intortusifolius is mainly due to its low female fitness. However, the offspring from P. wrightii x P. x intortusifolius indicated the potential for backcrossing in nature. This is the most successful attempt at artificial hybridization in this genus so far. The possible route for restoration of fertility and the fitness of the hybrids are also discussed in this paper.
+
+
+------------- All Abstracts -------------------
+2762
+#Genetic structure and morphological variation of British populations of the hybrid Potamogeton x salicifolius.
+#Fant, JB and Preston, CD
+#2004
+--------------------------------
+Potamogeton x salicifolius Wolfg. is one of the three most frequently recorded Potamogeton hybrids in the British Isles and Europe. It is thought to be the hybrid between P. lucens and P. perfoliatus. Its scattered distribution suggests that it has arisen several times in Britain. Most British populations of P. x salicifolius can be identified by their morphological characteristics, which are intermediate between those of the putative parents P. lucens and P. perfoliatus . However, the population at the Ouse Washes, Cambridgeshire, differs from other populations in its greater similarity to P . lucens . A genetic study of eight British populations, using six isozyme systems, revealed that most populations consist of a single multi-enzyme phenotype. This suggests that they were the result of a single hybridization event and are therefore maintained through vegetative reproduction. By contrast, the Ouse Washes population consists of three multi-enzyme phenotypes. This variation is likely to have resulted from multiple hybridization events, although we cannot exclude the possibility that the plants are partially fertile. The isozyme systems studied were unable to identify P. lucens and P. perfoliatus unambiguously, and consequently did not provide evidence for their putative parentage of P. x salicifolius. However, at a local level the banding patterns of the hybrids were generally consistent with the local multi-enzyme phenotypes of these putative parents.
+
+
+2763
+#Genetic diversity and origin of Potamogeton anguillanus (Potamogetonaceae) in Lake Biwa, Japan.
+#Iida, S, Kadono, Y
+#2002
+--------------------------------
+We analyzed the genetic variation in Potamogeton anguillanus Koidz. and its putative parents, P. malaianus Miq. and P. perfoliatus L., at five allozyme loci of four enzymes to test the hypothesis of a hybrid origin for P. anguillanus, collected in Lake Biwa, Japan. Alleles diagnostic for either P. malaianus or P. perfoliatus were present at four loci. Of 13 single locus phenotypes (SLPs) of P. anguillanus, eight were phenotypes that were expected in F-1 hybrids between P. malaianus and P. perfoliatus. Two SLPs were different from those expected in F-1 hybrids but could have resulted from segregation of parental alleles in later generation hybrids. Each of the remaining three SLPs possessed one allele unique to P. anguillanus. Allozyme analyses thus supported the view that P. anguillanus was derived from hybridization between P. malaianus and P. perfoliatus. It seems likely that the genetic diversity of P. anguillanus found previously originated through multiple hybridizations and sexual processes in P. anguillanus. Other processes such as intragenic recombination, mutation, or hybridization with another lineage are also discussed with reference to the origin of unique alleles.
+
+
+2764
+#Isozyme polymorphism in the genus Potamogeton (Potamogetonaceae).
+#Hettiarachchi, P and Triest, L
+#1991
+--------------------------------
+
+
+
+2765
+#Comparison of natural and artificial hybridization in Potamogeton
+#Kaplan, Z, Fehrer, J
+#2006
+--------------------------------
+The first attempt to artificially hybridize species of Potamogeton resulted in the hybrid P. perfoliatus x P. gramineus. The morphological features, reproductive behaviour and molecular markers of the offspring of this experimental hybridization were compared with those of the parental species and natural hybrids of the same assumed parentage. A phenotype corresponding to that of the natural hybrid R x nitens was acquired from an experimental cross between P. perfoliatus and P. gramineus. All plants, both natural and artificial, of this hybrid were consistently sterile. They showed the ITS variants of both parental taxa, which is consistent with biparental inheritance of nuclear DNA. The experimental hybrid was used to test the maternal inheritance of chloroplast DNA in Potamogeton. Sequences of a chloroplast intergenic spacer (rpl20-rps12) were identical with those of the female parent. Then, the directions of the crosses resulting in the natural hybrids were investigated. Of five natural populations of P. x nitens, P. gramineus was the maternal parent of two and P. perfoliatus of three populations. The frequency of hybridization events and rise of hybrids are discussed.
+
+
+2766
+#Nuclear and chloroplast DNA sequences data support the origin of Potamogeton intortusifolius JB He in China as a hybrid between P. perfoliatus Linn. and P. wrightii Morong 
+#Du, ZY Yang, CF Chen, JM Guo, YH
+#2009
+--------------------------------
+Internal transcribed spacers (ITS) of nuclear ribosomal DNA and
+ chloroplast rbcL gene sequence data were used to test the hypothesis
+ that natural populations of Potamogeton intortusifolius J.B. He in
+ China originated from hybridization between P. perfoliatus Linn. and P.
+ wrightii Morong. Based on ITS sequences data, P. intortusifolius
+ possessed heterozygous rDNA genotypes which confirmed the hybrid origin
+ of P. intortusifolius. Chloroplast rbcL gene sequences of P.
+ intortusifolius from Yichang population revealed the same chloroplast
+ haplotype as P. perifoliatus and the samples of P. intortusifolius from
+ Weinan population had the same chloroplast haplotype as P. wrightii,
+ which indicated that both putative parental species had been the
+ maternal parent and that the two populations of P. intortusifolius had
+ independent origins. This study confirms P. intortusifolias as a
+ reciprocal hybrid. Because P. x intortusifolius in China has the same
+ hybrid origin as P. x anguillanus Koidz, in Japan, it is suggested that
+ P. x intortusifolius should be a synonym of P. x anguillanus.
+
+
+2767
+# Identification of hybrids in broad-leaved Potamogeton species (Potamogetonaceae) in China using nuclear and chloroplast DNA sequence data
+#Du ZY, Yang CF, Chen JM, Guo YH
+#2010
+--------------------------------
+Hybridization is relatively frequent in the pondweed genus Potamogeton. A total of five putative hybrids of broad-leaved Potamogeton in China were collected in our recent investigations. We used internal transcribed spacers (ITS) of nuclear ribosomal DNA and chloroplast rbcL gene sequences to confirm the origins of the putative hybrids. Using ITS sequence additivity, we confirmed that the five putative hybrids were P. x anguillanus Koidzumi (P. wrightii x P. perfoliatus), P. x malainoides Miki (P. distinctus x P. wrightii), P. distinctus x P. nodosus, P. nodosus x P. wrightii, and P. distinctus x P. gramineus. The latter four hybrids are new records for China, and P. distinctus x P. gramineus is a new hybrid combination in Potamogeton. We found a new genotype of P. perfoliatus in northeast China. Hybrids between the new and a common genotype of P. perfoliatus were found in Central China. The maternal parents of the six hybrids were confirmed by chloroplast rbcL gene sequence data. The hybrids P. x anguillanus and P. distinctus x P. gramineus are reciprocal hybrids. P. x anguillanus has multiple origins from different populations. P. distinctus x P. gramineus has multiple origins within a single population.
+
+
+2768
+#Discovery of a new, recurrently formed Potamogeton hybrid in Europe and Africa: Molecular evidence and morphological comparison of different clones
+#Zalewska-Galosz J, Ronikier M, Kaplan Z
+#2010
+--------------------------------
+A new Potamogeton hybrid resulting from crossing between P. nodosus and P. perfoliatus, and occurring in Europe and Africa is described here as P. xassidens. The hybrid identity was unequivocally confirmed by molecular study of ITS and selected chloroplast DNA regions. In European populations, for which the maternal taxon was identified based on cpDNA as P. nodosus, maternally driven expression of characters may account to a large degree for shaping the range of morphological variability of the hybrid taxon. This was accompanied by a matroclinal concerted evolution observed at the molecular level in the ITS sequences. Our observations may suggest the presence of some genetic mechanisms that promote a higher impact of the maternal lineage on the expression and evolution of the hybrid variability both at the molecular (direction of concerted evolution in hybrids) and the morphological level. Distinctive characters of P. xassidens and other morphologically close Potamogeton hybrids are discussed. The hybrid most similar to P. xassidens, namely P. xrectifolius, is typified.
+
+
+2769
+#When interspecific prezygotic barriers break down: hybridization between two Potamogeton species (P. wrightii and P. perfoliatus) and comparison of the artificial and natural hybrids
+#Zhang X-L, Li X-X, Ni L-Y, Guo Y-H
+#2011
+--------------------------------
+Interspecific hybridization played an important role in speciation and evolution of angiosperms. Although the widespread occurrence of natural hybrids in the genus Potamogeton has been studied intensively, few successful experimental hybridization studies have been reported in this genus. In the present study, critical experimental hybridization was conducted using Potamogeton x intortusifolius, a natural hybrid widely distributed in China, and its parents (P. perfoliatus and P. wrightii). The absence of prezygotic barriers between P. wrightii and P. perfoliatus was observed, which contributes to the frequent hybridization of these species in nature. The pollen tube growth rates of P. perfoliatus were much faster than those of P. wrightii in the style of that species. However, the conspecific pollen tubes were competitively advantageous in P. perfoliatus styles. The interspecific hybridization could be applied bidirectionally, and 28 F1 hybrid individuals were successfully obtained from P. wrightii x P. perfoliatus, despite the low germination possibility of the hybrid seeds. Both the artificial and natural hybrids exhibited intermediate morphological characters but presented much lower fertility. The sterility of P. x intortusifolius is mainly due to its low female fitness. However, the offspring from P. wrightii x P. x intortusifolius indicated the potential for backcrossing in nature. This is the most successful attempt at artificial hybridization in this genus so far. The possible route for restoration of fertility and the fitness of the hybrids are also discussed in this paper.
+
+
+2770
+#Impacts of the Asian interior arid zone on phylogeographic patterns in the eastern Asian flora revealed by two Potamogeton species (Potamogetonaceae): east-west divergence within species and barriers to north-south dispersal
+#Du, ZY, Wang, QF
+#2018
+--------------------------------
+Cenozoic climatic and geological changes enhanced Asian monsoon activity and interior aridification, which influenced the migration and isolation of temperate species in eastern Asia. However, the impact of the Asian interior arid zone on phylogeographic patterns of aquatic plants is poorly studied. Here, we present a comparative study of two Potamogeton spp. (Potamogetonaceae) using phylogeographic analyses of nuclear and plastid DNA, approximate Bayesian computation of population history and palaeodistribution modelling to infer their evolutionary histories in the neighbouring regions of eastern Asian deserts. Our results suggested that the intensified aridification of inland Asia from the late Miocene onward drove intraspecific divergence in the two species. Potamogeton perfoliatus and P. berchtoldii both diverged into two lineages beside the deserts in north-western and north-eastern China during the Neogene. The two lineages of P. perfoliatus admixed in regions south of the arid zone, with the majority of populations derived from the north-western lineage. In P. berchtoldii, only the north-western lineage was found in regions south of the arid zone. The observed phylogeographic patterns suggest that the vast inland Asian arid zone has important impacts on divergence and dispersal of these species. Our study highlights the influence of the Asian interior aridification in shaping the evolutionary histories of the aquatic flora of eastern Asia.
+
+

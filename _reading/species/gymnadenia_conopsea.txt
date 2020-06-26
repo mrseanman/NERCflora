@@ -1,0 +1,108 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1445
+#Strong inbreeding depression and local outbreeding depression in the rewarding orchid Gymnadenia conopsea
+#Sletvold, N., J. M. Grindeland, P. Zu, and J. Agren
+#2012
+--------------------------------
+Conservation of species threatened by habitat fragmentation is a major global challenge, and determining the genetic and demographic processes associated with isolation and reductions in population size will be critical for an increasing number of species. We conducted controlled crosses and field germination experiments to quantify the effects of inbreeding and outbreeding in the declining orchid Gymnadenia conopsea in two Norwegian populations that differ in size. We further compared our results with published estimates of inbreeding depression in orchids. There was severe inbreeding depression for seed production (delta = 0.41-0.67) and germination (delta = 0.46-0.66) in both populations, with stronger inbreeding depression in the large population. Compared to outcrossing, selfing reduced female fitness (number of seeds per fruit x proportion of seeds germinating) by 76 and 54 % in the large and small population, respectively. The magnitude of inbreeding depression for seed production was higher than the average reported for orchids, while for germination it was similar to earlier estimates. The large population also experienced considerable outbreeding depression for seed production (delta = 0.23-0.27), germination (delta = 0.33) and female fitness (delta = 0.47) following crosses with a population 1.6 km away. The strong inbreeding depression indicates that both populations harbour a substantial genetic load, and suggests that fragmentation may reinforce population decline in G. conopsea via increased inbreeding. Moreover, the local outbreeding depression indicates substantial genetic differentiation at a moderate spatial scale. This has important implications for the use of crosses between populations or plant translocations as conservation approaches.
+
+
+1446
+#THE ABILITY OF SPONTANEOUS AUTOGAMY IN FOUR ORCHID SPECIES: CEPHALANTHERA RUBRA, NEOTTIA OVATA, GYMNADENIA CONOPSEA, AND PLATANTHERA BIFOLIA
+#Talalaj, I, Ostrowiecka, B, Wlostowska, E, Rutkowska, A, Brzosko, E
+#2017
+--------------------------------
+The breeding system in Orchidaceae generates many questions about the selfing potential of its representatives. We investigated the ability of spontaneous autogamy of four orchid species: Cephalanthera rubra and Neottia ovata of the Neottieae tribe and Gymnadenia conopsea and Platanthera bifolia of the Orchideae tribe. These species represent diverse specializations of the gynostemium architecture. The self-compatibility and properties of autogamous seeds were determined in a bagging experiment and seed development analysis. After induced autogamy, a high level of fruiting (80-100%) was noted in all of the four study species. C. rubra, N. ovata, and G. conopsea are completely self-compatible, and P. bifolia is suggested to be partially self-compatible. If autogamy occurred, inbreeding depression and resource limitation on seed development appeared only in the two Orchideae species. Independent of flower specialization, both Neottieae species and P. bifolia were completely allogamous, whereas G. conopsea could be facultatively autogamous.
+
+
+------------- All Abstracts -------------------
+1436
+#Isolation and characterization of microsatellite primers for the Fragrant Orchid Gymnadenia conopsea (L.) R. Brown (Orchidaceae).
+#Campbell, VV, Rowe, G, Beebee, TJC and Hutchings, MJ
+#2002
+--------------------------------
+
+
+
+1437
+#Patterns of genetic variation in Gymnadenia conopsea, the fragrant orchid.
+#Gustafsson, S
+#2000
+--------------------------------
+Gymnadenia conopsea (L.) R. Bt, or the fragrant orchid, is one of many plant species negatively influenced by new practices in agriculture and forestry during the last decades. This study describes the level of microsatellite variation within and among 10 Swedish populations of this species. It was not possible to detect strong effects of small population size or fragmentation. In general, the species had high genetic variation within and low genetic divergence among populations, although the correlation between population size and number of alleles was close to significance at the 95% level. Also, a significant isolation by distance effect was observed, indicating the presence of modest restrictions in gene dispersal between the investigated populations.
+
+
+1438
+#Genetic differentiation and habitat preference of flowering- time variants within Gymnadenia conopsea.
+#Gustafsson, S, Lonn, M
+#2003
+--------------------------------
+Using fast-evolving microsatellites, more slowly evolving ITS markers and performing habitat analyses, we demonstrated a drastic genetic divergence and significant habitat differentiation between early- and late-flowering variants of plants morphologically belonging to Gymnadenia conopsea ssp conopsea. The two phenological variants can either be found in separate or in mixed populations. Information from microsatellite markers and ITS sequences indicated the occurrence of an early historical split between the two flowering-time variants, a split that has been maintained until the present time even within sympatric populations. Early- flowering variants were also far more genetically diverse, had more alleles per microsatellite locus and a wider habitat amplitude than late-flowering variants. As a comparison, we included G. odoratissima in the sequencing study. We found G. odoratissima to be most closely related to the early-flowering type. This indicates a more ancient divergence event between the two flowering-time variants within G. conopsea ssp conopsea than between the two different species G. odoratissima and the early-flowering variant of G. conopsea. Possible explanations to the results arrived at and possible mechanisms maintaining the genetic separation are discussed.
+
+
+1439
+#Genetic diversity in the rare orchid, Gymnadenia odoratissima and a comparison with the more common congener, G.conopsea.
+#Gustafsson, S, Sjogren-Gulve, P
+#2002
+--------------------------------
+Patterns and levels of genetic diversity may have significant influence on the long term persistence of local populations and revealing such information is important in protecting rare species. In this study we investigated the genetic pattern in five microsatellite loci within five Swedish populations of the rare orchid species Gymnadenia odoratissima. The geographic distribution of G. odoratissima is restricted to Europe and in Scandinavia it is only found in three provinces in southern Sweden; Ostergotland, Vastergotland and on the island of Gotland. Compared with the more widespread congener G. conopsea our results indicate lower levels of genetic variation within and higher degrees of genetic differentiation among populations of G. odoratissima (H-EL = 0.6-0.8 in G. conopsea and 0.3-0.7 in G. odoratissima; F-ST over all populations = 0.06 in G. conopsea and 0.19 in G. odoratissima). Also, we found a clear distinction among mainland and island populations of G. odoratissima where populations on the island of Gotland seem to exhibit higher levels of gene flow and intragenetic variation, probably as a result of a larger number of existing populations. Future conservation of this species should focus on facilitation on colonisation events, especially on the mainland, and preservation of the genetically more variable Gotland populations.
+
+
+1440
+#Microsatellite loci in Gymnadenia conopsea, the fragrant orchid.
+#Gustafsson, S, Thoren, PA
+#2001
+--------------------------------
+Six polymorphic microsatellite loci were found in two genomic libraries (one unenriched and one enriched) constructed using DNA originating from the fragrant orchid, Gymnadenia conopsea. These six microsatellite loci (Gc 17, 29, 42, 49, 51 and 77) showed high levels of variation (H-O = 0.65,0.90,0.85,0.73,0.90 and 0.40, respectively) when 20 individuals from one population of G. conopsea were PCR amplified and separated in 6% PAA gels.
+
+
+1441
+#Genetic and floral divergence among sympatric populations of Gymnadenia conopsea SL (orchideaceae) with different flowering phenology.
+#Soliva, M, Widmer, A
+#1999
+--------------------------------
+Gymnadenia conopsea s.l. is a common orchid in central Europe, where early- and late-flowering populations can be distinguished. The early-flowering form is recognized as subspecies conopsea and the late-flowering form as subspecies densiflora. The two subspecies can occur in sympatry, but their flowering periods are separated. We investigated whether early- and late-flowering subspecies are genetically differentiated, whether they diverged once or repeatedly, and we tried to identify potential evolutionary forces involved in the divergence of the two subspecies. We used genetic markers to estimate genetic divergence within and among populations of early- and late-flowering G. conopsea, and to reconstruct their evolutionary history. In addition, we assessed morphological variation between subspecies. Allozyme variation indicated that subspecies conopsea was significantly more variable than ssp. densiflora a and that gene flow among populations of ssp. conopsea was higher than among populations of ssp, densiflora. Gene flow between subspecies was low, indicating that the difference in flowering phenology represented an effective barrier to gene flow. A neighbor-joining tree based on allozyme frequencies indicated that early- and late- flowering populations did not diverge repeatedly in sympatry. Levels of cpDNA variation were generally low, even between G. conopsea s.l. and Gymnadenia odoratissima, chosen as an outgroup. Four cpDNA haplotypes were found, which differed only in the number of microsatellite repeats. Their distribution among subspecies of G. conopsea s.l. and G. odoratissima indicates that microsatellite haplotypes have evolved repeatedly, and their occurrence in different taxa thus represents a homoplasy. Floral characters were variable within and among populations and subspecies but did not consistently separate early- from late-flowering populations. A weak separation between subspecies was found in vegetative characters that presumably reflected habitat and competitive differences experienced by early- and late-flowering populations.
+
+
+1442
+#The evolution of Dactylorhiza (Orchidaceae) allotetraploid complex: Insights from nrDNA sequences and cpDNA PCR-RFLP data
+#Devos, N, Raspe, O, Oh, SH, Tyteca, D, Jacquemart, AL
+#2006
+--------------------------------
+Sequence data from a portion of the external transcribed spacer (ETS)and from the internal transcribed spacers (ITS1 and ITS2) of 18S-26S nuclear ribosomal DNA were used together with chloroplast DNA PCR-RFLP data to unravel patterns of allotetraploid speciation within theWestern European Dactylorhiza polyploid complex. A maximum likelihood tree based on combined ETS and ITS sequences suggests that the Western European Dactylorhiza allotetraploids have evolved by hybridizationbetween four main diploid lineages. Cloned sequences and the topologyof the ITS plus ETS tree indicate that the allotetraploid species D.elata, D. brennensis, and D. sphagnicola have originated from the autotetraploid D. maculata together with the diploid D. incarnata,while D. majalis, D. traunsteineri, and D. angustata seem to haveevolved by hybridization between the D. fuchsii s.str and D. incarnata lineages. Finally, the diploid D. saccifera lineage seems to have beeninvolved together with the D. incarnata lineage in the formation of the allotetraploid D. praetermissa. The observed congruence between the chloroplast tree and the ITS/ETS tree suggests a directional evolution of the nrDNA after polyploidization in favor of the maternal genome.Considered together with morphological, biogeographical, and ecological evidence, the molecular analysis leads us to recognize four species within the investigated allotetraploid complex, namely D. majalis, D.praetermissa, D. elata, and D. sphagnicola.
+
+
+1443
+#Genetic differentiation amongst fragrant orchids (Gymnadenia conopsea s.l.) in the British Isles
+#Campbell, VV Rowe, G Beebee, TJC Hutchings, MJ
+#2007
+--------------------------------
+Genetic variation was examined in five microsatellite loci to seek evidence of genetic differentiation and restricted gene flow that would support the taxonomic division of Gymnadenia into three species (G. borealis, G. conopsea, and G. densiflora). A total of 107 alleles was detected in 17 populations from England, Scotland, and Ireland. The mean expected heterozygosities ranged from 0.48 to 0.81. The differentiation in allele frequencies amongst populations that had been assigned to each taxon on the basis of morphology was sufficiently large to support the taxa as distinct species. Phylogenetic trees based on microsatellite allele frequencies, as well as assignment tests, supported the existence of three distinct groups with at least partial restriction of gene flow between them. There was substantial homozygote excess, leading to high F-IS estimates, for most loci in most populations. This is unlikely to have been a result of widespread null alleles, and more probably reflects a high level of inbreeding in G. conopsea. This inference requires further investigation. The implications of the results of this and other taxonomic studies for the conservation of Gymnadenia in Britain are discussed. (C) 2007 The Linnean Society of London
+
+
+1444
+#Strong genetic differentiation between Gymnadenia conopsea and G. densiflora despite morphological similarity
+#Stark C, Michalski SG, Babik W, Winterfeld G, Durka W
+#2011
+--------------------------------
+The fragrant orchid Gymnadenia conopsea s.l. is a controversial taxon with two commonly distinguished species, G. conopsea s.str. and G. densiflora. Despite morphological similarity, differentiation between the taxa has been reported for several characters; however, character variation within taxa has obviated a clear consensus. We assessed ITS sequences, microsatellite variation and chromosome numbers on the European scale (1,420 samples) and conducted morphological analyses for 626 samples from Germany. ITS analysis revealed a 2% nucleotide divergence between the taxa, similar to the divergence between other Gymnadenia species. The ITS sequences of G. densiflora form a well-supported monophyletic group sharing a most recent common ancestor with G. nigra and G. austriaca. Thus, G. conopsea and G. densiflora are not sister species, and a species rank is supported for G. densiflora (Wahlenb.) Dietrich and G. conopsea (L.) R.Br. s.str. This was confirmed by the microsatellite analysis, which revealed a strong genetic differentiation between the taxa because of largely non-overlapping sets of alleles. Chromosome numbers showed that G. conopsea was either diploid or tetraploid, whereas G. densiflora was diploid throughout. Morphologically, the taxa differed significantly in the mean value of a number of diagnostic characters. However, a discriminant analysis showed that the morphological variability is substantial, and on the individual level an unequivocal assignment is not possible as 96% of G. conopsea, but only 77% of G. densiflora could be assigned correctly. Further studies are needed on character variation within and among species and ploidy levels to allow for a better identification of the genetically differentiated but morphologically similar taxa.
+
+
+1445
+#Strong inbreeding depression and local outbreeding depression in the rewarding orchid Gymnadenia conopsea
+#Sletvold, N., J. M. Grindeland, P. Zu, and J. Agren
+#2012
+--------------------------------
+Conservation of species threatened by habitat fragmentation is a major global challenge, and determining the genetic and demographic processes associated with isolation and reductions in population size will be critical for an increasing number of species. We conducted controlled crosses and field germination experiments to quantify the effects of inbreeding and outbreeding in the declining orchid Gymnadenia conopsea in two Norwegian populations that differ in size. We further compared our results with published estimates of inbreeding depression in orchids. There was severe inbreeding depression for seed production (delta = 0.41-0.67) and germination (delta = 0.46-0.66) in both populations, with stronger inbreeding depression in the large population. Compared to outcrossing, selfing reduced female fitness (number of seeds per fruit x proportion of seeds germinating) by 76 and 54 % in the large and small population, respectively. The magnitude of inbreeding depression for seed production was higher than the average reported for orchids, while for germination it was similar to earlier estimates. The large population also experienced considerable outbreeding depression for seed production (delta = 0.23-0.27), germination (delta = 0.33) and female fitness (delta = 0.47) following crosses with a population 1.6 km away. The strong inbreeding depression indicates that both populations harbour a substantial genetic load, and suggests that fragmentation may reinforce population decline in G. conopsea via increased inbreeding. Moreover, the local outbreeding depression indicates substantial genetic differentiation at a moderate spatial scale. This has important implications for the use of crosses between populations or plant translocations as conservation approaches.
+
+
+1446
+#THE ABILITY OF SPONTANEOUS AUTOGAMY IN FOUR ORCHID SPECIES: CEPHALANTHERA RUBRA, NEOTTIA OVATA, GYMNADENIA CONOPSEA, AND PLATANTHERA BIFOLIA
+#Talalaj, I, Ostrowiecka, B, Wlostowska, E, Rutkowska, A, Brzosko, E
+#2017
+--------------------------------
+The breeding system in Orchidaceae generates many questions about the selfing potential of its representatives. We investigated the ability of spontaneous autogamy of four orchid species: Cephalanthera rubra and Neottia ovata of the Neottieae tribe and Gymnadenia conopsea and Platanthera bifolia of the Orchideae tribe. These species represent diverse specializations of the gynostemium architecture. The self-compatibility and properties of autogamous seeds were determined in a bagging experiment and seed development analysis. After induced autogamy, a high level of fruiting (80-100%) was noted in all of the four study species. C. rubra, N. ovata, and G. conopsea are completely self-compatible, and P. bifolia is suggested to be partially self-compatible. If autogamy occurred, inbreeding depression and resource limitation on seed development appeared only in the two Orchideae species. Independent of flower specialization, both Neottieae species and P. bifolia were completely allogamous, whereas G. conopsea could be facultatively autogamous.
+
+

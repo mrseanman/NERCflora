@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1949
+#Genetic variation in Minuartia (Caryophyllaceae) in Svalbard.
+#Borgen, L
+#1999
+--------------------------------
+Based on a survey of eight enzyme systems, genetic variation in three Minuartia species was analysed and the diversity in 15 populations in Svalbard (78 degrees N) compared to seven populations in Norway, Iceland, and Greenland. In the two sexual diploids, M. biflora and M. rubella, genetic diversity was as high in populations from Svalbard as in populations from more southerly latitudes. In M. biflora, eight out of 15 loci were polymorphic (P=53.3 %); in M. rubella eight out of 18 (P=44.4 %). The mean number of alleles per locus (A) and the number of multilocus genotypes (MG) were also higher in M. biflora than in M. rubella, A=1.60 and MG=21 vs. A=1.44 and MG=9. The proportion of genetic diversity due to variation among populations was much lower in M. biflora than in M. rubella, FST=0.249 vs. FST=0.895, and the estimated gene flow much higher, Nm=0.745 vs. Nm=0.029, indicating that M. biflora is a mixed mater and M. rubella a selfer. In the vegetatively reproducing tetraploid, M. rossii, 13 (65 %) out of 20 putative loci showed fixed heterozygosity, the mean number of alleles per 'locus' was A=1.70, and two multilocus phenotypes were observed, proving that at least two clones occur in Svalbard. No allele was shared by all three species and Nei's genetic; identity for biflora-rubella was extremely low, I=0.07. The results suggest that the three species, which are currently placed in separate sections, represent lineages that diverged a long time ago.
+
+
+------------- All Abstracts -------------------
+1949
+#Genetic variation in Minuartia (Caryophyllaceae) in Svalbard.
+#Borgen, L
+#1999
+--------------------------------
+Based on a survey of eight enzyme systems, genetic variation in three Minuartia species was analysed and the diversity in 15 populations in Svalbard (78 degrees N) compared to seven populations in Norway, Iceland, and Greenland. In the two sexual diploids, M. biflora and M. rubella, genetic diversity was as high in populations from Svalbard as in populations from more southerly latitudes. In M. biflora, eight out of 15 loci were polymorphic (P=53.3 %); in M. rubella eight out of 18 (P=44.4 %). The mean number of alleles per locus (A) and the number of multilocus genotypes (MG) were also higher in M. biflora than in M. rubella, A=1.60 and MG=21 vs. A=1.44 and MG=9. The proportion of genetic diversity due to variation among populations was much lower in M. biflora than in M. rubella, FST=0.249 vs. FST=0.895, and the estimated gene flow much higher, Nm=0.745 vs. Nm=0.029, indicating that M. biflora is a mixed mater and M. rubella a selfer. In the vegetatively reproducing tetraploid, M. rossii, 13 (65 %) out of 20 putative loci showed fixed heterozygosity, the mean number of alleles per 'locus' was A=1.70, and two multilocus phenotypes were observed, proving that at least two clones occur in Svalbard. No allele was shared by all three species and Nei's genetic; identity for biflora-rubella was extremely low, I=0.07. The results suggest that the three species, which are currently placed in separate sections, represent lineages that diverged a long time ago.
+
+

@@ -1,0 +1,92 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1636
+#Microsatellite retrieval in lettuce (Lactuca sativa L.).
+#van de Wiel, C, Arens, P, Vosman, B
+#1999
+--------------------------------
+By using enriched genomic libraries, microsatellite-containing sequences were isolated from lettuce (Lactuca sativa) with high efficiency. With this approach, a sizeable fraction (up to 55%) of the clones contained a microsatellite. In about half of these clones, primers could be designed for PCR amplification of the microsatellite. This yielded 28 primer sets amplifying unambiguously scorable products, of which 26 showed polymorphisms in a test set of six lettuce varieties. Practically all microsatellite-amplifying primer sets yielded products in lettuce's nearest relative, L. serriola, but only half of the primer sets yielded products in the more distant species L. saligna and L. virosa. An average polymorphism information content (PIC) value of 0.55 and an average number of 3.5 alleles per locus were in the normal range for a self- fertilizing species like lettuce. In addition, the incidental cloning of a microsatellite-containing repeat family, apparently specific for Lactuca, is reported and the implications for the efficient retrieval of single-locus microsatellite sequences are discussed. The microsatellite loci isolated will be useful for distinguishing lettuce cultivars and for screening diversity of genetic resources.
+
+
+1637
+#Species relationships in Lactuca sl (Lactuceae, Asteraceae) inferred from AFLP fingerprints.
+#Koopman, WJM, Zevenbergen, MJ, Van den Berg, RG
+#2001
+--------------------------------
+An AFLP data set comprising 95 accessions from 20 species of Lactuca s.l. (sensu lato) and related genera was generated using the primer combinations E35/M48 and E35/M49. In phenetic analyses of a data subset, clustering with UPGMA based on Jaccard's similarity coefficient resulted in the highest cophenetic correlation, and the results were comparable to those of a principal coordinates analysis, In analyses of the total data set, phenetic and cladistic analyses showed similar tree topologies for the well-supported parts of the trees. The validity of cladistic analysis of AFLP data is discussed. The results do not support a distinction among the serriola-like species L. sativa. L. serriola, L. dregeana, and L. altaica. which is in line with previous results. Therefore. we postulate that these species are conspecific. The serriola-like species L. aculeata occupies a clearly separate position, making it an ideal outgroup for studies of the closest relatives of L. sativa. The subsect. Lactuca as a group is well supported by our data, but the positions of L. saligna and L. virosa relative to the serriola-like species remain unclear. The close relationship between the sect. Mulgedium species L. tatarica and L. sibirica is corroborated by the present AFLP results and by additional crossability data.
+
+
+1638
+#Molecular diversity at the major cluster of disease resistance genes in cultivated and wild Lactuca spp..
+#Sicard, D, Woo, SS, Arroyo-Garcia, R, Ochoa, O, Nguyen, D, Korol, A, Nevo, E, Michelmore, R
+#1999
+--------------------------------
+Diversity was analyzed in wild and cultivated Lactuca germplasm using molecular markers derived from resistance genes of the NBS-LRR type. Three molecular markers, one microsatellite marker and two SCAR markers that amplified LRR-encoding regions, were developed from sequences of resistance gene homologs at the main resistance gene cluster in lettuce. Variation for these markers were assessed in germplasm including accessions of cultivated lettuce, Lactuca sativa L. and three wild Lactuca spp., L. serriola L., L. saligna and L. virosa L. Diversity was also studied within and between natural populations of L. serriola from Israel and California; the former is close to the center of diversity for Lactuca spp. while the latter is an area of more recent colonization. Large numbers of haplotypes were detected indicating the presence of numerous resistance genes in wild species. The diversity in haplotypes provided evidence for gene duplication and unequal crossing-over during the evolution of this cluster of resistance genes. However, there was no evidence for duplications and deletions within the LRR-encoding regions studied. The three markers were highly correlated with resistance phenotypes in L. sativa. They were able to discriminate between accessions that had previously been shown to be resistant to all known isolates of Bremia lactucae. Therefore, these markers will be highly informative for the establishment of core collections and marker-aided selection.  hierarchical analysis of the population structure of L. serriola showed that countries, as well as locations, were significantly differentiated. These differences may reflect local founder effects and/or divergent selection.
+
+
+1640
+#Genetic structure and diversity in natural populations of three predominantly self-pollinating wild Lactuca species in Israel
+#Kitner, Miloslav, Majesky, Lubos, Kristkova, Eva, Jemelkova, Michaela, Lebeda, Ales, Beharav, Alex
+#2015
+--------------------------------
+It is important to optimize strategies for collecting wild germplasm from their natural habitats for the successful conservation of plant genetic resources. We studied the population structure of three predominantly self-pollinating wild Lactuca species (Lactuca serriola, L. saligna, and L. aculeata). Seeds for this study were collected from individual plants in northern Israel, along a line transect, and two populations per each Lactuca species. The distance between neighboring plants sampled for seeds varied from 1.5 to 37 m. The transect length at single sites ranged from 47.2 to 151.8 m. The taxonomic status of 67 individual plants was morphologically validated during greenhouse multiplication. Both genetic structure and diversity were analyzed by using 11 EST-SSR loci and 230 AFLP markers. Relatively low genetic diversity values were observed, increasing in the following order: L. aculeata < L. serriola < L. saligna. Network analysis clearly separated samples according to their taxonomic determination; also reflecting the gene diversity as well as the genetic distance values among the three species. Nevertheless, given the predominantly selfing character of these species, populations were not uniform (genetically and morphologically). It seems that overall genetic variation in a population increases at its periphery, due to the presence of plants with "non-indigenous" alleles, which are most likely coming from migration and subsequent interpopulation or interspecific hybridization. Mantel tests generally indicated a positive association between genetic distance and micro-geographical distance of a particular population, primarily due to the "outlier" samples collected at a population's periphery.
+
+
+------------- All Abstracts -------------------
+1634
+#Morphological characteristics and isozyme analysis of triploid achenes obtained in the F-2 generation of interspecific hybrids between Lactuca sativa L. and L. saligna L..
+#Mizutani, T, Tanaka, T
+#2004
+--------------------------------
+Seven (18%) and 4 (6.2%) individuals from 39 and 65 F-2 progenies obtained from the two interspecific F, hybrids between Lactuca saligna L. and L. sativa L. cv. Bronze were found to be spontaneous triploids. The length (mm) and weight (mg) of achenes formed on L. sativa, L. saligna and their F, hybrids were 4.01, 1.04; 2.70, 0.35; and 4.41 mm, 1.33 mg, respectively, and those of achenes obtained from L. saligna X L. sativa was 2.51 mm and 0.29 mg. The size of achenes obtained on the F, hybrids ranged from 3.3 to 6.2 mm and 0.2 to 2.4 mg. The size of the F2 triploid seeds from the F, hybrids were classified into 2 groups; 5 triploids with small achene (0.7- 1.1 mg) and the remaining 6 triploids with even heavier achene than L. sativa (>1.8 mg). The phenotype of 5 isozyme loci studied, Got-1, Pgi-1, Pgi-2, Pdh-1, and Pdh-2, always showed the 4 : 4 : 1 in band intensity in the triploids, which enabled us to analyze the genotypes. When the gene of L. sativa was named 'l' and that of L. saligna, 'g', all triploids were always heterozygous in the 5 isozyme loci, ggl or gll; this suggests that triploids resulted from a union of a reduced gamete with an unreduced gamete. The triploids from small achenes were ggl in almost all of the five loci, whereas those from the large achenes were gll. Thus, the curious combinations between achene size and the genotypes indicate that the survival rate of individuals with the distorted combination of genes to one of the two parent species is higher than that with the random combination.
+
+
+1635
+#PCR-based fingerprinting using AFLPs as a tool for studying genetic relationships in Lactuca spp.
+#Hill, M, Witsenboer, H, Zabeau, M, Vos, P, Kesseli, R, Michelmore, R
+#1996
+--------------------------------
+AFLP markers were evaluated for determining the phylogenetic relationships Lactuca spp. Genetic distances based on AFLP data were estimated for 44 morphologically diverse lines of cultivated L. sativa and 13 accessions of the wild species L. serriola, L. saligna, L. virosa, L. perennis, and L. indica. The same genotypes were analyzed as in a previous study that had utilized RFLP markers. The phenetic tree based on AFLP data was consistent with known taxonomic relationships and similar to a tree developed with RFLP data, The genetic distance matrices derived from AFLP and RFLP data were compared using least squares regression analysis and, for the cultivar data, by principal component analysis, There was also a positive linear relationship between distance estimates based on AFLP data and kinship coefficients calculated from pedigree data. AFLPs represent reliable PCR-based markers for studies of genetic relationships at a variety of taxonomic levels.
+
+
+1636
+#Microsatellite retrieval in lettuce (Lactuca sativa L.).
+#van de Wiel, C, Arens, P, Vosman, B
+#1999
+--------------------------------
+By using enriched genomic libraries, microsatellite-containing sequences were isolated from lettuce (Lactuca sativa) with high efficiency. With this approach, a sizeable fraction (up to 55%) of the clones contained a microsatellite. In about half of these clones, primers could be designed for PCR amplification of the microsatellite. This yielded 28 primer sets amplifying unambiguously scorable products, of which 26 showed polymorphisms in a test set of six lettuce varieties. Practically all microsatellite-amplifying primer sets yielded products in lettuce's nearest relative, L. serriola, but only half of the primer sets yielded products in the more distant species L. saligna and L. virosa. An average polymorphism information content (PIC) value of 0.55 and an average number of 3.5 alleles per locus were in the normal range for a self- fertilizing species like lettuce. In addition, the incidental cloning of a microsatellite-containing repeat family, apparently specific for Lactuca, is reported and the implications for the efficient retrieval of single-locus microsatellite sequences are discussed. The microsatellite loci isolated will be useful for distinguishing lettuce cultivars and for screening diversity of genetic resources.
+
+
+1637
+#Species relationships in Lactuca sl (Lactuceae, Asteraceae) inferred from AFLP fingerprints.
+#Koopman, WJM, Zevenbergen, MJ, Van den Berg, RG
+#2001
+--------------------------------
+An AFLP data set comprising 95 accessions from 20 species of Lactuca s.l. (sensu lato) and related genera was generated using the primer combinations E35/M48 and E35/M49. In phenetic analyses of a data subset, clustering with UPGMA based on Jaccard's similarity coefficient resulted in the highest cophenetic correlation, and the results were comparable to those of a principal coordinates analysis, In analyses of the total data set, phenetic and cladistic analyses showed similar tree topologies for the well-supported parts of the trees. The validity of cladistic analysis of AFLP data is discussed. The results do not support a distinction among the serriola-like species L. sativa. L. serriola, L. dregeana, and L. altaica. which is in line with previous results. Therefore. we postulate that these species are conspecific. The serriola-like species L. aculeata occupies a clearly separate position, making it an ideal outgroup for studies of the closest relatives of L. sativa. The subsect. Lactuca as a group is well supported by our data, but the positions of L. saligna and L. virosa relative to the serriola-like species remain unclear. The close relationship between the sect. Mulgedium species L. tatarica and L. sibirica is corroborated by the present AFLP results and by additional crossability data.
+
+
+1638
+#Molecular diversity at the major cluster of disease resistance genes in cultivated and wild Lactuca spp..
+#Sicard, D, Woo, SS, Arroyo-Garcia, R, Ochoa, O, Nguyen, D, Korol, A, Nevo, E, Michelmore, R
+#1999
+--------------------------------
+Diversity was analyzed in wild and cultivated Lactuca germplasm using molecular markers derived from resistance genes of the NBS-LRR type. Three molecular markers, one microsatellite marker and two SCAR markers that amplified LRR-encoding regions, were developed from sequences of resistance gene homologs at the main resistance gene cluster in lettuce. Variation for these markers were assessed in germplasm including accessions of cultivated lettuce, Lactuca sativa L. and three wild Lactuca spp., L. serriola L., L. saligna and L. virosa L. Diversity was also studied within and between natural populations of L. serriola from Israel and California; the former is close to the center of diversity for Lactuca spp. while the latter is an area of more recent colonization. Large numbers of haplotypes were detected indicating the presence of numerous resistance genes in wild species. The diversity in haplotypes provided evidence for gene duplication and unequal crossing-over during the evolution of this cluster of resistance genes. However, there was no evidence for duplications and deletions within the LRR-encoding regions studied. The three markers were highly correlated with resistance phenotypes in L. sativa. They were able to discriminate between accessions that had previously been shown to be resistant to all known isolates of Bremia lactucae. Therefore, these markers will be highly informative for the establishment of core collections and marker-aided selection.  hierarchical analysis of the population structure of L. serriola showed that countries, as well as locations, were significantly differentiated. These differences may reflect local founder effects and/or divergent selection.
+
+
+1639
+#Microsatellite fingerprinting in lettuce (Lactuca sativa L.) and wild relatives.
+#van de Wiel, C, Arens, P, Vosman, B
+#1998
+--------------------------------
+Southern hybridisation with a single microsatellite probe, (TCT)(10), sufficed to discriminate between a representative set of cultivars/accessions of lettuce, Lactuca sativa L., and its wild relatives L. serriola, L. saligna and L. virosa. Variability within cultivars was tested in a relatively modern cultivar (Hector), where no variation was found, and in an older and morphologically more variable cultivar (Madrilene), where heterogeneity was observed in the TCT fingerprint. (TCT)(10) fingerprinting should be useful for variety identification and homogeneity testing in lettuce.
+
+
+1640
+#Genetic structure and diversity in natural populations of three predominantly self-pollinating wild Lactuca species in Israel
+#Kitner, Miloslav, Majesky, Lubos, Kristkova, Eva, Jemelkova, Michaela, Lebeda, Ales, Beharav, Alex
+#2015
+--------------------------------
+It is important to optimize strategies for collecting wild germplasm from their natural habitats for the successful conservation of plant genetic resources. We studied the population structure of three predominantly self-pollinating wild Lactuca species (Lactuca serriola, L. saligna, and L. aculeata). Seeds for this study were collected from individual plants in northern Israel, along a line transect, and two populations per each Lactuca species. The distance between neighboring plants sampled for seeds varied from 1.5 to 37 m. The transect length at single sites ranged from 47.2 to 151.8 m. The taxonomic status of 67 individual plants was morphologically validated during greenhouse multiplication. Both genetic structure and diversity were analyzed by using 11 EST-SSR loci and 230 AFLP markers. Relatively low genetic diversity values were observed, increasing in the following order: L. aculeata < L. serriola < L. saligna. Network analysis clearly separated samples according to their taxonomic determination; also reflecting the gene diversity as well as the genetic distance values among the three species. Nevertheless, given the predominantly selfing character of these species, populations were not uniform (genetically and morphologically). It seems that overall genetic variation in a population increases at its periphery, due to the presence of plants with "non-indigenous" alleles, which are most likely coming from migration and subsequent interpopulation or interspecific hybridization. Mantel tests generally indicated a positive association between genetic distance and micro-geographical distance of a particular population, primarily due to the "outlier" samples collected at a population's periphery.
+
+

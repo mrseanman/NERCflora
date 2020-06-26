@@ -1,0 +1,20 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1691
+# Minimal genetic diversity in the facultatively outcrossing perennial pepperweed (Lepidium latifolium) invasion
+#Gaskin, J. F., M. Schwarzlaender, L. Williams, III, E. Gerber, and H. L. Hinz
+#2012
+--------------------------------
+Perennial pepperweed (Lepidium latifolium L.) is a Eurasian plant species that is invasive in North America. The invasion often forms large, dense monocultural stands. We investigated the genetic diversity along transects in dense populations in the western USA using Amplified Fragment Length Polymorphisms. We also analyzed transect collections from the native Eurasian range for comparison. In addition, we conducted crossing studies to determine possible modes of seed production (sexual outcrossing vs. self-fertilization vs. apomixis). In our study of seed production we determined that self-fertilization and outcrossing both produce germinable seed in perennial pepperweed. Genetic diversity in the USA was unexpectedly low, with only three genotypes in 388 plants, and those three had genetic similarity of a parts per thousand yen98%. Up to 97% of the plants from Turkey and Russia transects were unique genotypes, while < 4% of USA plants in a transect were unique. This lack of diversity in the USA samples suggests that perennial pepperweed, despite its success as an invader, is not well-positioned to adapt to new selective pressures, or to recruit pre-adapted genotypes that may vary in resistance or tolerance to disease or herbivory. Because 99% of the USA plants were genetically identical, we were unable to determine if increases in stand size were due to spread by rhizomes or seed derived from outcrossing between genetically identical parents or self-fertilization, as each of these methods produces shoots genetically identical to parental plants.
+
+
+------------- All Abstracts -------------------
+1691
+# Minimal genetic diversity in the facultatively outcrossing perennial pepperweed (Lepidium latifolium) invasion
+#Gaskin, J. F., M. Schwarzlaender, L. Williams, III, E. Gerber, and H. L. Hinz
+#2012
+--------------------------------
+Perennial pepperweed (Lepidium latifolium L.) is a Eurasian plant species that is invasive in North America. The invasion often forms large, dense monocultural stands. We investigated the genetic diversity along transects in dense populations in the western USA using Amplified Fragment Length Polymorphisms. We also analyzed transect collections from the native Eurasian range for comparison. In addition, we conducted crossing studies to determine possible modes of seed production (sexual outcrossing vs. self-fertilization vs. apomixis). In our study of seed production we determined that self-fertilization and outcrossing both produce germinable seed in perennial pepperweed. Genetic diversity in the USA was unexpectedly low, with only three genotypes in 388 plants, and those three had genetic similarity of a parts per thousand yen98%. Up to 97% of the plants from Turkey and Russia transects were unique genotypes, while < 4% of USA plants in a transect were unique. This lack of diversity in the USA samples suggests that perennial pepperweed, despite its success as an invader, is not well-positioned to adapt to new selective pressures, or to recruit pre-adapted genotypes that may vary in resistance or tolerance to disease or herbivory. Because 99% of the USA plants were genetically identical, we were unable to determine if increases in stand size were due to spread by rhizomes or seed derived from outcrossing between genetically identical parents or self-fertilization, as each of these methods produces shoots genetically identical to parental plants.
+
+

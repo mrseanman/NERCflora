@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+544
+#Patterns of allozyme variation and clonal diversity in Carex  lasiocarpa and C. pellita (Cyperaceae).
+#McClintock, KA, Waterway, MJ
+#1993
+--------------------------------
+We compared genetic variability and clonal diversity in the closely related sedges Carex lasiocarpa and C. pellita using allozyme markers at 12 loci. Both species produce spreading rhizomes, occur in open habitats, and can form large clones; C lasiocarpa primarily along lakeshores, or in bogs, fens, or marshes, and C pellita more commonly along riverbanks and ditches or in wet meadows. Polymorphism was high in both species, similar to that of other rhizomatous Carex and to other species with comparable growth forms and life histories. Total gene diversity was higher for C lasiocarpa (H(T) = 0.266) than for C pellita (H(T) = 0.248), but the coefficient of differentiation among populations was lower. Rare alleles usually occurred as heterozygotes rather than homozygotes, and significant deviations from Hardy-Weinberg equilibrium were found at few loci, suggesting that both species are predominantly outcrossing. Mean clone size, diversity, and evenness were not significantly different between the two species, although populations varied from monoclonal to those where nearly every sampled shoot belonged to a different clone. No significant differences in genetic variation or clone size of C pellita were found when comparisons were made between groups based on climate (warmer vs. cooler) or successional stage (pioneer vs. established). However, within C lasiocarpa, genetic variability decreased and clone size increased in cooler climates and at established sites.
+
+
+------------- All Abstracts -------------------
+544
+#Patterns of allozyme variation and clonal diversity in Carex  lasiocarpa and C. pellita (Cyperaceae).
+#McClintock, KA, Waterway, MJ
+#1993
+--------------------------------
+We compared genetic variability and clonal diversity in the closely related sedges Carex lasiocarpa and C. pellita using allozyme markers at 12 loci. Both species produce spreading rhizomes, occur in open habitats, and can form large clones; C lasiocarpa primarily along lakeshores, or in bogs, fens, or marshes, and C pellita more commonly along riverbanks and ditches or in wet meadows. Polymorphism was high in both species, similar to that of other rhizomatous Carex and to other species with comparable growth forms and life histories. Total gene diversity was higher for C lasiocarpa (H(T) = 0.266) than for C pellita (H(T) = 0.248), but the coefficient of differentiation among populations was lower. Rare alleles usually occurred as heterozygotes rather than homozygotes, and significant deviations from Hardy-Weinberg equilibrium were found at few loci, suggesting that both species are predominantly outcrossing. Mean clone size, diversity, and evenness were not significantly different between the two species, although populations varied from monoclonal to those where nearly every sampled shoot belonged to a different clone. No significant differences in genetic variation or clone size of C pellita were found when comparisons were made between groups based on climate (warmer vs. cooler) or successional stage (pioneer vs. established). However, within C lasiocarpa, genetic variability decreased and clone size increased in cooler climates and at established sites.
+
+
+545
+#Genetic differentiation between Carex lasiocarpa and C. pellita (Cyperaceae) in North America.
+#McClintock, KA, Waterway, MJ
+#1994
+--------------------------------
+Carex lasiocarpa and C. pellita (sect. Carex) share a very similar morphology and have overlapping ranges in North America, but are found in different habitats characterized by contrasting soil types and pH. We studied allozyme variation and chromosome numbers to assess genetic differentiation between the two taxa. Both principal components analysis on the allele frequencies from 12 putative enzyme-coding loci and cluster analysis of genetic identities separated 51 sampled populations into two groups that were consistent with recognized structural differences between C. lasiocarpa and C pellita. Mean within-group genetic identities were 0.95 for C. lasiocarpa and 0.93 for C. pellita; mean between-group genetic identity was 0.81. With the exception of two rare alleles, the alleles of C. pellita were a subset of those found in C. lasiocarpa. Principal components analysis of measurements of structural characters from voucher specimens representing 46 populations also separated the two species with minimal overlap. Meiotic squashes of microsporocytes revealed haploid chromosome numbers of 38 and 38 + 1 for C. lasiocarpa and 41 and 40 + 1 for C pellita. These data support the continued recognition of the two taxa as distinct species, and suggest that C. pellita may be a daughter species still in the process of divergence from C. lasiocarpa.
+
+

@@ -1,0 +1,28 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+1403
+#A brief evolutionary excursion comes to an end: the genetic relationship of British species of Gentianella sect. Gentianella (Gentianaceae).
+#Winfield, MO, Wilson, PJ, Labra, M and Parker, JS
+#2003
+--------------------------------
+There is much taxonomic confusion in the genus Gentianella section Gentianella, five species of which are found in Britain. Gentianella anglica is a British endemic restricted in its distribution to the chalk downland of southern England. It is considered to be threatened because of habitat loss, and due to hybridisation with the closely related, widely distributed G. amarella. The Red Data Book species, G. uliginosa, shares morphological similarities with the other two species but has a very restricted distribution. Individual plants from populations across the range of these three species were analysed using AFLPs and universal cpSSRs to determine the degree of genetic variability within and between them, and to look for evidence of hybridisation. Samples of the two other Gentianella section Gentianella species found in Britain, G. campestris and G. germanica, were also included in the study. The analysis of chloroplast SSRs was not informative for G. anglica, G. amarella and G. uliginosa, while G. campestris and G. germanica differed from each other and the other three species at a single locus. Principal co-ordinate analysis of the AFLP data revealed only three distinct groups: one group contained G. campestris samples, another contained all samples of G. germanica, and a third contained all individuals from the other three species. In mixed populations of G. anglica and G. amarella, individuals of the two species were genetically more similar to each other than they were to individuals of the same species from other populations. It is proposed that G. anglica may be an early flowering form of G. amarella that has been created and maintained as a consequence of former grassland management practices.
+
+
+------------- All Abstracts -------------------
+1402
+#Patterns of variation in relation to the conservation of rare and declining plant species.
+#Kay, QON and John, RF
+#1997
+--------------------------------
+
+
+
+1403
+#A brief evolutionary excursion comes to an end: the genetic relationship of British species of Gentianella sect. Gentianella (Gentianaceae).
+#Winfield, MO, Wilson, PJ, Labra, M and Parker, JS
+#2003
+--------------------------------
+There is much taxonomic confusion in the genus Gentianella section Gentianella, five species of which are found in Britain. Gentianella anglica is a British endemic restricted in its distribution to the chalk downland of southern England. It is considered to be threatened because of habitat loss, and due to hybridisation with the closely related, widely distributed G. amarella. The Red Data Book species, G. uliginosa, shares morphological similarities with the other two species but has a very restricted distribution. Individual plants from populations across the range of these three species were analysed using AFLPs and universal cpSSRs to determine the degree of genetic variability within and between them, and to look for evidence of hybridisation. Samples of the two other Gentianella section Gentianella species found in Britain, G. campestris and G. germanica, were also included in the study. The analysis of chloroplast SSRs was not informative for G. anglica, G. amarella and G. uliginosa, while G. campestris and G. germanica differed from each other and the other three species at a single locus. Principal co-ordinate analysis of the AFLP data revealed only three distinct groups: one group contained G. campestris samples, another contained all samples of G. germanica, and a third contained all individuals from the other three species. In mixed populations of G. anglica and G. amarella, individuals of the two species were genetically more similar to each other than they were to individuals of the same species from other populations. It is proposed that G. anglica may be an early flowering form of G. amarella that has been created and maintained as a consequence of former grassland management practices.
+
+

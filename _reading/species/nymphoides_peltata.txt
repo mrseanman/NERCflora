@@ -1,0 +1,68 @@
+------------- Description -------------------
+#plantat website
+------------- Matching Abstracts -------------------
+2006
+#Influence of inbreeding depression on a lake population of Nymphoides peltata after restoration from the soil seed bank
+#Takagawa, S, Washitani, I, Uesugi, R, Tsumura, Y
+#2006
+--------------------------------
+The negative effects of inbreeding depression on fragmented small populations are likely to be expressed more strongly after restoration efforts if regeneration processes have been highly restricted in degraded habitats. We examined the potential influences of inbreeding depression on a population of Nymphoides peltata (Menyanthaceae) restored from the remnant soil seed bank. A hand-pollination experiment demonstrated self-compatibility of a single remaining homostyle genet and significant inbreeding depression in selfed progeny, especially in parameters related to seedling growth (delta = 0.5-0.6 for biomass, and delta = 0.3-0.4 for relative growth rate). Our genetic analysis indicated that the presumed number of parents contributing to the current soil seed bank was only 2-8 genets and that a single sib-family dominated at each of three sampling sites. The results also showed that the selfed progeny of the homostyle genet were overwhelmingly dominant at two sites (86.8 and 94.7%). As a result, the growth performance of the seed bank seedlings was significantly reduced, to a level as low as that of the selfed progeny. Active restoration efforts to minimize the negative effects of the genetic bottleneck and continuous monitoring based on genetic and demographic study are recommended
+
+
+------------- All Abstracts -------------------
+2004
+#Allozyme polymorphism and conservation of the Lake Kasumigaura population of Nymphoides peltata.
+#Uesugi, R, Goka, K, Nishihiro, J, Washitani, I
+#2004
+--------------------------------
+A population of the perennial floating-leaved plant, Nymphoides peltata, in Lake Kasumigaura has declined rapidly in recent years, with no recruitment from seedlings. To obtain genetic information to facilitate a restoration program, we investigated allozyme polymorphisms in subpopulations from various parts of the lake. Only 14 muitilocus genotypes were detected, although a relatively high percentage of polymorphic loci and high heterozygosity was present throughout the lake. Allozyme data indicated that the Lake Kasumigaura population consists of a single subpopulation that includes several clones consisting of two types of heterostylous floral morphs, and some subpopulations each consisting of a single clone. Preservation of the multiclonal subpopulation is essential for conserving the seed production and clonal diversity of N. peltata in Lake Kasumigaura.
+
+
+2005
+#Isolation and characterization of highly polymorphic microsatellites in the aquatic plant, Nymphoides peltata (Menyanthaceae)
+#Uesugi, R, Tani, N, Goka, K, Nishihiro, J, Tsumura, Y and Washitani, I
+#2005
+--------------------------------
+Ten microsatellite loci were described for conservation design of a threatened clonal aquatic plant, Nymphoides peltata. The microsatellite loci obtained through the construction of an enriched library were polymorphic (2-6 alleles per locus) and exhibited high levels of observed (0.333-0.889) and expected (0.284-0.765) heterozygosities. All microsatellite loci were expected to be useful for identification of genets and evaluation of genetic diversity of this species.
+
+
+2006
+#Influence of inbreeding depression on a lake population of Nymphoides peltata after restoration from the soil seed bank
+#Takagawa, S, Washitani, I, Uesugi, R, Tsumura, Y
+#2006
+--------------------------------
+The negative effects of inbreeding depression on fragmented small populations are likely to be expressed more strongly after restoration efforts if regeneration processes have been highly restricted in degraded habitats. We examined the potential influences of inbreeding depression on a population of Nymphoides peltata (Menyanthaceae) restored from the remnant soil seed bank. A hand-pollination experiment demonstrated self-compatibility of a single remaining homostyle genet and significant inbreeding depression in selfed progeny, especially in parameters related to seedling growth (delta = 0.5-0.6 for biomass, and delta = 0.3-0.4 for relative growth rate). Our genetic analysis indicated that the presumed number of parents contributing to the current soil seed bank was only 2-8 genets and that a single sib-family dominated at each of three sampling sites. The results also showed that the selfed progeny of the homostyle genet were overwhelmingly dominant at two sites (86.8 and 94.7%). As a result, the growth performance of the seed bank seedlings was significantly reduced, to a level as low as that of the selfed progeny. Active restoration efforts to minimize the negative effects of the genetic bottleneck and continuous monitoring based on genetic and demographic study are recommended
+
+
+2007
+#Reproduction strategies in introduced Nymphoides peltata populations revealed by genetic markers
+#Larson, D
+#2007
+--------------------------------
+To determine whether introduced Nymphoides peltata populations reproduced vegetatively or sexually, microsatellites were used to study the genetic structure of the species in Sweden. Leaves from 156 plants and seeds from 4 plants were sampled from 7 water-systems and analysed. A total of 10 genotypes were found among the 156 leaves. Seeds accounted for one additional genotype per seed. Lack of genetic variation and entirely vegetative reproduction dominated in the introduced N. peltata populations although sexual reproduction was found in one water-system. However, even where the species reproduced sexually, vegetative reproduction constituted an important part of the total reproduction. (c) 2006 Elsevier B.V. All rights reserved.
+
+
+2008
+#Restoration of genetic diversity from soil seed banks in a threatened aquatic plant, Nymphoides peltata
+#Uesugi, R Nishihiro, J Tsumura, Y Washitani, I
+#2007
+--------------------------------
+Populations of a threatened aquatic plant, Nymphoides peltata, have rapidly degenerated under the influence of recent artificial changes in Lake Kasumigaura of Japan. To estimate the potential of soil seed banks for genetic restoration of the species, we used 10 microsatellite markers to analyze the genetic variation in adults and in seedlings that emerged from soil seed banks. About 187 leaf samples from the cultured stocks that were collected in 17 adult subpopulations in 1995 and 2000 and from three subpopulations that were newly discovered in 2002 were analyzed. As a result, only 18 genets could be identified, suggesting that clonal diversity of the adult population had already become extremely low. Genetic tests were performed on 430 seedlings from seed banks at six locations of natural lakeshores and three of the restoration sites that were artificially constructed in an attempt to assign them to the remnant adult population; many of the seedlings showed genetic variation different from the adults. Furthermore, the seedlings preserved seven alleles that had been lost from remnant adults. However, they had lower average numbers of alleles and heterozygosity levels (NA = 1.5-3.1, H (E) = 0.146-0.487) than the remnant adults (NA = 3.5, H (E) = 0.539) and showed high inbreeding coefficients, suggesting that the seed banks were produced by inbreeding. Thus, although the seed banks had a certain potential to restore genetic diversity, the fitness reduction in seed banks caused by inbreeding could affect the success of restoration based on seed banks.
+
+
+2009
+#Population genetic structure in six sympatric and widespread aquatic plants inhabiting diverse lake environments in China
+#Cao, QJ, Mei, FF, Wang, L
+#2017
+--------------------------------
+Many aquatic plant species are distributed over large areas and diverse environments with populations interconnected by abiotic and biotic mediators. Here, we examined differences and similarities in the population genetic structure of six sympatric and widespread aquatic plant species. We sampled the aquatic species from six Chinese lakes found on plateaus, plains, and different river systems and analyzed them using inter-simple sequence repeat (ISSR) markers. Samples originating from each lake tended to cluster together. Of the six species, only Nymphoides peltata and Myriophyllum spicatum could be divided into plateau and plain groups, once Taihu Lake individuals were excluded. Genetic similarities between populations connected by the Yangtze River were not consistently higher than unconnected populations. Populations from Taihu Lake and/or Weishanhu Lake were distant from other lake populations for all species except Potamogeton lucens. The Taihu and Weishanhu populations clustered for Ceratophyllum demersum and Typha latifolia. Hydrophilous C.demersum had the lowest gene flow (Nm=0.913), whereas the entomophilous Hydrocharisdubia (Nm=2.084) and N.peltata (Nm=2.204) had the highest gene flow. The genetic relationships among distant populations of aquatic plants reflect the comprehensive effects of environmental selection pressure and biotic and abiotic connectivity. Differences in environmental factors between plateau and plain lakes and long distance hydrochory have limited importance on aquatic plant genetic structures. Among multiple evolutionary forces, gene flow mediated by birds may play the most important role in the formation of genetic patterns in the six species examined. For example, the close genetic relationship between Taihu Lake and Weishanhu Lake populations, each in different river systems and with different climates, may be related to the migration routes of birds. Differences in gene flow among the six aquatic plants may be attributable to different bird-transport and the fruit traits of each species.
+
+
+2010
+#Transcriptome profiling of the floating-leaved aquatic plant Nymphoides peltata in response to flooding stress
+#Wu, JW, Zhao, HB, Yu, D, Xu, XW
+#2017
+--------------------------------
+Background: Waterlogging or flooding is one of the most challenging abiotic stresses experienced by plants. Unlike many flooding-tolerant plants, floating-leaved aquatic plants respond actively to flooding stress by fast growth and elongation of its petioles to make leaves re-floating. However, the molecular mechanisms of this plant group responding to flood have not been investigated before. Here, we investigated the genetic basis of this adaptive response by characterizing the petiole transcriptomes of a floating-leaved species Nymphoides peltata under normal and flooding conditions. Results: Clean reads under normal and flooding conditions with pooled sampling strategy were assembled into 124,302 unigenes. A total of 8883 unigenes were revealed to be differentially expressed between normal and flooding conditions. Among them, top ranked differentially expressed genes were mainly involved in antioxidant process, photosynthesis process and carbohydrate metabolism, including the glycolysis and a modified tricarboxylic acid cycle -alanine metabolism. Eight selected unigenes with significantly differentiated expression changes between normal and flooding conditions were validated by qRT-PCR. Conclusions: Among these processes, antioxidant process and glycolysis are commonly induced by waterlogging or flooding environment in plants, whereas photosynthesis and alanine metabolism are rarely occurred in other flooding-tolerant plants, suggesting the significant contributions of the two processes in the active response of N. peltata to flooding stress. Our results provide a valuable genomic resource for future studies on N. peltata and deepen our understanding of the genetic basis underlying the response to flooding stress in aquatic plants.
+
+
