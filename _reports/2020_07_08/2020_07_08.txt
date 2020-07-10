@@ -1,0 +1,81 @@
+numeric fert5 ->
+1 - Selfing
+2 - Normally Selfing
+3 - Mixed
+4 - Normally cross
+5 - Outcrossing
+
+numeric fert3 ->
+1 - Selfing
+2 - Mixed
+3 - Outcrossing
+
+numeric rarity ->
+1 - x "extinct"
+2 - r "rare"
+3 - o "only present in ire or chan. isl."
+4 - s "scarce"
+5 - n "present"
+
+rarity is -according to plant atlas- just a binning of range size. That was
+broadly correct but there were some examples conflicting that.
+
+
+--- Models ----
+range size is associated with fertilization mode.
+--------------------------------------------------------------------
+numeric(fert5) = m*range + c
+________________________________
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)
+(Intercept)    3.194e+00  5.360e-02  59.595  < 2e-16 ***
+myPlantAtRange 1.237e-04  3.029e-05   4.084 4.78e-05 ***
+
+Residual standard error: 1.149 on 984 degrees of freedom
+Multiple R-squared:  0.01667,	Adjusted R-squared:  0.01567
+F-statistic: 16.68 on 1 and 984 DF,  p-value: 4.781e-05
+
+--------------------------------------------------------------------
+numeric(fert5) = m1*range + m2*numeric(rarity) + c
+________________________________
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)
+(Intercept)                   3.464e+00  1.969e-01  17.592  < 2e-16 ***
+myPlantAtRange                1.600e-04  3.828e-05   4.180 3.24e-05 ***
+as.numeric(myRarityCombined) -7.068e-02  4.844e-02  -1.459    0.145
+
+Residual standard error: 1.144 on 796 degrees of freedom
+Multiple R-squared:  0.0227,	Adjusted R-squared:  0.02024
+F-statistic: 9.243 on 2 and 796 DF,  p-value: 0.0001075
+--------------------------------------------------------------------
+There is significant confidence in the coeff for range but not for rarity.
+The +ve coeff for range is as expected from boxplots of range vs fert.
+Numeric(rarity) is increasing with range, so the -ve coeff. for rarity is
+unexpected and further decreses confidence in that part of the model.
+The overall confidence in the 1st model is greater than in the 2nd. Thus the
+linear model should not include numeric(rarity)
+
+The residual plot in figure 01 is well behaved. The lines are due to the nature
+of modelling a discrete dependent continuously. The lines slope downwards with
+increasing range as the model fit is increasing (+ve coefficient) so the
+residuals are decreasing. There is bunching at low range due to the increased
+density of points at low range generally.
+
+---Other Traits----
+\/ These have passed an ANOVA \/
+Outcrosisng increases with height.
+Outcrossing decreses with salinity tolerance.
+
+\/ These passed chi square test \/
+Perennation is linked to fert mode
+               self|  mixed|  cross|
+Annual      |0.18   0.32    0.11
+Biennial    |0.00   0.06    0.05
+Perrenial   |0.82   0.62    0.84
+^^^  Fraction of column by row  ^^^
+
+It seems a mixed plant is significantly less likely to be Perrenial and more
+likely to be annual. It is hard for me to draw significance from this as the
+trend does not follow linearly with outcrossing rate.
+
+Vegetative cloning type is linked to fert mode

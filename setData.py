@@ -236,7 +236,10 @@ usefulFields = [
 'Seed production: 1. maximum (/flower)',
 'Seed production: 2. typical range (/flower)',
 'Seed production: 3. typical range (/plant)',
-'Dispersal agent'
+'Dispersal agent',
+'Northern Limit in Britain',
+'British distribution (post 1949 records)',
+'Typical abundance where naturally occurring'
 ]
 
 #to make the regex case insensitive
