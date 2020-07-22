@@ -1,0 +1,135 @@
+---
+title: "Relationship between fertilization mode and other ecological traits in UK flora."
+output: html_notebook
+---
+
+Ecological data on all the UK flora was gathered from the [ecoflora](http://ecoflora.org.uk/) and [plant atlas](https://www.brc.ac.uk/plantatlas/). As part of the preprocessing, species synonyms were solved and data was tided in to a '|' separated dataframe where each observation (row) is a distinct species. Columns from the plant atlas were also copied in to the same dataframe.
+
+First we load the dataframe
+```{r}
+df = read.delim('/home/sean/NERCflora/formFinal/finalFlat.csv', sep='|', na.strings=c("","NA","nan", "NaN", "Na"))
+```
+We factor columns with ordinal nature
+```{r}
+df$myFert5 <- factor(df$myFert5, levels = c("selfing", "normally self", "mixed", "normally cross", "outcrossing"))
+df$myFert3 <- factor(df$myFert3, levels = c("selfing", "mixed", "outcrossing"))
+df$myHeavyMet <- factor(df$myHeavyMet, levels = c("none", "pseudometallophyte", "local metallophyte", "absolute metallophyte"))
+df$myRarityCombined <- factor(df$myRarityCombined, levels = c("x", "r", "o", "s", "n"))
+df$myLocalRarity <- factor(df$myLocalRarity, levels = c("scattered", "frequent", "dominant"))
+```
+
+The columns myFert3 and myFert5 represent preprocessed data on fertilization mode for each species. Mostly this data was gathered directly from the ecoflora, but in some cases it was inferred from other ecological characteristics e.g. dioecious taxa are obligatory outcrossers.
+
+In myFert3 species are either "selfing", "mixed" or "outcrossig". The ecoflora often has multiple entries for a single characteristic of a single species, so the label "mixed" was assigned when the data was conflicting. The ecoflora also frequently assigns species as "normally cross" or "normally self" which were also assigned "mixed" in myFert3. 
+
+Overall 1082 species were able to be assigned a fertilization mode in this way of the 3274 distinct species in the ecoflora. The problem with this data was that 787 of these 1082 species were assigned as "mixed". So in myFert5 the category "mixed" was split in to "normally self, "mixed" and "normally cross", where in the case of conflicts, each assignment was based on the details of the conflicting info. 
+
+```{r}
+table(df$myFert3)
+table(df$myFert5)
+```
+As such the data in myFert3 and myFert5 is not somewhat heuristic and wont strictly follow any quantitave rule such as *"every normally cross"species has outcrossing rate between 0.6 and 0.8"*. Rather I hope the assignment in myFert3 and myFert5 is mostly accurate and have statistical significance such that models can be inferred from them.
+
+To investigate possible ecological traits that could be linked with fertilization mode I used packages to generate decision trees. From those I inferred which other traits are linked to fertilization mode by how often they appear near the root of the tree.
+
+First I need a function to randomly sample my dataframe.
+```{r}
+tenths <- function(df, tens){
+  #returns subset of dataframe where last digit of row num is in tens
+  return(subset(df, (as.numeric(rownames(df))%%10) %in% tens))
+}
+```
+We want to inspect how much intersection each column has with our data of interest. This way we can gather a list of useful columns.
+```{r}
+isect <- function(col){
+  #returns intersection of non NaNs between col and myFert3
+  return(length(col[!(is.na(col) | is.na(df$myFert3))]))
+}
+
+intersections = data.frame(Column=character(), Intersection=integer())
+for (i in names(df)){
+  row = data.frame(Column = i, Intersection=isect(df[i]))
+  intersections = rbind(intersections, row)
+}
+goodIsectCols = intersections[order(-intersections$Intersection)[1:160],]
+goodIsectCols
+```
+There are 222 columns! The top 100 by intersection with our data are given here. Apart from utility columns like species or ID, they would all be possible candidates for investigation.
+We also need to check there are less than 32 possible values in factor columns for the tree generator to work. The data in the ecoflora is generally very messy, early on we want to discard poorly formatted data so we discard overly complicated columns. This means factors can only have at most 20 values.
+```{r}
+goodColVec = goodIsectCols$Column
+goodColSimple = c()
+for (col in goodColVec){
+  if (!(class(df[col][1,1])=="factor" && length(unique(df[[col]])) > 20)){
+    goodColSimple = append(goodColSimple, col)
+  }
+}
+
+```
+
+We look at the first few entries
+```{r}
+head(goodColSimple)
+goodColSimple = goodColSimple[4:length(goodColSimple)]
+```
+Obviously ID, myFert3 and myFert5 are not things we want to use to predict myFertX, so i've discluded them.
+
+We form the formula for our tree model
+```{r}
+formString3 = paste("myFert3", goodColSimple[1], sep=" ~ ")
+formString5 = paste("myFert5", goodColSimple[1], sep=" ~ ")
+for (col in goodColSimple[2:length(goodColSimple)]){
+  formString3 = paste(formString3, col, sep = " + ")
+  formString5 = paste(formString5, col, sep = " + ")
+}
+form3 = as.formula(formString3)
+form5 = as.formula(formString5)
+
+```
+
+
+Now we form the trees, we can play with the complexity, setting cp=-1 means the algorithm doesn't limit complexity.
+```{r}
+library(rpart)
+
+#a small function for correctly sampling our data
+sampleCustom <- function(df, fraction){
+  #returns random subset by fraction of dataframe with fert info
+  numRet = floor(fraction*NROW(subset(df, !is.na(myFert3))))
+  return(sample_n(subset(df, !is.na(myFert3)), numRet))
+}
+
+fraction = 0.7
+tree3 = rpart(form3, sampleCustom(df,fraction), cp=-1)
+tree5 = rpart(form5, sampleCustom(df,fraction), cp=-1)
+```
+
+We can inspect the most important variables. The first column is a variable from the data and the second column is the arbitrary importantness of that variable in the tree algorithm
+```{r}
+as.data.frame(tree3$variable.importance[1:40])
+as.data.frame(tree5$variable.importance[1:40])
+```
+The results are promising! Incompatibility systems is an obvious and uninteresting one, but it shows the ability of this method to pick out obvious correlating variables. It is important to bear in mind that a lot of the tree will be over fitting and it's impossible to comprehend the tree as it stands currently. Thus it's useful to sample different tenths of the data and check what variables are persistently in the top 4uni0.
+```{r}
+currInterestingVars3 = names(tree3$variable.importance[1:40])
+currInterestingVars5 = names(tree5$variable.importance[1:40])
+persistentInterestingVars3 = currInterestingVars3
+persistentInterestingVars5 = currInterestingVars5
+for (i in 1:20){
+  tree3 = rpart(form3, sampleCustom(df,fraction), cp=-1)
+  tree5 = rpart(form5, sampleCustom(df,fraction), cp=-1)
+  currInterestingVars3 = names(tree3$variable.importance[1:40])
+  currInterestingVars5 = names(tree5$variable.importance[1:40])
+  persistentInterestingVars3 = intersect(persistentInterestingVars3, currInterestingVars3)
+  persistentInterestingVars5 = intersect(persistentInterestingVars5, currInterestingVars5)
+}
+
+as.data.frame(persistentInterestingVars3)
+as.data.frame(persistentInterestingVars5)
+```
+Lets investigate the link in the variable *myPlantAtClone1* which is the clonality (type of vegetative spread) as given in the Plant Atlas.
+We'll look at what the share of clonality for different fertilization modes is. The exact explanations of all the codes are given in the [plant atlas pdf](https://www.brc.ac.uk/biblio/plantatt-attributes-british-and-irish-plants-spreadsheet).
+```{r}
+ df %>% filter(!is.na(myFert3)) %>% filter(!is.na(myPlantAtClone1))%>% ggplot(aes(myFert3, fill=myPlantAtClone1)) + geom_bar(position="Fill")
+```
+The 0 and 0gr codes correspond to "Little or no vegetative spread" and "Tussock forming graminoid, may slowly spread" respectively. We see that, taken together, these lowly cloning species are more common generally in selfing species. This could possibly be explained 

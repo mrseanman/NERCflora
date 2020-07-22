@@ -1,0 +1,210 @@
+---
+title: "Relationship between fertilization mode and other ecological traits in UK flora."
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+Ecological data on all the UK flora was gathered from the [ecoflora](http://ecoflora.org.uk/) and the [plant atlas](https://www.brc.ac.uk/plantatlas/). As part of the preprocessing, species synonyms were solved and data was tided in to a '|' separated dataframe where each observation (row) is a distinct species. Columns from the plant atlas were also copied in to the same dataframe.
+
+First we load the dataframe
+```{r}
+df = read.delim('/home/sean/NERCflora/formFinal/finalFlat.csv', sep='|', na.strings=c("","NA","nan", "NaN", "Na"))
+```
+We factor columns with ordinal nature
+```{r}
+df$myFertGen = factor(df$myFertGen, levels=c("generally self", "mixed", "generally cross"))
+df$myHeavyMet <- factor(df$myHeavyMet, levels = c("none", "pseudometallophyte", "local metallophyte", "absolute metallophyte"))
+df$myRarityCombined <- factor(df$myRarityCombined, levels = c("x", "r", "o", "s", "n"))
+df$myLocalRarity <- factor(df$myLocalRarity, levels = c("scattered", "frequent", "dominant"))
+```
+
+The column myFertGen represents preprocessed data on fertilization mode for each species. Mostly this data was gathered directly from the ecoflora, but in some cases it was inferred from other ecological characteristics e.g. dioecious taxa are obligatory outcrossers. The ecoFlora most frequently labels species as "normally cross" and "normally self" so I have mirrored that choice in the categories I've assigned in the preprocessed data: "generally self", "mixed", "generally cross". 
+
+The ecoflora often ambiguously gives more than one entry for data. So conflicts that don't obviously infer "generaly cross" or "generally self" have been assigned "mixed". Overall 1082 species were able to be assigned a fertilization mode in this way of the 3274 distinct species in the ecoflora. 
+
+```{r}
+table(df$myFertGen)
+```
+As such the data in myFertGen is somewhat heuristic and wont strictly follow any quantitave rule such as *"every generally cross species has outcrossing rate between 0.6 and 0.8"*. Rather I hope the assignment in myFertGen is mostly accurate and have statistical significance such that models can be inferred from them.
+
+To investigate possible ecological traits that could be linked with fertilization mode I used packages to generate decision trees. From those I inferred which other traits are linked to fertilization mode by how often they appear near the root of the tree.
+
+We want to inspect how much intersection each column has with our data of interest. This way we can gather a list of useful columns.
+```{r}
+isect <- function(col){
+  #returns intersection of non NaNs between col and myFert3
+  return(length(col[!(is.na(col) | is.na(df$myFertGen))]))
+}
+
+intersections = data.frame(Column=character(), Intersection=integer())
+for (i in names(df)){
+  row = data.frame(Column = i, Intersection=isect(df[i]))
+  intersections = rbind(intersections, row)
+}
+goodIsectCols = intersections[order(-intersections$Intersection)[1:150],]
+goodIsectCols
+```
+There are 222 columns! The top 100 by intersection with our data are given here. Apart from utility columns like species or ID, they would all be possible candidates for investigation.
+We also need to check there are less than 32 possible values in factor columns for the tree generator to work. The data in the ecoflora is generally very messy, early on we want to discard poorly formatted data so we discard overly complicated columns. This means factors can only have at most 20 values.
+```{r}
+goodColVec = goodIsectCols$Column
+goodColSimple = c()
+for (col in goodColVec){
+  if (!(class(df[col][1,1])=="factor" && length(unique(df[[col]])) > 20)){
+    goodColSimple = append(goodColSimple, col)
+  }
+}
+
+```
+
+We look at the first few entries
+```{r}
+head(goodColSimple)
+goodColSimple = goodColSimple[5:length(goodColSimple)]
+head(goodColSimple)
+```
+Obviously ID, myFert3 and myFert5 are not things we want to use to predict myFertX, so i've discluded them.
+
+We form the formula for our tree model
+```{r}
+formString = paste("myFertGen", goodColSimple[1], sep=" ~ ")
+for (col in goodColSimple[2:length(goodColSimple)]){
+  formString = paste(formString, col, sep = " + ")
+}
+form = as.formula(formString)
+
+```
+
+
+Now we form the trees, we can play with the complexity, setting cp=-1 means the algorithm doesn't limit complexity.
+```{r}
+library(rpart)
+suppressMessages(library(tidyverse))
+
+#a small function for correctly sampling our data
+sampleCustom <- function(df, fraction){
+  #returns random subset by fraction of dataframe with fert info
+  numRet = floor(fraction*NROW(subset(df, !is.na(myFertGen))))
+  return(sample_n(subset(df, !is.na(myFert3)), numRet))
+}
+
+fraction = 0.7
+treeFert = rpart(form, sampleCustom(df,fraction), cp=-1)
+```
+
+We can inspect the most important variables. The first column is a variable from the data and the second column is the arbitrary importantness of that variable in the tree algorithm
+```{r}
+as.data.frame(treeFert$variable.importance[1:40])
+```
+The results are promising! Incompatibility systems is an obvious and uninteresting one, but it shows the ability of this method to pick out obvious correlating variables. It is important to bear in mind that a lot of the tree will be over fitting and it's impossible to comprehend the tree as it stands currently. Thus it's useful to re-sample the data and check what variables are persistently in the top 40. I'll also record the variable importance as we go and order the final list by average importance.
+```{r}
+currInterestingVars = names(treeFert$variable.importance[1:40])
+persistentInterestingVars = currInterestingVars
+scoresDf = data.frame(var.name = c(), importance = c())
+
+for (i in 1:5){
+  treeFert = rpart(form, sampleCustom(df,fraction), cp=-1)
+  interestingVarsVec = treeFert$variable.importance[1:40]
+  
+  currInterestingVars = names(interestingVarsVec)
+  persistentInterestingVars = intersect(persistentInterestingVars, currInterestingVars)
+  
+  thisScoreDf = data.frame(var.name=names(interestingVarsVec), importance=unname(interestingVarsVec))
+  scoresDf = rbind(scoresDf, thisScoreDf)
+  
+}
+
+#shows persistently interesting varibles ordered by mean importance
+suppressMessages(scoresDf %>% group_by(var.name) %>% summarise(mean.importance=mean(importance)) %>% filter(var.name %in% persistentInterestingVars) %>% arrange(-mean.importance))
+```
+Lets investigate the link in the variable *Clonality..normal.state* which is the clonality (type of vegetative spread) as given in the ecoflora.
+We'll look at the proportions of different clonalities are for different fertilization modes. The table "fractionNonClon" should be understood as *for species for which there is fertilization info and clonality info. for a given fertilization mode, what fraction have little/no vegetative spread*. It is is what is represented graphically in the first figure by the teal coloured bar. 
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Clonality..normal.state))%>% ggplot(aes(myFertGen, fill=Clonality..normal.state)) + geom_bar(position="Fill")
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Clonality..normal.state))%>% ggplot(aes(myFertGen, fill=Clonality..normal.state)) + geom_bar(position="Dodge")
+fractionNonClon =  prop.table(table( df$Clonality..normal.state, df$myFertGen), 2)['Little or no vegetative spread', ]
+as.data.frame(fractionNonClon)
+```
+We see the proportion of "Little or no vegetative spread" is greater for selfing species. This could possibly be explained by selfing species requiring less clonal spread as they are more likely to produce seed.
+Indeed we get strong correlation between fertilization mode and clonality when we run a chi-squared test.
+
+```{r}
+chisq.test(df$myPlantAtPern1, df$myFertGen)
+```
+
+
+
+Now lets look at the variable "myPlantAtPern1" which is the perrenation (annual, biennial or perrenial) of species according to the plant atlas. The codes are a: annual, b: biennial, p: perrenial
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPern1))%>% ggplot(aes(myFertGen, fill=myPlantAtPern1)) + geom_bar(position="Fill")
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPern1))%>% ggplot(aes(myFertGen, fill=myPlantAtPern1)) + geom_bar(position="Dodge")
+chisq.test(df$myPlantAtPern1, df$myFertGen)
+```
+We see a clear pattern of outcrossing plants being proportionally more perennial than selfing plants. This can possibly be explained by selfers being more able to produce seed and thus relying less on the persistence of previous generations. Again, the chi squared test gives positive results.
+
+It is instructive to look at a less clear example. Seedbank.type, which is the nature of a species' seed dormancy as given by the eco flora. It is not obvious that fertilization mode should correlate with this variable.
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Seedbank.type))%>% ggplot(aes(myFertGen, fill=Seedbank.type)) + geom_bar(position="Fill")
+```
+We face the difficulty of the numerous values given by the ecoflora. The different values are separated by a comma and it isn't clear how to clean these multiple entries in to a single entry. Secondly, there isn't a clear pattern across the fertilization modes. This variable was useful to the tree algorithm but it isn't obvious to me.
+
+https://pubmed.ncbi.nlm.nih.gov/16094304/
+
+
+Looking now at Life.Form..normal.state we see a clear pattern that with increasing outcrossing rate we have fractionally more [hemicryptophytes](https://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form#Hemicryptophytes) and fewer [therophytes](https://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form#Therophytes). This shines light on the trend seen with perrenation and I think could possibly be explained in a similar way.
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Life.Form..normal.state))%>% ggplot(aes(myFertGen, fill=Life.Form..normal.state)) + geom_bar(position="Fill")
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Life.Form..normal.state))%>% ggplot(aes(myFertGen, fill=Life.Form..normal.state)) + geom_bar(position="Dodge")
+fractionHemicryptophyte =  prop.table(table( df$Life.Form..normal.state, df$myFertGen), 2)['Hemicryptophyte', ]
+fractionTherophyte =  prop.table(table( df$Life.Form..normal.state, df$myFertGen), 2)['Therophyte', ]
+as.data.frame(fractionHemicryptophyte)
+as.data.frame(fractionTherophyte)
+```
+Now lets look at some continous variables, firstly myPlantAtRange, which is the number of 10x10km squares in which this species has been recored present in the British Isles.
+
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot(aes(x=myFertGen, y=myPlantAtRange)) + geom_boxplot()
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot() + geom_density(aes(x=myPlantAtRange, fill=myFertGen), alpha=0.4)
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot(aes(myPlantAtRange, after_stat(count), fill = myFertGen)) +
+  geom_density(position = "fill")
+```
+We see that outcrossing species have a generally greater range. In the 3rd figure we see that selfing species contribute ~30% of low range species but about 12% of highest range species, which are ubiquitous. Generally outcrossing species account for more than 55% of the ubiquitous species but only 41% of species overall.
+
+We now look at another continuous variable, SN.Index, which is an arbitrary scale of roughly how south (only at lands end corresponding to 0.0) or north (only at John O Groats corresponding to 10.0) each species is. This is a strange one to be so highly ranked in our tree method.
+
+```{r}
+#library(sf)
+#library(rnaturalearth)
+#library(rnaturalearthdata)
+#library(rgeos)
+
+indexToLat = function(index){
+  if (is.na(index)){
+    return(NaN)
+  }
+  farNorth = 60.83
+  farSouth = 49.97
+  return(farSouth + (index/10)*(farNorth-farSouth))
+}
+
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(x=myFertGen, y=SN.Index)) + geom_boxplot()
+
+indexGroupL = 1.3
+indexGroupU = 4.2
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot() + geom_density(aes(x=SN.Index, fill=myFertGen), alpha=0.4) + geom_vline(xintercept = c(indexGroupL, indexGroupU), linetype="dotdash", color="red", size=0.5)
+
+aboveLine = 9.0
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(SN.Index, after_stat(count), fill = myFertGen)) + geom_density(position = "fill") + geom_vline(xintercept = aboveLine, linetype="dotdash", color="green", size=0.9)
+
+
+
+plotNorth = 62.0
+plotSouth = 49.0
+
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+ggplot(data = world) + geom_sf() + coord_sf(xlim = c(-11, 4), ylim = c(plotSouth, plotNorth), expand = FALSE) + geom_hline(yintercept = indexToLat(aboveLine), linetype="dotdash", color="green") + geom_hline(yintercept = c(indexToLat(indexGroupL),indexToLat(indexGroupU)), linetype="dotdash", color="red")
+
+```
+

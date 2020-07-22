@@ -1,12 +1,13 @@
 library(ggplot2)
 library(plotly)
-
+library(tidyverse)
 df = read.delim('/home/sean/NERCflora/formFinal/finalFlat.csv', sep='|', na.strings=c("","NA","nan", "NaN", "Na"))
 
 df$myFert5 <- factor(df$myFert5, levels = c("selfing", "normally self", "mixed", "normally cross", "outcrossing"))
 df$myFert3 <- factor(df$myFert3, levels = c("selfing", "mixed", "outcrossing"))
 df$myHeavyMet <- factor(df$myHeavyMet, levels = c("none", "pseudometallophyte", "local metallophyte", "absolute metallophyte"))
 df$myRarityCombined <- factor(df$myRarityCombined, levels = c("x", "r", "o", "s", "n"))
+df$myLocalRarity <- factor(df$myLocalRarity, levels = c("scattered", "frequent", "dominant"))
 
 fert3VheavyMet.df = as.data.frame(table(df$myFert3, df$myHeavyMet))
 fert5VheavyMet.df = as.data.frame(table(df$myFert5, df$myHeavyMet))
@@ -41,7 +42,8 @@ f = as.formula(myFert5 ~ Petal.no + Mono.poly.carpic +
                + myPlantAtMajorBiome + myPlantAtEastLim
                + myPlantAtTjan + myPlantAtTjul + myPlantAtPrecip)
 
-tree3 = tree(f, df)
+tree3 = rpart(f, df, cp=-1)
+rpart.plot(tree3, cex=1)
 
 
 pairVals<-function(series, val1, val2){
@@ -56,3 +58,7 @@ ggplot(df, aes(x=myPlantAtRange)) + geom_density()
 rangeRarityFilt = filter(df, !(is.na(df$myRarityCombined) | is.na(df$myPlantAtRange) | is.na(df$myFert5)))
 model <- lm(as.numeric(myFert5)~myPlantAtRange+as.numeric(myRarityCombined), data=rangeRarityFilt)
 res <- resid(model)
+
+df %>% filter(!is.na(myFert5)) %>% filter(!is.na(myLocalRarity))%>% ggplot(aes(myFert5, fill=myLocalRarity)) + geom_bar(position="dodge")
+df.fert5Vlocal = as.data.frame(table(fert5=df$myFert5, localRarity=df$myLocalRarity))
+

@@ -2,6 +2,50 @@ import pandas as pd
 import numpy as np
 import copy
 
+def uniqAinB(test, series):
+#returns thruth value if test is the only value present in values
+#e.g. filterUnique(values='abc, abc', test='abc') returns True.
+#but 'abc, abc'=='abc' returns False
+    insUnique = []
+    for value in series:
+        if type(value)==str:
+            insUnique.append((test in value)
+                    and
+                    ([x for x in value.split(', ') if not(x==test)] == []))
+        else:
+            insUnique.append(False)
+    return np.array(insUnique)
+
+def filtAinB(test, series):
+#returns truth value array if test or any x in test is in value
+    ins = []
+    for value in series:
+        if type(value)==str:
+            if type(test)==str:
+                ins.append(test in value)
+            else:
+                test = list(test)
+                ins.append([x for x in test if x in value] != [])
+        else:
+            ins.append(False)
+
+    return np.array(ins)
+
+def hasInfo(series):
+    r = []
+    for s in series:
+        if type(s) == str:
+            r.append(True)
+        elif type(s) == int:
+            r.append(True)
+        elif type(s) == float:
+            r.append(not(np.isnan(s)))
+        else:
+            r.append(False)
+
+    return np.array(r)
+
+
 def outcrossing(df):
     boolsList = []
     #-------------------------------
@@ -60,49 +104,6 @@ def cleistogamous(df):
         else:
             cleists.append(False)
     return np.array(cleists)
-
-def hasInfo(series):
-    r = []
-    for s in series:
-        if type(s) == str:
-            r.append(True)
-        elif type(s) == int:
-            r.append(True)
-        elif type(s) == float:
-            r.append(not(np.isnan(s)))
-        else:
-            r.append(False)
-
-    return np.array(r)
-
-def uniqAinB(test, series):
-#returns thruth value if test is the only value present in values
-#e.g. filterUnique(values='abc, abc', test='abc') returns True.
-#but 'abc, abc'=='abc' returns False
-    insUnique = []
-    for value in series:
-        if type(value)==str:
-            insUnique.append((test in value)
-                    and
-                    ([x for x in value.split(', ') if not(x==test)] == []))
-        else:
-            insUnique.append(False)
-    return np.array(insUnique)
-
-def filtAinB(test, series):
-#returns truth value array if test or any x in test is in value
-    ins = []
-    for value in series:
-        if type(value)==str:
-            if type(test)==str:
-                ins.append(test in value)
-            else:
-                test = list(test)
-                ins.append([x for x in test if x in value] != [])
-        else:
-            ins.append(False)
-
-    return np.array(ins)
 
 def assign3(fdf):
     df = copy.deepcopy(fdf)
@@ -283,6 +284,32 @@ def assignPlantAtEllenberg(fdf):
 
     return df
 
+def assignLocalRarity(fdf):
+    df = copy.deepcopy(fdf)
+    df['myLocalRarity'] = np.nan
+    speciesList = df.species.unique()
+    for species in speciesList:
+        localRarity = df[df['species']==species].iloc[0]['Typical abundance where naturally occurring']
+        if localRarity=='dominant, dominant':
+            localRarity = 'dominant'
+        if localRarity=='dominant, frequent':
+            localRarity = 'frequent'
+        if localRarity=='frequent, scattered':
+            localRarity = 'scattered'
+        if localRarity=='frequent, frequent':
+            localRarity='frequent'
+        if localRarity=='dominant, scattered':
+            localRarity = 'frequent'
+        if localRarity=='scattered, scattered':
+            localRarity='scattered'
+        if localRarity=='widespread':
+            localRarity='dominant'
+
+        df.loc[df['species']==species, 'myLocalRarity'] = localRarity
+
+    return df
+
+
 def assignPlantAtOthers(fdf):
     df = copy.deepcopy(fdf)
     speciesList = df.species.unique()
@@ -321,24 +348,32 @@ def assignPlantAtOthers(fdf):
 
     return df
 
+def assign3General(fdf):
+    df = copy.deepcopy(fdf)
+    df['myFertGen'] = np.nan
+    df.loc[     (df['myFert5']=='selfing')     |
+                (df['myFert5']=='normally self'), 'myFertGen'] = 'generally self'
+    df.loc[df['myFert5']=='mixed', 'myFertGen'] = 'mixed'
+    df.loc[     (df['myFert5']=='outcrossing')  |
+                (df['myFert5']=='normally cross'), 'myFertGen'] = 'generally cross'
+
+    return df
+
+
 def main():
     ecoFlora = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
     ecoFlora = assign3(ecoFlora)
     ecoFlora = assign5(ecoFlora)
+    ecoFlora = assign3General(ecoFlora)
     ecoFlora = assignHeavyMet(ecoFlora)
     ecoFlora = assignPlantAtRange(ecoFlora)
     ecoFlora = assignPlantAtRarity(ecoFlora)
+    ecoFlora = assignCombinedRarity(ecoFlora)
+    ecoFlora = assignPlantAtEllenberg(ecoFlora)
+    ecoFlora = assignPlantAtOthers(ecoFlora)
+    ecoFlora = assignLocalRarity(ecoFlora)
     breakpoint()
 
-ecoFlora = pd.read_csv('/home/sean/NERCflora/ecoFlora/dataFlat.csv', sep='|')
-ecoFlora.fillna(np.nan)
-ecoFlora = assign3(ecoFlora)
-ecoFlora = assign5(ecoFlora)
-ecoFlora = assignHeavyMet(ecoFlora)
-ecoFlora = assignPlantAtRange(ecoFlora)
-ecoFlora = assignPlantAtRarity(ecoFlora)
-ecoFlora = assignCombinedRarity(ecoFlora)
-ecoFlora = assignPlantAtEllenberg(ecoFlora)
-ecoFlora = assignPlantAtOthers(ecoFlora)
 
+main()
 #ecoFlora.to_csv('/home/sean/NERCflora/formFinal/finalFlat.csv', sep='|', index=False)
