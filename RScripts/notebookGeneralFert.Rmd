@@ -164,10 +164,15 @@ as.data.frame(fractionTherophyte)
 Now lets look at some continous variables, firstly myPlantAtRange, which is the number of 10x10km squares in which this species has been recored present in the British Isles.
 
 ```{r}
+#
+selfFrac = 272/1082
+mixFrac = 364/1082
+crossFrac = 446/1082
+
 df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot(aes(x=myFertGen, y=myPlantAtRange)) + geom_boxplot()
 df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot() + geom_density(aes(x=myPlantAtRange, fill=myFertGen), alpha=0.4)
 df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtRange)) %>% ggplot(aes(myPlantAtRange, after_stat(count), fill = myFertGen)) +
-  geom_density(position = "fill")
+  geom_density(position = "fill") + geom_hline(yintercept = c(crossFrac, 1-selfFrac), linetype="dashed", color="grey", size=0.5)
 ```
 We see that outcrossing species have a generally greater range. In the 3rd figure we see that selfing species contribute ~30% of low range species but about 12% of highest range species, which are ubiquitous. Generally outcrossing species account for more than 55% of the ubiquitous species but only 41% of species overall.
 
@@ -192,10 +197,11 @@ df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(x=m
 
 indexGroupL = 1.3
 indexGroupU = 4.2
-df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot() + geom_density(aes(x=SN.Index, fill=myFertGen), alpha=0.4) + geom_vline(xintercept = c(indexGroupL, indexGroupU), linetype="dotdash", color="red", size=0.5)
+secondPeak = 7.8
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot() + geom_density(aes(x=SN.Index, fill=myFertGen), alpha=0.4) + geom_vline(xintercept = c(indexGroupL, indexGroupU), linetype="dotdash", color="red", size=0.5) + geom_vline(xintercept = aboveLine, linetype="dotdash", color="green", size=0.9) + geom_vline(xintercept = secondPeak, linetype="dotdash", color="pink", size=0.9)
 
 aboveLine = 9.0
-df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(SN.Index, after_stat(count), fill = myFertGen)) + geom_density(position = "fill") + geom_vline(xintercept = aboveLine, linetype="dotdash", color="green", size=0.9)
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(SN.Index, after_stat(count), fill = myFertGen)) + geom_density(position = "fill") +  geom_vline(xintercept = aboveLine, linetype="dotdash", color="green", size=0.9) + geom_hline(yintercept = c(crossFrac, 1-selfFrac), linetype="dashed", color="grey", size=0.5)
 
 
 
@@ -204,7 +210,62 @@ plotSouth = 49.0
 
 
 world <- ne_countries(scale = "medium", returnclass = "sf")
-ggplot(data = world) + geom_sf() + coord_sf(xlim = c(-11, 4), ylim = c(plotSouth, plotNorth), expand = FALSE) + geom_hline(yintercept = indexToLat(aboveLine), linetype="dotdash", color="green") + geom_hline(yintercept = c(indexToLat(indexGroupL),indexToLat(indexGroupU)), linetype="dotdash", color="red")
+ggplot(data = world) + geom_sf() + coord_sf(xlim = c(-11, 4), ylim = c(plotSouth, plotNorth), expand = FALSE) + geom_hline(yintercept = indexToLat(aboveLine), linetype="dotdash", color="green") + geom_hline(yintercept = c(indexToLat(indexGroupL),indexToLat(indexGroupU)), linetype="dotdash", color="red") + geom_hline(yintercept =  indexToLat(secondPeak), linetype="dotdash", color="pink", size=0.9)
 
+cat("Std. dev. of NS Index by fert mode:\n self, mixed, cross\n")
+sd(df[df$myFertGen=="generally self",]$SN.Index, na.rm=TRUE)
+sd(df[df$myFertGen=="mixed",]$SN.Index, na.rm=TRUE)
+sd(df[df$myFertGen=="generally cross",]$SN.Index, na.rm=TRUE)
+
+```
+The vertical lines on the plots, corresponding to horizontal lines on the map are features that I'm highlighting. The grey lines in the 3rd figure are what the average fraction of each fertilization type is.
+Firstly we see a broad peak around 2.5 which represents the north south chunk of the British isles containing Ireland. In the second plot, we see that north of the green line (the Shetlands) becomes mostly mixed and self. But it should be noted this only corresponds to ~10 species. We see a second peak around 7.8, which corresponds to species generally found only at the north coast of mainland Scotland. This could be due to this area now including species mostly exclusive to the Orkney islands. 
+
+```{r}
+indexToLon = function(index){
+  if (is.na(index)){
+    return(NaN)
+  }
+  #farWest = -10.2 (if it included ireland)
+  farWest = -5.8
+  farEast = 1.8
+  return(farEast - (index/10)*(farEast-farWest))
+}
+
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(SN.Index)) %>% ggplot(aes(x=myFertGen, y=SN.Index)) + geom_boxplot()
+
+mu = 4.45
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(EW.Index)) %>% ggplot() + geom_density(aes(x=EW.Index, fill=myFertGen), alpha=0.4) + geom_vline(xintercept = mu, linetype="dotdash", color="pink", size=0.9)
+
+featureLine = 8.5
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(EW.Index)) %>% ggplot(aes(EW.Index, after_stat(count), fill = myFertGen)) + geom_density(position = "fill") + geom_hline(yintercept = c(crossFrac, 1-selfFrac), linetype="dashed", color="grey", size=0.5) + geom_vline(xintercept = featureLine, linetype="dotdash", color="green", size=0.9) + geom_vline(xintercept = 5, linetype="dotdash", color="red", size=0.9)
+
+ggplot(data = world) + geom_sf() + coord_sf(xlim = c(-11, 4), ylim = c(plotSouth, plotNorth), expand = FALSE)  + geom_vline(xintercept = indexToLon(featureLine), linetype="dotdash", color="green") + geom_vline(xintercept = indexToLon(5), linetype="dotdash", color="red", size=0.9) + geom_vline(xintercept = indexToLon(mu), linetype="dotdash", color="pink", size=0.9)
+
+df$EWGreaterThan5 = df$EW.Index>5
+EWgreaterThan5VFert = table(df$myFertGen, df$EWGreaterThan5)
+cat("EW Index > 5? (rows normalised)")
+prop.table(EWgreaterThan5VFert,1)
+cat("\n\n\nChisq EW>5 vs FertMode")
+chisq.test(df$myFertGen, df$EWGreaterThan5)
+
+cat("\n\n\nStd. dev. of EW Index by fert mode:\n self, mixed, cross\n")
+sd(df[df$myFertGen=="generally self",]$EW.Index, na.rm=TRUE)
+sd(df[df$myFertGen=="mixed",]$EW.Index, na.rm=TRUE)
+sd(df[df$myFertGen=="generally cross",]$EW.Index, na.rm=TRUE)
+
+```
+Bizarrely, the EW index only ranges across Britain, not including Ireland (this is as far as I can tell). It goes from East to West so 0 is Yarmouth and 10 is Penzance. There is a statistically significant fraction more selfers of index greater than 5, shown as west of the red line. This red line cuts off east England which has signifantly less rainfall. We can investigate the effect of precipitation now.
+```{r}
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Annual.precipitation)) %>% ggplot(aes(x=myFertGen, y=Annual.precipitation)) + geom_boxplot()
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Annual.precipitation)) %>% ggplot() + geom_density(aes(x=Annual.precipitation, fill=myFertGen), alpha=0.4)
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(Annual.precipitation)) %>% ggplot(aes(Annual.precipitation, after_stat(count), fill = myFertGen)) +
+  geom_density(position = "fill") + geom_hline(yintercept = c(crossFrac, 1-selfFrac), linetype="dashed", color="grey", size=0.5)
+
+
+
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPrecip)) %>% ggplot(aes(x=myFertGen, y=myPlantAtPrecip)) + geom_boxplot()
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPrecip)) %>% ggplot() + geom_density(aes(x=myPlantAtPrecip, fill=myFertGen), alpha=0.4)
+df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPrecip)) %>% ggplot(aes(myPlantAtPrecip, after_stat(count), fill = myFertGen)) + geom_density(position = "fill") + geom_hline(yintercept = c(crossFrac, 1-selfFrac), linetype="dashed", color="grey", size=0.5)
 ```
 
