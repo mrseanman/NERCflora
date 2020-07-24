@@ -299,3 +299,22 @@ df %>% filter(!is.na(myFertGen)) %>% filter(!is.na(myPlantAtPrecip)) %>% ggplot(
 ```
 
 We must make these plots up to a 2000 on the myPlantAtPrecip axis as the data is too scarce beyond that. It is very hard to draw any correlation between fertilization mode and precipitation and indeed they seem uncorrelated.
+
+We can run a few quick models to test further the hypothesis of an interaction between precipitation and EW index when predicting fertilization mode.
+```{r}
+lmPrecipVWest = lm(myPlantAtPrecip ~ EW.Index, data=df)
+summary(lmPrecipVWest)
+plot(df$EW.Index, df$myPlantAtPrecip)
+abline(lmPrecipVWest)
+```
+We see that westness and precipitation are positively correlated in this dataset, as could be predicted from knowledge of British weather.
+
+Now we form a an interaction model. 
+```{r}
+lmInt = lm(myFertGen ~ EW.Index * myPlantAtPrecip, data = df)
+lmInt
+
+lmIntNumeric = lm(as.numeric(myFertGen) ~ EW.Index * myPlantAtPrecip, data = df)
+summary(lmIntNumeric)
+```
+
